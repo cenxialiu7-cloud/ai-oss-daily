@@ -131,6 +131,28 @@ section.block { margin: 38px 0; }
 .promo .affiliate .badge { margin-left: 2px; }
 .adsterra { margin: 22px 0; text-align: center; }
 
+/* Subscribe block */
+.subscribe {
+  margin: 34px 0; padding: 26px 24px; border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: linear-gradient(135deg, rgba(91,157,255,.10), rgba(56,224,176,.06));
+}
+.subscribe h2 { margin: 0 0 6px; font-size: 1.3rem; }
+.subscribe .sub-desc { color: var(--fg-dim); margin: 0 0 16px; max-width: 640px; }
+.sub-email { display: flex; gap: 10px; flex-wrap: wrap; max-width: 480px; }
+.sub-email input[type=email] {
+  flex: 1 1 220px; min-width: 0; padding: 10px 14px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--bg-soft); color: var(--fg); font-size: .95rem;
+}
+.sub-email input[type=email]:focus { outline: none; border-color: var(--accent); }
+.sub-hint { color: var(--fg-faint); font-size: .8rem; margin: 8px 0 0; }
+.sub-channels { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 16px; }
+.sub-channels .btn { font-weight: 600; }
+.btn.sub-telegram { border-color: rgba(91,157,255,.5); color: #7fb6ff; }
+.btn.sub-line { border-color: rgba(56,224,176,.5); color: var(--accent-2); }
+.btn.sub-whatsapp { border-color: rgba(56,224,176,.4); }
+.btn.sub-wechat { border-color: rgba(56,224,176,.4); }
+
 /* Footer */
 .site-footer { border-top: 1px solid var(--border); margin-top: 56px; padding: 32px 0 48px; color: var(--fg-dim); font-size: .88rem; }
 .site-footer .cols { display: flex; gap: 28px; flex-wrap: wrap; justify-content: space-between; }
