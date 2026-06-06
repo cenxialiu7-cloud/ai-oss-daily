@@ -120,6 +120,20 @@ section.block { margin: 38px 0; }
 .diff-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .diff-pill { font-size: .85rem; color: var(--fg-dim); border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; }
 
+/* Ad slots */
+.adslot { margin: 22px 0; text-align: center; }
+.adslot .ad-label {
+  display: block; font-size: .68rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--fg-faint); margin-bottom: 4px;
+}
+.adslot .adframe { max-width: 100%; }
+.sponsored { margin: 18px 0; text-align: center; }
+.sponsored .spon-link {
+  display: inline-block; font-size: .82rem; color: var(--fg-dim);
+  border: 1px dashed var(--border); border-radius: 999px; padding: 6px 16px;
+}
+.sponsored .spon-link:hover { color: var(--fg); text-decoration: none; }
+
 /* Ad / affiliate slot */
 .promo { margin: 26px 0; }
 .promo .affiliate {
