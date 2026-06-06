@@ -1,0 +1,34 @@
+# 🧠 LLM 模型／權重
+
+- [Liquid LFM2.5-8B-A1B（MoE 模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/) — Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。
+- [MiniCPM5-1B（端側小鋼炮）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/) — 面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。
+- [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
+- [DeepSeek-V4-Pro（大型語言模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/) — DeepSeek 系列的大型語言模型(text-generation)，下載量近 600 萬居 AI 基礎堆疊前段。
+- [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
+- [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
+- [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
+- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
+- [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
+- [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
+- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-amphora-researchmath-14k/) — ResearchMath 數學研究問答資料集（14k 筆）。
+- [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reasoncore-open-spatial-reasoning/) — 開放空間推理基準資料集（CC-BY）。
+- [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
+- [froggeric/Qwen-Fixed-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-froggeric-qwen-fixed-chat-templates/) — 修正過的 Qwen 對話模板（MLX／jinja）。
+- [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
+- [nvidia/Nemotron-Personas-Korea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-korea/) — NVIDIA Nemotron 韓語人設(persona)資料集。
+- [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-actava-chi-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [GD-ML/TransitLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gd-ml-transitlm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-causallm-kingfall-roleplay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alienkevin-swe-zero-12m-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [oliviazzzu/minimal-embodiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oliviazzzu-minimal-embodiment/) — 讓大型語言模型具備閉環物理實體和自我感知迴圈的最小硬體軟體架構。
+- [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roneneldan-tinystories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mikeee-qwen-7b-chat/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/czg1225-dmax/) — DMax：一種加速大規模語言模型的平行解碼技術。
+- [Modotte/CodeX-2M-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-modotte-codex-2m-thinking/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [livehl/aimirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livehl-aimirror/) — 加速Docker等多種平臺下載的智慧快取代理工具。

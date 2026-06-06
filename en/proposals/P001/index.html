@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 短影音工廠（批量產內容 → 流量變現） — AI OSS Daily</title>
+<meta name="description" content="一句話腳本 → 自動產出帶配音、配樂、封面的成品短影音，規模化經營流量帳號。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P001/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P001/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P001/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 短影音工廠（批量產內容 → 流量變現） — AI OSS Daily">
+<meta property="og:description" content="一句話腳本 → 自動產出帶配音、配樂、封面的成品短影音，規模化經營流量帳號。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P001/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 短影音工廠（批量產內容 → 流量變現） — AI OSS Daily">
+<meta name="twitter:description" content="一句話腳本 → 自動產出帶配音、配樂、封面的成品短影音，規模化經營流量帳號。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 短影音工廠（批量產內容 → 流量變現）", "description": "一句話腳本 → 自動產出帶配音、配樂、封面的成品短影音，規模化經營流量帳號。", "datePublished": "2026-05-31T08:00:00+00:00", "dateModified": "2026-05-31T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-05-31/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/en/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P001/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P001</p>
+  <h1>AI 短影音工廠（批量產內容 → 流量變現）</h1>
+  <p class="detail-lead">一句話腳本 → 自動產出帶配音、配樂、封面的成品短影音，規模化經營流量帳號。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">2–3 週做出能跑的 pipeline；難點在剪接串接與發佈自動化，模型都現成。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①自營 TikTok/Reels/Shorts 帳號衝流量，影片描述掛 VPN affiliate（NordVPN/Surfshark）②代製接案 ③模板/prompt 包販售。符合『次收入用 Adsterra』，廣告只放網頁端。</p></div>
+  <div class="panel"><h2>How it works</h2><p>選題 agent 產腳本 → Sulphur-2 生影片片段 → supertonic 配旁白 → stable-audio-3 配樂 → Lens 生封面 → 自動剪接上字幕 → 排程發佈。lanshu kit 提供現成 prompt 庫加速。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card ">
+  <h3><a href="/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/">SulphurAI/Sulphur-2-base</a></h3>
+<p class="summary">text-to-video · diffusers, gguf, text-to-video</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 影音製作</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card ">
+  <h3><a href="/ai-oss-daily/en/p/model-supertone-supertonic-3/">Supertone/supertonic-3</a></h3>
+<p class="summary">text-to-speech · supertonic, onnx, text-to-speech</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 影音製作</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card ">
+  <h3><a href="/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/">stabilityai/stable-audio-3-medium</a></h3>
+<p class="summary">text-to-audio · stable-audio-3, safetensors, audio-generation</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 影音製作</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card ">
+  <h3><a href="/ai-oss-daily/en/p/model-microsoft-lens/">microsoft/Lens</a></h3>
+<p class="summary">text-to-image · diffusers, safetensors, text-to-image</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 影音製作</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card ">
+  <h3><a href="/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/">cclank/lanshu-awesome-ai-video-kit</a></h3>
+<p class="summary">做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 影音製作</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 248</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

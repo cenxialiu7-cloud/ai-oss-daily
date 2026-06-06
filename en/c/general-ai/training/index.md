@@ -1,0 +1,16 @@
+# 🏋️ 訓練／微調
+
+- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
+- [Onise/Qwen-Image-Edit-2509-LoRAs-Fast2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-onise-qwen-image-edit-2509-loras-fast2/) — · gradio, mcp-server, region:us
+- [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
+- [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
+- [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
+- [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
+- [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
+- [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
+- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
+- [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matthewk78-rose/) — 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradi…
+- [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hlpun-train-in-silence/) — The first Task-Aware MCP server and automated VRAM calculator for LLM fine-tuning. Instantly snipe the cheape…
+- [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.
+- [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
+- [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shlokchorge-fine-tuning-qwen2vl/) — Fine-tuned Qwen2-VL-7B for LaTeX OCR using LoRA and Unsloth on the LaTeX OCR dataset. Built augmentation pipe…

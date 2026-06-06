@@ -1,0 +1,56 @@
+# AI 開源日報
+
+> 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
+
+每日更新的 AI/LLM 開源情報。最後更新 2026-06-03 22:16 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+
+## 分類中樞 Categories
+- [🎬 影音製作](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/media-creation/)
+- [💰 投資理財](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/fintech-invest/)
+- [🚀 賺錢方法](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/make-money/)
+- [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
+
+## 最新每日存檔 Daily
+- [2026-06-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-03/)
+- [2026-06-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-02/)
+- [2026-06-01](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-01/)
+- [2026-05-31](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-05-31/)
+- [2026-05-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-05-30/)
+
+## 今日精選 Today's picks
+- [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/)
+- [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/)
+- [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/)
+- [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/)
+- [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/)
+- [Liquid LFM2.5-8B-A1B（MoE 模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/)
+- [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/)
+- [Microsoft Lens（文字生成圖像）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/)
+- [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/)
+- [MiniCPM5-1B（端側小鋼炮）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/)
+- [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/)
+- [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/)
+- [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/)
+- [DeepSeek-V4-Pro（大型語言模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/)
+- [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/)
+- [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/)
+- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/)
+- [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/)
+- [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/)
+- [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/)
+- [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/)
+- [Qwen3.6-27B（通義千問大模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-6-27b/)
+- [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/)
+- [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/)
+- [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/)
+
+## AI 組合企劃 Build ideas
+- [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
+- [GEO 內容帝國（搶 AI 搜尋流量）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P002/)
+- [本機隱私版・可視化交易研究台（Mac App）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P003/)
+- [Podcast/會議 → 帶人名逐字稿 + 多語配音 SaaS](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P004/)
+- [本機數位人口播短影音工廠（真人感口播帳號）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P005/)
+- [隱私版・本機文件智能 App（Mac，發票/合約/名片秒抽欄位）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P006/)
+- [Claude Skill 策展包 + 本機 Skill 管理器（吃 skill 生態爆發紅利）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P007/)
+- [3D 電商素材工廠（一張商品照 → 3D 旋轉圖 + 展示影片）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P008/)
+- [OSS Radar 內容飛輪（把這個專案本身變成變現網站）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P009/)

@@ -1,0 +1,62 @@
+# 🚀 賺錢方法
+
+- [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jdevalk-specification-website/) — 網站規格標準：HTML、無障礙、安全、SEO、agent 可讀性（Yoast 創辦人作品）。
+- [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepakness-google-ai-search-optimization/) — 依 Google 指引做 AI Overviews／AI Mode／SEO 稽核的 agent skill。
+- [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
+- [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
+- [claude-skills（全網站生命週期技能包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rampstackco-claude-skills/) — 與技術棧無關的 Claude Skills，涵蓋品牌、設計、內容到上線的完整網站生命週期。
+- [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
+- [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
+- [daisy-engine（AI 編排平台）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daisy-workflow-daisy-engine/) — AI 編排(orchestration)平台。
+- [AI 商業行銷技能包（雙語）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minhnv0807-ai-business-skills/) — 63 個雙語(越南/全球) AI 行銷技能，支援 Claude Code、OpenCode、Codex 等。
+- [NotFair（行銷用 Claude Code Skills 合集）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nowork-studio-notfair/) — 開源 Claude Code 技能包，涵蓋 SEO、GEO、Google Ads、Meta 廣告(2,705★)。
+- [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eugeniughelbur-obsidian-second-brain/) — 跨 CLI 的 Obsidian skill，把你的筆記庫變成 AI 第二大腦。
+- [TempestQueenGlow/N8N-AI-Automation-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tempestqueenglow-n8n-ai-automation-cracked/) — （破解誘餌）n8n 本身就免費開源，此為盜版包 — 勿用。
+- [openmelon（多模態內容創作 runtime）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-openmelon/) — 可重現的多模態內容創作 agent 執行環境。
+- [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongxinsuperman-ai-phone/) — 三端真機 AI 自動化中台（手機自動化）。
+- [Agentic SEO（by Addy Osmani）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agentic-seo/) — Google 工程師 Addy Osmani 的 agentic SEO / AEO 工具。
+- [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergebulaev-linkedin-skills/) — LinkedIn 成長的 Claude skills：寫像真人的貼文與會被注意的留言。
+- [superseo-skills（11 個 SEO 技能）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inhouseseo-superseo-skills/) — 11 個給 Claude 用的 SEO 技能：頁面稽核、外鏈建立、文章撰寫。
+- [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dottedsign-official-dottedsign-mcp/) — DottedSign MCP server，讓 AI 助手管理電子簽署任務。
+- [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。
+- [rediumvex/social-media-caption-generator-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-social-media-caption-generator-claude/) — 社群文案產生器 Claude skill：文字/腳本/截圖轉成貼文。
+- [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
+- [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zubair-trabzada-ai-marketing-claude/) — Claude Code 的 AI 行銷套件：15 個 skill＋平行子代理稽核網站。
+- [Affitor/affiliate-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/affitor-affiliate-skills/) — 50 個聯盟行銷 agent skill：研究熱門內容、寫有數據根據的貼文。
+- [axnoller32/AntiDetect-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axnoller32-antidetect-26/) — （灰色工具）多開瀏覽器指紋防偵測＋免費代理＋AI — 用途敏感，請謹慎。
+- [every-app/open-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/every-app-open-seo/) — 開源版 Semrush／Ahrefs（SEO 工具）。
+- [gbessoni/seobuild-onpage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gbessoni-seobuild-onpage/) — AI agent 一鍵寫出「Google 排名且被 LLM 引用」的頁面。
+- [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
+- [deskive/deskive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deskive-deskive/) — 開源工作協作平台：聊天/視訊/專案/檔案/行事曆。
+- [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-seo/) — Claude Code 通用 SEO skill：25 子技能＋18 子代理，涵蓋技術 SEO。
+- [markus-global/markus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markus-global-markus/) — 不是又一個 agent 框架，而是「AI 勞動力的作業系統」，自主 agent 協作。
+- [onvoyage-ai/gtm-engineer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onvoyage-ai-gtm-engineer-skills/) — 改善網站 AEO／GEO（AI/生成式引擎優化）的 Claude Code skill。
+- [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。
+- [ScrapingBee/n8n-no-code-web-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scrapingbee-n8n-no-code-web-scraper/) — 用 n8n＋ScrapingBee 的無碼網頁爬蟲，做 AI 資料抽取與自動化。
+- [Bhanunamikaze/Agentic-SEO-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bhanunamikaze-agentic-seo-skill/) — LLM 優先的 SEO 分析 skill（Antigravity/Codex/Claude，16 子技能）。
+- [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/absolutelyskilled-absolutelyskilled/) — 全球精選 AI Skills 清單。
+- [thearnavrustagi/marketmenow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thearnavrustagi-marketmenow/) — 給新創的 agentic 對外行銷自動化。
+- [momotech/LinkWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/momotech-linkwork/) — 開源企業 AI 勞動力平台：容器化角色、宣告式 skill、MCP 工具。
+- [kostja94/marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kostja94-marketing-skills/) — 行銷 agent skills：SEO/社群/網紅，160+ 個開源 skill。
+- [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mergisi-awesome-openclaw-agents/) — 162 個可直接用的 OpenClaw AI agent 模板（19 類 SOUL.md 設定）。
+- [AgriciDaniel/claude-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-blog/) — Claude Code 部落格 skill 套件：30 子技能、5 agent、交付合約流程。
+- [ArchieIndian/openclaw-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archieindian-openclaw-superpowers/) — OpenClaw 自我學習的 AI 代理程式，具備排程、安全防護等功能。
+- [imgompanda/fireauto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgompanda-fireauto/) — Claude Code 自動化外掛（韓）：SEO/安全/團隊 agent/PRD/Reddit 研究一鍵化。
+- [Auriti-Labs/geo-optimizer-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/auriti-labs-geo-optimizer-skill/) — GEO 生成式引擎優化工具包：稽核、優化、讓網站被 AI 引擎引用。
+- [spacesdrive/twiligent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spacesdrive-twiligent/) — 本地機器上的社交媒體統計工具，無需訂閱或資料共享。
+- [Xquik-dev/x-twitter-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xquik-dev-x-twitter-scraper/) — Twitter 爬蟲 API skill：推文搜尋、進階搜尋、個人檔案、追蹤者。
+- [prncexe/chronex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prncexe-chronex/) — 跨平臺社交媒體排程工具，支援分散式工作處理和OAuth整合。
+- [LensmorOfficial/trade-show-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lensmorofficial-trade-show-skills/) — 貿易展覽會規劃的 AI 自動化工具，涵蓋選址、預算等。
+- [s87343472/backlink-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/s87343472-backlink-pilot/) — 自動提交回鏈工具，適用於獨立開發者和產品宣傳。
+- [citedy/adclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citedy-adclaw/) — 開源多 agent AI 行銷團隊：人設、共享記憶、130+ skill。
+- [keysersoose/claude-agent-builder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keysersoose-claude-agent-builder/) — 從自然語言構建生產級 AI 機器人，自動化工作流程和技能配置。
+- [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmaneblial-awesome-openclaw-examples/) — OpenClaw實用範例集合，包括可執行指令碼和提示。
+- [greekr4/viruagent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greekr4-viruagent-cli/) — 基於AI代理的CLI工具，自動化部落格、Instagram等平臺的釋出。
+- [danishashko/geo-aeo-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/danishashko-geo-aeo-tracker/) — 開源AI視覺智慧儀錶板，追蹤品牌在六種AI模型中的表現。
+- [nicepkg/auto-company](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicepkg-auto-company/) — 完全自動化的人工智慧公司，24/7執行，由14個AI代理人管理，無需人類介入。
+- [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。
+- [geo-team-red/geo-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geo-team-red-geo-optimizer/) — 用於生成引擎最佳化的可擴充套件框架，支援自定義策略。
+- [jonit-dev/night-watch-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jonit-dev-night-watch-cli/) — 自動化程式碼審查的 AI 值班助手，可在夜間提交 PR。
+- [saurabhsharma2u/search-console-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhsharma2u-search-console-mcp/) — 為 Google 搜尋控制台、Bing 網站管理員工具等設計的資料伺服器，適用於 AI 代理人自動化。
+- [malikad778/nexus-inventory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malikad778-nexus-inventory/) — 連線Shopify、WooCommerce等多渠道的庫存同步Laravel套件。
+- [clawdata/clawdata](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/clawdata-clawdata/) — 個人化的OpenClaw資料工程師，提供自動化分析功能
