@@ -4,5 +4,5 @@ Convert plain English trading ideas into bug-free, backtest-ready PineScript V5 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：24
+**Stars**：25
 **Source**：https://github.com/Rezzecup/gpt4-pinescript-v5-strategy-generator

@@ -9,3 +9,4 @@
 - [Claude Skill 策展包 + 本機 Skill 管理器（吃 skill 生態爆發紅利）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P007/) — OSS Radar 每天幫你挑出爆紅的 Claude/OpenClaw skill，你品質篩選+繁中化打包成主題包賣，並配一個本機管理 App。
 - [3D 電商素材工廠（一張商品照 → 3D 旋轉圖 + 展示影片）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P008/) — 賣家上傳一張商品照，自動產出可旋轉 3D 模型與展示短影片，做電商/AR 素材。
 - [OSS Radar 內容飛輪（把這個專案本身變成變現網站）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P009/) — 把 OSS Radar 每天產出的中文 AI 開源情報，自動發成雙語內容網站＋電子報，搶 AI 搜尋流量。
+- [AI 量化訊號台 ＋ 陪跑社群（把今日爆紅的 agentic 交易棧變訂閱服務）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P010/) — 用開源 agentic 量化棧每天跑出選股/進出場訊號＋多 agent 辯論解讀，做成付費電子報與 Telegram 訊號社群。

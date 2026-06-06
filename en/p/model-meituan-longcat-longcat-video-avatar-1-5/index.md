@@ -1,6 +1,6 @@
 # meituan-longcat/LongCat-Video-Avatar-1.5
 
-· diffusers, onnx, safetensors
+· longcat-video-avatar-1.5, onnx, diffusers
 
 **Key features**
 

@@ -2,7 +2,7 @@
 
 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 
-**為何上榜**：HF trending 195 · 205 likes · 4,829 下載
+**為何上榜**：HF trending 141 · 254 likes · 8,365 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

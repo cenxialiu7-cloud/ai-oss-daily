@@ -4,5 +4,5 @@ Memory that remembers the story not just the facts. Three layer  sentence graph 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：121
+**Stars**：122
 **Source**：https://github.com/vektori-ai/vektori

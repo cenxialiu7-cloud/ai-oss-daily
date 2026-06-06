@@ -4,215 +4,215 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<entry>
+<title>ideogram-ai/ideogram-4-fp8</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>文字轉影像模型，使用擴散和流匹配技術生成影像。</summary>
+</entry>
 <entry>
 <title>Sulphur-2（文字生成影片模型）</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。</summary>
+</entry>
+<entry>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>將文本轉換為語音的合成器。</summary>
 </entry>
 <entry>
 <title>MOSS-TTS v1.5（開源語音合成）</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</summary>
+</entry>
+<entry>
+<title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>即時語音識別系統，支援多語言。</summary>
+</entry>
+<entry>
+<title>google/magenta-realtime-2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>文字轉語音模型，適用於即時應用。</summary>
 </entry>
 <entry>
 <title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
-</entry>
-<entry>
-<title>Supertonic-3（語音合成 TTS）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。</summary>
 </entry>
 <entry>
 <title>nvidia/Cosmos3-Super-Text2Image</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。</summary>
 </entry>
 <entry>
-<title>Liquid LFM2.5-8B-A1B（MoE 模型）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。</summary>
+<title>unsloth/gemma-4-12b-it-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>將影像和文本轉換為文本的模型。</summary>
+</entry>
+<entry>
+<title>MisoLabs/MisoTTS</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>將文本轉換成自然語音的合成器。</summary>
+</entry>
+<entry>
+<title>Supertonic-3（語音合成 TTS）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。</summary>
+</entry>
+<entry>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 <entry>
 <title>nvidia/Cosmos3-Super-Image2Video</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。</summary>
-</entry>
-<entry>
-<title>Microsoft Lens（文字生成圖像）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>微軟釋出的文生圖擴散模型，另有 Lens-Turbo 加速版（pipeline: text-to-image）。</summary>
-</entry>
-<entry>
-<title>nvidia/PiD</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>NVIDIA 的圖像轉圖像生成模型（diffusers）。</summary>
-</entry>
-<entry>
-<title>MiniCPM5-1B（端側小鋼炮）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。</summary>
 </entry>
 <entry>
 <title>nvidia/Qwen3.6-35B-A3B-NVFP4</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。</summary>
+</entry>
+<entry>
+<title>Microsoft Lens（文字生成圖像）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>微軟釋出的文生圖擴散模型，另有 Lens-Turbo 加速版（pipeline: text-to-image）。</summary>
+</entry>
+<entry>
+<title>Liquid LFM2.5-8B-A1B（MoE 模型）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。</summary>
+</entry>
+<entry>
+<title>google/gemma-4-12B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>多功能模型，支援各種資料型別之間的轉換。</summary>
+</entry>
+<entry>
+<title>nvidia/PiD</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>NVIDIA 的圖像轉圖像生成模型（diffusers）。</summary>
 </entry>
 <entry>
 <title>prism-ml/bonsai-image-ternary-4B-gemlite-2bit</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。</summary>
 </entry>
 <entry>
 <title>baidu/NAVA</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>百度 NAVA 文字／圖像生成影片模型（TI2V）。</summary>
-</entry>
-<entry>
-<title>DeepSeek-V4-Pro（大型語言模型）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>DeepSeek 系列的大型語言模型(text-generation)，下載量近 600 萬居 AI 基礎堆疊前段。</summary>
-</entry>
-<entry>
-<title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。</summary>
-</entry>
-<entry>
-<title>Unsloth 版 Qwen3.6-27B（GGUF 量化）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。</summary>
-</entry>
-<entry>
-<title>openbmb/UltraData-SFT-2605</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>面壁 UltraData 監督微調(SFT)資料集（文字生成／問答）。</summary>
-</entry>
-<entry>
-<title>stepfun-ai/Step-3.7-Flash</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。</summary>
-</entry>
-<entry>
-<title>tencent/Hy-MT2-1.8B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。</summary>
 </entry>
 <entry>
 <title>HRM-Text-1B（階層推理模型）</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。</summary>
 </entry>
 <entry>
-<title>PaddlePaddle/PaddleOCR-VL-1.6</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>百度 PaddleOCR-VL 視覺語言 OCR 模型。</summary>
+<title>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。</summary>
 </entry>
 <entry>
-<title>Qwen3.6-27B（通義千問大模型）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-6-27b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-6-27b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>阿里 Qwen 系列大模型，下載量近 500 萬，中文社群採用度極高。</summary>
+<title>DeepSeek-V4-Pro（大型語言模型）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>DeepSeek 系列的大型語言模型(text-generation)，下載量近 600 萬居 AI 基礎堆疊前段。</summary>
 </entry>
 <entry>
-<title>LongCat 數位人影片(美團)</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。</summary>
+<title>MiniCPM5-1B（端側小鋼炮）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。</summary>
+</entry>
+<entry>
+<title>Unsloth 版 Qwen3.6-27B（GGUF 量化）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。</summary>
+</entry>
+<entry>
+<title>stepfun-ai/Step-3.7-Flash</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。</summary>
 </entry>
 <entry>
 <title>JetBrains/Mellum2-12B-A2.5B-Thinking</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
+<updated>2026-06-06T08:00:00+00:00</updated>
 <summary>JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。</summary>
 </entry>
 <entry>
-<title>bytedance-research/Lance</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。</summary>
+<title>nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>文本生成模型，適用於多種場景。</summary>
 </entry>
 <entry>
-<title>webml-community/bonsai-image-webgpu</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-bonsai-image-webgpu/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-bonsai-image-webgpu/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>在瀏覽器用 WebGPU 跑的文生圖示範（HF Space）。</summary>
+<title>tencent/Hy-MT2-1.8B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。</summary>
 </entry>
 <entry>
-<title>tencent/Hy-MT2-30B-A3B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。</summary>
-</entry>
-<entry>
-<title>OBLITERATUS/Qwen3.6-27B-OBLITERATED</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>Qwen3.6-27B 的去拒答(abliterated)版本。</summary>
-</entry>
-<entry>
-<title>jasperai/monet</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>Jasper monet 文生圖／影像特徵抽取資料集。</summary>
-</entry>
-<entry>
-<title>pyannote 語者分離 3.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/</id>
-<updated>2026-06-03T08:00:00+00:00</updated>
-<summary>業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。</summary>
+<title>PaddlePaddle/PaddleOCR-VL-1.6</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/</id>
+<updated>2026-06-06T08:00:00+00:00</updated>
+<summary>百度 PaddleOCR-VL 視覺語言 OCR 模型。</summary>
 </entry>
 </feed>

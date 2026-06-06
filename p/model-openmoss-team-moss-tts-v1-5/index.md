@@ -2,7 +2,7 @@
 
 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 
-**為何上榜**：HF trending 85 · 131 likes · 23,987 下載
+**為何上榜**：HF trending 82 · 156 likes · 36,775 下載
 
 **主要功能**
 

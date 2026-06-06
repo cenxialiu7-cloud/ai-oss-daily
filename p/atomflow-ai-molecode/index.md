@@ -1,0 +1,10 @@
+# AtomFlow-AI/MoleCode
+
+Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
+
+**為何上榜**：近期新建立，已獲 136★
+
+**商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：136
+**原始連結**：https://github.com/AtomFlow-AI/MoleCode

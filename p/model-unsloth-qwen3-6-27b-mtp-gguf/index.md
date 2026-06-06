@@ -2,7 +2,7 @@
 
 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 
-**為何上榜**：HF trending 101 · 619 likes · 1,016,595 下載
+**為何上榜**：HF trending 101 · 671 likes · 1,122,805 下載
 
 **主要功能**
 

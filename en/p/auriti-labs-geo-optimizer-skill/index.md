@@ -4,5 +4,5 @@ GEO (Generative Engine Optimization) toolkit — audit, optimize, and make websi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：453
+**Stars**：458
 **Source**：https://github.com/Auriti-Labs/geo-optimizer-skill

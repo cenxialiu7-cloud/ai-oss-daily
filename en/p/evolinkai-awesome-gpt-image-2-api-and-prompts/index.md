@@ -11,5 +11,5 @@ GPT-Image-2 API and Prompts
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：15,925
+**Stars**：16,050
 **Source**：https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
