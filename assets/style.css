@@ -167,6 +167,10 @@ section.block { margin: 38px 0; }
 .btn.sub-line { border-color: rgba(56,224,176,.5); color: var(--accent-2); }
 .btn.sub-whatsapp { border-color: rgba(56,224,176,.4); }
 .btn.sub-wechat { border-color: rgba(56,224,176,.4); }
+.sub-qrs { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 16px; }
+.sub-qrs .qr { margin: 0; text-align: center; }
+.sub-qrs .qr img { display: block; background: #fff; padding: 8px; border-radius: 10px; width: 132px; height: 132px; }
+.sub-qrs .qr figcaption { color: var(--fg-dim); font-size: .78rem; margin-top: 6px; }
 
 /* Footer */
 .site-footer { border-top: 1px solid var(--border); margin-top: 56px; padding: 32px 0 48px; color: var(--fg-dim); font-size: .88rem; }
