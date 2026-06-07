@@ -6,6 +6,20 @@
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
 <updated>2026-06-07T08:00:00+00:00</updated>
 <entry>
+<title>BillLucky/echocut</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/</id>
+<updated>2026-06-07T08:00:00+00:00</updated>
+<summary>將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。</summary>
+</entry>
+<entry>
+<title>AxiomicLabs/Open_SLM_Leaderboard</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/</id>
+<updated>2026-06-07T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+</entry>
+<entry>
 <title>Leonxlnx/taste-skill</title>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</id>
@@ -53,19 +67,5 @@
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/</id>
 <updated>2026-06-07T08:00:00+00:00</updated>
 <summary>NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。</summary>
-</entry>
-<entry>
-<title>Microsoft Lens（文字生成圖像）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/</id>
-<updated>2026-06-07T08:00:00+00:00</updated>
-<summary>微軟釋出的文生圖擴散模型，另有 Lens-Turbo 加速版（pipeline: text-to-image）。</summary>
-</entry>
-<entry>
-<title>nvidia/Qwen3.6-35B-A3B-NVFP4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/</id>
-<updated>2026-06-07T08:00:00+00:00</updated>
-<summary>NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。</summary>
 </entry>
 </feed>

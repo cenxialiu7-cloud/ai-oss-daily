@@ -8,6 +8,20 @@
 <language>zh-Hant</language>
 <lastBuildDate>07 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
+<title>BillLucky/echocut</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/</guid>
+<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
+<description>將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。</description>
+</item>
+<item>
+<title>AxiomicLabs/Open_SLM_Leaderboard</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/</guid>
+<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+</item>
+<item>
 <title>Leonxlnx/taste-skill</title>
 <link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
@@ -55,20 +69,6 @@
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/</guid>
 <pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
 <description>NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。</description>
-</item>
-<item>
-<title>Microsoft Lens（文字生成圖像）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/</guid>
-<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>微軟釋出的文生圖擴散模型，另有 Lens-Turbo 加速版（pipeline: text-to-image）。</description>
-</item>
-<item>
-<title>nvidia/Qwen3.6-35B-A3B-NVFP4</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/</guid>
-<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。</description>
 </item>
 </channel>
 </rss>
