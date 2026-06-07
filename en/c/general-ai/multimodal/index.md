@@ -1,4 +1,4 @@
-# 👁️ 多模態／VLM
+# 👁️ Multimodal / VLM
 
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7

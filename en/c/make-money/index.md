@@ -1,4 +1,4 @@
-# 🚀 賺錢方法
+# 🚀 Make Money
 
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jdevalk-specification-website/) — Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.

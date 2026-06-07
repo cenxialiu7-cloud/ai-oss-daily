@@ -1,4 +1,4 @@
-# 📚 RAG／檢索／向量庫
+# 📚 RAG / Retrieval / Vector DB
 
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
 - [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safishamsi-graphify/) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of co…

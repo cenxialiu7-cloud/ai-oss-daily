@@ -1,4 +1,4 @@
-# 🛠️ AI 開發工具／MCP／SDK
+# 🛠️ AI Dev Tools / MCP / SDK
 
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us

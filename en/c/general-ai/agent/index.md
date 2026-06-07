@@ -1,4 +1,4 @@
-# 🤖 Agent 框架／編排
+# 🤖 Agent Frameworks / Orchestration
 
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jedisct1-mimo-v2-5-coder-q2/) — text-generation · llama.cpp, gguf, text-generation
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us

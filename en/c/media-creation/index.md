@@ -1,4 +1,4 @@
-# 🎬 影音製作
+# 🎬 Media Creation
 
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, gguf, text-to-video

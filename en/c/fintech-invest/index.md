@@ -1,4 +1,4 @@
-# 💰 投資理財
+# 💰 Fintech & Investing
 
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…

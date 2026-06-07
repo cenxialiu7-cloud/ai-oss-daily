@@ -1,4 +1,4 @@
-# 🏋️ 訓練／微調
+# 🏋️ Training / Fine-tuning
 
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [Onise/Qwen-Image-Edit-2509-LoRAs-Fast2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-onise-qwen-image-edit-2509-loras-fast2/) — · gradio, mcp-server, region:us

@@ -1,4 +1,4 @@
-# 📊 評估／可觀測／安全
+# 📊 Eval / Observability / Safety
 
 - [openai/gsm8k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gsm8k/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
