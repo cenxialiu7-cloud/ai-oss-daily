@@ -646,4 +646,4 @@ _每日存檔 · 2026-06-03_
 - [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shlokchorge-fine-tuning-qwen2vl/) — 使用LoRA和Unsloth對Qwen2-VL-7B進行微調，以改善LaTeX OCR效能。
 - [techlab-innov/llmtrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techlab-innov-llmtrace/) — 無程式碼LLM安全與監控代理，即時檢測提示注入、掃描PII並控制成本。
 - [Agnuxo1/openclaw-seed](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agnuxo1-openclaw-seed/) — 自動自我演化的研究代理，使用LoRA微調技術不斷改進。
-- [ghost/dropped-A](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ghost-dropped-a/) — 變現／行銷自動化相關 AI（依標籤自動歸類，詳細看下方原文）
+- [ghost/dropped-A](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ghost-dropped-a/) — 無描述

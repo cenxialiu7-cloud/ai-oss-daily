@@ -2,6 +2,7 @@
 
 Delivery is being set up — support on Ko-fi and you'll be notified first.
 
+- [2026-06-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-06-07/)
 - [2026-06-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-06-06/)
 - [2026-06-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-06-03/)
 - [2026-06-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-06-02/)

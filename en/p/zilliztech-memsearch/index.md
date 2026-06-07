@@ -4,5 +4,5 @@ A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Cod
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,919
+**Stars**：1,921
 **Source**：https://github.com/zilliztech/memsearch

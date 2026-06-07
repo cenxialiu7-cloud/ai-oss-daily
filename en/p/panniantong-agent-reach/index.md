@@ -4,5 +4,5 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：22,194
+**Stars**：22,328
 **Source**：https://github.com/Panniantong/Agent-Reach
