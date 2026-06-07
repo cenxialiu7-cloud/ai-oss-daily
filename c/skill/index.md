@@ -1,0 +1,62 @@
+# 🧩 Agent Skills
+
+- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
+- [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
+- [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [Lum1104/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lum1104-understand-anything/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvk-llm-wiki/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — AI Agent Skill（技能包），關鍵字：自動化（依標籤自動歸類，詳細看下方原文）
+- [NotFair（行銷用 Claude Code Skills 合集）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nowork-studio-notfair/) — 開源 Claude Code 技能包，涵蓋 SEO、GEO、Google Ads、Meta 廣告(2,705★)。
+- [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nidhinjs-prompt-master/) — 一個為任何 AI 工具生成精確提示的技能，確保零浪費。
+- [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — AI Agent Skill（技能包），關鍵字：Claude、嵌入、RAG（依標籤自動歸類，詳細看下方原文）
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-oh-my-openagent/) — AI Agent Skill（技能包），關鍵字：Claude、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [wshobson/agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-agents/) — AI Agent Skill（技能包），關鍵字：agent、自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanocoai-nanoclaw/) — 輕量級的 OpenClaw 替代方案，安全執行在容器中。
+- [Spirizeon/agentic-aeo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spirizeon-agentic-aeo-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eigent-ai-eigent/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — AI Agent Skill（技能包），關鍵字：自動化、MCP、OCR（依標籤自動歸類，詳細看下方原文）
+- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aden-hive-hive/) — AI Agent Skill（技能包），關鍵字：agent、自動化、Claude（依標籤自動歸類，詳細看下方原文）
+- [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-zvec/) — AI Agent Skill（技能包），關鍵字：RAG、向量庫（依標籤自動歸類，詳細看下方原文）
+- [doncheli/don-cheli-sdd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/doncheli-don-cheli-sdd/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [Orchestra-Research/AI-Research-SKILLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orchestra-research-ai-research-skills/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [ilang-ai/autocode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ilang-ai-autocode/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [VideoZero/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/videozero-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [deanpeters/Product-Manager-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deanpeters-product-manager-skills/) — 基於 AI 代理的產品管理技能框架。
+- [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [antfu/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/antfu-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davepoon-buildwithclaude/) — AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulsamed1-ai-skills-bank/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-md2wechat-skill/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [rohitg00/pro-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-pro-workflow/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rlacombe-switchback-running/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [breath57/dingtalk-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breath57-dingtalk-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [yshishenya/stitchflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yshishenya-stitchflow/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [KirKruglov/claude-skills-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirkruglov-claude-skills-kit/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [guanyang/antigravity-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-antigravity-skills/) — AI Agent Skill（技能包），關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+- [alirezarezvani/alirezarezvani](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-alirezarezvani/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [averma416/consulting-gauntlet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/averma416-consulting-gauntlet/) — AI Agent Skill（技能包），關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [cyijun/agent-smith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyijun-agent-smith/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [adriangrantdotorg/Raycast-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adriangrantdotorg-raycast-skill/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/todealmarket-tdm-agentpay/) — AI Agent Skill（技能包），關鍵字：自動化、Claude（依標籤自動歸類，詳細看下方原文）
+- [HogaStack/dash-dev-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogastack-dash-dev-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [inngest/inngest-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inngest-inngest-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）

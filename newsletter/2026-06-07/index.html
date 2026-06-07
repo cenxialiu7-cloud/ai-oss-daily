@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI 開源日報 · 電子報 · 2026-06-07</title>
-<meta name="description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、Sulphur-2（文字生成影片模型）、bosonai/higgs-audio-v3-tts-4b、MOSS-TTS v1.5（開源語音合成）、nvidia/nemotron-3.5-asr-streaming-0.6b">
+<meta name="description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、bosonai/higgs-audio-v3-tts-4b、Sulphur-2（文字生成影片模型）、google/magenta-realtime-2、nvidia/nemotron-3.5-asr-streaming-0.6b">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-06-07/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-06-07/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-06-07/">
@@ -14,14 +14,14 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI 開源日報">
 <meta property="og:title" content="AI 開源日報 · 電子報 · 2026-06-07">
-<meta property="og:description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、Sulphur-2（文字生成影片模型）、bosonai/higgs-audio-v3-tts-4b、MOSS-TTS v1.5（開源語音合成）、nvidia/nemotron-3.5-asr-streaming-0.6b">
+<meta property="og:description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、bosonai/higgs-audio-v3-tts-4b、Sulphur-2（文字生成影片模型）、google/magenta-realtime-2、nvidia/nemotron-3.5-asr-streaming-0.6b">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-06-07/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="zh_TW">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="AI 開源日報 · 電子報 · 2026-06-07">
-<meta name="twitter:description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、Sulphur-2（文字生成影片模型）、bosonai/higgs-audio-v3-tts-4b、MOSS-TTS v1.5（開源語音合成）、nvidia/nemotron-3.5-asr-streaming-0.6b">
+<meta name="twitter:description" content="2026-06-07: ideogram-ai/ideogram-4-fp8、bosonai/higgs-audio-v3-tts-4b、Sulphur-2（文字生成影片模型）、google/magenta-realtime-2、nvidia/nemotron-3.5-asr-streaming-0.6b">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
 </head>
@@ -30,7 +30,7 @@
   <div class="wrap">
     <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
     <nav class="nav">
-<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/newsletter/2026-06-07/">English</a>
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/newsletter/2026-06-07/">English</a>
     </nav>
   </div>
 </header>
@@ -50,24 +50,14 @@
       <div style="color:var(--fg-dim);font-size:.92rem">文字轉影像模型，使用擴散和流匹配技術生成影像。</div>
     </li>
     <li>
-      <a href="/ai-oss-daily/p/model-sulphurai-sulphur-2-base/"><strong>Sulphur-2（文字生成影片模型）</strong></a>
-      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
-      <div style="color:var(--fg-dim);font-size:.92rem">輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。</div>
-    </li>
-    <li>
       <a href="/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"><strong>bosonai/higgs-audio-v3-tts-4b</strong></a>
       <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
       <div style="color:var(--fg-dim);font-size:.92rem">將文本轉換為語音的合成器。</div>
     </li>
     <li>
-      <a href="/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/"><strong>MOSS-TTS v1.5（開源語音合成）</strong></a>
+      <a href="/ai-oss-daily/p/model-sulphurai-sulphur-2-base/"><strong>Sulphur-2（文字生成影片模型）</strong></a>
       <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
-      <div style="color:var(--fg-dim);font-size:.92rem">復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</div>
-    </li>
-    <li>
-      <a href="/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/"><strong>nvidia/nemotron-3.5-asr-streaming-0.6b</strong></a>
-      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
-      <div style="color:var(--fg-dim);font-size:.92rem">即時語音識別系統，支援多語言。</div>
+      <div style="color:var(--fg-dim);font-size:.92rem">輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。</div>
     </li>
     <li>
       <a href="/ai-oss-daily/p/model-google-magenta-realtime-2/"><strong>google/magenta-realtime-2</strong></a>
@@ -75,14 +65,24 @@
       <div style="color:var(--fg-dim);font-size:.92rem">文字轉語音模型，適用於即時應用。</div>
     </li>
     <li>
-      <a href="/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"><strong>Stable Audio 3 Medium（文字生成音樂/音效）</strong></a>
+      <a href="/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/"><strong>nvidia/nemotron-3.5-asr-streaming-0.6b</strong></a>
       <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
-      <div style="color:var(--fg-dim);font-size:.92rem">Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</div>
+      <div style="color:var(--fg-dim);font-size:.92rem">即時語音識別系統，支援多語言。</div>
     </li>
     <li>
       <a href="/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/"><strong>nvidia/Cosmos3-Super-Text2Image</strong></a>
       <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
       <div style="color:var(--fg-dim);font-size:.92rem">NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。</div>
+    </li>
+    <li>
+      <a href="/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"><strong>Stable Audio 3 Medium（文字生成音樂/音效）</strong></a>
+      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
+      <div style="color:var(--fg-dim);font-size:.92rem">Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</div>
+    </li>
+    <li>
+      <a href="/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/"><strong>MOSS-TTS v1.5（開源語音合成）</strong></a>
+      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
+      <div style="color:var(--fg-dim);font-size:.92rem">復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</div>
     </li>
     <li>
       <a href="/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/"><strong>unsloth/gemma-4-12b-it-GGUF</strong></a>
@@ -95,14 +95,14 @@
       <div style="color:var(--fg-dim);font-size:.92rem">將文本轉換成自然語音的合成器。</div>
     </li>
     <li>
-      <a href="/ai-oss-daily/p/model-supertone-supertonic-3/"><strong>Supertonic-3（語音合成 TTS）</strong></a>
-      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
-      <div style="color:var(--fg-dim);font-size:.92rem">文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。</div>
-    </li>
-    <li>
       <a href="/ai-oss-daily/p/model-jdopensource-joyai-echo/"><strong>jdopensource/JoyAI-Echo</strong></a>
       <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
       <div style="color:var(--fg-dim);font-size:.92rem">文字轉影片生成工具，適用於長片。</div>
+    </li>
+    <li>
+      <a href="/ai-oss-daily/p/model-supertone-supertonic-3/"><strong>Supertonic-3（語音合成 TTS）</strong></a>
+      <span class="badge domain" style="margin-left:6px">🎬 影音製作</span>
+      <div style="color:var(--fg-dim);font-size:.92rem">文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。</div>
     </li>
   </ol>
   <div class="hero-cta">

@@ -8,6 +8,13 @@
 <language>zh-Hant</language>
 <lastBuildDate>07 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
+<title>microsoft/SkillOpt</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/</guid>
+<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
+<description>AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）</description>
+</item>
+<item>
 <title>BillLucky/echocut</title>
 <link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/</link>
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/</guid>
@@ -15,11 +22,25 @@
 <description>將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。</description>
 </item>
 <item>
-<title>AxiomicLabs/Open_SLM_Leaderboard</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/</guid>
+<title>ArrowMooring/ElevenLabs-Voice-Cloning-Windows</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/</guid>
 <pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<description>影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）</description>
+</item>
+<item>
+<title>StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/</guid>
+<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
+<description>影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）</description>
+</item>
+<item>
+<title>Saganaki22/Higgs_v3-TTS-ComfyUI</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/</guid>
+<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
+<description>影音製作相關 AI，關鍵字：ComfyUI、推理、語音合成（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
 <title>Leonxlnx/taste-skill</title>
@@ -36,11 +57,11 @@
 <description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>esengine/DeepSeek-Reasonix</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</guid>
+<title>rohitg00/ai-engineering-from-scratch</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/</guid>
 <pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</description>
+<description>從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。</description>
 </item>
 <item>
 <title>MisoLabs/MisoTTS</title>
@@ -48,27 +69,6 @@
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/</guid>
 <pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
 <description>將文本轉換成自然語音的合成器。</description>
-</item>
-<item>
-<title>Supertonic-3（語音合成 TTS）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/</guid>
-<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。</description>
-</item>
-<item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
-</item>
-<item>
-<title>nvidia/Cosmos3-Super-Image2Video</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/</guid>
-<pubDate>07 Jun 2026 08:00:00 +0000</pubDate>
-<description>NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。</description>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,8 @@
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [deepseek-ai/DeepSeek-V4-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-pro/) — text-generation · transformers, safetensors, deepseek_v4
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
+- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
@@ -15,8 +15,8 @@
 - [nvidia/Nemotron-Personas-El-Salvador](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-el-salvador/) — · task_categories:text-generation, language:es, license:cc-by-4.0
 - [froggeric/Qwen-Fixed-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-froggeric-qwen-fixed-chat-templates/) — · mlx, jinja, chat-template
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-qwen3-7-max-pi-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
-- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-vietnam/) — · task_categories:text-generation, language:vi, license:cc-by-4.0
+- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-servicenow-ai-eva-bench/) — · task_categories:text-generation, task_categories:other, language:en
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0

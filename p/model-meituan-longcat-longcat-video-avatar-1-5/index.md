@@ -2,7 +2,7 @@
 
 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
 
-**為何上榜**：HF trending 109 · 525 likes · 1,806 下載
+**為何上榜**：HF trending 101 · 530 likes · 1,884 下載
 
 **主要功能**
 

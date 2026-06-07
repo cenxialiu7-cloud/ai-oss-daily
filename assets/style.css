@@ -95,6 +95,8 @@ section.block { margin: 38px 0; }
 .badge.stars { color: var(--warn); }
 .badge.domain { color: var(--accent); border-color: rgba(91,157,255,.3); }
 .badge.change { align-self: flex-start; color: var(--accent-2); border-color: rgba(56,224,176,.45); background: rgba(56,224,176,.08); font-weight: 600; }
+.badge.role { color: var(--accent-2); border-color: rgba(56,224,176,.3); }
+.badge.target { color: var(--fg-dim); }
 
 /* Project detail */
 .detail-head h1 { font-size: clamp(1.5rem, 3.4vw, 2.2rem); margin: 6px 0 12px; }

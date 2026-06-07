@@ -395,7 +395,6 @@ _每日存檔 · 2026-06-02_
 - [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
-- [Bhanunamikaze/Agentic-SEO-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bhanunamikaze-agentic-seo-skill/) — LLM 優先的 SEO 分析 skill（Antigravity/Codex/Claude，16 子技能）。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [didilili/shopkeeper-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-shopkeeper-agent/) — 電商資料倉儲的智慧問答 AI 代理，結合 LangGraph、FastAPI 等技術實現自然語言生成 SQL 查詢。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
@@ -406,7 +405,6 @@ _每日存檔 · 2026-06-02_
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
 - [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/czg1225-dmax/) — DMax：一種加速大規模語言模型的平行解碼技術。
 - [quantumaikr/quant.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantumaikr-quant-cpp/) — 純C語言的LLM推論庫，支援長上下文和KV快取壓縮。
-- [Aratako/Irodori-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts/) — 一種基於流匹配的文字轉語音模型，支援表情符驅動風格控制。
 - [fancyboi999/Loomic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fancyboi999-loomic/) — 開源 AI 繪圖代理，支援聊天驅動的影像與影片生成。
 - [Correr-Zhou/OmniShow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/correr-zhou-omnishow/) — OmniShow：字節跳動用於生成人與物互動影片的一體化模型。
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -493,7 +491,6 @@ _每日存檔 · 2026-06-02_
 - [sysprog21/zhtw-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sysprog21-zhtw-mcp/) — 繁體中文語法檢查工具，協助開發者提升程式碼品質。
 - [spacesdrive/twiligent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spacesdrive-twiligent/) — 本地機器上的社交媒體統計工具，無需訂閱或資料共享。
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/askkumptenchen-agent-chat-selfie/) — 讓 AI Agent 在對話中傳送情緒自拍，並根據心情回覆。
-- [wuyoscar/ISC-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-isc-bench/) — 將大規模語言模型轉換為敏感資料生成器的安全性測試工具。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valuecell-ai-clawx/) — 提供圖形介面的OpenClaw AI代理程式，將命令列轉換為桌面體驗。
 - [kay-ou/SimTradeDesk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kay-ou-simtradedesk/) — SimTradeLab 的桌面版，為策略開發和模擬提供快速安全的本地環境。
@@ -574,7 +571,6 @@ _每日存檔 · 2026-06-02_
 - [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jjlibra-cc-pan/) — 基於通道壓縮的高效影像融合模型官方實現。
-- [geo-team-red/geo-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geo-team-red-geo-optimizer/) — 用於生成引擎最佳化的可擴充套件框架，支援自定義策略。
 - [EvoLinkAI/Awesome-Nano-Banana-2-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-nano-banana-2-prompt/) — 收集 100 多個高品質的 Nano Banana 2 影像生成提示。
 - [brontoguana/krasis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brontoguana-krasis/) — 專為消費者等級 VRAM 硬體設計的高效能大型模型執行框架。
 - [HAKORADev/VODER](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hakoradev-voder/) — 具備重現能力的語音操作與設計引擎。

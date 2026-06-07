@@ -2,8 +2,8 @@
 
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
-- [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
+- [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
@@ -23,8 +23,8 @@
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jundot-omlx/) — 適用於 Apple Silicon 的 LLM 推論伺服器，支援 macOS 選單欄管理。
 - [Kaden-Schutt/hipfire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kaden-schutt-hipfire/) — 基於 Rust 的 RDNA 原生 LLM 推論引擎。
-- [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
 - [mukel/gemma4.java](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukel-gemma4-java/) — 純 Java 實現的快速 Gemma 4 推理引擎。
+- [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
 - [Aaryan-Kapoor/ModelGate-Hackathon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aaryan-kapoor-modelgate-hackathon/) — 根據客戶合同自動生成符合OpenAI標準的AI控制端點。

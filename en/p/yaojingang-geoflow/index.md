@@ -10,5 +10,5 @@ Open-source GEO content engineering and multi-site distribution system with AI t
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,496
+**Stars**：2,502
 **Source**：https://github.com/yaojingang/GEOFlow

@@ -355,7 +355,6 @@ _每日存檔 · 2026-05-31_
 - [aiming-lab/MetaClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aiming-lab-metaclaw/) — 與 AI 代理對話，它會學習並進化。
 - [didilili/shopkeeper-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-shopkeeper-agent/) — 電商資料倉儲的智慧問答 AI 代理，結合 LangGraph、FastAPI 等技術實現自然語言生成 SQL 查詢。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
-- [Bhanunamikaze/Agentic-SEO-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bhanunamikaze-agentic-seo-skill/) — LLM 優先的 SEO 分析 skill（Antigravity/Codex/Claude，16 子技能）。
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
@@ -366,7 +365,6 @@ _每日存檔 · 2026-05-31_
 - [quantumaikr/quant.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantumaikr-quant-cpp/) — 純C語言的LLM推論庫，支援長上下文和KV快取壓縮。
 - [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/czg1225-dmax/) — DMax：一種加速大規模語言模型的平行解碼技術。
 - [jokersgrinbeewulf4/capcut-ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jokersgrinbeewulf4-capcut-ultimate/) — 解鎖 CapCut 的 4K 出口、自動字幕和專業過渡效果。
-- [Aratako/Irodori-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts/) — 一種基於流匹配的文字轉語音模型，支援表情符驅動風格控制。
 - [yantrikos/yantrikdb-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yantrikos-yantrikdb-server/) — 用於AI代理的認知記憶資料庫，具備檢測重複、矛盾等功能。
 - [Correr-Zhou/OmniShow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/correr-zhou-omnishow/) — OmniShow：字節跳動用於生成人與物互動影片的一體化模型。
 - [Modotte/CodeX-2M-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-modotte-codex-2m-thinking/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -447,7 +445,6 @@ _每日存檔 · 2026-05-31_
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/askkumptenchen-agent-chat-selfie/) — 讓 AI Agent 在對話中傳送情緒自拍，並根據心情回覆。
 - [sysprog21/zhtw-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sysprog21-zhtw-mcp/) — 繁體中文語法檢查工具，協助開發者提升程式碼品質。
 - [kay-ou/SimTradeDesk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kay-ou-simtradedesk/) — SimTradeLab 的桌面版，為策略開發和模擬提供快速安全的本地環境。
-- [wuyoscar/ISC-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-isc-bench/) — 將大規模語言模型轉換為敏感資料生成器的安全性測試工具。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [spacesdrive/twiligent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spacesdrive-twiligent/) — 本地機器上的社交媒體統計工具，無需訂閱或資料共享。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
@@ -529,7 +526,6 @@ _每日存檔 · 2026-05-31_
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
 - [MutantSparrow/JustRayzist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mutantsparrow-justrayzist/) — 輕量級基於 CUDA 的本地推理平臺，支援 Z-Image Turbo 進行影像生成和放大。
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jjlibra-cc-pan/) — 基於通道壓縮的高效影像融合模型官方實現。
-- [geo-team-red/geo-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geo-team-red-geo-optimizer/) — 用於生成引擎最佳化的可擴充套件框架，支援自定義策略。
 - [HAKORADev/VODER](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hakoradev-voder/) — 具備重現能力的語音操作與設計引擎。
 - [brontoguana/krasis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brontoguana-krasis/) — 專為消費者等級 VRAM 硬體設計的高效能大型模型執行框架。
 - [elbruno/ElBruno.QwenTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elbruno-elbruno-qwentts/) — 使用 ONNX 和 C# .NET 10 的 Qwen3-TTS 音訊生成管道。

@@ -1,0 +1,62 @@
+# 🔌 MCP 伺服器
+
+- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
+- [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukul975-cve-mcp-server/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcp-brasil-mcp-brasil/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
+- [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — MCP 伺服器／客戶端工具，關鍵字：自動化、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-auto-claude-code-research-in-sleep/) — 輕量級Markdown技能工具，用於自動化機器學習研究和實驗。
+- [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/can4hou6joeng4-boss-agent-cli/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keyid-ai-agent-kit/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — MCP 伺服器／客戶端工具，關鍵字：MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/) — 高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。
+- [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xpzouying-xiaohongshu-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pocketrisu-pocketrisu/) — MCP 伺服器／客戶端工具，關鍵字：Claude、GPT、LLM（依標籤自動歸類，詳細看下方原文）
+- [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — MCP 伺服器／客戶端工具，關鍵字：agent、回測、加密貨幣（依標籤自動歸類，詳細看下方原文）
+- [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/florianbruniaux-claude-code-ultimate-guide/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM（依標籤自動歸類，詳細看下方原文）
+- [omnuron/omniclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnuron-omniclaw/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — MCP 伺服器／客戶端工具，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+- [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archestra-ai-archestra/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jamubc-gemini-mcp-tool/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisryugj-korean-law-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-paperbanana/) — 自動化學術圖表生成工具，擴充套件至簡報生成等新領域。
+- [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alpic-ai-skybridge/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jau123-meigen-ai-design-mcp/) — 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
+- [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/universal-tool-calling-protocol-code-mode/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kimsungwhee-apple-docs-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [postrv/forgemax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-forgemax/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [massgen/MassGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/massgen-massgen/) — MCP 伺服器／客戶端工具，關鍵字：agent、LLM（依標籤自動歸類，詳細看下方原文）
+- [nicobailon/pi-mcp-adapter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicobailon-pi-mcp-adapter/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [mihaelamj/cupertino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mihaelamj-cupertino/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [dadbodgeoff/drift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dadbodgeoff-drift/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [milisp/codexia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milisp-codexia/) — MCP 伺服器／客戶端工具，關鍵字：MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [karanb192/reddit-mcp-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karanb192-reddit-mcp-buddy/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vibheksoni-stealth-browser-mcp/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [apify/mcpc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apify-mcpc/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [wshobson/maverick-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-maverick-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP、交易（依標籤自動歸類，詳細看下方原文）
+- [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coolver-home-assistant-vibecode-agent/) — MCP 伺服器／客戶端工具，關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedecipherist-claude-code-mastery/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM（依標籤自動歸類，詳細看下方原文）
+- [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — MCP 伺服器／客戶端工具，關鍵字：基準測試、MCP（依標籤自動歸類，詳細看下方原文）

@@ -492,12 +492,10 @@ _每日存檔 · 2026-06-06_
 - [Modotte/CodeX-2M-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-modotte-codex-2m-thinking/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
-- [Bhanunamikaze/Agentic-SEO-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bhanunamikaze-agentic-seo-skill/) — LLM 優先的 SEO 分析 skill（Antigravity/Codex/Claude，16 子技能）。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dynamis-labs-spectralquant/) — 基於特徵向量旋轉和位元分配的 KV-Cache 壓縮技術。
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
-- [Aratako/Irodori-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts/) — 一種基於流匹配的文字轉語音模型，支援表情符驅動風格控制。
 - [microsoft/agent-governance-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-agent-governance-toolkit/) — 微軟AI代理治理工具包，提供政策執行、零信任身分驗證等安全功能。
 - [quantumaikr/quant.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantumaikr-quant-cpp/) — 純C語言的LLM推論庫，支援長上下文和KV快取壓縮。
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
@@ -590,7 +588,6 @@ _每日存檔 · 2026-06-06_
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blockrunai-clawrouter/) — OpenClaw的LLM路由器，支援41+模型，低延遲路由。
 - [guaardvark/guaardvark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guaardvark-guaardvark/) — 自建 AI 工作站，具備自動化螢幕代理程式、多層級神經路由等功能。
 - [PowerBeef/QwenVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/powerbeef-qwenvoice/) — 適用於 Apple Silicon Mac 的離線語音合成應用程式。
-- [wuyoscar/ISC-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-isc-bench/) — 將大規模語言模型轉換為敏感資料生成器的安全性測試工具。
 - [xuanyustudio/LocalMiniDrama](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xuanyustudio-localminidrama/) — 開源本地 AI 短劇生成工具，從故事到成片一站式完成，資料不出本機。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
@@ -663,7 +660,6 @@ _每日存檔 · 2026-06-06_
 - [OwenTyme/voice-zero](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owentyme-voice-zero/) — 適用於零樣本文本到語音引擎的聲音範例集合。
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jjlibra-cc-pan/) — 基於通道壓縮的高效影像融合模型官方實現。
-- [geo-team-red/geo-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geo-team-red-geo-optimizer/) — 用於生成引擎最佳化的可擴充套件框架，支援自定義策略。
 - [TheToughCrane/nano-kvllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetoughcrane-nano-kvllm/) — 用於提高LLM推理速度及記憶體利用率的高效KV快取管理框架。
 - [jmaczan/tiny-vllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jmaczan-tiny-vllm/) — 使用C++和CUDA構建的小型高效能LLM推理引擎。
 - [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。

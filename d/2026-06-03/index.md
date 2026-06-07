@@ -432,7 +432,6 @@ _每日存檔 · 2026-06-03_
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
 - [aiming-lab/MetaClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aiming-lab-metaclaw/) — 與 AI 代理對話，它會學習並進化。
 - [ScrapingBee/n8n-no-code-web-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scrapingbee-n8n-no-code-web-scraper/) — 用 n8n＋ScrapingBee 的無碼網頁爬蟲，做 AI 資料抽取與自動化。
-- [Bhanunamikaze/Agentic-SEO-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bhanunamikaze-agentic-seo-skill/) — LLM 優先的 SEO 分析 skill（Antigravity/Codex/Claude，16 子技能）。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
@@ -442,7 +441,6 @@ _每日存檔 · 2026-06-03_
 - [fikrikarim/volocal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-volocal/) — 全本地化的 iOS 語音 AI 應用程式。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/absolutelyskilled-absolutelyskilled/) — 全球精選 AI Skills 清單。
-- [Aratako/Irodori-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts/) — 一種基於流匹配的文字轉語音模型，支援表情符驅動風格控制。
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [jokersgrinbeewulf4/capcut-ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jokersgrinbeewulf4-capcut-ultimate/) — 解鎖 CapCut 的 4K 出口、自動字幕和專業過渡效果。
@@ -533,7 +531,6 @@ _每日存檔 · 2026-06-03_
 - [PowerBeef/QwenVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/powerbeef-qwenvoice/) — 適用於 Apple Silicon Mac 的離線語音合成應用程式。
 - [CodeBySonu95/VoxSherpa-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codebysonu95-voxsherpa-tts/) — 為 Android 設計的離線神經文本轉語音引擎，無需網路即可使用。
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/askkumptenchen-agent-chat-selfie/) — 讓 AI Agent 在對話中傳送情緒自拍，並根據心情回覆。
-- [wuyoscar/ISC-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-isc-bench/) — 將大規模語言模型轉換為敏感資料生成器的安全性測試工具。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [kay-ou/SimTradeDesk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kay-ou-simtradedesk/) — SimTradeLab 的桌面版，為策略開發和模擬提供快速安全的本地環境。
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valuecell-ai-clawx/) — 提供圖形介面的OpenClaw AI代理程式，將命令列轉換為桌面體驗。
@@ -611,7 +608,6 @@ _每日存檔 · 2026-06-03_
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
 - [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jjlibra-cc-pan/) — 基於通道壓縮的高效影像融合模型官方實現。
-- [geo-team-red/geo-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geo-team-red-geo-optimizer/) — 用於生成引擎最佳化的可擴充套件框架，支援自定義策略。
 - [Zyora-Dev/zse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zyora-dev-zse/) — 適用於開源世界的推理引擎，支援多種硬體平臺。
 - [Aratako/MioTTS-Inference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-miotts-inference/) — 基於大模型的輕量級快速語音合成伺服器。
 - [mu-hashmi/personaplex-mlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mu-hashmi-personaplex-mlx/) — 蘋果晶片上的全雙工語音轉語音模型，支援即時模式。

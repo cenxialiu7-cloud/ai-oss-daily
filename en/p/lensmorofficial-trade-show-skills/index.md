@@ -4,5 +4,5 @@ OpenClaw skills for trade show planning — show selection, booth outreach, budg
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：45
+**Stars**：46
 **Source**：https://github.com/LensmorOfficial/trade-show-skills

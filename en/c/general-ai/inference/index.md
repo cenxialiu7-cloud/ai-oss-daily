@@ -2,8 +2,8 @@
 
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
-- [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
+- [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-qwen3-6-27b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chiennv2000-orthrus/) — Fast, lossless LLM inference via dual-view diffusion decoding.
@@ -23,8 +23,8 @@
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nightmean-ollitert/) — Turn your Android phone into an OpenAI-compatible LLM inference server — Fully local, private and Open Source
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundot-omlx/) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b…
 - [Kaden-Schutt/hipfire](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kaden-schutt-hipfire/) — RDNA-native LLM inference engine in Rust.
-- [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lambda-calculus-llm-lambda-rlm/) — Method for Long Context RLMs using verifiable Lambda Calculus
 - [mukel/gemma4.java](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukel-gemma4-java/) — Fast Gemma 4 inference in pure Java
+- [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lambda-calculus-llm-lambda-rlm/) — Method for Long Context RLMs using verifiable Lambda Calculus
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onlyterp-turboquant/) — First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LL…
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matt-k-wong-mlx-flash/) — Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.
 - [Aaryan-Kapoor/ModelGate-Hackathon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aaryan-kapoor-modelgate-hackathon/) — 🏆Winning Project | ModelGate is a contract-aware AI control plane that ingests customer contracts, extracts S…

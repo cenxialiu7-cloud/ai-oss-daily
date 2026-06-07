@@ -2,9 +2,11 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-06-07 09:04 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-06-07 21:26 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
+- [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
+- [🧩 Agent Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/skill/)
 - [🎬 影音製作](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/media-creation/)
 - [💰 投資理財](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/fintech-invest/)
 - [🚀 賺錢方法](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/make-money/)
@@ -20,15 +22,15 @@
 - [2026-05-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-05-30/)
 
 ## 今日精選 Today's picks
+- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/)
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/)
-- [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/)
+- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/)
+- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/)
+- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/)
 - [Leonxlnx/taste-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/)
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/)
-- [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/)
+- [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/)
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/)
-- [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/)
-- [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/)
-- [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
