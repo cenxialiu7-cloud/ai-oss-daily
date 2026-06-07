@@ -1,6 +1,6 @@
 # 電子報
 
-投遞系統建置中——先到 Ko-fi 支持，上線後優先通知你。
+每天約 09:00 自動更新。訂閱 Telegram、LINE 或 Email，當日精選直接送到你手上——免費、隨時退訂。
 
 - [2026-06-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-06-07/)
 - [2026-06-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-06-06/)
