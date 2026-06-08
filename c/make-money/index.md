@@ -8,7 +8,6 @@
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thaolst-tara-bot/) — Tara Bot 是一個智慧 Telegram 機器人，能搜尋航班、比較價格並插入聯盟連結。
 - [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
-- [TempestQueenGlow/N8N-AI-Automation-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tempestqueenglow-n8n-ai-automation-cracked/) — （破解誘餌）n8n 本身就免費開源，此為盜版包 — 勿用。
 - [daisy-engine（AI 編排平台）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daisy-workflow-daisy-engine/) — AI 編排(orchestration)平台。
 - [AI 商業行銷技能包（雙語）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minhnv0807-ai-business-skills/) — 63 個雙語(越南/全球) AI 行銷技能，支援 Claude Code、OpenCode、Codex 等。
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eugeniughelbur-obsidian-second-brain/) — 跨 CLI 的 Obsidian skill，把你的筆記庫變成 AI 第二大腦。
@@ -60,3 +59,4 @@
 - [malikad778/nexus-inventory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malikad778-nexus-inventory/) — 連線Shopify、WooCommerce等多渠道的庫存同步Laravel套件。
 - [clawdata/clawdata](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/clawdata-clawdata/) — 個人化的OpenClaw資料工程師，提供自動化分析功能
 - [simonstaton/AgentManager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonstaton-agentmanager/) — 安全管理Claude Code代理的大規模自動化平臺，具備成本追蹤功能。
+- [kgarbacinski/AutoViralAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kgarbacinski-autoviralai/) — 自主AI代理研究病毒式內容，生成帖子，發布並測量參與度，根據有效策略自我改進。

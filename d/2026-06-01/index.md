@@ -8,14 +8,14 @@ _每日存檔 · 2026-06-01_
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jdevalk-specification-website/) — 網站規格標準：HTML、無障礙、安全、SEO、agent 可讀性（Yoast 創辦人作品）。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
-- [rapidstalkercutters/Pika-Labs-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rapidstalkercutters-pika-labs-pro-cracked/) — （破解誘餌）宣稱 Pika Labs Pro 文生影片 — 多為惡意/詐騙，勿用。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
-- [NexusFletcher/Luma-Dream-Machine-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexusfletcher-luma-dream-machine-pro-unlimited/) — （盜版誘餌）宣稱 Luma Dream Machine 無限版 — 假的，勿用。
-- [Lengthglowave/Lightworks-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lengthglowave-lightworks-pro-cracked/) — （破解誘餌）宣稱 Lightworks 專業剪輯 — 勿用。
-- [RadianGhostOscillate/OpenAI-Sora-2-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/radianghostoscillate-openai-sora-2-pro-unlimited/) — （盜版誘餌）宣稱 Sora 2 Pro 無限 — 假的，勿用。
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reasoncore-open-spatial-reasoning/) — 開放空間推理基準資料集（CC-BY）。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。
+- [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-pid-image-upscaler/) — PiD 圖像放大線上示範（含 MCP server）。
+- [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
+- [wangchuxiaoji-oss/doubao2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangchuxiaoji-oss-doubao2api/) — 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
+- [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-vclab-polyu-ggt-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -68,12 +68,10 @@ _每日存檔 · 2026-06-01_
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — Claude Opus 4.6／4.7 推理過程資料集（8.7k 筆）。
-- [AnalystReminisce/Cap-Cut-Pro-Version-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/analystreminisce-cap-cut-pro-version-2026/) — （宣稱 CapCut Pro 破解版）剪輯軟體 — 授權存疑，不建議使用。
 - [stabilityai/stable-audio-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-stabilityai-stable-audio-3/) — Stability stable-audio-3 文字生成音樂的示範 Space。
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-aimeebingmouqu-protectbirds/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
-- [rapidstalkercutters/Pika-Labs-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rapidstalkercutters-pika-labs-pro-cracked/) — （破解誘餌）宣稱 Pika Labs Pro 文生影片 — 多為惡意/詐騙，勿用。
 - [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — Wan2.2 文生影片 FP8 加速示範（HF Space，含 MCP）。
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
@@ -82,9 +80,6 @@ _每日存檔 · 2026-06-01_
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-facebook-vggt-omega/) — Meta VGGT 3D 視覺幾何重建示範（HF Space）。
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-stanford-vision-lab-gpic/) — 史丹佛 GPIC 視覺生成圖像資料集（MIT 授權）。
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
-- [NexusFletcher/Luma-Dream-Machine-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexusfletcher-luma-dream-machine-pro-unlimited/) — （盜版誘餌）宣稱 Luma Dream Machine 無限版 — 假的，勿用。
-- [Lengthglowave/Lightworks-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lengthglowave-lightworks-pro-cracked/) — （破解誘餌）宣稱 Lightworks 專業剪輯 — 勿用。
-- [RadianGhostOscillate/OpenAI-Sora-2-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/radianghostoscillate-openai-sora-2-pro-unlimited/) — （盜版誘餌）宣稱 Sora 2 Pro 無限 — 假的，勿用。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [huggingface-projects/rf-detr-realtime-webcam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingface-projects-rf-detr-realtime-webcam/) — RF-DETR 即時網路攝影機物件偵測示範（HF Space）。
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
@@ -164,7 +159,6 @@ _每日存檔 · 2026-06-01_
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughfenghen-dimcut/) — 新型剪輯互動：把 1D 時間軸折成多行的影片編輯設計。
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/) — 號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。
 - [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
-- [FiremanCrack/ElevenLabs-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/firemancrack-elevenlabs-pro-cracked/) — （散布破解版）宣稱 ElevenLabs Pro TTS／語音克隆 — 合法性存疑，不建議使用。
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/philolabs-agentic-vbench/) — 評測 AI agent 能否完成真實影片後製任務的基準測試。
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 圖像節點＋ComfyUI 的 LoRA 訓練。
@@ -204,9 +198,7 @@ _每日存檔 · 2026-06-01_
 - [Evolutionary Alpha Miner（演化式選股因子挖掘）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — 家族感知的演化式 alpha 挖掘，用 LLM 引導符號回歸。
 - [seme-org/open-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seme-org-open-director/) — 開源AI影片工作室，支援創意模式和批次模式。
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
-- [TempestQueenGlow/N8N-AI-Automation-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tempestqueenglow-n8n-ai-automation-cracked/) — （破解誘餌）n8n 本身就免費開源，此為盜版包 — 勿用。
 - [shootthesound/comfyui-CleanFreak](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-comfyui-cleanfreak/) — ComfyUI 工作流一鍵整理工具（依角色歸類 loader/sampler 等節點）。
-- [cthulhucrewmanoutfit/Final-Cut-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cthulhucrewmanoutfit-final-cut-pro-cracked/) — Final Cut Pro - Mac專業級影片編輯軟體，具備磁性時間軸和效果工具。
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rockeycoss-leapalign-code/) — CVPR2026：通過建立兩步軌跡進行訓練後的流匹配模型。
 - [EKKOLearnAI/hermes-web-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ekkolearnai-hermes-web-ui/) — 多平臺AI聊天和會話管理的網頁儀錶板。
