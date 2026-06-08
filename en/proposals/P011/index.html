@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白 — AI OSS Daily</title>
+<meta name="description" content="拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P011/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P011/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P011/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P011/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P011/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白 — AI OSS Daily">
+<meta property="og:description" content="拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P011/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白 — AI OSS Daily">
+<meta name="twitter:description" content="拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白", "description": "拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。", "datePublished": "2026-06-07T08:00:00+00:00", "dateModified": "2026-06-07T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-07/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P011/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P011</p>
+  <h1>本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白</h1>
+  <p class="detail-lead">拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">3–4 週（SwiftUI 殼＋模型權重下載器＋Sparkle/notarize 走既有發版 SOP）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①Mac App 買斷（Gumroad/Lemon Squeezy MoR，台幣直入）：Free 單語＋提示浮水印，Pro 一次性解鎖多語/批次/字幕對齊匯出 SRT ②設定頁放 Ko-fi 贊助。主打『一次付清、無限生成、音檔不外流』打雲端 TTS per-character 計費 ③聯盟可帶麥克風/錄音介面/Podcast 主機商（不推 VPN）。網頁端落地頁掛 Adsterra/Monetag。</p></div>
+  <div class="panel"><h2>How it works</h2><p>貼上/拖入講稿 → 選音色與語言 → higgs-audio v3 為主引擎合成（中文場景切 MOSS-TTS）→ 低階 Mac 自動降級到 Supertonic-3 的 ONNX 版避免卡死 → 合成完用 nemotron ASR 對齊文字時間軸輸出帶時間碼 SRT/逐句檔。全程本機 Metal/GPU 跑，零 API。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/">bosonai/higgs-audio-v3-tts-4b</a></h3>
+<p class="summary">text-to-speech · transformers, safetensors, higgs_multimodal_qwen3</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/">OpenMOSS-Team/MOSS-TTS-v1.5</a></h3>
+<p class="summary">text-to-speech · safetensors, moss_tts_delay, text-to-speech</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-supertone-supertonic-3/">Supertone/supertonic-3</a></h3>
+<p class="summary">text-to-speech · supertonic, onnx, text-to-speech</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/">nvidia/nemotron-3.5-asr-streaming-0.6b</a></h3>
+<p class="summary">automatic-speech-recognition · nemo, speech-recognition, cache-aware ASR</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線） — AI OSS Daily</title>
+<meta name="description" content="把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P016/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P016/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P016/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P016/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P016/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線） — AI OSS Daily">
+<meta property="og:description" content="把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P016/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線） — AI OSS Daily">
+<meta name="twitter:description" content="把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線）", "description": "把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。", "datePublished": "2026-06-07T08:00:00+00:00", "dateModified": "2026-06-07T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-07/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P016/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P016</p>
+  <h1>口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線）</h1>
+  <p class="detail-lead">把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">2–3 週（MediaGrab 已能下載，主要新工作是 ASR→TTS→封面 的 skillplus 技能編排與成品合成；先 CLI/pipeline MVP，再包 macOS App 用既有發版 SOP）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①桌面工具買斷（MoR：Gumroad/Lemon Squeezy 賣 macOS App，複用 Swift/SwiftUI/Sparkle/notarize 發版 SOP）＋進階模板訂閱 ②自營流量帳號接帶貨/聯盟（工具、主機商開戶，非 VPN）③落地頁 footer 放 Adsterra/Monetag 與 Ko-fi。</p></div>
+  <div class="panel"><h2>How it works</h2><p>MediaGrab 下載來源影音 → nemotron ASR 轉逐字稿做字幕與切點 → 一句選題或腳本經 openmelon runtime 編排，skillplus 技能包逐步：MOSS-TTS 生口播語音 → 對齊字幕 → html-anything 批量出封面圖卡 → 合成成品短影音。整條跑在本機，零雲端 API 費；技能包標準讓每步可替換、可重現、可賣模板。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/eight-acres-lab-openmelon/">eight-acres-lab/openmelon</a></h3>
+<p class="summary">A content-creation agent runtime for reproducible multimodal production — projects, workflows, skills, provenance.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 81</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/eight-acres-lab-skillplus/">eight-acres-lab/skillplus</a></h3>
+<p class="summary">A compilable skill package standard for reliable content-generation agents.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 306</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/">OpenMOSS-Team/MOSS-TTS-v1.5</a></h3>
+<p class="summary">text-to-speech · safetensors, moss_tts_delay, text-to-speech</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/">nvidia/nemotron-3.5-asr-streaming-0.6b</a></h3>
+<p class="summary">automatic-speech-recognition · nemo, speech-recognition, cache-aware ASR</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/nexu-io-html-anything/">nexu-io/html-anything</a></h3>
+<p class="summary">✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 6,268</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

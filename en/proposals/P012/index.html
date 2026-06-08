@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流 — AI OSS Daily</title>
+<meta name="description" content="一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P012/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P012/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P012/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P012/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P012/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流 — AI OSS Daily">
+<meta property="og:description" content="一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P012/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流 — AI OSS Daily">
+<meta name="twitter:description" content="一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流", "description": "一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。", "datePublished": "2026-06-07T08:00:00+00:00", "dateModified": "2026-06-07T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-07/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P012/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P012</p>
+  <h1>離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流</h1>
+  <p class="detail-lead">一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">3–5 週（模型下載/量化管理＋推理後端整合＋SwiftUI；沿用 OSS Radar 已踩過的 Ollama/GGUF on M 系列經驗）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①買斷制 Mac App（Gumroad/Lemon Squeezy MoR）：Free 內建 1 顆小模型＋基本聊天，Pro 解鎖模型切換/批次/自訂 Prompt 範本與情境包 ②設定頁 Ko-fi。賣點『付一次、永遠免月費、隱私不上雲』打雲端 LLM 訂閱疲勞 ③聯盟帶 Mac 周邊/外接 SSD（裝模型）等工具類（不推 VPN）。網頁端 Adsterra/Monetag。</p></div>
+  <div class="panel"><h2>How it works</h2><p>啟動偵測 Mac 記憶體/晶片 → 推薦對應檔位（低階→MiniCPM5-1B、一般→LFM2.5 MoE）→ 選情境：通用聊天走 LFM2.5、寫程式切 Mellum2-Thinking、翻譯切 Hy-MT2-1.8B → 全部 GGUF/MoE 在本機推理，對話與檔案不出機。Pro 增加整個資料夾批次摘要/翻譯與情境 Prompt 庫。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/">openbmb/MiniCPM5-1B</a></h3>
+<p class="summary">text-generation · transformers, safetensors, llama</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-liquidai-lfm2-5-8b-a1b/">LiquidAI/LFM2.5-8B-A1B</a></h3>
+<p class="summary">text-generation · transformers, safetensors, lfm2_moe</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-no">⚠ Non-commercial</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/">JetBrains/Mellum2-12B-A2.5B-Thinking</a></h3>
+<p class="summary">text-generation · transformers, safetensors, mellum</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/">tencent/Hy-MT2-1.8B</a></h3>
+<p class="summary">translation · transformers, safetensors, hunyuan_v1_dense</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

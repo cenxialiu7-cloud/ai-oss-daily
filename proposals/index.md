@@ -10,3 +10,9 @@
 - [3D 電商素材工廠（一張商品照 → 3D 旋轉圖 + 展示影片）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P008/) — 賣家上傳一張商品照，自動產出可旋轉 3D 模型與展示短影片，做電商/AR 素材。
 - [OSS Radar 內容飛輪（把這個專案本身變成變現網站）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P009/) — 把 OSS Radar 每天產出的中文 AI 開源情報，自動發成雙語內容網站＋電子報，搶 AI 搜尋流量。
 - [AI 量化訊號台 ＋ 陪跑社群（把今日爆紅的 agentic 交易棧變訂閱服務）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P010/) — 用開源 agentic 量化棧每天跑出選股/進出場訊號＋多 agent 辯論解讀，做成付費電子報與 Telegram 訊號社群。
+- [本機口播配音棚（Mac App）：一段文字 → 你的克隆音色多語旁白](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P011/) — 拖入講稿，全程離線用 GPU 跑出帶情緒、可多語的語音檔，做 YouTube/Podcast/教學旁白不上雲、不按秒計費。
+- [離線小鋼炮工作台（Mac App）：本機跑 LLM／翻譯／寫程式助手，資料零外流](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P012/) — 一個 App 內建選好的端側模型，點一下就能在 Mac 上做摘要、翻譯、寫程式片段，不連網、不訂閱、不被計 token。
+- [RadarMind MCP（給 AI agent 訂閱的每日 AI 開源情報 MCP）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P013/) — 把 OSS Radar 知識庫接上省 token 的程式碼搜尋與上下文壓縮，做成 AI agent 直接訂閱的 MCP server——使用者的 Claude/Cursor 一句話就查到去噪過、已判…
+- [GEO 稽核機器人即服務（每月幫品牌站體檢「能不能被 AI 引用」）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P014/) — 用一套 agent skill 每月自動稽核客戶網站在 Google AI Overviews／Perplexity／ChatGPT 的可被引用性，產出可執行修復清單，做成訂閱型代操服務。
+- [LinkedIn 個人品牌代操（B2B 創作者每週貼文流水線即服務）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P015/) — 用 LinkedIn 成長 skill＋提示工程＋第二大腦，把客戶的領域知識自動煉成每週『像真人、會被注意』的 LinkedIn 貼文與互動留言，做成月費代操。
+- [口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P016/) — 把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。
