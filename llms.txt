@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-06-07 21:26 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-06-08 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-06-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-08/)
 - [2026-06-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-07/)
 - [2026-06-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-06/)
 - [2026-06-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-03/)
@@ -22,15 +23,15 @@
 - [2026-05-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-05-30/)
 
 ## 今日精選 Today's picks
-- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/)
-- [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/)
-- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/)
-- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/)
-- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/)
-- [Leonxlnx/taste-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/)
-- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/)
-- [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/)
-- [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/)
+- [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/)
+- [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/)
+- [DistributorTouch/Midjourney-Bot-Premium-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distributortouch-midjourney-bot-premium-desktop/)
+- [branchscholarignite/ElevenLabs-Voice-Cloning-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/branchscholarignite-elevenlabs-voice-cloning-pro/)
+- [ExistenceDamsel/Suno-AI-Premium-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/existencedamsel-suno-ai-premium-windows/)
+- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/)
+- [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/)
+- [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/)
+- [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

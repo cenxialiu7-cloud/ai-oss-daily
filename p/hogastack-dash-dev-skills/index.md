@@ -1,6 +1,6 @@
 # HogaStack/dash-dev-skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+適用於Dash應用開發的AI代理技能庫，最佳化程式碼生成質量。
 
 **為何上榜**：11★ · 近期活躍
 

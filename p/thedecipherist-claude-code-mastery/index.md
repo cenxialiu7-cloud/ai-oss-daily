@@ -1,6 +1,6 @@
 # TheDecipherist/claude-code-mastery
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、LLM（依標籤自動歸類，詳細看下方原文）
+全面介紹Claude Code的指南，涵蓋技能、伺服器和命令。
 
 **為何上榜**：522★ · 近期活躍
 

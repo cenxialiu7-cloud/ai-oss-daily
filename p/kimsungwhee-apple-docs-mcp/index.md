@@ -1,6 +1,6 @@
 # kimsungwhee/apple-docs-mcp
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+蘋果開發者文件的MCP伺服器，支援在Claude、Cursor等AI助手中搜索相關檔案。
 
 **為何上榜**：1,301★ · 近期活躍
 

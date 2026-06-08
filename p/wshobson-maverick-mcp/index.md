@@ -1,6 +1,6 @@
 # wshobson/maverick-mcp
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、MCP、交易（依標籤自動歸類，詳細看下方原文）
+個人股票分析的MCP伺服器，使用Claude進行財務分析。
 
 **為何上榜**：580★ · 近期活躍
 

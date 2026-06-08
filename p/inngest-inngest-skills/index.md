@@ -1,6 +1,6 @@
 # inngest/inngest-skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+用於 Inngest 的 AI 機器技能。
 
 **為何上榜**：23★ · 近期活躍
 

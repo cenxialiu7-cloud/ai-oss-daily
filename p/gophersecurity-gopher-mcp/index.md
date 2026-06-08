@@ -1,6 +1,6 @@
 # GopherSecurity/gopher-mcp
 
-MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
+具備企業級安全性、可觀察性和連線性的C++版Model Context Protocol實現。
 
 **為何上榜**：118★ · 近期活躍
 

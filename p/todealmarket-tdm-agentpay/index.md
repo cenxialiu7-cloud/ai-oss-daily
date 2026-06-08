@@ -1,6 +1,6 @@
 # ToDealMarket/tdm-agentpay
 
-AI Agent Skill（技能包），關鍵字：自動化、Claude（依標籤自動歸類，詳細看下方原文）
+為TDM設計的專用支付工作流程和範例。
 
 **為何上榜**：9★ · 近期活躍
 

@@ -1,10 +1,10 @@
 # yusufkaraaslan/Skill_Seekers
 
-AI Agent Skill（技能包），關鍵字：自動化、MCP、OCR（依標籤自動歸類，詳細看下方原文）
+將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
 
-**為何上榜**：13,983★ · 近期活躍
+**為何上榜**：近一日新增 9★（現 13,992★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,983
+**Stars**：13,992
 **原始連結**：https://github.com/yusufkaraaslan/Skill_Seekers

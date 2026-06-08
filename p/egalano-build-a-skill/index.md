@@ -1,6 +1,6 @@
 # egalano/build-a-skill
 
-AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
 
 **為何上榜**：近期新建立，已獲 9★
 

@@ -1,6 +1,6 @@
 # karanb192/reddit-mcp-buddy
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+簡潔的 Reddit MCP 伺服器，專為 LLM 最佳化，提供內容瀏覽、搜尋和分析。
 
 **為何上榜**：698★ · 近期活躍
 

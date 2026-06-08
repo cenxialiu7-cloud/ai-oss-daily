@@ -1,6 +1,6 @@
 # safwanits123/AntigravityMobile
 
-AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+輕鬆監控 AI 對話和模型配額的手機友善儀錶板。
 
 **為何上榜**：8★ · 近期活躍
 

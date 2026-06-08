@@ -1,10 +1,10 @@
 # timescale/pg-aiguide
 
-MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+PostgreSQL 技能和文件的 Claude 外掛，幫助生成更好的 PostgreSQL 程式碼。
 
-**為何上榜**：1,756★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 1,757★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,756
+**Stars**：1,757
 **原始連結**：https://github.com/timescale/pg-aiguide

@@ -1,6 +1,6 @@
 # KeyID-AI/agent-kit
 
-MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+為Claude/Cursor提供電子郵件功能，包含27個MCP工具。
 
 **為何上榜**：692★ · 近期活躍
 

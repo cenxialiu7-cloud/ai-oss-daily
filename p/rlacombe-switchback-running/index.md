@@ -1,6 +1,6 @@
 # rlacombe/switchback-running
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+由 Intervals.icu 驅動的超馬拉松訓練伴侶代理。
 
 **為何上榜**：9★ · 近期活躍
 

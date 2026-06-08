@@ -1,6 +1,6 @@
 # hashgraph-online/standards-sdk-go
 
-MCP 伺服器／客戶端工具，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+官方 Go SDK 實現 Hiero 共識規範。
 
 **為何上榜**：299★ · 近期活躍
 

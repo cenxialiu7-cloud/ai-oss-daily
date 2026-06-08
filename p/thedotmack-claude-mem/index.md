@@ -1,10 +1,10 @@
 # thedotmack/claude-mem
 
-AI Agent Skill（技能包），關鍵字：Claude、嵌入、RAG（依標籤自動歸類，詳細看下方原文）
+Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 
-**為何上榜**：81,052★ · 近期活躍
+**為何上榜**：近一日新增 64★（現 81,116★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：81,052
+**Stars**：81,116
 **原始連結**：https://github.com/thedotmack/claude-mem

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>yvgude/lean-ctx — 🔌 MCP 伺服器 — AI 開源日報</title>
-<meta name="description" content="MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）">
+<meta name="description" content="LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI 開源日報">
 <meta property="og:title" content="yvgude/lean-ctx — 🔌 MCP 伺服器 — AI 開源日報">
-<meta property="og:description" content="MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）">
+<meta property="og:description" content="LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="zh_TW">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="yvgude/lean-ctx — 🔌 MCP 伺服器 — AI 開源日報">
-<meta name="twitter:description" content="MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）">
+<meta name="twitter:description" content="LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "yvgude/lean-ctx", "description": "MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/yvgude/lean-ctx", "license": "Apache-2.0", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 2502, "bestRating": "5", "worstRating": "1"}, "keywords": "agentic-coding, ai, ai-coding, claude-code, context-engineering, context-layer, copilot, cursor, developer-tools, gemini-cli"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "yvgude/lean-ctx", "description": "LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/yvgude/lean-ctx", "license": "Apache-2.0", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 2519, "bestRating": "5", "worstRating": "1"}, "keywords": "agentic-coding, ai, ai-coding, claude-code, context-engineering, context-layer, copilot, cursor, developer-tools, gemini-cli"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI 開源日報", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/"}, {"@type": "ListItem", "position": 2, "name": "🔌 MCP 伺服器", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/"}, {"@type": "ListItem", "position": 3, "name": "yvgude/lean-ctx", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a>
   </p>
   <h1>yvgude/lean-ctx</h1>
-<p class="detail-lead">MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🔌 MCP 伺服器</span>
 <span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span><span class="badge target">Windsurf</span><span class="badge target">Gemini</span><span class="badge target">Copilot</span>    <span class="badge lic-ok">✓ 可商用</span>
-<span class="badge stars">★ 2,502</span><span class="badge">Rust</span>  </div>
+<span class="badge stars">★ 2,519</span><span class="badge">Rust</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/yvgude/lean-ctx" rel="noopener" target="_blank">↗ 原始連結</a>
   </div>
@@ -55,7 +55,7 @@
 
 
 <section class="block detail-grid">
-  <div class="panel"><h2>為何上榜</h2><p>2,502★ · 近期活躍</p></div>
+  <div class="panel"><h2>為何上榜</h2><p>近一日新增 17★（現 2,519★）</p></div>
   <div class="panel">
     <h2>商用授權</h2>
     <div class="kv"><span class="badge lic-ok">✓ 可商用</span><span class="badge">Apache-2.0</span></div>

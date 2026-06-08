@@ -1,10 +1,10 @@
 # geekjourneyx/md2wechat-skill
 
-AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+將 Markdown 檔案轉換並發布到微信公眾號的 CLI 工具。
 
-**為何上榜**：2,749★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 2,750★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,749
+**Stars**：2,750
 **原始連結**：https://github.com/geekjourneyx/md2wechat-skill

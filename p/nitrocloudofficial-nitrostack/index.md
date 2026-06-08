@@ -1,6 +1,6 @@
 # nitrocloudofficial/nitrostack
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
 
 **為何上榜**：122★ · 近期活躍
 

@@ -1,6 +1,6 @@
 # cyijun/agent-smith
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+使用Claude Code CLI等工具分解並執行任務的終端機器人。
 
 **為何上榜**：19★ · 近期活躍
 

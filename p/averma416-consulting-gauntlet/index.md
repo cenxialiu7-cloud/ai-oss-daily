@@ -1,6 +1,6 @@
 # averma416/consulting-gauntlet
 
-AI Agent Skill（技能包），關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+全面的諮詢技能套件，涵蓋多個框架、財務模型和零錯誤率。
 
 **為何上榜**：6★ · 近期活躍
 

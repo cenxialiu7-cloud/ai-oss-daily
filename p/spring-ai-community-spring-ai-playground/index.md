@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-playground
 
-MCP 伺服器／客戶端工具，關鍵字：MCP、RAG（依標籤自動歸類，詳細看下方原文）
+安全本地執行層，用於構建和驗證MCP工具。
 
 **為何上榜**：121★ · 近期活躍
 

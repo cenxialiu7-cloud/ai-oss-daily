@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/code-mode
 
-MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+外掛式程式庫，使代理程式能通過程式碼執行呼叫MCP和UTCP工具。
 
 **為何上榜**：1,475★ · 近期活躍
 

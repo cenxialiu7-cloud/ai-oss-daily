@@ -4,5 +4,5 @@ Convert documentation websites, GitHub repositories, and PDFs into Claude AI ski
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,983
+**Stars**：13,992
 **Source**：https://github.com/yusufkaraaslan/Skill_Seekers

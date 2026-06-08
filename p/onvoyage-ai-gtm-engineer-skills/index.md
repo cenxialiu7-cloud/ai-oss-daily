@@ -2,9 +2,9 @@
 
 改善網站 AEO／GEO（AI/生成式引擎優化）的 Claude Code skill。
 
-**為何上榜**：近一日新增 11★（現 1,159★）
+**為何上榜**：近一日新增 3★（現 1,162★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,159
+**Stars**：1,162
 **原始連結**：https://github.com/onvoyage-ai/gtm-engineer-skills

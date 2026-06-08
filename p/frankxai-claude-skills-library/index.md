@@ -1,6 +1,6 @@
 # frankxai/claude-skills-library
 
-AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+專業級技能庫，讓 Claude 成為領域專家。
 
 **為何上榜**：15★ · 近期活躍
 

@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,856
+**Stars**：4,876
 **Source**：https://github.com/jnMetaCode/superpowers-zh

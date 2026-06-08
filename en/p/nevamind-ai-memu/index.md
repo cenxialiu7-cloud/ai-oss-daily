@@ -4,5 +4,5 @@ The memory harness for proactive AI agents — structured storage, intent captur
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：13,797
+**Stars**：13,798
 **Source**：https://github.com/NevaMind-AI/memU

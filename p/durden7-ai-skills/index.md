@@ -1,6 +1,6 @@
 # Durden7/ai-skills
 
-AI Agent Skill（技能包），關鍵字：agent、Claude、OCR（依標籤自動歸類，詳細看下方原文）
+提升 AI 能力的模組化技能集合，適用於專門工作流程、工具整合及領域知識。
 
 **為何上榜**：8★ · 近期活躍
 

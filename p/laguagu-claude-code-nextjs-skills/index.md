@@ -1,6 +1,6 @@
 # laguagu/claude-code-nextjs-skills
 
-AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+Claude Code 技能套件，適用於 Next.js 16 開發。
 
 **為何上榜**：42★ · 近期活躍
 

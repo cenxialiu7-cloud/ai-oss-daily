@@ -1,10 +1,10 @@
 # milisp/codexia
 
-MCP 伺服器／客戶端工具，關鍵字：MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+Codex CLI 和 Claude Code 的代理工作站，具備任務排程、git 工作樹和遠端控制功能。
 
-**為何上榜**：718★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 719★）
 
 **商用授權**：可商用 — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：718
+**Stars**：719
 **原始連結**：https://github.com/milisp/codexia

@@ -4,5 +4,5 @@ Build your own high performance LLM inference engine in C++ and CUDA - a smaller
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：766
+**Stars**：770
 **Source**：https://github.com/jmaczan/tiny-vllm

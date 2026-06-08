@@ -1,6 +1,6 @@
 # naravid19/ai-project-rules-generator
 
-AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+生成專業 AI 代理規則和 AGENTS.md 檔案，最佳化上下文儲存與代理對齊。
 
 **為何上榜**：9★ · 近期活躍
 

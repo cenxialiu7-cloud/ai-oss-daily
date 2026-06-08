@@ -1,6 +1,6 @@
 # mihaelamj/cupertino
 
-MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+本地 Apple 檔案爬蟲及 MCP 伺服器，以 Swift 語言編寫。
 
 **為何上榜**：821★ · 近期活躍
 

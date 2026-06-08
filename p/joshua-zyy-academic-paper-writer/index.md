@@ -1,6 +1,6 @@
 # joshua-zyy/academic-paper-writer
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+面向電腦科學、AI 和 ML 領域的論文寫作代理技能。
 
 **為何上榜**：近期新建立，已獲 56★
 

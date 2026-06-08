@@ -1,6 +1,6 @@
 # xxyshawn-creator/yuge-overseas-sales-research
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+雨哥出品的Claude技能，用於生成海外銷售公司研究報告。
 
 **為何上榜**：近期新建立，已獲 7★
 

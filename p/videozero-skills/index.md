@@ -1,6 +1,6 @@
 # VideoZero/skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+用於生成結構化影片的 MotionCanvas 技能集合。
 
 **為何上榜**：51★ · 近期活躍
 

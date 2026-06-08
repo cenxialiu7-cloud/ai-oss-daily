@@ -1,10 +1,10 @@
 # nicobailon/pi-mcp-adapter
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+節省令牌的MCP介面卡，專為Pi編碼代理設計。
 
-**為何上榜**：833★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 834★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：833
+**Stars**：834
 **原始連結**：https://github.com/nicobailon/pi-mcp-adapter

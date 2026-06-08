@@ -1,6 +1,6 @@
 # breath57/dingtalk-skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+輕量級DingTalk技能庫，涵蓋AI表格、聊天、會議室等自動管理功能。
 
 **為何上榜**：75★ · 近期活躍
 

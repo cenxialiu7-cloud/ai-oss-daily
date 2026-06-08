@@ -1,6 +1,6 @@
 # ColinEberhardt/claude-running-coach
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+提供個人化訓練計劃、分析運動表現的智慧跑步教練。
 
 **為何上榜**：7★ · 近期活躍
 

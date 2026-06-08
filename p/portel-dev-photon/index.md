@@ -1,6 +1,6 @@
 # portel-dev/photon
 
-MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+將單一 TypeScript 檔案轉換為 CLI 工具、MCP 伺服器和網頁介面。
 
 **為何上榜**：97★ · 近期活躍
 

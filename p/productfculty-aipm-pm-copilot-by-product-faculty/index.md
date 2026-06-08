@@ -1,6 +1,6 @@
 # Productfculty-aipm/PM-Copilot-by-Product-Faculty
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。
 
 **為何上榜**：41★ · 近期活躍
 

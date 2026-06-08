@@ -1,6 +1,6 @@
 # doncheli/don-cheli-sdd
 
-AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+最全面的 AI 代理規格驅動開發框架，涵蓋多種技能和模型。
 
 **為何上榜**：54★ · 近期活躍
 

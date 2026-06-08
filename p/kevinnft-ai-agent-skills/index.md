@@ -1,6 +1,6 @@
 # kevinnft/ai-agent-skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+Hermes Agent、Claude Code 和 Cursor 的技能集，涵蓋 28 個類別。
 
 **為何上榜**：近期新建立，已獲 10★
 

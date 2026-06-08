@@ -1,6 +1,6 @@
 # ThomasMoreAI/legal-skills-open
 
-AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
 
 **為何上榜**：近期新建立，已獲 16★
 

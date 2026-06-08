@@ -1,6 +1,6 @@
 # Spirizeon/agentic-aeo-skills
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+適用於多種LLM的AEO分析技能集，涵蓋6種專業代理。
 
 **為何上榜**：6★ · 近期活躍
 

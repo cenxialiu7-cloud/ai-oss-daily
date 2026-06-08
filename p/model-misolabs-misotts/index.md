@@ -2,7 +2,7 @@
 
 將文本轉換成自然語音的合成器。
 
-**為何上榜**：HF trending 136 · 136 likes
+**為何上榜**：HF trending 141 · 142 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

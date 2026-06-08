@@ -1,6 +1,6 @@
 # abdulsamed1/AI-skills-bank
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+統一的多工具平臺，整合和路由各種工作流程中的AI技能。
 
 **為何上榜**：8★ · 近期活躍
 

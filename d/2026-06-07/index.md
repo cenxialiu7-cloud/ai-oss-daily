@@ -4,18 +4,18 @@ _每日存檔 · 2026-06-07_
 
 ## 🆕 新上榜
 
-- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
-- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/) — 影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
-- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/) — 影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
-- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 影音製作相關 AI，關鍵字：ComfyUI、推理、語音合成（依標籤自動歸類，詳細看下方原文）
+- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/) — 高真實感AI語音複製工具。
+- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/) — ElevenLabs Pro - 真實感AI語音複製和生成。
+- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
-- [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
-- [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
-- [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
+- [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — Obsidian + Claude Code自組織AI第二大腦，協助管理知識圖譜。
+- [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
+- [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
+- [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。
 
 ## 🚀 Star 竄升
 
@@ -81,7 +81,7 @@ _每日存檔 · 2026-06-07_
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reasoncore-open-spatial-reasoning/) — 開放空間推理基準資料集（CC-BY）。
-- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-video/) — 將 HTML、CSS 和資料轉換成 MP4 影片，支援多種渲染引擎和音效。
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-stanford-vision-lab-gpic/) — 史丹佛 GPIC 視覺生成圖像資料集（MIT 授權）。
@@ -119,12 +119,12 @@ _每日存檔 · 2026-06-07_
 - [Glossarmanage38/Stable-Diffusion-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glossarmanage38-stable-diffusion-pro-cracked/) — （破解誘餌）SD 本身免費開源，此為盜版包 — 勿用。
 - [Griffinfloexalt/Suno-AI-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/griffinfloexalt-suno-ai-pro-cracked/) — （破解誘餌）宣稱 Suno AI Pro 音樂生成 — 勿用。
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-bonsai-image-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/) — 影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
+- [ArrowMooring/ElevenLabs-Voice-Cloning-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arrowmooring-elevenlabs-voice-cloning-windows/) — 高真實感AI語音複製工具。
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jdevalk-specification-website/) — 網站規格標準：HTML、無障礙、安全、SEO、agent 可讀性（Yoast 創辦人作品）。
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI 數位人頭像資源彙整（HeyGen／D-ID 類）。
-- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/) — 影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
-- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 影音製作相關 AI，關鍵字：ComfyUI、推理、語音合成（依標籤自動歸類，詳細看下方原文）
+- [StapleTeacherLevel/ElevenLabs-Voice-Cloning-Pro-crack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stapleteacherlevel-elevenlabs-voice-cloning-pro-crack/) — ElevenLabs Pro - 真實感AI語音複製和生成。
+- [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-follow-the-mean/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [openbmb/MiniCPM5-1B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-minicpm5-1b-demo/) — 面壁 MiniCPM5-1B 端側小模型線上示範。
@@ -165,7 +165,7 @@ _每日存檔 · 2026-06-07_
 - [meituan-longcat/WBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meituan-longcat-wbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
-- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-actava-chi-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [Kwai-Klear/GoLongRL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-kwai-klear-golongrl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -174,34 +174,34 @@ _每日存檔 · 2026-06-07_
 - [5CD-AI/Viet-Handwriting-OCR-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-5cd-ai-viet-handwriting-ocr-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cha007-pornflux-i2v-6e9et/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
-- [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — Obsidian + Claude Code自組織AI第二大腦，協助管理知識圖譜。
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-causallm-kingfall-roleplay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
 - [rapidstalkercutters/Pika-Labs-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rapidstalkercutters-pika-labs-pro-cracked/) — （破解誘餌）宣稱 Pika Labs Pro 文生影片 — 多為惡意/詐騙，勿用。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
-- [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Harahan/RTDMD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/harahan-rtdmd/) — 論文 RTDMD 官方 PyTorch 實作：強化少步數生成式擴散模型。
-- [Lum1104/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lum1104-understand-anything/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [Lum1104/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lum1104-understand-anything/) — 將程式碼轉換為互動式知識圖譜，支援多種開發工具和平臺。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — 基於 Elixir 的單二進位LLM代理執行時，提供聊天介面和多供應商路由等功能。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/debpalash-omnivoice-studio/) — 開源版 ElevenLabs：本機語音克隆、配音、口播設計。
-- [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukul975-cve-mcp-server/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukul975-cve-mcp-server/) — 為Claude提供21個API的安全情報工具集，涵蓋多種安全標準和資料來源。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
-- [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 影音製作相關 AI，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
-- [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。
+- [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — 互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
 - [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
@@ -215,7 +215,7 @@ _每日存檔 · 2026-06-07_
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
-- [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — Claude Code 是一個終端機中的程式碼助手，能幫助你更快地編寫和管理程式碼。
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alienkevin-swe-zero-12m-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。
@@ -224,22 +224,22 @@ _每日存檔 · 2026-06-07_
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Lynpoint/CyberVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lynpoint-cyberverse/) — 自建即時數字人類代理平臺，支援 WebRTC 和工具整合。
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-opus-4-7-distilled/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — 適用於 Google Ads、Meta Ads 和 GA4 的 MCP 伺服器，支援多種 AI 工具。
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lambda-hermes-agent-reasoning-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chz1y-steerable-music-transformer/) — 可控節奏複雜度的自回歸音樂生成模型（PyTorch 官方實作）。
 - [huawei-csl/KVarN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huawei-csl-kvarn/) — 為代理提供原生 vLLM KV-快取量化後端，提升上下文和吞吐量。
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronesfe-polymarket-automated-trading-bot/) — Polymarket 預測市場自動交易機器人，支援 4 種策略、可選 AI。
-- [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — Hermes Agent、Claude Code 和 Cursor 的技能集，涵蓋 28 個類別。
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomflow-ai-molecode/) — Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
 - [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — AI Agent 框架／編排工具，關鍵字：agent、微調、GPT（依標籤自動歸類，詳細看下方原文）
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。
 - [EvoLinkAI/GPT-Image-2-Seedance2-Workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-seedance2-workflow/) — GPT-image-2＋Seedance2 的高品質 AI 影片工作流與 prompt 模板。
 - [claude-skills（全網站生命週期技能包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rampstackco-claude-skills/) — 與技術棧無關的 Claude Skills，涵蓋品牌、設計、內容到上線的完整網站生命週期。
-- [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [opensquilla/opensquilla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensquilla-opensquilla/) — OpenSquilla 是一種節省 Token 的 AI 代理，能在相同預算下提供更高的智慧密度。
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro 2026 本機出圖(SDXL/ControlNet) — 來源不明，謹慎。
 - [wangchuxiaoji-oss/doubao2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangchuxiaoji-oss-doubao2api/) — 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
@@ -252,7 +252,7 @@ _每日存檔 · 2026-06-07_
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughfenghen-dimcut/) — 新型剪輯互動：把 1D 時間軸折成多行的影片編輯設計。
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/philolabs-agentic-vbench/) — 評測 AI agent 能否完成真實影片後製任務的基準測試。
-- [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — 面向電腦科學、AI 和 ML 領域的論文寫作代理技能。
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thaolst-tara-bot/) — Tara Bot 是一個智慧 Telegram 機器人，能搜尋航班、比較價格並插入聯盟連結。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [openai/gsm8k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openai-gsm8k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -262,25 +262,25 @@ _每日存檔 · 2026-06-07_
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0factor/) — 面向 A 股本地資料的 AI 因子研究工作臺，用於生成、儲存、註冊、評估與報告因子。
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 圖像節點＋ComfyUI 的 LoRA 訓練。
 - [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
-- [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品的Claude技能，用於生成海外銷售公司研究報告。
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。
 - [yuji-hatakeyama/opencode-gpt-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuji-hatakeyama-opencode-gpt-imagegen/) — 透過 ChatGPT 或 OpenAI API 生成影像的外掛。
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-parlor/) — 端側即時多模態 AI，可做自然語音與視覺對話。
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-use-browser-harness/) — 自我修復的瀏覽器元件，讓LLMs完成任何任務。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvk-llm-wiki/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
-- [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcp-brasil-mcp-brasil/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvk-llm-wiki/) — LLM 編譯知識庫，用於 AI 代理的平行多代理研究和文件編輯。
+- [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcp-brasil-mcp-brasil/) — MCP Server 提供巴西 70 個公開 API 的伺服器。
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-krafton-raon-opentts-pool/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ChypherFish3r/coinbase-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chypherfish3r-coinbase-trading-bot/) — Coinbase 動量策略交易機器人，具備選項利潤轉移功能。
-- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — 提供模型上下文協議的伺服器。
 - [1weiho/open-slide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/1weiho-open-slide/) — 用於代理的滑動框架。
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — AI Agent Skill（技能包），關鍵字：自動化（依標籤自動歸類，詳細看下方原文）
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — Google Workspace CLI，提供 Drive、Gmail 等服務的命令列工具。
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conardli-garden-skills/) — 包含網頁設計、知識檢索等技能的開源集合。
 - [SouravRoy-ETL/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/souravroy-etl-duckle/) — 本地優先的資料整合工作室，拖放式設計編譯為SQL並在DuckDB上執行。
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [daisy-engine（AI 編排平台）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daisy-workflow-daisy-engine/) — AI 編排(orchestration)平台。
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
-- [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — MCP 伺服器／客戶端工具，關鍵字：自動化、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bladedevoff-studiomi300/) — 導演 agent＋視覺評審＋圖像/影片/音樂/語音模型，全跑在單張 AMD Instinct。
 - [cthulhucrewmanoutfit/Final-Cut-Pro-cracked](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cthulhucrewmanoutfit-final-cut-pro-cracked/) — Final Cut Pro - Mac專業級影片編輯軟體，具備磁性時間軸和效果工具。
@@ -320,11 +320,11 @@ _每日存檔 · 2026-06-07_
 - [EKKOLearnAI/hermes-web-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ekkolearnai-hermes-web-ui/) — 多平臺AI聊天和會話管理的網頁儀錶板。
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
-- [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
 - [shootthesound/comfyui-ReferenceLatentPlus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-comfyui-referencelatentplus/) — ComfyUI 的改進 ReferenceLatent，支援多圖輸入和 MediaPipe 自動遮罩。
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shurikentrade-shuriken-skills/) — 適用於 Shuriken 平臺的 AI 交易技能集。
 - [GammaLabTechnologies/harmonist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gammalabtechnologies-harmonist/) — 行動式AI代理協調系統，無執行時依賴。
-- [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/can4hou6joeng4-boss-agent-cli/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/can4hou6joeng4-boss-agent-cli/) — BOSS直聘職位搜尋和簡歷最佳化的AI代理CLI工具。
 - [aqm857886159/Nomi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aqm857886159-nomi/) — 開源桌面應用程式 Nomi，用於在本地生成 AI 影片創作。
 - [EvoLinkAI/gpt-image-2-gen-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-gen-skill/) — 為 OpenClaw 等平臺提供 GPT 影像生成技能，只需一條指令即可安裝。
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensensenova-sensenova-skills/) — 構建AI驅動辦公助手和工作流程的模組化技能。
@@ -339,7 +339,7 @@ _每日存檔 · 2026-06-07_
 - [superseo-skills（11 個 SEO 技能）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inhouseseo-superseo-skills/) — 11 個給 Claude 用的 SEO 技能：頁面稽核、外鏈建立、文章撰寫。
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ShandaAI/AlayaRenderer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shandaai-alayarenderer/) — 面向遊戲與虛擬世界的 AI 原生渲染引擎，支援生成式世界渲染。
-- [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergebulaev-linkedin-skills/) — LinkedIn 成長的 Claude skills：寫像真人的貼文與會被注意的留言。
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Agentic SEO（by Addy Osmani）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agentic-seo/) — Google 工程師 Addy Osmani 的 agentic SEO / AEO 工具。
@@ -351,7 +351,7 @@ _每日存檔 · 2026-06-07_
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/facebookresearch-vlm3/) — 視覺語言模型在三維空間學習的官方實現。
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentcloud-tencentdb-agent-memory/) — 提供完全本地化的長期記憶系統，支援AI代理的四層進階流程。
-- [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0share/) — A 股本地資料管道：Tushare＋DuckDB＋Parquet，日線/複權增量同步與排程。
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-ace-step-studio/) — 行動式 AI 歌曲生成器，可製作完整歌曲和音樂影片，離線執行。
 - [kadoa-org/quant-job-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadoa-org-quant-job-market/) — 量化職場視覺化工具，分析和展示頂尖量化公司的職缺。
@@ -363,7 +363,7 @@ _每日存檔 · 2026-06-07_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — AI Agent Skill（技能包），關鍵字：Claude、嵌入、RAG（依標籤自動歸類，詳細看下方原文）
+- [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-illustrious-noobai-style-explorer/) — 快速參考 16000 多種藝術風格的相簿，適用於 Illustrious XL 和 NoobAI-XL 模型。
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frank-ay-mimo-mcp/) — 將小米 MiMo 的多模態能力封裝成 stdio MCP 伺服器，Claude Code 和 Codex 可直接呼叫。
@@ -371,13 +371,13 @@ _每日存檔 · 2026-06-07_
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techsquidtv-cliparr/) — 從個人媒體伺服器上的媒體建立剪輯。
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-learn-harness-engineering/) — 官方初學者教程，從零開始學習 Harness 工程。
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-multi-agent-open-multi-agent/) — 基於 TypeScript 的多代理系統自動化工具。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
 - [yuanzhongqiao/deep-printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuanzhongqiao-deep-printfilm/) — AI 短劇平臺，用於生成動漫及影片作品的工作臺。
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayoubnabil-aiondb/) — 一個從頭開始用 Rust 製作的相容 PostgreSQL 的 SQL、圖形和向量資料庫。
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-oh-my-openagent/) — AI Agent Skill（技能包），關鍵字：Claude、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-oh-my-openagent/) — 專門為複雜程式碼庫設計的AI代理整合工具。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/constellation-engine-constellation-engine/) — Constellation Engine 讓AI代理擁有記憶功能，持續與使用者互動。
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brodyautomates-polymarket-pipeline/) — 事件驅動 AI 管道：即時監測突發新聞、用 AI 分類其市場影響。
@@ -385,7 +385,7 @@ _每日存檔 · 2026-06-07_
 - [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-fizgig/) — Flux 2 Klein 9B LoRA 工作室：訓練/profile/修復/抽取 LoRA。
 - [F-R-L/forge-film](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/f-r-l-forge-film/) — 利用關鍵路徑法進行平行 AI 影片生成，提高效率。
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pattern-ai-labs-agentcall/) — AgentCall讓AI代理加入會議，支援語音、影片和螢幕共享。
-- [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — 產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。
 - [imgx-studio/gpt-image-2-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgx-studio-gpt-image-2-webui/) — 自建GPT影像生成WebUI，支援文本轉影像和多語言創意工作流程。
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/znyupup-ai-video-editing-skill/) — AI自動化Vlog剪輯技能，輸入原始影片，獲得成品。
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS外掛，支援30種語言和音訊設計。
@@ -398,31 +398,31 @@ _每日存檔 · 2026-06-07_
 - [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavegemma/) — 將Gemma 4模型微調為原始人風格的語音。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
-- [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — 透過瀏覽器繪製Gemini圖形，支援MCP協議和開放爪機器人。
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sipeter-clonetts/) — 輕量級離線Android文字轉語音引擎，支援系統級全域性聽書。
-- [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devnen-qwen3-6-windows-server/) — Windows上的一鍵式Qwen3.6-27B推理部署，無需WSL或Docker。
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lintsinghua/claude-code-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lintsinghua-claude-code-book/) — 深入剖析Claude Code架構的42萬字電子書，解析AI Agent的骨架與神經。
-- [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keyid-ai-agent-kit/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keyid-ai-agent-kit/) — 為Claude/Cursor提供電子郵件功能，包含27個MCP工具。
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/) — 在終端機中執行的AI代理多路復用器。
 - [amitshekhariitbhu/llm-internals](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-llm-internals/) — 逐步學習大型語言模型內部機制，從分詞到注意力機制。
 - [oliviazzzu/minimal-embodiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oliviazzzu-minimal-embodiment/) — 讓大型語言模型具備閉環物理實體和自我感知迴圈的最小硬體軟體架構。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。
-- [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — 用於程式設計代理的Chrome開發者工具外掛。
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roneneldan-tinystories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beever-ai-beever-atlas/) — 第一個大型語言模型維基對話知識庫。
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guoguo-tju-agent-java-offer/) — 公開的 Java 後端 / AI 代理 / 系統設計 / 面試複習資料庫。
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectifyai-openkb/) — 開放式大型語言模型知識庫。
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mikeee-qwen-7b-chat/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — MCP 伺服器／客戶端工具，關鍵字：MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — 將AI轉換成結構化工作者，適用於需要多步驟的團隊工作流程。
 - [LingyiChen-AI/AIComicBuilder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lingyichen-ai-aicomicbuilder/) — AI驅動的漫畫生成器，將指令碼轉換為全自動化的動畫影片。
 - [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilsvrc-imagenet-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ZeroLu/awesome-happy-horse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zerolu-awesome-happy-horse/) — Happy Horse 模型的社群整理提示、新聞、評估等資源中心，包含文字轉影片示範。
 - [Arthur-Ficial/apfel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arthur-ficial-apfel/) — Mac 上免費的 AI 工具，包含 CLI 和 OpenAI 相容伺服器。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。
-- [wshobson/agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-agents/) — AI Agent Skill（技能包），關鍵字：agent、自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [wshobson/agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-agents/) — Claude Code等多個AI代理平臺的外掛市場。
 - [wquguru/harness-books](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wquguru-harness-books/) — 兩本關於 Claude Code 和 Codex 的設計哲學書籍，涵蓋約束、查詢迴圈等。
 - [Stonewuu/ai-fusion-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stonewuu-ai-fusion-video/) — 基於代理的全流程AI短劇和漫畫創作平臺。
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-idavidrein-gpqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -434,13 +434,13 @@ _每日存檔 · 2026-06-07_
 - [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanocoai-nanoclaw/) — 輕量級的 OpenClaw 替代方案，安全執行在容器中。
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jenniferzhao0531-iclr2026-guide-cn/) — ICLR 2026 全景中文導讀，節省閱讀時間。
-- [Spirizeon/agentic-aeo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spirizeon-agentic-aeo-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [Spirizeon/agentic-aeo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spirizeon-agentic-aeo-skills/) — 適用於多種LLM的AEO分析技能集，涵蓋6種專業代理。
 - [DayadaUP/claude-code-auto-video-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dayadaup-claude-code-auto-video-edit/) — 自動化達芬奇剪輯系統，使用Whisper轉寫文字並生成時間線。
 - [corticalstack/awesome-foundry-nextgen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/corticalstack-awesome-foundry-nextgen/) — Microsoft Foundry 的實戰實驗室，涵蓋 Azure 平臺即服務 (PaaS) 的企業 AI 系統。
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-sparkvsr/) — 透過稀疏關鍵幀傳播進行互動式影片超解析。
 - [pouyahasanamreji/continuum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pouyahasanamreji-continuum/) — 為程式設計代理提供共享記憶和協調服務。
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinreal-awesome-opensource-ai/) — 整理最佳開源 AI 專案、模型、工具和基礎設施清單。
-- [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/) — 將任何AI代理轉換為科學家，涵蓋生物化學等領域。
 - [BlazeUp-AI/Observal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blazeup-ai-observal/) — 統一的代理分發、監控和洞察平臺。
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-gao-leanctx/) — 用 Python SDK 壓縮提示語，減少 LLM 應用的代幣費用。
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -456,13 +456,13 @@ _每日存檔 · 2026-06-07_
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swarmclawai-swarmvault/) — 本地優先的 LLM 維基，開源知識圖譜建構器和代理記憶體儲存。
 - [LucasHJin/vit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucashjin-vit/) — 影片編輯版本控制系統。
 - [ling-0729/KHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ling-0729-khunter/) — 開箱即用的 A 股量化交易系統：資料/選股/擇時/風控/回測一體。
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samuraigpt-seedance-2-generator/) — 開源 Seedance 2.0 影片生成器，提供文字轉影片和多圖參考編輯功能。
-- [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — Context+ 是一個高精度的MCP伺服器，結合了RAG、AST等技術。
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
-- [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [iOfficeAI/OfficeCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/) — 專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。
-- [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-awesome-codex-subagents/) — 涵蓋廣泛開發場景的130多種Codex子代理集合。
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pku-yuangroup-helios/) — 即時生成長影片的高效擴散模型。
@@ -476,27 +476,27 @@ _每日存檔 · 2026-06-07_
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [rasbt/mini-coding-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rasbt-mini-coding-agent/) — 簡潔易懂的 Python 程式碼代理實現，解釋核心元件。
 - [ebringelvissanchez/Image-AI-Generator-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebringelvissanchez-image-ai-generator-2026/) — 強大的桌面應用程式，快速生成高品質藝術作品和渲染圖。
-- [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alistaitsacle-free-llm-api-keys/) — 提供 GPT-5.5、Claude 等免費 AI API 金鑰，每日更新多次，無需信用卡。
-- [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — 擴充套件AI聊天體驗的外掛集合。
 - [Narcooo/inkos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/narcooo-inkos/) — 自動小說創作 AI 代理，負責寫作、審核和修改。
 - [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/) — 高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。
 - [Affitor/affiliate-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/affitor-affiliate-skills/) — 50 個聯盟行銷 agent skill：研究熱門內容、寫有數據根據的貼文。
 - [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-seo/) — Claude Code 通用 SEO skill：25 子技能＋18 子代理，涵蓋技術 SEO。
 - [every-app/open-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/every-app-open-seo/) — 開源版 Semrush／Ahrefs（SEO 工具）。
-- [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — Google NotebookLM的非官方Python API及代理技能。
 - [tsensei/OpenReels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsensei-openreels/) — 開源 AI 管道，將任何主題轉換為可發布的 YouTube 或 Instagram 短片。
 - [kevin801221/stock-strategies-only](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevin801221-stock-strategies-only/) — 台股每日自動選股機器人：基本面×技術面×回測，Telegram 推播、GitHub Actions 免費跑。
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/panniantong-agent-reach/) — 讓 AI 代理可以瀏覽整個網際網路，支援多平臺無費率 API 查詢。
-- [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eigent-ai-eigent/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eigent-ai-eigent/) — 開放原始碼協作桌面，免費替代Claude Cowork。
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
-- [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xpzouying-xiaohongshu-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — AI Agent Skill（技能包），關鍵字：自動化、MCP、OCR（依標籤自動歸類，詳細看下方原文）
+- [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xpzouying-xiaohongshu-mcp/) — 小紅書的MCP伺服器。
+- [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — 將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
 - [gudaochangsheng/RefAlign](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gudaochangsheng-refalign/) — 使用 PyTorch 實現 RefAlign，一種將參考文本轉換為影片的控制生成模型。
-- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — 為主動型AI代理設計的記憶系統，提供結構化儲存和意圖捕捉功能。
 - [Leonxlnx/taste-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/) — Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashutosh0x-rust-finance/) — Rust 寫的高效能、超低延遲交易終端＋AI daemon。
-- [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pocketrisu-pocketrisu/) — MCP 伺服器／客戶端工具，關鍵字：Claude、GPT、LLM（依標籤自動歸類，詳細看下方原文）
+- [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pocketrisu-pocketrisu/) — 可在個人伺服器上執行的自我主權AI角色扮演平臺。
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-ai-engineering-interview-questions/) — AI 工程師面試題庫及答案，助你準備面試。
 - [tirth8205/code-review-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tirth8205-code-review-graph/) — 本地化程式碼智慧圖形，為 AI 程式設計工具提供精確上下文。
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opendemon-pilipili-autovideo/) — 自動生成帶字幕的影片代理工具，支援多種影片編輯功能。
@@ -505,24 +505,24 @@ _每日存檔 · 2026-06-07_
 - [adam-s/alphadidactic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adam-s-alphadidactic/) — 迭代研究 agent：搜尋學術論文並套用到時間序列資料。
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cloakhq-cloakbrowser/) — 隱形 Chromium 瀏覽器，通過所有機器人檢測測試，可替代 Playwright。
 - [gbessoni/seobuild-onpage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gbessoni-seobuild-onpage/) — AI agent 一鍵寫出「Google 排名且被 LLM 引用」的頁面。
-- [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aden-hive-hive/) — AI Agent Skill（技能包），關鍵字：agent、自動化、Claude（依標籤自動歸類，詳細看下方原文）
+- [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aden-hive-hive/) — 多代理生產AI框架，支援自動化和協同作業。
 - [Sandermage/genesis-vllm-patches](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sandermage-genesis-vllm-patches/) — 針對Qwen3.6進行最佳化的vLLM補丁集。
 - [deskive/deskive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deskive-deskive/) — 開源工作協作平台：聊天/視訊/專案/檔案/行事曆。
 - [laboratoiresonore/spellcaster](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laboratoiresonore-spellcaster/) — 無痛、專家級的本地 AI 影像生成工具，免費且有機。
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RightNow-AI/openfang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-openfang/) — 開源的AI代理作業系統。
-- [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-zvec/) — AI Agent Skill（技能包），關鍵字：RAG、向量庫（依標籤自動歸類，詳細看下方原文）
+- [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-zvec/) — 輕量級向量資料庫，適用於本地語意搜尋。
 - [agentscope-ai/QwenPaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentscope-ai-qwenpaw/) — 個人化AI助理，支援多種聊天應用程式。
 - [millionco/expect](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/millionco-expect/) — 用真實瀏覽器測試AI代理的程式碼。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukul975-anthropic-cybersecurity-skills/) — 754 個結構化資安 skill，對應 MITRE ATT&CK/NIST 等 5 套框架（+541★）。
 - [Houseofmvps/ultraship](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-ultraship/) — Claude Code 外掛，提供 39 個技能、33 個工具和 11 個代理程式，適用於工作流程。
-- [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
-- [doncheli/don-cheli-sdd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/doncheli-don-cheli-sdd/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
+- [doncheli/don-cheli-sdd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/doncheli-don-cheli-sdd/) — 最全面的 AI 代理規格驅動開發框架，涵蓋多種技能和模型。
 - [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/czg1225-dmax/) — DMax：一種加速大規模語言模型的平行解碼技術。
-- [Orchestra-Research/AI-Research-SKILLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orchestra-research-ai-research-skills/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [Orchestra-Research/AI-Research-SKILLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orchestra-research-ai-research-skills/) — 開源AI研究技能庫，適用於各種AI模型。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。
 - [PMZFX/intel-arc-pro-b70-benchmarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pmzfx-intel-arc-pro-b70-benchmarks/) — Intel Arc Pro B70 GPU 的效能資料和測試結果，適用於 LLM 推論等。
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/natebjones-projects-ob1/) — 開源個人知識管理系統，支援多種AI外掛。
@@ -546,10 +546,10 @@ _每日存檔 · 2026-06-07_
 - [degausai/wonda](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/degausai-wonda/) — Wonda CLI — 具有 AI 功能的終端內容創作工具。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [aiming-lab/MetaClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aiming-lab-metaclaw/) — 與 AI 代理對話，它會學習並進化。
-- [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — MCP 伺服器／客戶端工具，關鍵字：agent、回測、加密貨幣（依標籤自動歸類，詳細看下方原文）
+- [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
 - [1756141021/HainTag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/1756141021-haintag/) — AI 繪畫標籤生成器，支援 Danbooru 和 Stable Diffusion。
 - [brandononchain/opentrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brandononchain-opentrade/) — 最強開源 TradingView AI agent：50 工具、15 個模型（Claude/GPT/Gemini）。
-- [ilang-ai/autocode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ilang-ai-autocode/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [ilang-ai/autocode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ilang-ai-autocode/) — 自動化程式碼生成器，支援 46 種技能，從編碼到部署一站式服務。
 - [jaylfc/taOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaylfc-taos/) — 自建 AI 代理系統，適用於消費者硬體如 Mac Mini 或 Raspberry Pi。
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
@@ -561,7 +561,7 @@ _每日存檔 · 2026-06-07_
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dynamis-labs-spectralquant/) — 基於特徵向量旋轉和位元分配的 KV-Cache 壓縮技術。
 - [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [VideoZero/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/videozero-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [VideoZero/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/videozero-skills/) — 用於生成結構化影片的 MotionCanvas 技能集合。
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/absolutelyskilled-absolutelyskilled/) — 全球精選 AI Skills 清單。
 - [quantumaikr/quant.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantumaikr-quant-cpp/) — 純C語言的LLM推論庫，支援長上下文和KV快取壓縮。
 - [deanpeters/Product-Manager-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deanpeters-product-manager-skills/) — 基於 AI 代理的產品管理技能框架。
@@ -569,12 +569,12 @@ _每日存檔 · 2026-06-07_
 - [llllllilllll/Kalshi-Trade-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llllllilllll-kalshi-trade-bot/) — 利用 Polymarket 和 Kalshi 預測市場差價進行套利交易的機器人。
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
 - [yantrikos/yantrikdb-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yantrikos-yantrikdb-server/) — 用於AI代理的認知記憶資料庫，具備檢測重複、矛盾等功能。
-- [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
-- [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
+- [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — 為安全研究和漏洞檢測設計的 Claude Code 技能集。
 - [fancyboi999/Loomic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fancyboi999-loomic/) — 開源 AI 繪圖代理，支援聊天驅動的影像與影片生成。
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fspecii-ace-step-ui/) — ACE-Step 1.5 的專業 UI，免費、本地化、無限音樂生成工具。
 - [Neutral-Debug/Mexc-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neutral-debug-mexc-trading-bot/) — MEXC 自動交易機器人，採用三種獨立策略，零手續費。
-- [antfu/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/antfu-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [antfu/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/antfu-skills/) — Anthony Fu 編輯的 AI 代理技能集合。
 - [FireRedTeam/FireRed-OpenStoryline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fireredteam-firered-openstoryline/) — AI 影片編輯代理，通過自然語言互動進行精確工具協同。
 - [dataelement/Clawith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-clawith/) — 您的代理公司，提供多個代理的管理解決方案。
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuji-labs-nopua/) — 透過愛激發AI潛力的技能，鼓勵開放心態和誠實溝通。
@@ -584,7 +584,7 @@ _每日存檔 · 2026-06-07_
 - [microsoft/agent-governance-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-agent-governance-toolkit/) — 微軟AI代理治理工具包，提供政策執行、零信任身分驗證等安全功能。
 - [Correr-Zhou/OmniShow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/correr-zhou-omnishow/) — OmniShow：字節跳動用於生成人與物互動影片的一體化模型。
 - [HuangYuChuh/ComfyUI_Skills_OpenClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huangyuchuh-comfyui-skills-openclaw/) — 將ComfyUI工作流程轉換為OpenClaw等代理技能的工具。
-- [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/florianbruniaux-claude-code-ultimate-guide/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM（依標籤自動歸類，詳細看下方原文）
+- [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/florianbruniaux-claude-code-ultimate-guide/) — Claude Code 的全面指南，涵蓋從初學者到高階使用者的所有內容。
 - [7WaySecurity/ai_osint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/7waysecurity-ai-osint/) — 收集 AI OSINT 資源，用於發現暴露的 LLM 端點和未保護的 AI 代理。
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arcreel-arcreel/) — 使用 AI 代理生成影片的工作平臺，從小說到最終成品一鍵完成。
 - [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tinybiggames-vindexllm/) — 純 Delphi 開發的 GPU 加速 LLM 推論引擎，完全在 GPU 上執行。
@@ -595,13 +595,13 @@ _每日存檔 · 2026-06-07_
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/genesis1231-eva01/) — 具備自我意識的 AI 實體，支援終端機和 API 操作，內建語音與臉部辨識。
 - [rmbell09-lang/tradesight](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rmbell09-lang-tradesight/) — 自架 AI 交易策略實驗室：模擬盤、隔夜策略錦標賽、15+ 工具。
-- [omnuron/omniclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnuron-omniclaw/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [omnuron/omniclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnuron-omniclaw/) — 一個自動代理支付網路，讓機器人安全快速地進行交易。
 - [appautomaton/mlx-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appautomaton-mlx-speech/) — 純 MLX 音訊合成、語音克隆和對話系統，專為 Apple 矽晶片設計。
 - [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superior-trade-superior-skills/) — 提供超級交易的代理技能和工具模式，用於建立、回測和部署在Hyperliquid上的交易策略。
 - [kostja94/marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kostja94-marketing-skills/) — 行銷 agent skills：SEO/社群/網紅，160+ 個開源 skill。
-- [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — MCP 伺服器／客戶端工具，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+- [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — 官方 Go SDK 實現 Hiero 共識規範。
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jundot-omlx/) — 適用於 Apple Silicon 的 LLM 推論伺服器，支援 macOS 選單欄管理。
-- [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archestra-ai-archestra/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archestra-ai-archestra/) — 一個具有防護措施、MCP 註冊和閘道器的企業 AI 平臺。
 - [0xMassi/webclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xmassi-webclaw/) — 快速本地化的 LLM 網頁內容提取工具，支援 CLI 和 REST API。
 - [Kaden-Schutt/hipfire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kaden-schutt-hipfire/) — 基於 Rust 的 RDNA 原生 LLM 推論引擎。
 - [Human-Agent-Society/CORAL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-coral/) — CORAL 是一個輕量級的多代理自主演化基礎設施，適用於自動研究。
@@ -618,13 +618,13 @@ _每日存檔 · 2026-06-07_
 - [Agents365-ai/video-podcast-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-video-podcast-maker/) — 自動化 4K 編碼機器人影片播客生成工具。
 - [agent-next/polymarket-paper-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-polymarket-paper-trader/) — Polymarket 模擬盤（給 AI agent，MCP server＋即時訂單簿）。
 - [naimkatiman/tradeclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/naimkatiman-tradeclaw/) — 自架 AI 交易訊號：5 種可換策略（Classic/HMM/regime-aware）。
-- [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davepoon-buildwithclaude/) — AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
-- [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
+- [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davepoon-buildwithclaude/) — 一個單一中心，用於查詢擴充套件 Claude Code 和其他平臺的技能和外掛。
+- [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — 即時加密貨幣與股票篩選工具，內建 Claude 桌面整合。
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thysrael-horizon/) — 利用 AI 建立個人新聞摘要系統，每日提供英語和中文簡報。
-- [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulsamed1-ai-skills-bank/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulsamed1-ai-skills-bank/) — 統一的多工具平臺，整合和路由各種工作流程中的AI技能。
 - [AgriciDaniel/claude-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-blog/) — Claude Code 部落格 skill 套件：30 子技能、5 agent、交付合約流程。
 - [showlab/Kiwi-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/showlab-kiwi-edit/) — 統一的開放原始碼框架，使用自然語言進行指令和參考引導式影片編輯。
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-md2wechat-skill/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-md2wechat-skill/) — 將 Markdown 檔案轉換並發布到微信公眾號的 CLI 工具。
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackohhhh-medllm-finetuning/) — 用於醫學二元分類任務的開箱即用大語言模型微調框架。
 - [fikrikarim/volocal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-volocal/) — 全本地化的 iOS 語音 AI 應用程式。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
@@ -633,42 +633,42 @@ _每日存檔 · 2026-06-07_
 - [mukel/gemma4.java](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukel-gemma4-java/) — 純 Java 實現的快速 Gemma 4 推理引擎。
 - [Light-Heart-Labs/DreamServer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/light-heart-labs-dreamserver/) — 將個人電腦轉變為 AI 伺服器，支援聊天介面、語音和代理工作流程。
 - [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
-- [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — 全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
 - [vasu-devs/JustHireMe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vasu-devs-justhireme/) — 本地化 AI 工作平臺，協助職位搜尋、匹配度評估和申請材料生成。
-- [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
-- [rohitg00/pro-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-pro-workflow/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — 基於 Ghidra 的 AI 功能反向工程工具集。
+- [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — 開源 Kubernetes 介面，提供拓撲、事件時間軸和服務流量等視覺化。
+- [rohitg00/pro-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-pro-workflow/) — Claude Code 自我修正記憶，支援多個工作樹並行運作。
 - [vivoCameraResearch/MagicBokeh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vivocameraresearch-magicbokeh/) — MagicBokeh 是第一個專門為高倍率散景渲染設計的方法。
-- [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jamubc-gemini-mcp-tool/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
-- [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rlacombe-switchback-running/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jamubc-gemini-mcp-tool/) — 讓 AI 助手與 Google Gemini CLI 互動的 MCP 伺服器。
+- [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rlacombe-switchback-running/) — 由 Intervals.icu 驅動的超馬拉松訓練伴侶代理。
 - [lasthero3819/DeepFakeAI-GUI-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lasthero3819-deepfakeai-gui-2026/) — 一款強大易用的桌面軟體，讓創作者輕鬆製作高真實感的人工智慧影像和影片。
 - [ArchieIndian/openclaw-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archieindian-openclaw-superpowers/) — OpenClaw 自我學習的 AI 代理程式，具備排程、安全防護等功能。
 - [okx/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-skills/) — OKX 即插即用 AI agent skills — 讓任何 LLM agent 交易/管理組合。
 - [YichengYang-Ethan/oracle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yichengyang-ethan-oracle3/) — 預測市場交易引擎：Wang Transform 定價，29 萬+ 合約模擬盤驗證。
 - [imgompanda/fireauto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgompanda-fireauto/) — Claude Code 自動化外掛（韓）：SEO/安全/團隊 agent/PRD/Reddit 研究一鍵化。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
-- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisryugj-korean-law-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisryugj-korean-law-mcp/) — 韓國法律 API 轉換為 17 個 MCP 工具，支援法條查詢和引用驗證。
 - [punisherluckysun92/Crypto-AIBot-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/punisherluckysun92-crypto-aibot-2026/) — Crypto AI Analytics 是一款用於資料驅動的加密貨幣市場分析和趨勢檢測的桌面工具。
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greenysmac-awesome-davinci-resolve/) — DaVinci Resolve 的外掛、工具和資源列表，由社群維護。
-- [breath57/dingtalk-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breath57-dingtalk-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [breath57/dingtalk-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breath57-dingtalk-skills/) — 輕量級DingTalk技能庫，涵蓋AI表格、聊天、會議室等自動管理功能。
 - [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-paperbanana/) — 自動化學術圖表生成工具，擴充套件至簡報生成等新領域。
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evan-kolberg-prediction-market-backtesting/) — Nautilus Trader 的擴充套件工具，用於回測預測市場策略。
-- [wuyoscar/Internal-Safety-Collapse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-internal-safety-collapse/) — AI Agent 框架／編排工具，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
-- [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [wuyoscar/Internal-Safety-Collapse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-internal-safety-collapse/) — 將大規模語言模型轉化為敏感資料生成器的安全性測試工具。
+- [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — PostgreSQL 技能和文件的 Claude 外掛，幫助生成更好的 PostgreSQL 程式碼。
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valuecell-ai-clawx/) — 提供圖形介面的OpenClaw AI代理程式，將命令列轉換為桌面體驗。
-- [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alpic-ai-skybridge/) — MCP 伺服器／客戶端工具，關鍵字：agent、Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alpic-ai-skybridge/) — 適用於 MCP 和 ChatGPT 應用的全棧 TypeScript 框架。
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diegosouzapw-omniroute/) — 免費 AI 閘道器，連線多個程式碼生成器和編輯器，節省大量流量。
 - [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
 - [foryourhealth111-pixel/Vibe-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/foryourhealth111-pixel-vibe-skills/) — 整合專家級能力的全方位 AI 技能套件，提升任何 AI 代理人的效能。
-- [yshishenya/stitchflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yshishenya-stitchflow/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [yshishenya/stitchflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yshishenya-stitchflow/) — 將提示轉換為 UI 方向，生成 Tailwind 友好的 HTML 和截圖。
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evomap-evolver/) — 基於GEP的自我演進引擎，為AI代理提供可審計的演化。
 - [vektori-ai/vektori](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vektori-ai-vektori/) — 記憶三層架構，讓 AI 代理人記得故事脈絡而非單純事實。
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blockrunai-clawrouter/) — OpenClaw的LLM路由器，支援41+模型，低延遲路由。
 - [Ashish-Patnaik/kokoclone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashish-patnaik-kokoclone/) — Kokoro 音訊克隆技術，輕鬆生成自然多語音。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
-- [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — 官方資料.gov.fr的MCP伺服器，讓AI聊天機器人能直接對話探索法國開放資料平臺。
 - [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jau123-meigen-ai-design-mcp/) — 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
-- [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/universal-tool-calling-protocol-code-mode/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/universal-tool-calling-protocol-code-mode/) — 外掛式程式庫，使代理程式能通過程式碼執行呼叫MCP和UTCP工具。
 - [TYH-labs/unsloth-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tyh-labs-unsloth-buddy/) — 自動化 NVIDIA 和 Apple 裝置上的 LLM 微調技能。
 - [ZSeven-W/openpencil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zseven-w-openpencil/) — 首個 AI 原生向量設計工具，支援協同代理人團隊工作。
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xstongxue-best-prompts/) — 通用高質量 Prompt 合集。
@@ -679,7 +679,7 @@ _每日存檔 · 2026-06-07_
 - [golutra/golutra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/golutra-golutra/) — 多代理 AI 協調平臺，將 Codex、Claude Code 和 OpenClaw 統一整合。
 - [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gracezhao1997-awesome-video-world-models-with-ar-diffusion/) — AR 擴散模型影片世界模型的精選列表。
 - [sysprog21/zhtw-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sysprog21-zhtw-mcp/) — 繁體中文語法檢查工具，協助開發者提升程式碼品質。
-- [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kimsungwhee-apple-docs-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kimsungwhee-apple-docs-mcp/) — 蘋果開發者文件的MCP伺服器，支援在Claude、Cursor等AI助手中搜索相關檔案。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [PowerBeef/QwenVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/powerbeef-qwenvoice/) — 適用於 Apple Silicon Mac 的離線語音合成應用程式。
@@ -689,11 +689,11 @@ _每日存檔 · 2026-06-07_
 - [spacesdrive/twiligent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spacesdrive-twiligent/) — 本地機器上的社交媒體統計工具，無需訂閱或資料共享。
 - [kay-ou/SimTradeDesk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kay-ou-simtradedesk/) — SimTradeLab 的桌面版，為策略開發和模擬提供快速安全的本地環境。
 - [CodeBySonu95/VoxSherpa-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codebysonu95-voxsherpa-tts/) — 為 Android 設計的離線神經文本轉語音引擎，無需網路即可使用。
-- [postrv/forgemax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-forgemax/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [massgen/MassGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/massgen-massgen/) — MCP 伺服器／客戶端工具，關鍵字：agent、LLM（依標籤自動歸類，詳細看下方原文）
+- [postrv/forgemax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-forgemax/) — 將多個伺服器和工具整合為兩個工具的本地沙盒 MCP 閘道器。
+- [massgen/MassGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/massgen-massgen/) — 開源多代理擴充套件系統，自動協調前沿模型和代理以產生高質量結果。
 - [Rezzecup/twitter-alpha-sentiment-tracker-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-twitter-alpha-sentiment-tracker-v2/) — 即時分析 X/Twitter 上的 Smart Money 情緒，提供買賣訊號。
 - [Rezzecup/cex-dex-price-gap-monitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-cex-dex-price-gap-monitor/) — 即時監控中心化和去中心化交易所之間的價格差異，尋找套利機會。
-- [KirKruglov/claude-skills-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirkruglov-claude-skills-kit/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [KirKruglov/claude-skills-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirkruglov-claude-skills-kit/) — 為Claude Cowork和Claude.ai準備的60多種代理技能套件，適用於非技術使用者。
 - [soniqo/speech-swift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-swift/) — 適用於 Apple 裝置的 AI 語音工具包，支援語音識別、文字轉語音等功能。
 - [fim-ai/fim-one](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fim-ai-fim-one/) — 開源AI平臺，連線全球和中國企業系統的核心代理。
 - [LensmorOfficial/trade-show-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lensmorofficial-trade-show-skills/) — 貿易展覽會規劃的 AI 自動化工具，涵蓋選址、預算等。
@@ -702,30 +702,30 @@ _每日存檔 · 2026-06-07_
 - [Rezzecup/TraderLeadFinder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-traderleadfinder/) — 聚合社交平臺資料，評估潛在客戶對定製化交易機器人的需求。
 - [marketcalls/vectorbt-backtesting-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marketcalls-vectorbt-backtesting-skills/) — 使用VectorBT進行交易策略回測的代理程式技能。
 - [Finrandojin/alexandria-audiobook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/finrandojin-alexandria-audiobook/) — 使用AI生成多語音有聲書的工具，支援MP3和M4B格式輸出。
-- [guanyang/antigravity-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-antigravity-skills/) — AI Agent Skill（技能包），關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+- [guanyang/antigravity-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-antigravity-skills/) — 通過模組化技能定義賦予代理程式專業能力，如全端開發、複雜邏輯規劃等。
 - [finvfamily/finquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/finvfamily-finquant/) — 輕量級 Python 工具，支援多種量化交易策略回測。
 - [prncexe/chronex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prncexe-chronex/) — 跨平臺社交媒體排程工具，支援分散式工作處理和OAuth整合。
 - [xuanyustudio/LocalMiniDrama](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xuanyustudio-localminidrama/) — 開源本地 AI 短劇生成工具，從故事到成片一站式完成，資料不出本機。
-- [nicobailon/pi-mcp-adapter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicobailon-pi-mcp-adapter/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
-- [mihaelamj/cupertino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mihaelamj-cupertino/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [nicobailon/pi-mcp-adapter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicobailon-pi-mcp-adapter/) — 節省令牌的MCP介面卡，專為Pi編碼代理設計。
+- [mihaelamj/cupertino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mihaelamj-cupertino/) — 本地 Apple 檔案爬蟲及 MCP 伺服器，以 Swift 語言編寫。
 - [Xquik-dev/x-twitter-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xquik-dev-x-twitter-scraper/) — Twitter 爬蟲 API skill：推文搜尋、進階搜尋、個人檔案、追蹤者。
-- [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — MCP 伺服器／客戶端工具，關鍵字：自動化、MCP（依標籤自動歸類，詳細看下方原文）
+- [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — 將遊戲逆向工程、指標掃描和記憶體分析自動化，透過自然語言與 Cheat Engine 連線。
 - [holypolyfoundation/bs-p](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holypolyfoundation-bs-p/) — 高頻交易市場做市商核心引擎，採用 AVX-512 指令集。
 - [citedy/adclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citedy-adclaw/) — 開源多 agent AI 行銷團隊：人設、共享記憶、130+ skill。
-- [alirezarezvani/alirezarezvani](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-alirezarezvani/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [alirezarezvani/alirezarezvani](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-alirezarezvani/) — Alireza Rezvani熱衷於Claude Code和Openclaw，CTO身份分享AI經驗。
 - [VolgaGerm/PocketTTS.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volgagerm-pockettts-cpp/) — 單檔案 C++ 音訊轉文字引擎，支援 ONNX 模型執行。
-- [dadbodgeoff/drift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dadbodgeoff-drift/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [dadbodgeoff/drift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dadbodgeoff-drift/) — 為 AI 提供程式碼智慧，檢測模式和常規並跨會話記憶決策，適用於任何 IDE 的 MCP 伺服器。
 - [Rezzecup/Aura-AI-Trading-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-aura-ai-trading-agent/) — 結合新聞分析與技術指標的股票及加密貨幣交易AI代理。
 - [unohee/OpenSwarm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/unohee-openswarm/) — 自動化 AI 開發團隊協調器，支援 Discord 控制、Linear 整合和認知記憶。
 - [ryan-yuuu/crypto-trading-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryan-yuuu-crypto-trading-arena/) — 開放原始碼的加密貨幣交易競技場平臺。
 - [Amshaker/Mobile-O](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amshaker-mobile-o/) — 手機裝置上的統一多模態理解和生成模型。
 - [s87343472/backlink-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/s87343472-backlink-pilot/) — 自動提交回鏈工具，適用於獨立開發者和產品宣傳。
 - [Rezzecup/whale-wallet-mirror-copy-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-whale-wallet-mirror-copy-trader/) — 追蹤並複製 Smart Money 錢包的交易操作，適用 Base 和 Solana 鏈。
-- [milisp/codexia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milisp-codexia/) — MCP 伺服器／客戶端工具，關鍵字：MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [milisp/codexia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milisp-codexia/) — Codex CLI 和 Claude Code 的代理工作站，具備任務排程、git 工作樹和遠端控制功能。
 - [Rezzecup/gpt4-pinescript-v5-strategy-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-gpt4-pinescript-v5-strategy-generator/) — 使用 GPT-4 將交易想法轉換為無錯誤的 PineScript V5 程式碼。
-- [karanb192/reddit-mcp-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karanb192-reddit-mcp-buddy/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
-- [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vibheksoni-stealth-browser-mcp/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
-- [apify/mcpc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apify-mcpc/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [karanb192/reddit-mcp-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karanb192-reddit-mcp-buddy/) — 簡潔的 Reddit MCP 伺服器，專為 LLM 最佳化，提供內容瀏覽、搜尋和分析。
+- [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vibheksoni-stealth-browser-mcp/) — 能繞過反機器人系統的瀏覽器自動化工具，AI 可生成網路-hooks 和完美克隆 UI。
+- [apify/mcpc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apify-mcpc/) — 通用 CLI 客戶端，支援持久會話、OAuth 2.1、任務和 JSON 輸出等。
 - [leionion/orderbook-imbalance-indicator-hft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leionion-orderbook-imbalance-indicator-hft/) — 高頻工具，監控報價深度和差異以預測價格變動。
 - [leionion/delta-neutral-grid-optimizer-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leionion-delta-neutral-grid-optimizer-v3/) — 分析歷史波動率，為橫盤市場生成最佳網格交易設定。
 - [keysersoose/claude-agent-builder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keysersoose-claude-agent-builder/) — 從自然語言構建生產級 AI 機器人，自動化工作流程和技能配置。
@@ -735,11 +735,11 @@ _每日存檔 · 2026-06-07_
 - [leionion/liquidation-cluster-signal-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leionion-liquidation-cluster-signal-scraper/) — 監控市場資料，預警短壓或長壓即將發生的交易機器人。
 - [suislanchez/polymarket-kalshi-weather-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/suislanchez-polymarket-kalshi-weather-bot/) — 多平臺預測市場交易機器人，基於 GFS 整合預報和比特幣微結構訊號進行交易。
 - [livehl/aimirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livehl-aimirror/) — 加速Docker等多種平臺下載的智慧快取代理工具。
-- [wshobson/maverick-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-maverick-mcp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP、交易（依標籤自動歸類，詳細看下方原文）
-- [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coolver-home-assistant-vibecode-agent/) — MCP 伺服器／客戶端工具，關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [wshobson/maverick-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-maverick-mcp/) — 個人股票分析的MCP伺服器，使用Claude進行財務分析。
+- [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coolver-home-assistant-vibecode-agent/) — 讓Home Assistant支援Claude Code等工具，協助自動化設計與除錯。
 - [maxmelichov/BlueTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maxmelichov-bluetts/) — 快速開源文字轉語音模型。
 - [aicoincom/coinos-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aicoincom-coinos-skills/) — 為AI代理提供加密貨幣工具包，包括即時價格和交易分析功能。
-- [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedecipherist-claude-code-mastery/) — MCP 伺服器／客戶端工具，關鍵字：Claude、LLM（依標籤自動歸類，詳細看下方原文）
+- [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedecipherist-claude-code-mastery/) — 全面介紹Claude Code的指南，涵蓋技能、伺服器和命令。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
 - [leancoderkavy/premiere-pro-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leancoderkavy-premiere-pro-mcp/) — 控制Adobe Premiere Pro的伺服器，透過CEP/ExtendScript進行AI驅動的影片編輯。
@@ -747,17 +747,17 @@ _每日存檔 · 2026-06-07_
 - [AbdelStark/attnres](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdelstark-attnres/) — MoonshotAI/Kimi注意力殘差模型的Rust實現。
 - [YangSal/cytrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yangsal-cytrade/) — 輕量化的量化交易框架，基於qmt。
 - [mertizci/noai-watermark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mertizci-noai-watermark/) — 開源工具套件，用於移除影像中的隱藏AI水印及後設資料。
-- [averma416/consulting-gauntlet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/averma416-consulting-gauntlet/) — AI Agent Skill（技能包），關鍵字：Claude、LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [averma416/consulting-gauntlet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/averma416-consulting-gauntlet/) — 全面的諮詢技能套件，涵蓋多個框架、財務模型和零錯誤率。
 - [Niceck/hhxg-top-hhxg-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/niceck-hhxg-top-hhxg-python/) — 零配置獲取A股每日市場資料，包含賺錢效應等資訊。
 - [iron-mukakin/Emoji-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iron-mukakin-emoji-tts/) — 基於echo-TTS的文字轉語音Web介面，支援表情符號。
-- [cyijun/agent-smith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyijun-agent-smith/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [cyijun/agent-smith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyijun-agent-smith/) — 使用Claude Code CLI等工具分解並執行任務的終端機器人。
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bohyy-academic-ai-prompt/) — 一套為研究生和學術研究者設計的完整AI提示庫，包含多種工具和模板，節省時間並提高效率。
-- [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — MCP 伺服器／客戶端工具，關鍵字：基準測試、MCP（依標籤自動歸類，詳細看下方原文）
+- [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [mozi1924/Qwen3-TTS-EasyFinetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mozi1924-qwen3-tts-easyfinetuning/) — Qwen3-TTS的輕鬆微調工具，快速克隆聲音並生成高品質多語種語音合成。
 - [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mlm-games-miniter/) — 基本非線性影片編輯器，適用於片段拼接和剪裁。
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunrainyg-randopt/) — 基於神經厚林理論的黑盒最佳化官方程式碼庫。
 - [VoltAgent/awesome-ai-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-awesome-ai-agent-papers/) — 2026年AI代理研究論文精選集，涵蓋工程、記憶等領域。
-- [adriangrantdotorg/Raycast-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adriangrantdotorg-raycast-skill/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [adriangrantdotorg/Raycast-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adriangrantdotorg-raycast-skill/) — 適用於Raycast的Agentic技能，提供API整合和更多最佳實踐。
 - [OwenTyme/voice-zero](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owentyme-voice-zero/) — 適用於零樣本文本到語音引擎的聲音範例集合。
 - [proximasan/tadpole-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/proximasan-tadpole-studio/) — 適用於本地模型的AI音樂生成使用者介面，具備品質生活功能。
 - [AnkitNayak-eth/llmBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ankitnayak-eth-llmbench/) — 用於測量本地大型語言模型執行時效能的深度基準工具。
@@ -765,7 +765,7 @@ _每日存檔 · 2026-06-07_
 - [eullm/eullm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eullm-eullm/) — 開源平臺，用於建立、分發及執行符合歐盟AI法規的大型語言模型。
 - [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmaneblial-awesome-openclaw-examples/) — OpenClaw實用範例集合，包括可執行指令碼和提示。
 - [greekr4/viruagent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greekr4-viruagent-cli/) — 基於AI代理的CLI工具，自動化部落格、Instagram等平臺的釋出。
-- [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/todealmarket-tdm-agentpay/) — AI Agent Skill（技能包），關鍵字：自動化、Claude（依標籤自動歸類，詳細看下方原文）
+- [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/todealmarket-tdm-agentpay/) — 為TDM設計的專用支付工作流程和範例。
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
 - [Tinananan873/AlphaGBM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tinananan873-alphagbm/) — AI驅動的智慧期權分析與高頻交易量化軟體，提供即時希臘字母計算。
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jjlibra-cc-pan/) — 基於通道壓縮的高效影像融合模型官方實現。
@@ -775,24 +775,24 @@ _每日存檔 · 2026-06-07_
 - [TheToughCrane/nano-kvllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetoughcrane-nano-kvllm/) — 用於提高LLM推理速度及記憶體利用率的高效KV快取管理框架。
 - [nicepkg/auto-company](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicepkg-auto-company/) — 完全自動化的人工智慧公司，24/7執行，由14個AI代理人管理，無需人類介入。
 - [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polyx-research-awesome-remote-sensing-agents/) — 智慧遙感代理官網：一項關於大型語言模型在遙感領域應用的調查。
-- [HogaStack/dash-dev-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogastack-dash-dev-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
-- [speakeasy-api/gram](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/speakeasy-api-gram/) — MCP 伺服器／客戶端工具，關鍵字：agent、MCP（依標籤自動歸類，詳細看下方原文）
+- [HogaStack/dash-dev-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogastack-dash-dev-skills/) — 適用於Dash應用開發的AI代理技能庫，最佳化程式碼生成質量。
+- [speakeasy-api/gram](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/speakeasy-api-gram/) — 安全擴充套件組織內AI使用的控制平臺，管理代理、MCP和技能。
 - [jmaczan/tiny-vllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jmaczan-tiny-vllm/) — 使用C++和CUDA構建的小型高效能LLM推理引擎。
-- [Arman-Kudaibergenov/1c-ai-development-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arman-kudaibergenov-1c-ai-development-kit/) — MCP 伺服器／客戶端工具，關鍵字：自動化（依標籤自動歸類，詳細看下方原文）
+- [Arman-Kudaibergenov/1c-ai-development-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arman-kudaibergenov-1c-ai-development-kit/) — 為1C:Enterprise開發提供AI代理、技能和規則工具包。
 - [Zyora-Dev/zse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zyora-dev-zse/) — 適用於開源世界的推理引擎，支援多種硬體平臺。
 - [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。
 - [Aratako/MioTTS-Inference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-miotts-inference/) — 基於大模型的輕量級快速語音合成伺服器。
 - [mu-hashmi/personaplex-mlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mu-hashmi-personaplex-mlx/) — 蘋果晶片上的全雙工語音轉語音模型，支援即時模式。
 - [EvoLinkAI/Awesome-Nano-Banana-2-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-nano-banana-2-prompt/) — 收集 100 多個高品質的 Nano Banana 2 影像生成提示。
 - [saurabhsharma2u/search-console-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhsharma2u-search-console-mcp/) — 為 Google 搜尋控制台、Bing 網站管理員工具等設計的資料伺服器，適用於 AI 代理人自動化。
-- [SmythOS/smythos-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/smythos-smythos-studio/) — MCP 伺服器／客戶端工具（依標籤自動歸類，詳細看下方原文）
-- [tercumantanumut/selene](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tercumantanumut-selene/) — MCP 伺服器／客戶端工具，關鍵字：agent、LLM、MCP（依標籤自動歸類，詳細看下方原文）
-- [gleanwork/remote-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gleanwork-remote-mcp-server/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [SmythOS/smythos-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/smythos-smythos-studio/) — 開源視覺AI代理建造器，支援拖放工作區及自定義程式碼部署。
+- [tercumantanumut/selene](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tercumantanumut-selene/) — 桌面應用程式，允許在本地機器上執行AI代理並連線到即時通訊軟體。
+- [gleanwork/remote-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gleanwork-remote-mcp-server/) — 安全地將企業上下文與LLM、IDE或代理平臺相連線的遠端MCP伺服器。
 - [vericontext/vibeframe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vericontext-vibeframe/) — 用命令列操作的AI原生影片編輯工具，可從終端機生成、編輯和釋出影片。
 - [rtk-ai/vox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rtk-ai-vox/) — 高效能語音轉文字及文字轉語音處理工具，適用於低延遲和模型整合。
 - [brontoguana/krasis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brontoguana-krasis/) — 專為消費者等級 VRAM 硬體設計的高效能大型模型執行框架。
 - [MutantSparrow/JustRayzist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mutantsparrow-justrayzist/) — 輕量級基於 CUDA 的本地推理平臺，支援 Z-Image Turbo 進行影像生成和放大。
-- [postrv/narsil-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-narsil-mcp/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [postrv/narsil-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-narsil-mcp/) — Rust語言編寫的MCP伺服器，提供全面程式碼智慧功能。
 - [undead-undead/AIMAXXING](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/undead-undead-aimaxxing/) — 全能型 AI 助手，提供高效率的混合搜尋和向量運算。
 - [Mexes1978/comfyui-comfysketch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mexes1978-comfyui-comfysketch/) — ComfyUI的繪圖節點，專為草圖創作設計。
 - [Agions/panel-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agions-panel-flow/) — AI驅動的小說、劇本轉換成專業級影片內容的平臺
@@ -802,9 +802,9 @@ _每日存檔 · 2026-06-07_
 - [arshka/pykalshi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arshka-pykalshi/) — Kalshi預測市場API的非官方Python客戶端
 - [AndyLone22/MirrorMetrics](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/andylone22-mirrormetrics/) — 評估 Stable Diffusion LoRAs 的視覺診斷工具，用於檢測過度擬合和資料集品質分析。
 - [GlitterKill/sdl-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glitterkill-sdl-mcp/) — 為程式碼代理提供精確上下文的 Symbol Delta Ledger，節省 token 和加速工作流程。
-- [spring-ai-community/spring-ai-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spring-ai-community-spring-ai-playground/) — MCP 伺服器／客戶端工具，關鍵字：MCP、RAG（依標籤自動歸類，詳細看下方原文）
+- [spring-ai-community/spring-ai-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spring-ai-community-spring-ai-playground/) — 安全本地執行層，用於構建和驗證MCP工具。
 - [likeslines-maker/VectorRAG.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/likeslines-maker-vectorrag-net/) — .NET 向量資料庫，適用於語義搜尋和增強生成。
-- [GopherSecurity/gopher-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gophersecurity-gopher-mcp/) — MCP 伺服器／客戶端工具，關鍵字：LLM、MCP（依標籤自動歸類，詳細看下方原文）
+- [GopherSecurity/gopher-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gophersecurity-gopher-mcp/) — 具備企業級安全性、可觀察性和連線性的C++版Model Context Protocol實現。
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xortexai-xmem/) — 印度首個開源多模態、多代理長期記憶層，適用於 AI 代理人。
 - [modl-org/modl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modl-org-modl/) — 本地優先的人工智慧影像生成工具包。拉取模型、訓練LoRAs、生成影像，一個CLI無需粘合程式碼。
 - [jonit-dev/night-watch-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jonit-dev-night-watch-cli/) — 自動化程式碼審查的 AI 值班助手，可在夜間提交 PR。
@@ -817,19 +817,19 @@ _每日存檔 · 2026-06-07_
 - [malikad778/nexus-inventory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malikad778-nexus-inventory/) — 連線Shopify、WooCommerce等多渠道的庫存同步Laravel套件。
 - [Agions/frame-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agions-frame-forge/) — AI驅動的影片創作工作室，將故事和劇本轉換為專業影片內容。
 - [erroralex/Latent-Library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erroralex-latent-library/) — 一個高效能的桌面資產管理器，支援AI影像生成、元資料解析和視覺重複檢測。
-- [portel-dev/photon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/portel-dev-photon/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [huimeicloud/hm_editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huimeicloud-hm-editor/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [my-mcp-hub/mcp-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/my-mcp-hub-mcp-kit/) — MCP 伺服器／客戶端工具，關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
+- [portel-dev/photon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/portel-dev-photon/) — 將單一 TypeScript 檔案轉換為 CLI 工具、MCP 伺服器和網頁介面。
+- [huimeicloud/hm_editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huimeicloud-hm-editor/) — 輕量級跨平臺電子病歷編輯器，支援 AI 結構化病歷。
+- [my-mcp-hub/mcp-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/my-mcp-hub-mcp-kit/) — 用於建立 MCP 應用程式的 CLI 工具。
 - [CSU-JPG/MIND](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/csu-jpg-mind/) — 評估世界模型記憶體一致性和行動控制的開放域閉環重訪基準。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
-- [houtini-ai/houtini-lm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houtini-ai-houtini-lm/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
-- [portel-dev/ncp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/portel-dev-ncp/) — MCP 伺服器／客戶端工具，關鍵字：Claude、MCP、OpenAI（依標籤自動歸類，詳細看下方原文）
+- [houtini-ai/houtini-lm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houtini-ai-houtini-lm/) — 節省 Claude Code 代幣的 MCP 伺服器，支援多種 LLM。
+- [portel-dev/ncp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/portel-dev-ncp/) — MCP 的智慧載入工具，節省代幣和能源。
 - [clawdata/clawdata](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/clawdata-clawdata/) — 個人化的OpenClaw資料工程師，提供自動化分析功能
 - [marswangyang/personal-ai-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marswangyang-personal-ai-memory/) — 個人AI記憶外掛，自動捕捉並整理ChatGPT等對話至私人知識圖譜。
 - [MakazhanAlpamys/Soup](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makazhanalpamys-soup/) — Soup：簡化LLM微調流程的CLI工具，只需一鍵操作。
 - [Mcourtyard/m-courtyard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcourtyard-m-courtyard/) — M-Courtyard：適用於Apple Silicon的本地AI模型微調助手，無需程式碼和雲端。
 - [taco-group/PISCO](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-pisco/) — PISCO：精確影片實體插入工具，支援稀疏控制和影像轉動畫。
-- [inngest/inngest-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inngest-inngest-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [inngest/inngest-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inngest-inngest-skills/) — 用於 Inngest 的 AI 機器技能。
 - [ctrl-gaurav/effGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ctrl-gaurav-effgen/) — 讓小型語言模型成為具備自主能力的代理。
 - [simonstaton/AgentManager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonstaton-agentmanager/) — 安全管理Claude Code代理的大規模自動化平臺，具備成本追蹤功能。
 - [anaslimem/CortexaDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anaslimem-cortexadb/) — 專門設計用於AI代理記憶的快速、堅固型嵌入式資料庫。
@@ -846,21 +846,21 @@ _每日存檔 · 2026-06-07_
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holo-q-comfy-api-liberation/) — 使用自己的 API 金鑰連線 ComfyUI，無需帳戶。
 - [Yog-Sotho/LLM-fine-tuner](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yog-sotho-llm-fine-tuner/) — 無程式碼 LLM 微調工具：上傳資料 → 訓練 → 部署，支援多種加速和訓練技術。
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lyonzin-knowledge-rag/) — 從 Claude Code 搜尋檔案，提供混合搜尋和重排序功能，本地執行無伺服器。
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laguagu-claude-code-nextjs-skills/) — AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laguagu-claude-code-nextjs-skills/) — Claude Code 技能套件，適用於 Next.js 16 開發。
 - [BenChaliah/Tensa-Lang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/benchaliah-tensa-lang/) — Tensor 為主的程式語言、編譯器和執行時環境，用於高階語言編寫模型推理引擎。
 - [escapeboy/agent-fleet-o](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/escapeboy-agent-fleet-o/) — 開源 AI 代理協調平臺，支援自建任務控制中心和多代理系統。
 - [avilum/minrlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avilum-minrlm/) — 小型遞迴語言模型：讓任意 LLM 在其上下文中執行程式碼而非塞入提示中。
 - [OpenDCAI/Flash-MinerU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opendcai-flash-mineru/) — 基於 Ray 的 MinerU 加速層，將 PDF 轉換為可擴充套件的 Markdown 資料基礎設施。
 - [quentintou/agent-board](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quentintou-agent-board/) — 開放原始碼的多代理任務看板，支援自動化AI團隊的協調與監控。
-- [maton-ai/api-gateway-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maton-ai-api-gateway-skill/) — AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+- [maton-ai/api-gateway-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maton-ai-api-gateway-skill/) — 單一 API 金鑰連線 AI 至多個平臺的 API 置中器。
 - [techlab-innov/llmtrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techlab-innov-llmtrace/) — 無程式碼LLM安全與監控代理，即時檢測提示注入、掃描PII並控制成本。
 - [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shlokchorge-fine-tuning-qwen2vl/) — 使用LoRA和Unsloth對Qwen2-VL-7B進行微調，以改善LaTeX OCR效能。
-- [frankxai/claude-skills-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frankxai-claude-skills-library/) — AI Agent Skill（技能包），關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [frankxai/claude-skills-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frankxai-claude-skills-library/) — 專業級技能庫，讓 Claude 成為領域專家。
 - [Agnuxo1/openclaw-seed](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agnuxo1-openclaw-seed/) — 自動自我演化的研究代理，使用LoRA微調技術不斷改進。
-- [junghan0611/denotecli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junghan0611-denotecli/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
-- [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/naravid19-ai-project-rules-generator/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/durden7-ai-skills/) — AI Agent Skill（技能包），關鍵字：agent、Claude、OCR（依標籤自動歸類，詳細看下方原文）
-- [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safwanits123-antigravitymobile/) — AI Agent Skill（技能包），關鍵字：MCP（依標籤自動歸類，詳細看下方原文）
-- [ColinEberhardt/claude-running-coach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/colineberhardt-claude-running-coach/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
-- [insight68/Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/insight68-skills/) — AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+- [junghan0611/denotecli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junghan0611-denotecli/) — 為 Claude 增強生命科學領域的知識管理系統，涵蓋所有生活層面。
+- [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/naravid19-ai-project-rules-generator/) — 生成專業 AI 代理規則和 AGENTS.md 檔案，最佳化上下文儲存與代理對齊。
+- [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/durden7-ai-skills/) — 提升 AI 能力的模組化技能集合，適用於專門工作流程、工具整合及領域知識。
+- [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safwanits123-antigravitymobile/) — 輕鬆監控 AI 對話和模型配額的手機友善儀錶板。
+- [ColinEberhardt/claude-running-coach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/colineberhardt-claude-running-coach/) — 提供個人化訓練計劃、分析運動表現的智慧跑步教練。
+- [insight68/Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/insight68-skills/) — 安全且多審計的代理技能系統。
 - [ghost/dropped-A](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ghost-dropped-a/) — 無描述

@@ -1,6 +1,6 @@
 # Arman-Kudaibergenov/1c-ai-development-kit
 
-MCP 伺服器／客戶端工具，關鍵字：自動化（依標籤自動歸類，詳細看下方原文）
+為1C:Enterprise開發提供AI代理、技能和規則工具包。
 
 **為何上榜**：136★ · 近期活躍
 

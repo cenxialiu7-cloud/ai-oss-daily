@@ -1,6 +1,6 @@
 # adriangrantdotorg/Raycast-Skill
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+適用於Raycast的Agentic技能，提供API整合和更多最佳實踐。
 
 **為何上榜**：6★ · 近期活躍
 

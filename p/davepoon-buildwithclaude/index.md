@@ -1,6 +1,6 @@
 # davepoon/buildwithclaude
 
-AI Agent Skill（技能包），關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+一個單一中心，用於查詢擴充套件 Claude Code 和其他平臺的技能和外掛。
 
 **為何上榜**：3,032★ · 近期活躍
 

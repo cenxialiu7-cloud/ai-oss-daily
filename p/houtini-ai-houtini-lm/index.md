@@ -1,6 +1,6 @@
 # houtini-ai/houtini-lm
 
-MCP 伺服器／客戶端工具，關鍵字：Claude、MCP（依標籤自動歸類，詳細看下方原文）
+節省 Claude Code 代幣的 MCP 伺服器，支援多種 LLM。
 
 **為何上榜**：92★ · 近期活躍
 

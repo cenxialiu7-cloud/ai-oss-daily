@@ -1,10 +1,10 @@
 # rohitg00/pro-workflow
 
-AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+Claude Code 自我修正記憶，支援多個工作樹並行運作。
 
-**為何上榜**：2,274★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 2,275★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,274
+**Stars**：2,275
 **原始連結**：https://github.com/rohitg00/pro-workflow

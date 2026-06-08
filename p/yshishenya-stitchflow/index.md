@@ -1,6 +1,6 @@
 # yshishenya/stitchflow
 
-AI Agent Skill（技能包）（依標籤自動歸類，詳細看下方原文）
+將提示轉換為 UI 方向，生成 Tailwind 友好的 HTML 和截圖。
 
 **為何上榜**：11★ · 近期活躍
 

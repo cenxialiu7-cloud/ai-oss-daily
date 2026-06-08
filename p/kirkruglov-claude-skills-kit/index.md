@@ -1,6 +1,6 @@
 # KirKruglov/claude-skills-kit
 
-AI Agent Skill（技能包），關鍵字：Claude（依標籤自動歸類，詳細看下方原文）
+為Claude Cowork和Claude.ai準備的60多種代理技能套件，適用於非技術使用者。
 
 **為何上榜**：10★ · 近期活躍
 
