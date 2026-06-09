@@ -4,5 +4,5 @@ Extract any website's complete design system with one command. DTCG tokens, sema
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,086
+**Stars**：3,108
 **Source**：https://github.com/Manavarya09/design-extract

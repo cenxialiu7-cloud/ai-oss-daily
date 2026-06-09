@@ -2,9 +2,9 @@
 
 AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。
 
-**為何上榜**：近一日新增 802★（現 61,887★）
+**為何上榜**：近一日新增 1518★（現 63,405★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：61,887
+**Stars**：63,405
 **原始連結**：https://github.com/safishamsi/graphify

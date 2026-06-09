@@ -4,5 +4,5 @@ Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25)
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：4,416
+**Stars**：4,418
 **Source**：https://github.com/CortexReach/memory-lancedb-pro

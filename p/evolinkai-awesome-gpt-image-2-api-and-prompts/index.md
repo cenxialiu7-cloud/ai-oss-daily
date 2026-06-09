@@ -2,7 +2,7 @@
 
 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 
-**為何上榜**：近一日新增 96★（現 16,313★）
+**為何上榜**：近一日新增 83★（現 16,396★）
 
 **主要功能**
 
@@ -15,5 +15,5 @@
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：16,313
+**Stars**：16,396
 **原始連結**：https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts

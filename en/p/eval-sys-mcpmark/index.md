@@ -4,5 +4,5 @@ MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate mo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：423
+**Stars**：424
 **Source**：https://github.com/eval-sys/mcpmark

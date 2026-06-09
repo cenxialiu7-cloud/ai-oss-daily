@@ -4,5 +4,5 @@ Claude Code learns from your corrections: self-correcting memory that compounds 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,275
+**Stars**：2,282
 **Source**：https://github.com/rohitg00/pro-workflow

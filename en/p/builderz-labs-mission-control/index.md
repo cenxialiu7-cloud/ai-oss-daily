@@ -4,5 +4,5 @@ Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent wor
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,213
+**Stars**：5,233
 **Source**：https://github.com/builderz-labs/mission-control

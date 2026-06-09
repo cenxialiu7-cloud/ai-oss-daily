@@ -2,7 +2,7 @@
 
 Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 
-**為何上榜**：近一日新增 4★（現 248★）
+**為何上榜**：近一日新增 4★（現 252★）
 
 **主要功能**
 
@@ -14,5 +14,5 @@ Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：248
+**Stars**：252
 **原始連結**：https://github.com/AgriciDaniel/codex-seo

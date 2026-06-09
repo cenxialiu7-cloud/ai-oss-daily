@@ -6,69 +6,69 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>08 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>09 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>LiconStudio/LTX-2.3-Multiple-Subject-Reference</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於生成多參考影片的AI模型。</description>
+<title>nex-agi/Nex-N2-Pro</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>一款基於轉換器模型的對話式文本生成工具。</description>
 </item>
 <item>
-<title>beijingcao/binance-deribit-btc</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>跨交易所BTC套利機器人，具備Telegram通知和Flask監控儀錶板。</description>
+<title>huihui-ai/Huihui-gemma-4-12B-it-abliterated</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>一個支援影像和文字轉換為任何格式的通用模型。</description>
 </item>
 <item>
-<title>DistributorTouch/Midjourney-Bot-Premium-Desktop</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distributortouch-midjourney-bot-premium-desktop/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distributortouch-midjourney-bot-premium-desktop/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>獨立的Midjourney API桌面客戶端，無限快速小時和Discord UI限制解除。</description>
+<title>Jiunsong/supergemma4-26b-uncensored-gguf-v2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>快速、無審核限制的超大規模對話式文本生成模型。</description>
 </item>
 <item>
-<title>branchscholarignite/ElevenLabs-Voice-Cloning-Pro</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/branchscholarignite-elevenlabs-voice-cloning-pro/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/branchscholarignite-elevenlabs-voice-cloning-pro/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>從30秒音訊片段複製任何語音的高階AI工具。</description>
+<title>gauss314/skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>提供給Claude程式碼和AI代理使用的金融市場資料消費技能。</description>
 </item>
 <item>
-<title>ExistenceDamsel/Suno-AI-Premium-Windows</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/existencedamsel-suno-ai-premium-windows/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/existencedamsel-suno-ai-premium-windows/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>使用Suno AI生成完整歌曲，無限額度和高品質WAV輸出。</description>
+<title>basinratobelisk/Wondershare-Filmora</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basinratobelisk-wondershare-filmora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basinratobelisk-wondershare-filmora/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>Wondershare Filmora，一款具備AI功能的直覺式影片編輯器。</description>
 </item>
 <item>
-<title>safishamsi/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</description>
+<title>JuliusBrussee/caveman</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
 </item>
 <item>
-<title>RyanCodrai/turbovec</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。</description>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</description>
 </item>
 <item>
-<title>Imbad0202/academic-research-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。</description>
+<title>heygen-com/hyperframes</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>使用HTML生成動畫影片的框架，專為代理設計。</description>
 </item>
 <item>
-<title>google/gemma-4-12B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/</guid>
-<pubDate>08 Jun 2026 08:00:00 +0000</pubDate>
-<description>多功能模型，支援各種資料型別之間的轉換。</description>
+<title>ideogram-ai/ideogram-4-fp8</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</guid>
+<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
+<description>文字轉影像模型，使用擴散和流匹配技術生成影像。</description>
 </item>
 </channel>
 </rss>
