@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
+<updated>2026-06-10T08:00:00+00:00</updated>
 <entry>
-<title>nex-agi/Nex-N2-Pro</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>一款基於轉換器模型的對話式文本生成工具。</summary>
+<title>CohereLabs/North-Mini-Code-1.0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>一個用於生成程式碼和對話的文本生成模型。</summary>
 </entry>
 <entry>
-<title>huihui-ai/Huihui-gemma-4-12B-it-abliterated</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>一個支援影像和文字轉換為任何格式的通用模型。</summary>
+<title>OBLITERATUS/Gemma-4-12B-OBLITERATED</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>將影像文字轉換為純文本的生成式模型。</summary>
 </entry>
 <entry>
-<title>Jiunsong/supergemma4-26b-uncensored-gguf-v2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>快速、無審核限制的超大規模對話式文本生成模型。</summary>
+<title>XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>支援長上下文和程式設計的程式碼生成模型。</summary>
 </entry>
 <entry>
-<title>JuliusBrussee/caveman</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</summary>
+<title>Leonxlnx/taste-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</summary>
 </entry>
 <entry>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
+<title>nexu-io/open-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
 </entry>
 <entry>
-<title>ideogram-ai/ideogram-4-fp8</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</id>
-<updated>2026-06-09T08:00:00+00:00</updated>
-<summary>文字轉影像模型，使用擴散和流匹配技術生成影像。</summary>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</id>
+<updated>2026-06-10T08:00:00+00:00</updated>
+<summary>將文本轉換為語音的合成器。</summary>
 </entry>
 </feed>

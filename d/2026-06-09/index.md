@@ -66,7 +66,6 @@ _每日存檔 · 2026-06-09_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。

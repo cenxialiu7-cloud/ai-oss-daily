@@ -4,5 +4,5 @@ Don Cheli — SDD Framework. The most comprehensive Specification-Driven Develop
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：55
+**Stars**：56
 **Source**：https://github.com/doncheli/don-cheli-sdd

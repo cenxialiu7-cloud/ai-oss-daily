@@ -4,5 +4,5 @@ M-Courtyard: Local AI Model Fine-tuning Assistant for Apple Silicon. Zero-code, 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：136
+**Stars**：137
 **Source**：https://github.com/Mcourtyard/m-courtyard

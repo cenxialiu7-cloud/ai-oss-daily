@@ -2,7 +2,7 @@
 
 Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。
 
-**為何上榜**：HF trending 154 · 548 likes · 135,131 下載
+**為何上榜**：HF trending 129 · 572 likes · 137,138 下載
 
 **主要功能**
 

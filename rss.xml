@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>09 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>10 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>nex-agi/Nex-N2-Pro</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>一款基於轉換器模型的對話式文本生成工具。</description>
+<title>CohereLabs/North-Mini-Code-1.0</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>一個用於生成程式碼和對話的文本生成模型。</description>
 </item>
 <item>
-<title>huihui-ai/Huihui-gemma-4-12B-it-abliterated</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個支援影像和文字轉換為任何格式的通用模型。</description>
+<title>OBLITERATUS/Gemma-4-12B-OBLITERATED</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>將影像文字轉換為純文本的生成式模型。</description>
 </item>
 <item>
-<title>Jiunsong/supergemma4-26b-uncensored-gguf-v2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>快速、無審核限制的超大規模對話式文本生成模型。</description>
+<title>XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>支援長上下文和程式設計的程式碼生成模型。</description>
 </item>
 <item>
-<title>JuliusBrussee/caveman</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
+<title>Leonxlnx/taste-skill</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</description>
 </item>
 <item>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</description>
+<title>nexu-io/open-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>ideogram-ai/ideogram-4-fp8</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</guid>
-<pubDate>09 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉影像模型，使用擴散和流匹配技術生成影像。</description>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</guid>
+<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
+<description>將文本轉換為語音的合成器。</description>
 </item>
 </channel>
 </rss>

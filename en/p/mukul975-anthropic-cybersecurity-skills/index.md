@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：14,913
+**Stars**：15,055
 **Source**：https://github.com/mukul975/Anthropic-Cybersecurity-Skills

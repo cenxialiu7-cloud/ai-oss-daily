@@ -4,5 +4,5 @@ A curated list of awesome DaVinci Resolve plugins, tools, and resources. Communi
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：180
+**Stars**：181
 **Source**：https://github.com/Greenysmac/awesome-davinci-resolve

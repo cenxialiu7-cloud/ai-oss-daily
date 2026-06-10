@@ -64,7 +64,6 @@ _Daily archive · 2026-06-08_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [webml-community/bonsai-image-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-image-webgpu/) — · static, region:us
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-qwen3-6-27b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
@@ -114,7 +113,7 @@ _Daily archive · 2026-06-08_
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
-- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:openmdw-1.0, size_categories:100M<n<1B, format:webdataset
+- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI Avatars — heygen, d-id, ai avatar, ai video avatar.
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-bonsai-image-demo/) — · docker, region:us
@@ -210,7 +209,7 @@ _Daily archive · 2026-06-08_
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mrfakename-z-image-turbo/) — · gradio, mcp-server, region:us
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thclaws-thclaws/) — Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider,…
-- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么决策,而不是只看最后一个 BUY/SELL。
+- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [study8677/awesome-architecture](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/study8677-awesome-architecture/) — 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases…
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
@@ -755,7 +754,7 @@ _Daily archive · 2026-06-08_
 - [openmed-labs/synthvision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openmed-labs-synthvision/) — Synthetic medical VQA pipeline: 119K images annotated by frontier VLMs, cross-validated at 93% agreement, fin…
 - [AnkitNayak-eth/llmBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ankitnayak-eth-llmbench/) — llmBench is a high-depth benchmarking tool designed to measure the raw performance of local LLM runtimes (Oll…
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuga-hashimoto-openclaw-assistant/) — OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
-- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes, but works)
+- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes and will be slower, but …
 - [eullm/eullm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eullm-eullm/) — Open-source platform for creating, distributing and running sovereign EU-compliant LLMs. Verticalize any mode…
 - [JJLibra/CC-Pan](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jjlibra-cc-pan/) — 🤗 Official implementation for "CC-Pan: Channel-wise Compression based Diffusion for Efficient Pan-Sharpening"…
 - [proximasan/tadpole-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/proximasan-tadpole-studio/) — Easy to use AI music generation UI for local models with QoL features

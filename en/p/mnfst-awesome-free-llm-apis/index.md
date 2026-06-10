@@ -4,5 +4,5 @@ List of Permanent Free LLM API  (API Keys)
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：4,908
+**Stars**：4,928
 **Source**：https://github.com/mnfst/awesome-free-llm-apis

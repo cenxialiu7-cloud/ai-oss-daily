@@ -12,7 +12,7 @@ _Daily archive · 2026-06-03_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-cosmos3-nano/) — · gradio, region:us
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI Avatars — heygen, d-id, ai avatar, ai video avatar.
-- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:openmdw-1.0, size_categories:100M<n<1B, format:webdataset
+- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
@@ -55,7 +55,6 @@ _Daily archive · 2026-06-03_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [webml-community/bonsai-image-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-image-webgpu/) — · static, region:us
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-qwen3-6-27b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
@@ -107,7 +106,7 @@ _Daily archive · 2026-06-03_
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/Voices-in-the-Wild-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-voices-in-the-wild-2m/) — · task_categories:automatic-speech-recognition, language:en, language:zh
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
-- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:openmdw-1.0, size_categories:100M<n<1B, format:webdataset
+- [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-facebook-vggt-omega/) — · gradio, region:us
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
@@ -163,7 +162,7 @@ _Daily archive · 2026-06-03_
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [bigmacman1129/solana-sniper-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-solana-sniper-mev-bot/) — Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitor…
-- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么决策,而不是只看最后一个 BUY/SELL。
+- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [l3lackcurtains/trading-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/l3lackcurtains-trading-ops/) — 📈 Framework-driven trading workspace in Claude Code — one slash command scans stocks, crypto, FX, indices & c…
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/esengine-deepseek-reasonix/) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it runnin…
@@ -574,7 +573,7 @@ _Daily archive · 2026-06-03_
 - [aicoincom/coinos-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aicoincom-coinos-skills/) — AiCoin crypto toolkit for AI agents — 40+ tools for real-time prices, K-lines, AI analysis, funding rates, wh…
 - [AbdelStark/attnres](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abdelstark-attnres/) — Rust implementation of Attention Residuals from MoonshotAI/Kimi
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bohyy-academic-ai-prompt/) — 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 …
-- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes, but works)
+- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes and will be slower, but …
 - [mozi1924/Qwen3-TTS-EasyFinetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mozi1924-qwen3-tts-easyfinetuning/) — Easy fine-tuning for Qwen3-TTS: Fast voice cloning and high-quality multilingual speech synthesis.
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
 - [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmaneblial-awesome-openclaw-examples/) — Awesome OpenClaw examples: 101 tested, real-world OpenClaw usecases built with ClawHub skills, runnable scrip…

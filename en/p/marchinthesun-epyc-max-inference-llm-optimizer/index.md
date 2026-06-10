@@ -1,6 +1,6 @@
 # marchinthesun/EPYC-Max-Inference-LLM-Optimizer
 
-llama.cpp fork with additional SOTA quants and improved performance  for windows
+LLM Optimizer for NUMA, and monitor LLM system
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

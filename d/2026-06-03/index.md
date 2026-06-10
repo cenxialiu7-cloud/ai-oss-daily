@@ -55,7 +55,6 @@ _每日存檔 · 2026-06-03_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [webml-community/bonsai-image-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-bonsai-image-webgpu/) — 在瀏覽器用 WebGPU 跑的文生圖示範（HF Space）。
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。

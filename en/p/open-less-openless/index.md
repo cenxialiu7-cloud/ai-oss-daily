@@ -4,5 +4,5 @@ Hold a key, speak, release — AI-polished text appears at your cursor in any ap
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,211
+**Stars**：2,242
 **Source**：https://github.com/Open-Less/openless

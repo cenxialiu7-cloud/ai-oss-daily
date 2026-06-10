@@ -67,7 +67,6 @@ _每日存檔 · 2026-06-06_
 - [webml-community/bonsai-image-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-bonsai-image-webgpu/) — 在瀏覽器用 WebGPU 跑的文生圖示範（HF Space）。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/) — 面壁 UltraData 監督微調(SFT)資料集（文字生成／問答）。
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-video/) — 將 HTML、CSS 和資料轉換成 MP4 影片，支援多種渲染引擎和音效。

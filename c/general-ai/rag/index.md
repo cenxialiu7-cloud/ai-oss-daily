@@ -1,11 +1,11 @@
 # 📚 RAG／檢索／向量庫
 
-- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/) — AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
+- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/) — AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。
 - [SouravRoy-ETL/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/souravroy-etl-duckle/) — 本地優先的資料整合工作室，拖放式設計編譯為SQL並在DuckDB上執行。
-- [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flowelement-ai-m-flow/) — 生物啟發式認知記憶引擎，適用於圖形 RAG 的新方法。
+- [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-system/) — 一套完整的 RAG 面試問題、答案及系統設計場景集合。
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayoubnabil-aiondb/) — 一個從頭開始用 Rust 製作的相容 PostgreSQL 的 SQL、圖形和向量資料庫。
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。

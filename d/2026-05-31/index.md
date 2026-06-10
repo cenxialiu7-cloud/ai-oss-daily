@@ -46,7 +46,6 @@ _每日存檔 · 2026-05-31_
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jedisct1-mimo-v2-5-coder-q2/) — MiMo V2.5 程式碼模型的 Q2 量化版（llama.cpp）。
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。

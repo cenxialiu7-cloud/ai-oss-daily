@@ -11,6 +11,6 @@
 ## Open-source parts
 
 - [HKUDS/Vibe-Trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-vibe-trading/) — "Vibe-Trading: Your Personal Trading Agent"
-- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么决策,而不是只看最后一个 BUY/SELL。
+- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [cutemarkets/cutebacktests](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cutemarkets-cutebacktests/) — Backtesting framework for modern option strategies
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth

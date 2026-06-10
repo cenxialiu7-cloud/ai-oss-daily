@@ -54,7 +54,6 @@ _Daily archive · 2026-06-01_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-qwen3-6-27b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
@@ -143,7 +142,7 @@ _Daily archive · 2026-06-01_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hajimides-sd-anima-prompt-studio/) — ✨ Stunning glassmorphism UI for Stable Diffusion and Anima prompt engineering. Intelligent conflict-free comp…
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
-- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么决策,而不是只看最后一个 BUY/SELL。
+- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lambda-hermes-agent-reasoning-traces/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chz1y-steerable-music-transformer/) — Official PyTorch implementation of "Steerable Rhythmic Complexity in Autoregressive Music Generation" (EI Acc…
@@ -536,7 +535,7 @@ _Daily archive · 2026-06-01_
 - [danishashko/geo-aeo-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/danishashko-geo-aeo-tracker/) — Open-source, local-first AI visibility intelligence dashboard. Track your brand across 6 AI models.
 - [Tinananan873/AlphaGBM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tinananan873-alphagbm/) — AlphaGBM：AI 驱动的智能期权分析与高频交易量化软件。提供实时希腊字母计算与 IV 曲面拟合。
 - [openmed-labs/synthvision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openmed-labs-synthvision/) — Synthetic medical VQA pipeline: 119K images annotated by frontier VLMs, cross-validated at 93% agreement, fin…
-- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes, but works)
+- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes and will be slower, but …
 - [MCERQUA/OpenVoiceUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcerqua-openvoiceui/) — Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canvas, music generation, and…
 - [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jau123-meigen-ai-design-mcp/) — Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi…
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onyx-dot-app-enterpriserag-bench/) — Dataset and benchmark for RAG on company internal documents.

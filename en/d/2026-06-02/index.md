@@ -54,7 +54,6 @@ _Daily archive · 2026-06-02_
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-qwen3-6-27b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
@@ -145,7 +144,7 @@ _Daily archive · 2026-06-02_
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hajimides-sd-anima-prompt-studio/) — ✨ Stunning glassmorphism UI for Stable Diffusion and Anima prompt engineering. Intelligent conflict-free comp…
-- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么决策,而不是只看最后一个 BUY/SELL。
+- [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chz1y-steerable-music-transformer/) — Official PyTorch implementation of "Steerable Rhythmic Complexity in Autoregressive Music Generation" (EI Acc…
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/byliutao-cdm/) — Continuous-Time Distribution Matching for Few-Step Diffusion Distillation👏
@@ -540,7 +539,7 @@ _Daily archive · 2026-06-02_
 - [mozi1924/Qwen3-TTS-EasyFinetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mozi1924-qwen3-tts-easyfinetuning/) — Easy fine-tuning for Qwen3-TTS: Fast voice cloning and high-quality multilingual speech synthesis.
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
 - [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmaneblial-awesome-openclaw-examples/) — Awesome OpenClaw examples: 101 tested, real-world OpenClaw usecases built with ClawHub skills, runnable scrip…
-- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes, but works)
+- [mlm-games/Miniter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlm-games-miniter/) — Basic non-linear video editor for basic clip concatination and trimming (web freezes and will be slower, but …
 - [proximasan/tadpole-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/proximasan-tadpole-studio/) — Easy to use AI music generation UI for local models with QoL features
 - [greekr4/viruagent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greekr4-viruagent-cli/) — AI agent-powered CLI for blog publishing, Naver Cafe, Instagram, X (Twitter) & Reddit automation
 - [OwenTyme/voice-zero](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/owentyme-voice-zero/) — Collection of samples suitable for use with zero-shot text to speech engines.

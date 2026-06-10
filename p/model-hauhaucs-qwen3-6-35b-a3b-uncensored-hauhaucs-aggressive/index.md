@@ -2,7 +2,7 @@
 
 Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 
-**為何上榜**：HF trending 276 · 1,553 likes · 3,036,465 下載
+**為何上榜**：HF trending 263 · 1,593 likes · 2,983,909 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

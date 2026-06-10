@@ -54,7 +54,6 @@ _每日存檔 · 2026-06-01_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
-- [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-qwen3-6-27b-obliterated/) — Qwen3.6-27B 的去拒答(abliterated)版本。
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-6/) — 面壁 MiniCPM-V 多模態模型（看圖對話）。
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
