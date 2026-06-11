@@ -388,7 +388,6 @@ _Daily archive · 2026-06-01_
 - [worldbench/awesome-ai-auto-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-awesome-ai-auto-research/) — 🔥 A Survey on AI Auto-Research
 - [fancyboi999/Loomic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fancyboi999-loomic/) — Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio / Canva AI. Chat-driven imag…
 - [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/czg1225-dmax/) — DMax: Aggressive Parallel Decoding for dLLMs
-- [jokersgrinbeewulf4/capcut-ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jokersgrinbeewulf4-capcut-ultimate/) — CapCut Ultimate unlocks elite 4K export, AI-driven auto-captions, and premium transitions. Use advanced multi…
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [Correr-Zhou/OmniShow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/correr-zhou-omnishow/) — [ICML 2026] ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation
 - [dataelement/Clawith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataelement-clawith/) — Your Agent Company

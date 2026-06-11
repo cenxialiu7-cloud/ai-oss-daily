@@ -16,3 +16,7 @@
 - [GEO 稽核機器人即服務（每月幫品牌站體檢「能不能被 AI 引用」）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P014/) — 用一套 agent skill 每月自動稽核客戶網站在 Google AI Overviews／Perplexity／ChatGPT 的可被引用性，產出可執行修復清單，做成訂閱型代操服務。
 - [LinkedIn 個人品牌代操（B2B 創作者每週貼文流水線即服務）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P015/) — 用 LinkedIn 成長 skill＋提示工程＋第二大腦，把客戶的領域知識自動煉成每週『像真人、會被注意』的 LinkedIn 貼文與互動留言，做成月費代操。
 - [口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P016/) — 把 MediaGrab（跨平台影音下載）當素材入口，串開源 TTS 與技能包標準，做成『丟一個選題或一支來源影片 → 自動產出帶配音、字幕、封面的雙語短影音』的可重現流水線。
+- [資安情報 MCP ＋ 桌面哨兵（綜效 MacSentinel）：給 Claude/Cursor 的即時 CVE/紅隊軍火庫](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P017/) — 把 CVE 情報、滲透測試工具集接成 MCP server，讓 AI agent 一句話就查到最新漏洞、跑安全稽核，搭配本機桌面哨兵做持續監控。
+- [程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/) — 把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。
+- [角色動畫 IP 工廠：一張角色圖 → 會動會說話的雙語動畫短片（VTuber/貼圖/兒童內容）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P019/) — 上傳一張角色設定圖，自動生成會動作、有配音字幕的動畫短片，量產 IP 經營、兒童故事、貼圖宣傳素材。
+- [中小企業 AI 廣告投放管家：Google/Meta Ads ＋ GA4 用一句話託管優化](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P020/) — 把 Google/Meta 廣告與 GA4 接成 MCP，讓老闆用自然語言查成效、調預算、生成素材文案，做成中小企業月費代操服務。

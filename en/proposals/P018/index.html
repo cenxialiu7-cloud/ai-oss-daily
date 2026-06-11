@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review — AI OSS Daily</title>
+<meta name="description" content="把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P018/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P018/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P018/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review — AI OSS Daily">
+<meta property="og:description" content="把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P018/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review — AI OSS Daily">
+<meta name="twitter:description" content="把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review", "description": "把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。", "datePublished": "2026-06-11T08:00:00+00:00", "dateModified": "2026-06-11T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-11/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P018/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P018</p>
+  <h1>程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review</h1>
+  <p class="detail-lead">把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">3–4 週（圖譜引擎串接＋報告模板＋訂閱/席次閘門；先 CLI/web MVP，再包桌面版）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①SaaS 訂閱（按 repo 數/團隊席次）②macOS 桌面版買斷（離線、私有碼不外流，走 MoR）③對工程團隊/接案者賣『一次性 codebase 體檢報告』做漏斗 ④落地頁 Adsterra/Monetag＋Ko-fi。不碰 VPN。</p></div>
+  <div class="panel"><h2>How it works</h2><p>指定 repo → Understand-Anything 建出函式/模組/依賴的可互動知識圖譜 → semble 提供省 token 的精準檢索讓問答便宜 → open-codex 自動走查產出『新人導覽路線＋風險熱點』→ 前端專案再用 design-extract 抽出設計系統。輸出互動式網頁＋PDF 體檢報告（沿用 OSS Radar 既有 Jinja2 模板）；私有版全本機跑、碼不外流。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/egonex-ai-understand-anything/">Egonex-AI/Understand-Anything</a></h3>
+<p class="summary">Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 56,618</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/minishlab-semble/">MinishLab/semble</a></h3>
+<p class="summary">Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 5,044</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/">iFurySt/open-codex-computer-use</a></h3>
+<p class="summary">👾 Open Computer Use – Open-Source Alternative to Codex Computer Use</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Codex</span><span class="badge target">Gemini</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,037</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/manavarya09-design-extract/">Manavarya09/design-extract</a></h3>
+<p class="summary">Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Windsurf</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 3,149</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

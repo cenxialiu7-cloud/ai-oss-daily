@@ -50,3 +50,7 @@
 - [GEO 稽核機器人即服務（每月幫品牌站體檢「能不能被 AI 引用」）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P014/)
 - [LinkedIn 個人品牌代操（B2B 創作者每週貼文流水線即服務）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P015/)
 - [口播工廠 Pro（MediaGrab 素材 → 帶人聲口播的雙語短影音流水線）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P016/)
+- [資安情報 MCP ＋ 桌面哨兵（綜效 MacSentinel）：給 Claude/Cursor 的即時 CVE/紅隊軍火庫](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P017/)
+- [程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/)
+- [角色動畫 IP 工廠：一張角色圖 → 會動會說話的雙語動畫短片（VTuber/貼圖/兒童內容）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P019/)
+- [中小企業 AI 廣告投放管家：Google/Meta Ads ＋ GA4 用一句話託管優化](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P020/)
