@@ -4,5 +4,5 @@ Fine-tuned Qwen2-VL-7B for LaTeX OCR using LoRA and Unsloth on the LaTeX OCR dat
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：22
+**Stars**：24
 **Source**：https://github.com/shlokchorge/Fine-Tuning-QWEN2vl

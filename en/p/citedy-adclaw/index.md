@@ -4,5 +4,5 @@ Open-source multi-agent AI marketing team with personas, shared memory, 130+ ski
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：21
+**Stars**：22
 **Source**：https://github.com/citedy/adclaw

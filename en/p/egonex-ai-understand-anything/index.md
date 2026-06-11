@@ -4,5 +4,5 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：55,919
+**Stars**：56,618
 **Source**：https://github.com/Egonex-AI/Understand-Anything

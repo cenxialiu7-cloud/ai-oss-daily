@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>10 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>11 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>CohereLabs/North-Mini-Code-1.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個用於生成程式碼和對話的文本生成模型。</description>
+<title>zai-org/SCAIL-2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。</description>
 </item>
 <item>
-<title>OBLITERATUS/Gemma-4-12B-OBLITERATED</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>將影像文字轉換為純文本的生成式模型。</description>
+<title>google/diffusiongemma-26B-A4B-it</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。</description>
 </item>
 <item>
-<title>XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>支援長上下文和程式設計的程式碼生成模型。</description>
+<title>agents-last-exam/agents-last-exam</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Leonxlnx/taste-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</description>
+<title>RyanCodrai/turbovec</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>safishamsi/graphify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</description>
 </item>
 <item>
-<title>bosonai/higgs-audio-v3-tts-4b</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</guid>
-<pubDate>10 Jun 2026 08:00:00 +0000</pubDate>
-<description>將文本轉換為語音的合成器。</description>
+<title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/</guid>
+<pubDate>11 Jun 2026 08:00:00 +0000</pubDate>
+<description>即時語音識別系統，支援多語言。</description>
 </item>
 </channel>
 </rss>

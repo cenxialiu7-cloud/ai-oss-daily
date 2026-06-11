@@ -4,5 +4,5 @@ AgentCall lets AI Agents join meetings with voice, video & screen-share to build
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：97
+**Stars**：99
 **Source**：https://github.com/pattern-ai-labs/agentcall

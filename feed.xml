@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
+<updated>2026-06-11T08:00:00+00:00</updated>
 <entry>
-<title>CohereLabs/North-Mini-Code-1.0</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>一個用於生成程式碼和對話的文本生成模型。</summary>
+<title>zai-org/SCAIL-2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。</summary>
 </entry>
 <entry>
-<title>OBLITERATUS/Gemma-4-12B-OBLITERATED</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>將影像文字轉換為純文本的生成式模型。</summary>
+<title>google/diffusiongemma-26B-A4B-it</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。</summary>
 </entry>
 <entry>
-<title>XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>支援長上下文和程式設計的程式碼生成模型。</summary>
+<title>agents-last-exam/agents-last-exam</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>Leonxlnx/taste-skill</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</summary>
+<title>RyanCodrai/turbovec</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。</summary>
 </entry>
 <entry>
-<title>nexu-io/open-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
+<title>safishamsi/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</summary>
 </entry>
 <entry>
-<title>bosonai/higgs-audio-v3-tts-4b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</id>
-<updated>2026-06-10T08:00:00+00:00</updated>
-<summary>將文本轉換為語音的合成器。</summary>
+<title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/</id>
+<updated>2026-06-11T08:00:00+00:00</updated>
+<summary>即時語音識別系統，支援多語言。</summary>
 </entry>
 </feed>

@@ -4,5 +4,5 @@ Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,405
+**Stars**：2,411
 **Source**：https://github.com/yaojingang/yao-open-prompts

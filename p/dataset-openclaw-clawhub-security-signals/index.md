@@ -2,7 +2,7 @@
 
 OpenClaw skill 安全訊號資料集（skill 供應鏈安全分類）。
 
-**為何上榜**：HF trending 27 · 44 likes · 348 下載
+**為何上榜**：HF trending 17 · 44 likes · 390 下載
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 

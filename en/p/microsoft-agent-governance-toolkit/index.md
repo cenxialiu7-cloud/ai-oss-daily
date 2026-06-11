@@ -4,5 +4,5 @@ AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, executi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,162
+**Stars**：4,194
 **Source**：https://github.com/microsoft/agent-governance-toolkit

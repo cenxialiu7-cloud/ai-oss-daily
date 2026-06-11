@@ -1,6 +1,6 @@
 # SulphurAI/Sulphur-2-base
 
-text-to-video · diffusers, gguf, text-to-video
+text-to-video · diffusers, safetensors, gguf
 
 **Key features**
 

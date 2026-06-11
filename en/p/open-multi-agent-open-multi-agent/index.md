@@ -4,5 +4,5 @@ From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestr
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：6,347
+**Stars**：6,356
 **Source**：https://github.com/open-multi-agent/open-multi-agent
