@@ -4,5 +4,5 @@ DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：20,834
+**Stars**：21,242
 **Source**：https://github.com/esengine/DeepSeek-Reasonix

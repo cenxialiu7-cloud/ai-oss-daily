@@ -4,5 +4,5 @@ Vocello — a local, private voice studio for Apple Silicon. Write a script, pic
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：291
+**Stars**：294
 **Source**：https://github.com/PowerBeef/QwenVoice

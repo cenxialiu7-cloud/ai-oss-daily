@@ -4,5 +4,5 @@ ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversatio
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：29
+**Stars**：31
 **Source**：https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI

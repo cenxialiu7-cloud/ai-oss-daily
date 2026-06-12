@@ -4,5 +4,5 @@ Persistent Context Across Sessions for Every Agent –  Captures everything your
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：81,643
+**Stars**：81,840
 **Source**：https://github.com/thedotmack/claude-mem

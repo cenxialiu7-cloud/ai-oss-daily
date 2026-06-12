@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
+<updated>2026-06-12T08:00:00+00:00</updated>
 <entry>
-<title>zai-org/SCAIL-2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
-<summary>將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。</summary>
+<title>RazzzHF/Realism_Engine_Ideogram_4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
+<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>google/diffusiongemma-26B-A4B-it</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
-<summary>基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。</summary>
+<title>pat-jj/harness-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
+<summary>用於生成文本的轉換器模型，支援對話和搜尋。</summary>
 </entry>
 <entry>
-<title>agents-last-exam/agents-last-exam</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
+<title>liumindmind/Neko_Audio-80K_Short</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
 <summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>RyanCodrai/turbovec</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
-<summary>基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。</summary>
+<title>alibaba/open-code-review</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
+<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
 </entry>
 <entry>
-<title>safishamsi/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
-<summary>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</summary>
+<title>esengine/DeepSeek-Reasonix</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
+<summary>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</summary>
 </entry>
 <entry>
-<title>nvidia/nemotron-3.5-asr-streaming-0.6b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/</id>
-<updated>2026-06-11T08:00:00+00:00</updated>
-<summary>即時語音識別系統，支援多語言。</summary>
+<title>ideogram-ai/ideogram-4-fp8</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</id>
+<updated>2026-06-12T08:00:00+00:00</updated>
+<summary>文字轉影像模型，使用擴散和流匹配技術生成影像。</summary>
 </entry>
 </feed>

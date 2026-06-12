@@ -2,7 +2,7 @@
 
 JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 
-**為何上榜**：HF trending 98 · 281 likes · 18,273 下載
+**為何上榜**：HF trending 79 · 283 likes · 18,273 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

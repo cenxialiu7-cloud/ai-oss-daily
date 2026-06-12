@@ -4,5 +4,5 @@ PersonaPlex on Apple Silicon: an MLX port of NVIDIA’s full-duplex speech-to-sp
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：69
+**Stars**：68
 **Source**：https://github.com/mu-hashmi/personaplex-mlx

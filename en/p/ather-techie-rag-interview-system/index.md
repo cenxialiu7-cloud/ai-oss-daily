@@ -1,6 +1,6 @@
 # ather-techie/rag-interview-system
 
-A complete collection of RAG interview questions, answers (200 questions & 12 RAG types), system design scenarios, architecture patterns, and production-ready concepts.
+A complete collection of RAG interview questions, answers (204 questions & 12 RAG types), system design scenarios, architecture patterns, and production-ready concepts.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

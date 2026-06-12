@@ -4,5 +4,5 @@ VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：144
+**Stars**：145
 **Source**：https://github.com/Saganaki22/ComfyUI-VoxCPM2

@@ -4,5 +4,5 @@ A Curated List of Awesome Video World Models with AR Diffusion: Covering Algorit
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：592
+**Stars**：593
 **Source**：https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion
