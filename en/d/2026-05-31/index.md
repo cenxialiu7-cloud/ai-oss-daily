@@ -39,7 +39,6 @@ _Daily archive · 2026-05-31_
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [webml-community/bonsai-image-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-image-webgpu/) — · static, region:us
-- [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
@@ -433,7 +432,7 @@ _Daily archive · 2026-05-31_
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xstongxue-best-prompts/) — 通用高质量 Prompt 合集🔥
 - [guaardvark/guaardvark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/guaardvark-guaardvark/) — The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video…
 - [PowerBeef/QwenVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/powerbeef-qwenvoice/) — Vocello — a local, private voice studio for Apple Silicon. Write a script, pick or describe a voice, and gene…
-- [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — One stock code → full company story
+- [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
 - [golutra/golutra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/golutra-golutra/) — Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Code…
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/askkumptenchen-agent-chat-selfie/) — Built for OpenClaw and beyond, Chat Selfie lets your AI Agent send you emotional selfies in every conversatio…
 - [sysprog21/zhtw-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sysprog21-zhtw-mcp/) — A linguistic linter for Traditional Chinese (zh-TW)
@@ -514,7 +513,7 @@ _Daily archive · 2026-05-31_
 - [Zyora-Dev/zse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zyora-dev-zse/) — The inference engine the open-source world built for itself.
 - [Aratako/MioTTS-Inference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-miotts-inference/) — Inference server for MioTTS, a lightweight and fast LLM-based TTS model.
 - [mu-hashmi/personaplex-mlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mu-hashmi-personaplex-mlx/) — PersonaPlex on Apple Silicon: an MLX port of NVIDIA’s full-duplex speech-to-speech model with realtime local/…
-- [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-awesome-remote-sensing-agents/) — 🚀🚀🚀Official Repository of Intelligent Remote Sensing Agents: A Survey
+- [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-awesome-remote-sensing-agents/) — 🚀Official Repository of Intelligent Remote Sensing Agents: A Survey
 - [EvoLinkAI/Awesome-Nano-Banana-2-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-nano-banana-2-prompt/) — 🍌 A curated collection of 100+ high-quality Nano Banana 2 prompts for AI image generation
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuga-hashimoto-openclaw-assistant/) — OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [MutantSparrow/JustRayzist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mutantsparrow-justrayzist/) — A lightweight CUDA-based local inference platform built around Z-Image Turbo by Tongyi

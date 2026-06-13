@@ -2,7 +2,7 @@
 
 DeepSeek 系列的大型語言模型(text-generation)，下載量近 600 萬居 AI 基礎堆疊前段。
 
-**為何上榜**：HF trending 105 · 4,781 likes · 4,061,006 下載
+**為何上榜**：HF trending 96 · 4,796 likes · 3,384,418 下載
 
 **主要功能**
 

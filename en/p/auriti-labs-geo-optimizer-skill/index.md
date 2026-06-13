@@ -4,5 +4,5 @@ Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (G
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：463
+**Stars**：465
 **Source**：https://github.com/Auriti-Labs/geo-optimizer-skill

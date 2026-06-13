@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>12 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>13 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>RazzzHF/Realism_Engine_Ideogram_4</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
+<title>moonshotai/Kimi-K2.7-Code</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k2-7-code/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k2-7-code/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>影像轉文字的AI模型，支援多模態和壓縮張量。</description>
 </item>
 <item>
-<title>pat-jj/harness-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於生成文本的轉換器模型，支援對話和搜尋。</description>
+<title>MiniMaxAI/MiniMax-M3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>將影像與文本結合生成文本的多模態模型，適用於各種場景。</description>
 </item>
 <item>
-<title>liumindmind/Neko_Audio-80K_Short</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>Leonxlnx/taste-skill</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</description>
 </item>
 <item>
-<title>esengine/DeepSeek-Reasonix</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</description>
+<title>nexu-io/open-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>ideogram-ai/ideogram-4-fp8</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</guid>
-<pubDate>12 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉影像模型，使用擴散和流匹配技術生成影像。</description>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</guid>
+<pubDate>13 Jun 2026 08:00:00 +0000</pubDate>
+<description>將文本轉換為語音的合成器。</description>
 </item>
 </channel>
 </rss>

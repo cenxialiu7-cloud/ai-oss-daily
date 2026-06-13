@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
+<updated>2026-06-13T08:00:00+00:00</updated>
 <entry>
-<title>RazzzHF/Realism_Engine_Ideogram_4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
+<title>moonshotai/Kimi-K2.7-Code</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k2-7-code/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k2-7-code/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>影像轉文字的AI模型，支援多模態和壓縮張量。</summary>
 </entry>
 <entry>
-<title>pat-jj/harness-1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>用於生成文本的轉換器模型，支援對話和搜尋。</summary>
+<title>MiniMaxAI/MiniMax-M3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>將影像與文本結合生成文本的多模態模型，適用於各種場景。</summary>
 </entry>
 <entry>
-<title>liumindmind/Neko_Audio-80K_Short</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。</summary>
 </entry>
 <entry>
-<title>alibaba/open-code-review</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
+<title>Leonxlnx/taste-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</summary>
 </entry>
 <entry>
-<title>esengine/DeepSeek-Reasonix</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</summary>
+<title>nexu-io/open-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
 </entry>
 <entry>
-<title>ideogram-ai/ideogram-4-fp8</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/</id>
-<updated>2026-06-12T08:00:00+00:00</updated>
-<summary>文字轉影像模型，使用擴散和流匹配技術生成影像。</summary>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</id>
+<updated>2026-06-13T08:00:00+00:00</updated>
+<summary>將文本轉換為語音的合成器。</summary>
 </entry>
 </feed>

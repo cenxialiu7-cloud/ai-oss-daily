@@ -4,5 +4,5 @@ Portable AI music generator — full songs with vocals, covers, music videos. On
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：192
+**Stars**：194
 **Source**：https://github.com/timoncool/ACE-Step-Studio

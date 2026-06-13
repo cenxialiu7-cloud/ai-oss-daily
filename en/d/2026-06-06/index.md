@@ -70,7 +70,6 @@ _Daily archive · 2026-06-06_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-video/) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s wit…
-- [Jackrong/Qwopus3.6-27B-v2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-locateanything-3b/) — image-text-to-text · transformers, safetensors, locateanything
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ideogram-ai-ideogram4/) — · gradio, region:us
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
@@ -549,7 +548,7 @@ _Daily archive · 2026-06-06_
 - [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-paperbanana/) — Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, dia…
 - [ArchieIndian/openclaw-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archieindian-openclaw-superpowers/) — 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, per…
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigint-rag-computer/) — Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API
-- [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — One stock code → full company story
+- [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evan-kolberg-prediction-market-backtesting/) — An extension for Nautilus Trader
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
 - [punisherluckysun92/Crypto-AIBot-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/punisherluckysun92-crypto-aibot-2026/) — Crypto AI Analytics is a sophisticated desktop tool designed for data-driven crypto market analysis and intel…
@@ -639,7 +638,7 @@ _Daily archive · 2026-06-06_
 - [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmaneblial-awesome-openclaw-examples/) — Awesome OpenClaw examples: 101 tested, real-world OpenClaw usecases built with ClawHub skills, runnable scrip…
 - [MCERQUA/OpenVoiceUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcerqua-openvoiceui/) — Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canvas, music generation, and…
 - [greekr4/viruagent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greekr4-viruagent-cli/) — AI agent-powered CLI for blog publishing, Naver Cafe, Instagram, X (Twitter) & Reddit automation
-- [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-awesome-remote-sensing-agents/) — 🚀🚀🚀Official Repository of Intelligent Remote Sensing Agents: A Survey
+- [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-awesome-remote-sensing-agents/) — 🚀Official Repository of Intelligent Remote Sensing Agents: A Survey
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onyx-dot-app-enterpriserag-bench/) — Dataset and benchmark for RAG on company internal documents.
 - [OwenTyme/voice-zero](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/owentyme-voice-zero/) — Collection of samples suitable for use with zero-shot text to speech engines.
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuga-hashimoto-openclaw-assistant/) — OpenClaw voice assistant app for Android - Wake word activation & system assistant integration

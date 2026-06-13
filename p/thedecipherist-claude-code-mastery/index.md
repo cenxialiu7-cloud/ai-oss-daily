@@ -2,9 +2,9 @@
 
 全面介紹Claude Code的指南，涵蓋技能、伺服器和命令。
 
-**為何上榜**：近一日新增 1★（現 524★）
+**為何上榜**：近一日新增 1★（現 525★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：524
+**Stars**：525
 **原始連結**：https://github.com/TheDecipherist/claude-code-mastery

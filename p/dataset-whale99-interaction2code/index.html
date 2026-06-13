@@ -3,36 +3,36 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jackrong/Qwopus3.6-27B-v2-GGUF — 🧱 AI 基礎堆疊 — AI 開源日報</title>
-<meta name="description" content="Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。">
-<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/">
-<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/">
-<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/">
-<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/">
-<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/index.md" title="純文字（Markdown）版">
+<title>whale99/Interaction2Code — 🧱 AI 基礎堆疊 — AI 開源日報</title>
+<meta name="description" content="Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/index.md" title="純文字（Markdown）版">
 <link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI 開源日報">
-<meta property="og:title" content="Jackrong/Qwopus3.6-27B-v2-GGUF — 🧱 AI 基礎堆疊 — AI 開源日報">
-<meta property="og:description" content="Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。">
-<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/">
+<meta property="og:title" content="whale99/Interaction2Code — 🧱 AI 基礎堆疊 — AI 開源日報">
+<meta property="og:description" content="Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="zh_TW">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Jackrong/Qwopus3.6-27B-v2-GGUF — 🧱 AI 基礎堆疊 — AI 開源日報">
-<meta name="twitter:description" content="Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。">
+<meta name="twitter:title" content="whale99/Interaction2Code — 🧱 AI 基礎堆疊 — AI 開源日報">
+<meta name="twitter:description" content="Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Jackrong/Qwopus3.6-27B-v2-GGUF", "description": "Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF", "license": "apache-2.0", "keywords": "transformers, gguf, llama.cpp, image-text-to-text, vision, multimodal, text-generation-inference, unsloth"}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI 開源日報", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI 基礎堆疊", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ 推理／部署引擎", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "Jackrong/Qwopus3.6-27B-v2-GGUF", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-v2-gguf/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "whale99/Interaction2Code", "description": "Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://huggingface.co/datasets/whale99/Interaction2Code", "keywords": "task_categories:image-text-to-text, language:en, size_categories:1K<n<10K, format:imagefolder, modality:image, library:datasets, library:mlcroissant, arxiv:2411.03292"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI 開源日報", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI 基礎堆疊", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "👁️ 多模態／VLM", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/multimodal/"}, {"@type": "ListItem", "position": 4, "name": "whale99/Interaction2Code", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/"}]}</script>
 </head>
 <body>
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
     <nav class="nav">
-<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-v2-gguf/">English</a>
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/p/dataset-whale99-interaction2code/">English</a>
     </nav>
   </div>
 </header>
@@ -42,24 +42,24 @@
   <p class="crumbs">
     <a href="/ai-oss-daily/">回首頁</a> /
     <a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a>
- / <a href="/ai-oss-daily/c/general-ai/inference/">⚡ 推理／部署引擎</a>  </p>
-  <h1>Jackrong/Qwopus3.6-27B-v2-GGUF</h1>
-<p class="detail-lead">Qwen3.6-27B 的 GGUF 量化版（可用 llama.cpp 本機跑）。</p>  <div class="cardmeta" style="margin-top:12px">
+ / <a href="/ai-oss-daily/c/general-ai/multimodal/">👁️ 多模態／VLM</a>  </p>
+  <h1>whale99/Interaction2Code</h1>
+<p class="detail-lead">Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI 基礎堆疊</span>
     <span class="badge lic-unknown">授權未明</span>
   </div>
   <div class="hero-cta">
-    <a class="btn primary" href="https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF" rel="noopener" target="_blank">↗ 原始連結</a>
+    <a class="btn primary" href="https://huggingface.co/datasets/whale99/Interaction2Code" rel="noopener" target="_blank">↗ 原始連結</a>
   </div>
 </section>
 
 <section class="block detail-grid">
-  <div class="panel"><h2>為何上榜</h2><p>HF trending 55 · 200 likes · 40,637 下載</p></div>
+  <div class="panel"><h2>為何上榜</h2><p>HF trending 9 · 9 likes · 3,143 下載</p></div>
   <div class="panel">
     <h2>商用授權</h2>
-    <div class="kv"><span class="badge lic-unknown">授權未明</span><span class="badge">apache-2.0</span></div>
-<p style="color:var(--fg-dim)">未知授權代碼 apache-2.0 — 請人工確認商用條款</p>  </div>
-  <div class="panel"><h2>Topics</h2><div class="chips" style="margin:0"><span class="chip">transformers</span><span class="chip">gguf</span><span class="chip">llama.cpp</span><span class="chip">image-text-to-text</span><span class="chip">vision</span><span class="chip">multimodal</span><span class="chip">text-generation-inference</span><span class="chip">unsloth</span></div></div>
+    <div class="kv"><span class="badge lic-unknown">授權未明</span></div>
+<p style="color:var(--fg-dim)">未標示授權 — 商用前務必確認(預設視為保留所有權利)</p>  </div>
+  <div class="panel"><h2>Topics</h2><div class="chips" style="margin:0"><span class="chip">task_categories:image-text-to-text</span><span class="chip">language:en</span><span class="chip">size_categories:1K&lt;n&lt;10K</span><span class="chip">format:imagefolder</span><span class="chip">modality:image</span><span class="chip">library:datasets</span><span class="chip">library:mlcroissant</span><span class="chip">arxiv:2411.03292</span></div></div>
 </section>
 
 <div style="display:flex;justify-content:center"><div class="adslot">
