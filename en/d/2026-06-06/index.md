@@ -230,7 +230,7 @@ _Daily archive · 2026-06-06_
 - [retlehs/quien](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/retlehs-quien/) — A better whois and domain intelligence toolkit
 - [openai/gsm8k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gsm8k/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景
+- [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday l…
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fikrikarim-parlor/) — On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely…
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/browser-use-browser-harness/) — Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by

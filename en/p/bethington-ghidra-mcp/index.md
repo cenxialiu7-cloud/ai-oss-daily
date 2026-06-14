@@ -4,5 +4,5 @@ Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plu
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,408
+**Stars**：2,419
 **Source**：https://github.com/bethington/ghidra-mcp
