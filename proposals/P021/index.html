@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛 — AI 開源日報</title>
+<meta name="description" content="把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P021/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/index.md" title="純文字（Markdown）版">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 開源日報">
+<meta property="og:title" content="Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛 — AI 開源日報">
+<meta property="og:description" content="把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛 — AI 開源日報">
+<meta name="twitter:description" content="把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛", "description": "把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。", "datePublished": "2026-06-15T08:00:00+00:00", "dateModified": "2026-06-15T08:00:00+00:00", "inLanguage": "zh-Hant", "author": {"@type": "Organization", "name": "AI 開源日報"}, "publisher": {"@type": "Organization", "name": "AI 開源日報"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-15/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/proposals/P021/">English</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/">回首頁</a> /
+    <a href="/ai-oss-daily/proposals/">AI 組合企劃</a> / P021</p>
+  <h1>Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛</h1>
+  <p class="detail-lead">把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">難度: medium</span>
+    <span class="badge">2–3 週（技能/規則包＋本機用量量測外掛；先 CLI/skill MVP，再做儀表板）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>怎麼變現</h2><p>①技能包/外掛買斷（Gumroad/Lemon Squeezy MoR：賣『省 token 工作流＋規則包』）②團隊月費訂閱（含用量儀表板顯示省了多少）③對開發團隊的省成本顧問/導入。工具聯盟可帶 IDE/雲端額度（非 VPN）。落地頁 Adsterra/Monetag＋Ko-fi。</p></div>
+  <div class="panel"><h2>運作方式</h2><p>把 ponytail 的『先想清楚再動手、能不寫就不寫』工作流規則化 → 檢索改用 semble（省 98% token）→ 用 lean-ctx 壓縮/快取上下文避免重貼 → Understand-Anything 先建一次知識圖譜，之後問答走圖譜不全庫掃。外掛內建用量儀表板，對比導入前後 token 花費，把『省了多少』變成可賣的數字。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>用到的開源零件</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/p/dietrichgebert-ponytail/">DietrichGebert/ponytail</a></h3>
+<p class="summary">讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</p><p class="why">▸ 近一日新增 6621★（現 8,136★）</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 8,136</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/minishlab-semble/">MinishLab/semble</a></h3>
+<p class="summary">快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。</p><p class="why">▸ 近一日新增 17★（現 5,151★）</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP 伺服器</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 5,151</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/yvgude-lean-ctx/">yvgude/lean-ctx</a></h3>
+<p class="summary">LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。</p><p class="why">▸ 近一日新增 21★（現 2,706★）</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP 伺服器</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Gemini</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 2,706</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/egonex-ai-understand-anything/">Egonex-AI/Understand-Anything</a></h3>
+<p class="summary">將程式碼轉換為可互動探索和查詢的知識圖形工具。</p><p class="why">▸ 近一日新增 617★（現 59,215★）</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 59,215</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">贊助連結 →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI 開源日報</strong><br>
+        <span style="color:var(--fg-faint)">去噪・抗洗榜・附「為何上榜」與商用授權判讀。</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ 請我喝杯咖啡</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/about/">關於</a> ·
+        <a href="/ai-oss-daily/changes/">每日變化</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">本站含聯盟連結；點擊不影響你的價格，會給作者一點回饋。</p>
+  </div>
+</footer></body>
+</html>

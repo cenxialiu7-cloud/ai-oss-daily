@@ -57,3 +57,6 @@
 - [程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/)
 - [角色動畫 IP 工廠：一張角色圖 → 會動會說話的雙語動畫短片（VTuber/貼圖/兒童內容）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P019/)
 - [中小企業 AI 廣告投放管家：Google/Meta Ads ＋ GA4 用一句話託管優化](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P020/)
+- [Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/)
+- [FLUX 商用視覺工廠：一句話 → 品牌一致的電商主圖／社群貼文／廣告素材批量產](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P022/)
+- [設計系統抽取 → 一鍵改版／競品仿建 SaaS：丟一個網址，產出可改的設計系統與頁面](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P023/)

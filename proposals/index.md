@@ -20,3 +20,6 @@
 - [程式碼知識圖譜即服務：丟一個 repo → 可互動探索的架構地圖，加速 onboarding/code review](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P018/) — 把任何程式庫自動轉成可點擊探索、可問答的知識圖譜，新人三天上手變三小時，同時省 98% 檢索 token。
 - [角色動畫 IP 工廠：一張角色圖 → 會動會說話的雙語動畫短片（VTuber/貼圖/兒童內容）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P019/) — 上傳一張角色設定圖，自動生成會動作、有配音字幕的動畫短片，量產 IP 經營、兒童故事、貼圖宣傳素材。
 - [中小企業 AI 廣告投放管家：Google/Meta Ads ＋ GA4 用一句話託管優化](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P020/) — 把 Google/Meta 廣告與 GA4 接成 MCP，讓老闆用自然語言查成效、調預算、生成素材文案，做成中小企業月費代操服務。
+- [Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/) — 把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。
+- [FLUX 商用視覺工廠：一句話 → 品牌一致的電商主圖／社群貼文／廣告素材批量產](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P022/) — 用頂級開源文生圖 FLUX，依品牌風格批量產出電商主圖、社群貼文、廣告版位素材，免每張付 SaaS 月費。
+- [設計系統抽取 → 一鍵改版／競品仿建 SaaS：丟一個網址，產出可改的設計系統與頁面](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P023/) — 輸入任一網站，自動抽出它的設計系統（色/字/元件），再用 AI 生成你的版本或競品分析，給接案者/小團隊快速建站。
