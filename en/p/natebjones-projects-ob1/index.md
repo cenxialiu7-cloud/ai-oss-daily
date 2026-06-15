@@ -4,5 +4,5 @@ Open Brain — The infrastructure layer for your thinking. One database, one AI 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,683
+**Stars**：3,691
 **Source**：https://github.com/NateBJones-Projects/OB1

@@ -2,9 +2,9 @@
 
 Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
 
-**為何上榜**：近一日新增 8★（現 80★）
+**為何上榜**：近一日新增 2★（現 82★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：80
+**Stars**：82
 **原始連結**：https://github.com/Hajimides/SD-Anima-Prompt-Studio

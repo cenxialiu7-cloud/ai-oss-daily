@@ -4,5 +4,5 @@ Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llam
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：568
+**Stars**：572
 **Source**：https://github.com/jegly/Box
