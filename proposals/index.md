@@ -23,3 +23,7 @@
 - [Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/) — 把『懶惰開發思維＋省 token 檢索＋上下文壓縮』打包，讓 agentic 寫程式的 API 帳單立刻降一截，效果可量化。
 - [FLUX 商用視覺工廠：一句話 → 品牌一致的電商主圖／社群貼文／廣告素材批量產](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P022/) — 用頂級開源文生圖 FLUX，依品牌風格批量產出電商主圖、社群貼文、廣告版位素材，免每張付 SaaS 月費。
 - [設計系統抽取 → 一鍵改版／競品仿建 SaaS：丟一個網址，產出可改的設計系統與頁面](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P023/) — 輸入任一網站，自動抽出它的設計系統（色/字/元件），再用 AI 生成你的版本或競品分析，給接案者/小團隊快速建站。
+- [🧩 AI 全棧行銷代操公司（投放＋創意＋自然搜尋＋社群一條龍）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P024/) — 把投放管家、視覺工廠、GEO 稽核、LinkedIn 代操串成一家『AI 全棧行銷代理商』，一個客戶吃下廣告到內容的全部預算。
+- [🧩 電商賣家一條龍工作室（素材→動畫→投放全包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P025/) — 賣家上傳一張商品照，自動產 3D 旋轉圖、情境主圖、角色動畫短片，再一鍵投放並看真實 ROAS。
+- [🧩 本機隱私 AI 全家桶（Mac App 套裝：文件＋語音＋LLM＋交易）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P026/) — 一個品牌、多個離線 Mac App：文件智能、口播配音、本機 LLM 助手、交易研究，全程不上雲，資料零外流。
+- [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P027/) — 給工程團隊的一站式 AI 套件：秒懂任何 codebase、砍 agent token 帳單、訂閱最新開源情報、即時資安稽核。

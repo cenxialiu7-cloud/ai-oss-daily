@@ -2,7 +2,7 @@
 
 AI 批量產內容、自動鋪設多站台，搶佔 Google 與 AI 引擎(被 ChatGPT/Perplexity 引用)的流量。
 
-**怎麼變現**：①工具站/內容站掛 VPN affiliate 為主、Adsterra 為次 ②GEO 代操服務月費 ③模板訂閱。完全契合你既有的 MediaGrab 變現模型。
+**怎麼變現**：①工具站/內容站掛 Adsterra/Monetag 為主、工具聯盟為次（非 VPN）②GEO 代操服務月費 ③模板訂閱。完全契合你既有的 MediaGrab 變現模型。
 
 **運作方式**：GEOFlow 當骨架(產內容+多站分發) → NotFair/agentic-seo 的 skill 做關鍵字、結構化、AEO 優化 → Qwen3.6 當中文寫作引擎 → 內容自動鋪到多個站台與社群。
 

@@ -60,3 +60,7 @@
 - [Agentic 開發成本殺手：給用 Claude Code/Cursor 的團隊砍 token 帳單的技能包＋本機外掛](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P021/)
 - [FLUX 商用視覺工廠：一句話 → 品牌一致的電商主圖／社群貼文／廣告素材批量產](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P022/)
 - [設計系統抽取 → 一鍵改版／競品仿建 SaaS：丟一個網址，產出可改的設計系統與頁面](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P023/)
+- [🧩 AI 全棧行銷代操公司（投放＋創意＋自然搜尋＋社群一條龍）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P024/)
+- [🧩 電商賣家一條龍工作室（素材→動畫→投放全包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P025/)
+- [🧩 本機隱私 AI 全家桶（Mac App 套裝：文件＋語音＋LLM＋交易）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P026/)
+- [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P027/)
