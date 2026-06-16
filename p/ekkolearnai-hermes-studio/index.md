@@ -2,9 +2,9 @@
 
 hermes-studio 是 Hermes Agent 的網頁控制台，提供多平臺聊天、任務管理等功能。
 
-**為何上榜**：7,909★ · 近期活躍
+**為何上榜**：近一日新增 57★（現 7,966★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：7,909
+**Stars**：7,966
 **原始連結**：https://github.com/EKKOLearnAI/hermes-studio

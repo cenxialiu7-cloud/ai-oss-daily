@@ -4,5 +4,5 @@ Securely scale AI usage across your organization.  Control plane for building, s
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：246
+**Stars**：248
 **Source**：https://github.com/speakeasy-api/gram

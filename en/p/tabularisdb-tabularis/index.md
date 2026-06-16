@@ -4,5 +4,5 @@ Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL no
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,429
+**Stars**：2,436
 **Source**：https://github.com/TabularisDB/tabularis

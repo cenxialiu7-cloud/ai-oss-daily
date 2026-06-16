@@ -2,9 +2,9 @@
 
 在 Unreal Engine 5.7 中整合 Claude Code CLI，提供內建編輯器的 AI 程式設計輔助。
 
-**為何上榜**：近一日新增 11★（現 747★）
+**為何上榜**：近一日新增 13★（現 760★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：747
+**Stars**：760
 **原始連結**：https://github.com/Natfii/UnrealClaude

@@ -4,5 +4,5 @@ Agent Smith has taken over your terminal: he recursively breaks down tasks and m
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：19
+**Stars**：20
 **Source**：https://github.com/cyijun/agent-smith
