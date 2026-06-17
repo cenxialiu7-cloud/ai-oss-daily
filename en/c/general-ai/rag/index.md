@@ -19,8 +19,8 @@
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/giancarloerra-socraticode/) — Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP:…
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lhh737-knowledgebase-rag-llm-system/) — 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigint-rag-computer/) — Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API
-- [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vixhal-baraiya-pageindex-rag/) — Vectorless, Reasoning-Based Retrieval-Augmented Generation (RAG)
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
+- [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vixhal-baraiya-pageindex-rag/) — Vectorless, Reasoning-Based Retrieval-Augmented Generation (RAG)
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bohyy-academic-ai-prompt/) — 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 …
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ogham-mcp-ogham-mcp/) — Shared memory MCP server — persistent, searchable, cross-client Claude, Opencode
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onyx-dot-app-enterpriserag-bench/) — Dataset and benchmark for RAG on company internal documents.

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>16 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>17 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>nvidia/diffusiongemma-26B-A4B-it-NVFP4</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>NVIDIA 的量化模型，用於文本生成和影像擴散。</description>
+<title>zai-org/GLM-5.2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</description>
 </item>
 <item>
-<title>microsoft/FastContext-1.0-4B-SFT</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-fastcontext-1-0-4b-sft/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-fastcontext-1-0-4b-sft/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>微軟的快速上下文模型，適用於對話式 AI 和語料庫探索。</description>
+<title>WeiboAI/VibeThinker-3B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。</description>
 </item>
 <item>
-<title>myccarl/ai-shortVideo-pipeline</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。</description>
+<title>lazarus19/Vibe-Coding-Instruct</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Leonxlnx/taste-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</description>
+<title>addyosmani/agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>生產級工程技能，用於 AI 程式設計代理。</description>
 </item>
 <item>
-<title>Egonex-AI/Understand-Anything</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>將程式碼轉換為可互動探索和查詢的知識圖形工具。</description>
+<title>safishamsi/graphify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</description>
 </item>
 <item>
-<title>bosonai/higgs-audio-v3-tts-4b</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</guid>
-<pubDate>16 Jun 2026 08:00:00 +0000</pubDate>
-<description>將文本轉換為語音的合成器。</description>
+<title>zai-org/SCAIL-2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</guid>
+<pubDate>17 Jun 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。</description>
 </item>
 </channel>
 </rss>

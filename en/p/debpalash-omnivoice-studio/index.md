@@ -4,5 +4,5 @@ The open-source ElevenLabs alternative for local voice cloning, design, create, 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：7,023
+**Stars**：7,063
 **Source**：https://github.com/debpalash/OmniVoice-Studio

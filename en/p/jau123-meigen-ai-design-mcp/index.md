@@ -4,5 +4,5 @@ Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefu
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,444
+**Stars**：1,452
 **Source**：https://github.com/jau123/MeiGen-AI-Design-MCP

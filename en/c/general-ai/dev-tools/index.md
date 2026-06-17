@@ -1,10 +1,9 @@
 # 🛠️ AI Dev Tools / MCP / SDK
 
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
-- [lazarus19/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan555/) — · gradio, mcp-server, region:us
 - [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — · gradio, mcp-server, region:us
+- [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
@@ -20,8 +19,8 @@
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [black-forest-labs/FLUX.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-2-klein-9b/) — · gradio, mcp-server, region:us
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt
-- [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natebjones-projects-ob1/) — Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any…
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xstongxue-best-prompts/) — 通用高质量 Prompt 合集🔥

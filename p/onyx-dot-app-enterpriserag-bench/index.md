@@ -2,9 +2,9 @@
 
 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
 
-**為何上榜**：近一日新增 3★（現 405★）
+**為何上榜**：近一日新增 2★（現 407★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：405
+**Stars**：407
 **原始連結**：https://github.com/onyx-dot-app/EnterpriseRAG-Bench

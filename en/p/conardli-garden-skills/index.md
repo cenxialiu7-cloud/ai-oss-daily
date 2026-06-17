@@ -4,5 +4,5 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：8,018
+**Stars**：8,069
 **Source**：https://github.com/ConardLi/garden-skills

@@ -19,8 +19,8 @@
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
-- [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
+- [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bohyy-academic-ai-prompt/) — 一套為研究生和學術研究者設計的完整AI提示庫，包含多種工具和模板，節省時間並提高效率。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。

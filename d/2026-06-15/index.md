@@ -6,7 +6,6 @@ _每日存檔 · 2026-06-15_
 
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — gemma-4-12B 是用於程式碼生成和推理的模型。
-- [lazarus19/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/PITCHFIGHT_AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-pitchfight-ai/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/Dots-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-dots-tts-comfyui/) — Dots-TTS-ComfyUI 提供自定義節點，支援文字轉語音、聲音複製及 transcription。
 - [FINAL-Bench/quantum-bench-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-quantum-bench-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -121,7 +120,6 @@ _每日存檔 · 2026-06-15_
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
 - [agents-last-exam/agents-last-exam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-supertone-supertonic-3/) — Hugging Face 示範應用(Space)，關鍵字：語音合成（依標籤自動歸類，詳細看下方原文）
-- [lazarus19/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — Wan2.2 文生影片 FP8 加速示範（HF Space，含 MCP）。
 - [stabilityai/stable-audio-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-stabilityai-stable-audio-3/) — Stability stable-audio-3 文字生成音樂的示範 Space。
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-cosmos3-nano/) — NVIDIA Cosmos3 Nano 文生圖線上示範。

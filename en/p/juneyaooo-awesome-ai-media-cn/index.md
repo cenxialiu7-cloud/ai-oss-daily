@@ -4,5 +4,5 @@ AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：27
+**Stars**：29
 **Source**：https://github.com/JuneYaooo/awesome-ai-media-cn

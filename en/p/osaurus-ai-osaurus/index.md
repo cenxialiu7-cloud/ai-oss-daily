@@ -4,5 +4,5 @@ Own your AI. The native macOS harness for AI agents -- any model, persistent mem
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,801
+**Stars**：5,829
 **Source**：https://github.com/osaurus-ai/osaurus

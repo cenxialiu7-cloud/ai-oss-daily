@@ -4,22 +4,23 @@
 - [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [prefeitura-rio/Rio-3.5-Open-397B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prefeitura-rio-rio-3-5-open-397b/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
-- [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
+- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
+- [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [Qwen/Qwen3.6-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-6-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
+- [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-31b-it/) — image-text-to-text · transformers, safetensors, gemma4
+- [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-claim-ready/) — · gradio, build-small-hackathon, document-ai
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stanford-vision-lab-gpic/) — · language:en, license:mit, arxiv:2605.30341
 - [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-locateanything-3b/) — image-text-to-text · transformers, safetensors, locateanything
-- [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-claim-ready/) — · gradio, build-small-hackathon, document-ai
-- [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-z-image-6b-pixel-space/) — · gradio, region:us
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-cosmos3-nano/) — · gradio, region:us
+- [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [kepeng/MeasL-Bench-V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kepeng-measl-bench-v1/) — · task_categories:visual-question-answering, task_categories:image-to-text, language:en
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — · task_categories:image-to-text, task_categories:visual-question-answering, task_categories:image-text-to-text
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-higgs-audio-v3-tts/) — · gradio, region:us
