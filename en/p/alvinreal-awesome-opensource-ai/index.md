@@ -4,5 +4,5 @@ Curated list of the best truly open-source AI projects, models, tools, and infra
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：3,884
+**Stars**：3,894
 **Source**：https://github.com/alvinreal/awesome-opensource-ai

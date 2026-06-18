@@ -4,5 +4,5 @@ LLM-powered trading agents that turn plain natural language into a five-pillar s
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：222
+**Stars**：221
 **Source**：https://github.com/moss-site/moss-trade-bot-skills

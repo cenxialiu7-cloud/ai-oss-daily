@@ -2,7 +2,7 @@
 
 Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 12 · 13 likes · 71 下載
+**為何上榜**：HF trending 14 · 15 likes · 202 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

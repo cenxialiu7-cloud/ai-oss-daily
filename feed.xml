@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
+<updated>2026-06-18T08:00:00+00:00</updated>
 <entry>
-<title>zai-org/GLM-5.2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</summary>
+<title>Mia-AiLab/Qwable-3.6-27b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>WeiboAI/VibeThinker-3B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。</summary>
+<title>bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>基於 Qwen 的多 token 預測模型，支援 gguf 格式。</summary>
 </entry>
 <entry>
-<title>lazarus19/Vibe-Coding-Instruct</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>XiaomiMiMo/MiMo-Code</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>模型與代理共演進的 AI 工具。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>safishamsi/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</summary>
+<title>phuryn/pm-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</summary>
 </entry>
 <entry>
-<title>zai-org/SCAIL-2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/</id>
-<updated>2026-06-17T08:00:00+00:00</updated>
-<summary>將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。</summary>
+<title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</id>
+<updated>2026-06-18T08:00:00+00:00</updated>
+<summary>gemma-4-12B 是用於程式碼生成和推理的模型。</summary>
 </entry>
 </feed>

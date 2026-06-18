@@ -4,5 +4,5 @@ OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Di
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：807
+**Stars**：808
 **Source**：https://github.com/unohee/OpenSwarm

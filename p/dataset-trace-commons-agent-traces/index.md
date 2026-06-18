@@ -1,8 +1,8 @@
 # trace-commons/agent-traces
 
-Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
+Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 9 · 9 likes · 111 下載
+**為何上榜**：HF trending 14 · 14 likes · 312 下載
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
