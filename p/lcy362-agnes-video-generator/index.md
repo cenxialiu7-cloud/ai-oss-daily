@@ -2,9 +2,9 @@
 
 Agnes Video Generator 是一個免費的 AI 影片生成器，可將文字轉換為多場景影片。
 
-**為何上榜**：近一日新增 10★（現 45★）
+**為何上榜**：近一日新增 1★（現 46★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：45
+**Stars**：46
 **原始連結**：https://github.com/lcy362/agnes-video-generator

@@ -4,5 +4,5 @@ Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：16,577
+**Stars**：16,617
 **Source**：https://github.com/teng-lin/notebooklm-py

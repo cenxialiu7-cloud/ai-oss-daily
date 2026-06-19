@@ -2,7 +2,7 @@
 
 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 
-**為何上榜**：HF trending 64 · 1,702 likes · 804,033 下載
+**為何上榜**：HF trending 65 · 1,712 likes · 929,346 下載
 
 **主要功能**
 

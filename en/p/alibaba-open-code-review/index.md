@@ -4,5 +4,5 @@ Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture cod
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：7,766
+**Stars**：7,935
 **Source**：https://github.com/alibaba/open-code-review

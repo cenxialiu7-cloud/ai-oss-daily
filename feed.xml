@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
+<updated>2026-06-19T08:00:00+00:00</updated>
 <entry>
-<title>Mia-AiLab/Qwable-3.6-27b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）</summary>
+<title>owensong/Inflect-Nano-v1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>一個超小型的文本轉語音模型，適用於本地端使用。</summary>
 </entry>
 <entry>
-<title>bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>基於 Qwen 的多 token 預測模型，支援 gguf 格式。</summary>
+<title>ostris/ideogram_4_turbotime_lora</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>基於LORA技術的文字轉影像模型，用於生成影像。</summary>
 </entry>
 <entry>
-<title>XiaomiMiMo/MiMo-Code</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>模型與代理共演進的 AI 工具。</summary>
+<title>signsur4739379373/LTX-2.3-Finetuned-I2V</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>Egonex-AI/Understand-Anything</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>將程式碼轉換為可互動探索和查詢的知識圖形工具。</summary>
 </entry>
 <entry>
-<title>phuryn/pm-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</summary>
+<title>Leonxlnx/taste-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</summary>
 </entry>
 <entry>
-<title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</id>
-<updated>2026-06-18T08:00:00+00:00</updated>
-<summary>gemma-4-12B 是用於程式碼生成和推理的模型。</summary>
+<title>bosonai/higgs-audio-v3-tts-4b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</id>
+<updated>2026-06-19T08:00:00+00:00</updated>
+<summary>將文本轉換為語音的合成器。</summary>
 </entry>
 </feed>
