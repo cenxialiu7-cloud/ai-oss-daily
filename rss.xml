@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>19 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>20 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>owensong/Inflect-Nano-v1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個超小型的文本轉語音模型，適用於本地端使用。</description>
+<title>poolside/Laguna-M.1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
+<description>Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。</description>
 </item>
 <item>
-<title>ostris/ideogram_4_turbotime_lora</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
-<description>基於LORA技術的文字轉影像模型，用於生成影像。</description>
+<title>LiquidAI/LFM2.5-Embedding-350M</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
+<description>LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。</description>
 </item>
 <item>
-<title>signsur4739379373/LTX-2.3-Finetuned-I2V</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
+<title>HuggingFaceM4/encoder-free-vlm</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
 <description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Egonex-AI/Understand-Anything</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
-<description>將程式碼轉換為可互動探索和查詢的知識圖形工具。</description>
+<title>addyosmani/agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
+<description>生產級工程技能，用於 AI 程式設計代理。</description>
 </item>
 <item>
-<title>Leonxlnx/taste-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-taste-skill/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
-<description>Taste-Skill：給 AI「品味」的 Claude skill，避免生成無聊、罐頭式內容（單日 +1398★）。</description>
+<title>DeusData/codebase-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
+<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
 </item>
 <item>
-<title>bosonai/higgs-audio-v3-tts-4b</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/</guid>
-<pubDate>19 Jun 2026 08:00:00 +0000</pubDate>
-<description>將文本轉換為語音的合成器。</description>
+<title>zai-org/GLM-5.2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</guid>
+<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
+<description>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</description>
 </item>
 </channel>
 </rss>

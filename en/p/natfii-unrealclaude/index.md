@@ -4,5 +4,5 @@ Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance wit
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：787
+**Stars**：791
 **Source**：https://github.com/Natfii/UnrealClaude

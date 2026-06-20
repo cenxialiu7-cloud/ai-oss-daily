@@ -4,5 +4,5 @@ Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brai
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,536
+**Stars**：2,563
 **Source**：https://github.com/eugeniughelbur/obsidian-second-brain

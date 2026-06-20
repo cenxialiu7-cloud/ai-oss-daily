@@ -4,5 +4,5 @@ CUDA编程练习项目-Hands-on CUDA kernels and performance optimization, cover
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：164
+**Stars**：160
 **Source**：https://github.com/psmarter/CUDA-Practice

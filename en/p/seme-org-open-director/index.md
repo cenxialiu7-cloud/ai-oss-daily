@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，但修改該元件本身須開源(動態連結通常可)
 
-**Stars**：56
+**Stars**：57
 **Source**：https://github.com/seme-org/open-director

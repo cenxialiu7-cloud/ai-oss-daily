@@ -1,8 +1,8 @@
 # jaylfc/taOS
 
-Self-hosted auto clustering AI agent OS for consumer hardware like the computer you already own, an Orange or Raspberry Pi or a Mac Mini etc. Full desktop, app store, agent deployment, distributed compute cluster. Memory by taOSmd.
+Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：243
+**Stars**：246
 **Source**：https://github.com/jaylfc/taOS
