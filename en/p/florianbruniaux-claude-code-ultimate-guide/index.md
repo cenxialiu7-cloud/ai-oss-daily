@@ -4,5 +4,5 @@ A tremendous feat of documentation, this guide covers Claude Code from beginner 
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：5,106
+**Stars**：5,112
 **Source**：https://github.com/FlorianBruniaux/claude-code-ultimate-guide

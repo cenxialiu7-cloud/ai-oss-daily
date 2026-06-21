@@ -1,6 +1,8 @@
 # 💰 投資理財
 
+- [Duclos76/confidence-surfing-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/) — 用於 Polymarket 短期加密貨幣市場的自動交易機器人。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
+- [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/) — 跨交易所BTC套利機器人，具備Telegram通知和Flask監控儀錶板。
 - [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alkhudarigroupuae-pumpfun-trainer-v1/) — Solana幣交易的自動化工具，具備狙擊、價格監控等功能。
 - [lescasinos/solana-copy-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lescasinos-solana-copy-trading-bot/) — 追蹤Solana領袖錢包並具備MEV意識提交的複製交易機器人。
@@ -22,8 +24,8 @@
 - [ChypherFish3r/coinbase-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chypherfish3r-coinbase-trading-bot/) — Coinbase 動量策略交易機器人，具備選項利潤轉移功能。
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reikwei-gu-piao-yu-ce/) — 股票預測專案，使用FastAPI和量化金融技術。
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0factor/) — 面向 A 股本地資料的 AI 因子研究工作臺，用於生成、儲存、註冊、評估與報告因子。
-- [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana交易狙擊機器人，可在Raydium和pump.fun上自動交易新代幣。
 - [kadoa-org/quant-job-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadoa-org-quant-job-market/) — 量化職場視覺化工具，分析和展示頂尖量化公司的職缺。
+- [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana交易狙擊機器人，可在Raydium和pump.fun上自動交易新代幣。
 - [gameworkerkim/vibe-investing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gameworkerkim-vibe-investing/) — AI 驅動的 NASDAQ/S&P500/加密投資：LLM 量化工具與多 agent 回測。
 - [Evolutionary Alpha Miner（演化式選股因子挖掘）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — 家族感知的演化式 alpha 挖掘，用 LLM 引導符號回歸。
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。
@@ -56,7 +58,5 @@
 - [Neutral-Debug/Mexc-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neutral-debug-mexc-trading-bot/) — MEXC 自動交易機器人，採用三種獨立策略，零手續費。
 - [rmbell09-lang/tradesight](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rmbell09-lang-tradesight/) — 自架 AI 交易策略實驗室：模擬盤、隔夜策略錦標賽、15+ 工具。
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evan-kolberg-prediction-market-backtesting/) — Nautilus Trader 的擴充套件工具，用於回測預測市場策略。
-- [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superior-trade-superior-skills/) — 提供超級交易的代理技能和工具模式，用於建立、回測和部署在Hyperliquid上的交易策略。
-- [Rezzecup/cex-dex-price-gap-monitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-cex-dex-price-gap-monitor/) — 即時監控中心化和去中心化交易所之間的價格差異，尋找套利機會。
 - [lucasinglese/oryon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucasinglese-oryon/) — 量化研究的特徵/標籤工程（Rust 核心＋Python 介面），production 級。
-- [okx/agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-trade-kit/) — OKX 官方交易 MCP server — 讓 AI agent 操作現貨/合約/網格機器人。
+- [Rezzecup/cex-dex-price-gap-monitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-cex-dex-price-gap-monitor/) — 即時監控中心化和去中心化交易所之間的價格差異，尋找套利機會。

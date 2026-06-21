@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>20 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>21 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>poolside/Laguna-M.1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。</description>
+<title>Boogu/Boogu-Image-0.1-Edit</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>LiquidAI/LFM2.5-Embedding-350M</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。</description>
+<title>Comfy-Org/Boogu-Image</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>一個基於 ComfyUI 的影像生成工具。</description>
 </item>
 <item>
-<title>HuggingFaceM4/encoder-free-vlm</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>Duclos76/confidence-surfing-bot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>用於 Polymarket 短期加密貨幣市場的自動交易機器人。</description>
 </item>
 <item>
-<title>addyosmani/agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>生產級工程技能，用於 AI 程式設計代理。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>nexu-io/open-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>zai-org/GLM-5.2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</guid>
-<pubDate>20 Jun 2026 08:00:00 +0000</pubDate>
-<description>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</description>
+<title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</guid>
+<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
+<description>gemma-4-12B 是用於程式碼生成和推理的模型。</description>
 </item>
 </channel>
 </rss>

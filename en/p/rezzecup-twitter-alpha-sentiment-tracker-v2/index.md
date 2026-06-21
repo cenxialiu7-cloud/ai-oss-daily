@@ -4,5 +4,5 @@ Real-time Smart Money sentiment tracker for X/Twitter — NLP-powered Buy/Sell s
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：20
+**Stars**：21
 **Source**：https://github.com/Rezzecup/twitter-alpha-sentiment-tracker-v2

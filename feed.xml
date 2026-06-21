@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
+<updated>2026-06-21T08:00:00+00:00</updated>
 <entry>
-<title>poolside/Laguna-M.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。</summary>
+<title>Boogu/Boogu-Image-0.1-Edit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>LiquidAI/LFM2.5-Embedding-350M</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。</summary>
+<title>Comfy-Org/Boogu-Image</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>一個基於 ComfyUI 的影像生成工具。</summary>
 </entry>
 <entry>
-<title>HuggingFaceM4/encoder-free-vlm</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Duclos76/confidence-surfing-bot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>用於 Polymarket 短期加密貨幣市場的自動交易機器人。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>nexu-io/open-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
 </entry>
 <entry>
-<title>zai-org/GLM-5.2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</id>
-<updated>2026-06-20T08:00:00+00:00</updated>
-<summary>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</summary>
+<title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</id>
+<updated>2026-06-21T08:00:00+00:00</updated>
+<summary>gemma-4-12B 是用於程式碼生成和推理的模型。</summary>
 </entry>
 </feed>
