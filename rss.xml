@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>21 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>22 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Boogu/Boogu-Image-0.1-Edit</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）</description>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
 </item>
 <item>
-<title>Comfy-Org/Boogu-Image</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個基於 ComfyUI 的影像生成工具。</description>
+<title>AlexWortega/SIQ-1-35B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>一個使用transformers和gguf格式的自動研究文本生成模型。</description>
 </item>
 <item>
-<title>Duclos76/confidence-surfing-bot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duclos76-confidence-surfing-bot/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於 Polymarket 短期加密貨幣市場的自動交易機器人。</description>
+<title>lathanFreeApp/solana-sniper-bot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>用於Solana等平臺的自動交易機器人，支援複製交易。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>Egonex-AI/Understand-Anything</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>將程式碼轉換為可互動探索和查詢的知識圖形工具。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>calesthio/OpenMontage</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
 </item>
 <item>
-<title>yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/</guid>
-<pubDate>21 Jun 2026 08:00:00 +0000</pubDate>
-<description>gemma-4-12B 是用於程式碼生成和推理的模型。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

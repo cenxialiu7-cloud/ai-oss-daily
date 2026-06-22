@@ -2,9 +2,9 @@
 
 GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 
-**為何上榜**：近一日新增 20★（現 3,138★）
+**為何上榜**：近一日新增 21★（現 3,159★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,138
+**Stars**：3,159
 **原始連結**：https://github.com/wuyoscar/GPT-Image2-Skill

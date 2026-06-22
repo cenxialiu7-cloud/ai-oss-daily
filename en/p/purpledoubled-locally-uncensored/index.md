@@ -4,5 +4,5 @@ Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：769
+**Stars**：777
 **Source**：https://github.com/PurpleDoubleD/locally-uncensored

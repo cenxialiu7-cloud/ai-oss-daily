@@ -2,9 +2,9 @@
 
 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
 
-**為何上榜**：近期新建立，已獲 56★
+**為何上榜**：近一日新增 4★（現 60★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：56
+**Stars**：60
 **原始連結**：https://github.com/wangchuxiaoji-oss/doubao2api
