@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：75,472
+**Stars**：75,863
 **Source**：https://github.com/JuliusBrussee/caveman

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
+<updated>2026-06-23T08:00:00+00:00</updated>
 <entry>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
+<title>baidu/Unlimited-OCR</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
 </entry>
 <entry>
-<title>AlexWortega/SIQ-1-35B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>一個使用transformers和gguf格式的自動研究文本生成模型。</summary>
+<title>AlexWortega/same-data-different-losses</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>lathanFreeApp/solana-sniper-bot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>用於Solana等平臺的自動交易機器人，支援複製交易。</summary>
+<title>ltx-community/ltx2-lora-trainer</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>Egonex-AI/Understand-Anything</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>將程式碼轉換為可互動探索和查詢的知識圖形工具。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>calesthio/OpenMontage</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-06-22T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>zai-org/GLM-5.2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</id>
+<updated>2026-06-23T08:00:00+00:00</updated>
+<summary>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</summary>
 </entry>
 </feed>

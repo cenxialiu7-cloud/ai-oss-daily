@@ -4,5 +4,5 @@ A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：94
+**Stars**：119
 **Source**：https://github.com/techjarves/Portable-Diffusion

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>22 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>23 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
+<title>baidu/Unlimited-OCR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
 </item>
 <item>
-<title>AlexWortega/SIQ-1-35B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個使用transformers和gguf格式的自動研究文本生成模型。</description>
+<title>AlexWortega/same-data-different-losses</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>lathanFreeApp/solana-sniper-bot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於Solana等平臺的自動交易機器人，支援複製交易。</description>
+<title>ltx-community/ltx2-lora-trainer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Egonex-AI/Understand-Anything</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>將程式碼轉換為可互動探索和查詢的知識圖形工具。</description>
+<title>DeusData/codebase-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
 </item>
 <item>
-<title>calesthio/OpenMontage</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
+<title>addyosmani/agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>生產級工程技能，用於 AI 程式設計代理。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>22 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>zai-org/GLM-5.2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</guid>
+<pubDate>23 Jun 2026 08:00:00 +0000</pubDate>
+<description>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</description>
 </item>
 </channel>
 </rss>

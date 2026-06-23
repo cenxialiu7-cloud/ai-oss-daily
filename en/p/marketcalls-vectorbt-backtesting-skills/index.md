@@ -4,5 +4,5 @@ Agentic coding skills for backtesting trading strategies using VectorBT. Support
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：159
+**Stars**：160
 **Source**：https://github.com/marketcalls/vectorbt-backtesting-skills

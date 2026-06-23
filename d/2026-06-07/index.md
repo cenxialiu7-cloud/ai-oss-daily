@@ -513,7 +513,6 @@ _每日存檔 · 2026-06-07_
 - [onvoyage-ai/gtm-engineer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onvoyage-ai-gtm-engineer-skills/) — 改善網站 AEO／GEO（AI/生成式引擎優化）的 Claude Code skill。
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heymrun-heym/) — 自託管的 AI 工作流自動化平臺，具備視覺畫布、代理和監控功能。
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hainrixz-claude-banana/) — 將粗略想法轉換為完美影像生成提示的 AI 代理，具備多種創意技術。
-- [Modotte/CodeX-2M-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-modotte-codex-2m-thinking/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [daniel-c-silva/SynthPons](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daniel-c-silva-synthpons/) — 根據音符或和絃生成旋律和和絃進行的即時播放器。
 - [ahatem/QTranslate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ahatem-qtranslate/) — 快速擴充套件的桌面翻譯套件，支援多種語言翻譯、OCR、語音轉文字等功能。
 - [wildminder/awesome-ai-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wildminder-awesome-ai-voice/) — 開放原始碼 TTS、語音克隆和音樂生成模型列表。

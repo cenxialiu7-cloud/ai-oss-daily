@@ -4,5 +4,5 @@ Control what your AI can see. LeanCTX (Lean Context) is the context intelligence
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,842
+**Stars**：2,862
 **Source**：https://github.com/yvgude/lean-ctx

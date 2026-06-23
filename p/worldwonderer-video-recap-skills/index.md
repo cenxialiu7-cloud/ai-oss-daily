@@ -2,9 +2,9 @@
 
 video-recap-skills 使用 claude code skill 將影片轉換為敘述性回顧。
 
-**為何上榜**：近一日新增 3★（現 293★）
+**為何上榜**：近一日新增 4★（現 297★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：293
+**Stars**：297
 **原始連結**：https://github.com/worldwonderer/video-recap-skills
