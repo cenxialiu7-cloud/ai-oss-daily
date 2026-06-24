@@ -64,3 +64,4 @@
 - [🧩 電商賣家一條龍工作室（素材→動畫→投放全包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P025/)
 - [🧩 本機隱私 AI 全家桶（Mac App 套裝：文件＋語音＋LLM＋交易）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P026/)
 - [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P027/)
+- [AI 電話語音 Agent：自動接聽/外撥，幫在地服務業做預約、提醒、客服](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P028/)

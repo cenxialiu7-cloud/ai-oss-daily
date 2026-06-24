@@ -27,3 +27,4 @@
 - [🧩 電商賣家一條龍工作室（素材→動畫→投放全包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P025/) — 賣家上傳一張商品照，自動產 3D 旋轉圖、情境主圖、角色動畫短片，再一鍵投放並看真實 ROAS。
 - [🧩 本機隱私 AI 全家桶（Mac App 套裝：文件＋語音＋LLM＋交易）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P026/) — 一個品牌、多個離線 Mac App：文件智能、口播配音、本機 LLM 助手、交易研究，全程不上雲，資料零外流。
 - [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P027/) — 給工程團隊的一站式 AI 套件：秒懂任何 codebase、砍 agent token 帳單、訂閱最新開源情報、即時資安稽核。
+- [AI 電話語音 Agent：自動接聽/外撥，幫在地服務業做預約、提醒、客服](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P028/) — 用電信 API＋開源語音模型，做一支會講中文、能接聽與外撥的 AI 電話 agent，幫診所/餐廳/美容做預約確認、提醒與基本客服。
