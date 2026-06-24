@@ -2,9 +2,9 @@
 
 行動式 Windows 文字轉語音工具，支援多國語言和 NVIDIA GPU。
 
-**為何上榜**：近一日新增 2★（現 42★）
+**為何上榜**：近一日新增 1★（現 43★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：42
+**Stars**：43
 **原始連結**：https://github.com/timoncool/HiggsAudio-Studio

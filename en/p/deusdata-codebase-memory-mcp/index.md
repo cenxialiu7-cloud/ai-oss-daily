@@ -4,5 +4,5 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：11,577
+**Stars**：12,945
 **Source**：https://github.com/DeusData/codebase-memory-mcp

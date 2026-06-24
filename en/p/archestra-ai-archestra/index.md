@@ -2,7 +2,7 @@
 
 Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 
-**Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
+**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,873
+**Stars**：3,872
 **Source**：https://github.com/archestra-ai/archestra

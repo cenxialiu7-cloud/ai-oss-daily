@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
+<updated>2026-06-24T08:00:00+00:00</updated>
 <entry>
-<title>baidu/Unlimited-OCR</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
+<title>Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。</summary>
 </entry>
 <entry>
-<title>AlexWortega/same-data-different-losses</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>team-telnyx/telnyx-code-examples</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。</summary>
 </entry>
 <entry>
-<title>ltx-community/ltx2-lora-trainer</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ltx-community-ltx2-lora-trainer/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>shy3130/tickflow-stock-panel</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>nexu-io/open-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
 </entry>
 <entry>
-<title>zai-org/GLM-5.2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</id>
-<updated>2026-06-23T08:00:00+00:00</updated>
-<summary>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</summary>
+<title>owensong/Inflect-Nano-v1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</id>
+<updated>2026-06-24T08:00:00+00:00</updated>
+<summary>一個超小型的文本轉語音模型，適用於本地端使用。</summary>
 </entry>
 </feed>

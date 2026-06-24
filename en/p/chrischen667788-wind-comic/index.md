@@ -4,5 +4,5 @@ Multi-agent AI pipeline that turns one line of text into a finished short-form d
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：217
+**Stars**：218
 **Source**：https://github.com/ChrisChen667788/wind-comic

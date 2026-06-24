@@ -4,5 +4,5 @@ Research into how agentic AI coding assistants work. Reconstructed prompt patter
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,460
+**Stars**：2,461
 **Source**：https://github.com/Leonxlnx/agentic-ai-prompt-research

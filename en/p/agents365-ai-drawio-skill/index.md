@@ -4,5 +4,5 @@ Generate draw.io diagrams from natural language — 6 presets, vision self-check
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,421
+**Stars**：4,499
 **Source**：https://github.com/Agents365-ai/drawio-skill

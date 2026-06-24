@@ -2,7 +2,7 @@
 
 一個使用transformers和gguf格式的自動研究文本生成模型。
 
-**為何上榜**：HF trending 65 · 67 likes · 3,027 下載
+**為何上榜**：HF trending 70 · 72 likes · 3,375 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -2,9 +2,9 @@
 
 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 
-**為何上榜**：近一日新增 41★（現 23,765★）
+**為何上榜**：近一日新增 52★（現 23,817★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：23,765
+**Stars**：23,817
 **原始連結**：https://github.com/OthmanAdi/planning-with-files
