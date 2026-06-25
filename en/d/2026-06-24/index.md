@@ -8,7 +8,6 @@ _Daily archive · 2026-06-24_
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Framework for Building Agents
-- [krea/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krea-krea-2/) — · gradio, region:us
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-colbert-tool-selection/) — · docker, region:us
 - [crosbylegal/RedlineBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-crosbylegal-redlinebench/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
@@ -16,6 +15,7 @@ _Daily archive · 2026-06-24_
 - [sudokar/openspec-plus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sudokar-openspec-plus/) — OpenSpec Plus — Agentic skills that enhance OpenSpec's Spec-Driven Development through better discovery, requ…
 - [witcherderivia/TeleStyleV2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-witcherderivia-telestylev2/) — · gradio, region:us
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
+- [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 
 ## 🚀 Climbing
 
@@ -198,7 +198,6 @@ _Daily archive · 2026-06-24_
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-photoroom-prx-pixel/) — · gradio, region:us
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-qwen3-7-max-pi-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lukadev13-liminal-dreamcore-1k/) — · license:mit, modality:image, region:us
-- [krea/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krea-krea-2/) — · gradio, region:us
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-follow-the-mean/) — · gradio, flux, flux.2
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-axiomiclabs-open-slm-leaderboard/) — · static, region:us
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
@@ -255,7 +254,7 @@ _Daily archive · 2026-06-24_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-local-ai-image-generator/) — A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GG…
 - [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
-- [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aletheiaresearch-glm-5-2-agent/) — · task_categories:text-generation, region:eu, agent-traces
+- [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aletheiaresearch-glm-5-2-agent/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — Best GPT Image 2 OpenAi Prompts & Tools Guide 2026
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
@@ -323,7 +322,7 @@ _Daily archive · 2026-06-24_
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-aris-in-ai-offer/) — Bilingual (中文+EN) ML / LLM / diffusion / agent interview cheat sheets for AI 秋招 — generated by ARIS /intervie…
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ducklelabs-duckle/) — Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB.…
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronesfe-polymarket-automated-trading-bot/) — Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and …
-- [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, task creation, and LLM chat.
+- [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell — the AI short PJ Ace called "o…
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [Saganaki22/Dots-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-dots-tts-comfyui/) — ComfyUI custom nodes for Dots TTS text-to-speech generation, voice cloning, and Whisper transcription with su…
@@ -452,7 +451,7 @@ _Daily archive · 2026-06-24_
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Your super agent for work: local-first, learn your working context in mins and never forget it.
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing str…
-- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 --续温
+- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitor…
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chiennv2000-orthrus/) — Fast, lossless LLM inference via dual-view diffusion decoding.
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
@@ -591,7 +590,7 @@ _Daily archive · 2026-06-24_
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yusufkaraaslan-skill-seekers/) — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d…
 - [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/purpledoubled-locally-uncensored/) — Local AI desktop app: chat, agent mode, image gen, video gen. Runs fully offline with your LLM provider. Sing…
-- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — From workspace to agent memory
+- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…
 - [ScaleBrick/founder-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/scalebrick-founder-marketing-skills/) — Open-source marketing skills for founders. Keyword research, growth strategy, social search audit, competitor…
 - [NVIDIA/NemoClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-nemoclaw/) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -725,7 +724,7 @@ _Daily archive · 2026-06-24_
 - [Sandermage/genesis-vllm-patches](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sandermage-genesis-vllm-patches/) — vLLM patcher for Qwen3.6 on consumer NVIDIA — Qwen3.6-35B-A3B-FP8 (192 tok/s, +68% over stock) + Qwen3.6-27B-…
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/productfculty-aipm-pm-copilot-by-product-faculty/) — PM Copilot: 65+ framework-grounded PM skills across 12 domains, 17 command-based workflows, and 8 specialized…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vernonoy-alpha-skills/) — Quantitative factor research skills for AI coding assistants
 - [RightNow-AI/openfang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rightnow-ai-openfang/) — Open-source Agent Operating System
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/markbrezina-ctrl-alt-defeatthemarket/) — An unofficial guide to IMC Prosperity algorithmic trading
@@ -819,7 +818,7 @@ _Daily archive · 2026-06-24_
 - [daniel-c-silva/SynthPons](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daniel-c-silva-synthpons/) — Melody/Chord-progression generator, takes note/chords as input and plays them in real time.
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rocketride-org-rocketride-server/) — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale …
-- [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maddhruv-absolute/) — Awesome Skills from Around the World
+- [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maddhruv-absolute/) — Absolute Skills to 10x your Development Lifecycle
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evan-kolberg-prediction-market-backtesting/) — An extension for Nautilus Trader
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xlev-v-hyperliquid-trading-bot/) — Automated trading bot for Hyperliquid with three independent strategies — production-grade TypeScript, real-t…
 - [Rezzecup/cex-dex-price-gap-monitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rezzecup-cex-dex-price-gap-monitor/) — A real-time dashboard (Streamlit) that identifies price discrepancies between CEXs (Binance) and DEXs (Uniswa…

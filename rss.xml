@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>24 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>25 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。</description>
+<title>AlperKTS/Krea2_FP8</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。</description>
 </item>
 <item>
-<title>team-telnyx/telnyx-code-examples</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。</description>
+<title>Qwen/Qwen-AgentWorld-35B-A3B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-agentworld-35b-a3b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-agentworld-35b-a3b/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的文本生成模型，適用於環境模擬和代理系統。</description>
 </item>
 <item>
-<title>shy3130/tickflow-stock-panel</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。</description>
+<title>HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>無審核的 Gemma4 模型，支援多模式和程式碼生成。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>calesthio/OpenMontage</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>Egonex-AI/Understand-Anything</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>將程式碼轉換為可互動探索和查詢的知識圖形工具。</description>
 </item>
 <item>
-<title>owensong/Inflect-Nano-v1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/</guid>
-<pubDate>24 Jun 2026 08:00:00 +0000</pubDate>
-<description>一個超小型的文本轉語音模型，適用於本地端使用。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>25 Jun 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

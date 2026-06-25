@@ -243,7 +243,7 @@ _Daily archive · 2026-06-19_
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tahoebio-emeraldbay/) — · license:cc-by-4.0, size_categories:1M<n<10M, format:parquet
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, task creation, and LLM chat.
+- [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-molmo-motion-1m/) — · task_categories:other, language:en, license:other
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mig-nju-omnivideo-100k/) — · task_categories:video-text-to-text, license:apache-2.0, size_categories:10K<n<100K
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -446,7 +446,7 @@ _Daily archive · 2026-06-19_
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opensensenova-sensenova-skills/) — Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [NirDiamant/Agent_Memory_Techniques](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nirdiamant-agent-memory-techniques/) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge …
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
-- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 --续温
+- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vybenetwork-solana-mcp-vybe/) — Public Solana MCP registry metadata for Vybe Solana API
 - [bigmacman1129/btc-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-btc-arbitrage-trading-bot/) — Python-based crypto arbitrage bot that monitors price spreads across exchanges, sends alerts, and supports au…
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
@@ -574,7 +574,7 @@ _Daily archive · 2026-06-19_
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yusufkaraaslan-skill-seekers/) — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d…
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/felixmelanson-quantdrift/) — WIP; Tracking 7 AI models as they pilot live stock portfolios using distinct, data-driven philosophies.
 - [JuneYaooo/awesome-ai-media-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-awesome-ai-media-cn/) — AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。
-- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — From workspace to agent memory
+- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-zvec/) — A lightweight, lightning-fast, in-process vector database
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/generative-computing-granite-switch/) — Granite Switch — Build AI models like you build software
@@ -699,7 +699,7 @@ _Daily archive · 2026-06-19_
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matthewk78-rose/) — 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradi…
 - [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/davepoon-buildwithclaude/) — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend C…
 - [jaylfc/taOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jaylfc-taos/) — Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, c…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
 - [Houseofmvps/ultraship](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/houseofmvps-ultraship/) — "ULTRASHIP" Claude Code plugin — 39 skills, 33 tools, 11 agents for ship-ready workflows: planning, review, p…
 - [aiming-lab/MetaClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aiming-lab-metaclaw/) — 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [YicunAI/Pnlclaw-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yicunai-pnlclaw-community/) — PnLClaw — local-first crypto and prediction market quant engine.
@@ -746,7 +746,7 @@ _Daily archive · 2026-06-19_
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aivrar-portable-hermes-agent/) — Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, Comf…
 - [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alpic-ai-skybridge/) — Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platf…
 - [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tinybiggames-vindexllm/) — VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF mod…
-- [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maddhruv-absolute/) — Awesome Skills from Around the World
+- [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maddhruv-absolute/) — Absolute Skills to 10x your Development Lifecycle
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nightmean-ollitert/) — Turn your Android phone into an OpenAI-compatible LLM inference server — Fully local, private and Open Source
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-minhxthanh-vietnam-history-1m-vi/) — · task_categories:question-answering, task_categories:text-generation, language:vi
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xlev-v-hyperliquid-trading-bot/) — Automated trading bot for Hyperliquid with three independent strategies — production-grade TypeScript, real-t…

@@ -2,7 +2,7 @@
 
 一個基於 ComfyUI 的影像生成工具。
 
-**為何上榜**：HF trending 84 · 85 likes
+**為何上榜**：HF trending 65 · 90 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

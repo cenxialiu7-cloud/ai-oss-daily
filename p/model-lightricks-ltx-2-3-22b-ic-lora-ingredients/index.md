@@ -2,7 +2,7 @@
 
 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 
-**為何上榜**：HF trending 62 · 64 likes
+**為何上榜**：HF trending 60 · 73 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

@@ -4,5 +4,5 @@ DimCut is a novel editing interaction design that folds the 1D timeline into mul
 
 **Commercial license**：Commercial OK — 可商用，但修改該元件本身須開源(動態連結通常可)
 
-**Stars**：140
+**Stars**：143
 **Source**：https://github.com/hughfenghen/dimcut

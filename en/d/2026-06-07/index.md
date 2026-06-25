@@ -312,7 +312,7 @@ _Daily archive · 2026-06-07_
 - [large-performance-model/large-performance-model.github.io](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/large-performance-model-large-performance-model-github-io/) — LPM 1.0: Video-based Character Performance Model
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryancodrai-turbovec/) — A vector index built on TurboQuant, written in Rust with Python bindings
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gvkhosla-pi-tinker/) — Fine-tune open-source models with Tinker from inside Pi — managed improve loops, data prep, evals, smoke test…
-- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。 --续温
+- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用 QQ/微信 聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [inhouseseo/superseo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inhouseseo-superseo-skills/) — 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, …
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
 - [ShandaAI/AlayaRenderer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shandaai-alayarenderer/) — Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. 面向游戏与虚拟世界的AI原生渲染引擎
@@ -467,7 +467,7 @@ _Daily archive · 2026-06-07_
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xpzouying-xiaohongshu-mcp/) — MCP for xiaohongshu.com
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yusufkaraaslan-skill-seekers/) — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d…
 - [gudaochangsheng/RefAlign](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gudaochangsheng-refalign/) — [ECCV 2026] Official PyTorch implementation of RefAlign: Representation Alignment for Reference-to-Video Gene…
-- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — From workspace to agent memory
+- [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ashutosh0x-rust-finance/) — A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 - [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pocketrisu-pocketrisu/) — Self-hosted AI roleplay chat platform you run on your PC or personal server, forked from Risuai
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-ai-engineering-interview-questions/) — Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
@@ -595,7 +595,7 @@ _Daily archive · 2026-06-07_
 - [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abdulsamed1-ai-skills-bank/) — AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across va…
 - [AgriciDaniel/claude-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-blog/) — Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized f…
 - [showlab/Kiwi-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/showlab-kiwi-edit/) — A unified and fully open-source framework for instruction-guided and reference-guided video editing using nat…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.
 - [fikrikarim/volocal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fikrikarim-volocal/) — Fully local voice AI for iOS
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/giancarloerra-socraticode/) — Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP:…

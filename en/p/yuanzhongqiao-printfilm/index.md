@@ -4,5 +4,5 @@
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,372
+**Stars**：2,442
 **Source**：https://github.com/yuanzhongqiao/printfilm
