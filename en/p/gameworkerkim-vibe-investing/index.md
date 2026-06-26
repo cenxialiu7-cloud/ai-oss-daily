@@ -4,5 +4,5 @@ AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：224
+**Stars**：227
 **Source**：https://github.com/gameworkerkim/vibe-investing

@@ -1,6 +1,6 @@
 # futo-org/swipe.futo.org
 
-· language:en, license:mit, size_categories:1M<n<10M
+· task_categories:other, language:en, license:mit
 
 **Commercial license**：License unclear — 未知授權代碼 mit — 請人工確認商用條款
 

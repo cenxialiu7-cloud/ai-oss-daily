@@ -4,5 +4,5 @@ MCP server for controlling Adobe Premiere Pro via CEP/ExtendScript — 269 tools
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：83
+**Stars**：84
 **Source**：https://github.com/leancoderkavy/premiere-pro-mcp

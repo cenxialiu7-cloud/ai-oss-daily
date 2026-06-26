@@ -1,8 +1,8 @@
 # BitRobot/HIW-500
 
-· language:en, region:us, robotics
+· language:en, license:cc-by-4.0, region:us
 
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
 **Stars**：0
 **Source**：https://huggingface.co/datasets/BitRobot/HIW-500

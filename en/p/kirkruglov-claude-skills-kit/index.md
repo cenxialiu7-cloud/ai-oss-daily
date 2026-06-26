@@ -1,6 +1,6 @@
 # KirKruglov/claude-skills-kit
 
-60+ curated agent skills for Claude Cowork and Claude.ai — ready-to-use tools for non-technical users: project management, productivity, and AI workflow automation
+70+ curated agent skills for Claude Cowork and Claude.ai — ready-to-use tools for non-technical users: project management, productivity, and AI workflow automation
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

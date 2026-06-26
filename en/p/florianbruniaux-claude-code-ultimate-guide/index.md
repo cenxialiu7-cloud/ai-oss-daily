@@ -4,5 +4,5 @@ The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP 
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：5,198
+**Stars**：5,209
 **Source**：https://github.com/FlorianBruniaux/claude-code-ultimate-guide
