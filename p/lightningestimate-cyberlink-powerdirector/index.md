@@ -1,6 +1,6 @@
 # LightningEstimate/Cyberlink-Powerdirector
 
-影音製作相關 AI，關鍵字：文生影片（依標籤自動歸類，詳細看下方原文）
+未提供描述。
 
 **為何上榜**：近期新建立，已獲 36★
 

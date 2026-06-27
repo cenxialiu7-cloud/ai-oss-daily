@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
+<updated>2026-06-27T08:00:00+00:00</updated>
 <entry>
-<title>deepreinforce-ai/Ornith-1.0-35B-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>一個基於轉換器的文本生成模型，支援GGUF格式。</summary>
+<title>deepreinforce-ai/Ornith-1.0-397B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-397b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-397b/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>一個大型文本生成模型，支援對話和影像轉文字。</summary>
 </entry>
 <entry>
-<title>Chunjiang-Intelligence/DeepSeek-v4-Fable</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chunjiang-intelligence-deepseek-v4-fable/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chunjiang-intelligence-deepseek-v4-fable/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>深度尋找v4版本，適用於網路安全和CTF競賽的自動代理。</summary>
+<title>nvidia/GLM-5.2-NVFP4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>NVIDIA最佳化的GLM模型，適用於四位元精度的量化。</summary>
 </entry>
 <entry>
-<title>mradermacher/Mythos-nano-i1-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-mythos-nano-i1-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-mythos-nano-i1-gguf/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>一個基於轉換器的推理模型，支援GGUF格式。</summary>
+<title>MalcolmMcGough/polymarket-trading-bot-scalping</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>用於Polymarket超短期市場的自動化交易機器人。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>JCodesMore/ai-website-cloner-template</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>使用 AI 機器人克隆網站的工具。</summary>
 </entry>
 <entry>
-<title>zai-org/GLM-5.2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/</id>
-<updated>2026-06-26T08:00:00+00:00</updated>
-<summary>GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。</summary>
+<title>baidu/Unlimited-OCR</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
+<updated>2026-06-27T08:00:00+00:00</updated>
+<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
 </entry>
 </feed>

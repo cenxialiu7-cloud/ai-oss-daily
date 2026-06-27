@@ -4,5 +4,5 @@ Cut AI token costs 95%+ on code exploration. The leading MCP server for precise,
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：1,941
+**Stars**：1,944
 **Source**：https://github.com/jgravelle/jcodemunch-mcp

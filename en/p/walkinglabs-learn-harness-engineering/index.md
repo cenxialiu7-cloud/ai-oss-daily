@@ -4,5 +4,5 @@ Harness engineering beginner tutorial, from 0 to 1
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,217
+**Stars**：9,267
 **Source**：https://github.com/walkinglabs/learn-harness-engineering

@@ -1,6 +1,6 @@
 # Sandermage/genesis-vllm-patches
 
-vLLM patcher for Qwen3.6 on consumer NVIDIA — Qwen3.6-35B-A3B-FP8 (192 tok/s, +68% over stock) + Qwen3.6-27B-int4-AutoRound + 256K context. 126 patches: TurboQuant k8v4 KV, MTP/DFlash spec-decode, FULL cudagraph, hybrid GDN streaming, structured boot summary, one-command installer, 1958 tests. v7.72.2.
+vLLM runtime patch-overlay for Qwen3.6 + Gemma4 on consumer NVIDIA (Ampere sm_86, 2x A5000/3090) — Qwen3.6-35B-A3B FP8 ~244 tok/s, 27B-int4 hybrid GDN+Mamba, Gemma4 26B/31B AWQ, 256K ctx. 321 patches: TurboQuant k8v4 KV, MTP/DFlash spec-decode, FULL cudagraph, hybrid GDN. vLLM pin dev424 + SNDR Control Center GUI.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

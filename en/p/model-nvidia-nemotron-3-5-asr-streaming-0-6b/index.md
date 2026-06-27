@@ -1,6 +1,6 @@
 # nvidia/nemotron-3.5-asr-streaming-0.6b
 
-automatic-speech-recognition · nemo, speech-recognition, cache-aware ASR
+automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 
 **Commercial license**：Non-commercial — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

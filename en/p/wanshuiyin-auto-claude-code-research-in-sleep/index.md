@@ -4,5 +4,5 @@ ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for au
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：12,630
+**Stars**：12,679
 **Source**：https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
