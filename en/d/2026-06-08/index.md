@@ -414,7 +414,6 @@ _Daily archive · 2026-06-08_
 - [linoyts/Flux2-Klein-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-flux2-klein-face-swap/) — · gradio, region:us
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alvinreal-awesome-opensource-ai/) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zjunlp-sciatlas/) — A Large-Scale Knowledge Graph for Automated Scientific Research
-- [BlazeUp-AI/Observal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blazeup-ai-observal/) — Observal is a local registry and analytics platform for your AI components. Setup Observal, define the scope …
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/taco-group-sparkvsr/) — [ECCV 2026] SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
 - [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pocketrisu-pocketrisu/) — Self-hosted AI roleplay chat platform you run on your PC or personal server, forked from Risuai

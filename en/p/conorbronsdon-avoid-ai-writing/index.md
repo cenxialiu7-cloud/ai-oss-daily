@@ -4,5 +4,5 @@ Skill that audits and rewrites content to remove AI writing patterns. Use it wit
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,023
+**Stars**：2,036
 **Source**：https://github.com/conorbronsdon/avoid-ai-writing

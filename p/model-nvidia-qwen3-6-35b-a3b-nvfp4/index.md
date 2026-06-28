@@ -2,7 +2,7 @@
 
 NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 
-**為何上榜**：HF trending 110 · 361 likes · 4,812,629 下載
+**為何上榜**：HF trending 112 · 367 likes · 5,022,254 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -2,9 +2,9 @@
 
 社群文案產生器 Claude skill：文字/腳本/截圖轉成貼文。
 
-**為何上榜**：80★ · 近期活躍
+**為何上榜**：近一日新增 2★（現 82★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：80
+**Stars**：82
 **原始連結**：https://github.com/rediumvex/social-media-caption-generator-claude

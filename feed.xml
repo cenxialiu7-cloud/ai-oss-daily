@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
+<updated>2026-06-28T08:00:00+00:00</updated>
 <entry>
-<title>deepreinforce-ai/Ornith-1.0-397B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-397b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-397b/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>一個大型文本生成模型，支援對話和影像轉文字。</summary>
+<title>fal/LTX-2.3-3DREAL-LoRA</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</summary>
 </entry>
 <entry>
-<title>nvidia/GLM-5.2-NVFP4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>NVIDIA最佳化的GLM模型，適用於四位元精度的量化。</summary>
+<title>deepseek-ai/DeepSeek-V4-Pro-DSpark</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>用於生成文本的深度學習模型，基於 Transformers 框架。</summary>
 </entry>
 <entry>
-<title>MalcolmMcGough/polymarket-trading-bot-scalping</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>用於Polymarket超短期市場的自動化交易機器人。</summary>
+<title>hirokawaguchi/open-genai</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>calesthio/OpenMontage</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
 </entry>
 <entry>
-<title>JCodesMore/ai-website-cloner-template</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>使用 AI 機器人克隆網站的工具。</summary>
+<title>StarTrail-org/PixelRAG</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>基於畫素的搜尋引擎，支援多模態資料。</summary>
 </entry>
 <entry>
-<title>baidu/Unlimited-OCR</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
-<updated>2026-06-27T08:00:00+00:00</updated>
-<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
+<updated>2026-06-28T08:00:00+00:00</updated>
+<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
 </entry>
 </feed>

@@ -4,5 +4,5 @@ Browser automation CLI built for AI agents. Break through anti-bot walls, hand o
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,054
+**Stars**：3,094
 **Source**：https://github.com/browser-act/skills
