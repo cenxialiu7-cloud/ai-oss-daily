@@ -28,3 +28,4 @@
 - [🧩 本機隱私 AI 全家桶（Mac App 套裝：文件＋語音＋LLM＋交易）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P026/) — 一個品牌、多個離線 Mac App：文件智能、口播配音、本機 LLM 助手、交易研究，全程不上雲，資料零外流。
 - [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P027/) — 給工程團隊的一站式 AI 套件：秒懂任何 codebase、砍 agent token 帳單、訂閱最新開源情報、即時資安稽核。
 - [AI 電話語音 Agent：自動接聽/外撥，幫在地服務業做預約、提醒、客服](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P028/) — 用電信 API＋開源語音模型，做一支會講中文、能接聽與外撥的 AI 電話 agent，幫診所/餐廳/美容做預約確認、提醒與基本客服。
+- [企業私有 AI 知識中樞（自架 RAG）：文件＋程式碼＋工作記憶餵進私有 LLM，一問就找到](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P029/) — 把公司散落的文件、程式碼、流程知識灌進一個自架的 AI 大腦，員工用一句話問答就能找到任何答案——資料完全不出公司內網。
