@@ -4,5 +4,5 @@ Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,438
+**Stars**：3,448
 **Source**：https://github.com/TabularisDB/tabularis

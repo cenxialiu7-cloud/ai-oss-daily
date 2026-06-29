@@ -4,5 +4,5 @@ Public repository for Agent Skills
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：155,908
+**Stars**：156,262
 **Source**：https://github.com/anthropics/skills

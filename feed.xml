@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
+<updated>2026-06-29T08:00:00+00:00</updated>
 <entry>
-<title>fal/LTX-2.3-3DREAL-LoRA</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</summary>
+<title>ilkerzgi/fal-Krea-2-Style-LoRAs</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>deepseek-ai/DeepSeek-V4-Pro-DSpark</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>用於生成文本的深度學習模型，基於 Transformers 框架。</summary>
+<title>NorthMizukageBond/social-media-automation</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>自動化社群媒體管理工具，可協助發文、互動。</summary>
 </entry>
 <entry>
-<title>hirokawaguchi/open-genai</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。</summary>
+<title>inlineresearch/Inline-Studio</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>使用 ComfyUI 的 AI 影片創作平臺，提供創意工具和桌面應用程式。</summary>
 </entry>
 <entry>
-<title>calesthio/OpenMontage</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>StarTrail-org/PixelRAG</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>基於畫素的搜尋引擎，支援多模態資料。</summary>
+<title>nexu-io/open-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
 </entry>
 <entry>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
-<updated>2026-06-28T08:00:00+00:00</updated>
-<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-06-29T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>28 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>29 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>fal/LTX-2.3-3DREAL-LoRA</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</description>
+<title>ilkerzgi/fal-Krea-2-Style-LoRAs</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/DeepSeek-V4-Pro-DSpark</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-pro-dspark/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>用於生成文本的深度學習模型，基於 Transformers 框架。</description>
+<title>NorthMizukageBond/social-media-automation</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>自動化社群媒體管理工具，可協助發文、互動。</description>
 </item>
 <item>
-<title>hirokawaguchi/open-genai</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。</description>
+<title>inlineresearch/Inline-Studio</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>使用 ComfyUI 的 AI 影片創作平臺，提供創意工具和桌面應用程式。</description>
 </item>
 <item>
-<title>calesthio/OpenMontage</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
+<title>DeusData/codebase-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
 </item>
 <item>
-<title>StarTrail-org/PixelRAG</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>基於畫素的搜尋引擎，支援多模態資料。</description>
+<title>nexu-io/open-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
-<pubDate>28 Jun 2026 08:00:00 +0000</pubDate>
-<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

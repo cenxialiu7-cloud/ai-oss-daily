@@ -1,6 +1,6 @@
 # Routeclijudge/Pinnacle-Studio
 
-影音製作相關 AI，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
+Pinnacle Studio 相關的音訊編輯指南與顯示設定。
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 

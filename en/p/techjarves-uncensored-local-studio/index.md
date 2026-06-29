@@ -4,5 +4,5 @@ Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Ima
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：311
+**Stars**：387
 **Source**：https://github.com/techjarves/Uncensored-Local-Studio

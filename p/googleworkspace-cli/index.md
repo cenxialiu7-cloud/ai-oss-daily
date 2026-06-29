@@ -2,9 +2,9 @@
 
 Google Workspace CLI，提供 Drive、Gmail 等服務的命令列工具。
 
-**為何上榜**：近一日新增 105★（現 28,990★）
+**為何上榜**：近一日新增 88★（現 29,078★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：28,990
+**Stars**：29,078
 **原始連結**：https://github.com/googleworkspace/cli
