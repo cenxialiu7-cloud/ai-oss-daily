@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併 — AI OSS Daily</title>
+<meta name="description" content="把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P031/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P031/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P031/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P031/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P031/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併 — AI OSS Daily">
+<meta property="og:description" content="把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P031/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併 — AI OSS Daily">
+<meta name="twitter:description" content="把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併", "description": "把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。", "datePublished": "2026-06-29T08:00:00+00:00", "dateModified": "2026-06-29T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-29/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P031/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P031</p>
+  <h1>AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併</h1>
+  <p class="detail-lead">把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: high</span>
+    <span class="badge">4–6 週做出能接 CI 的版本；難點在從 diff 自動推導穩定的瀏覽器測試步驟與重放、效能與錯誤判讀的誤報抑制，以及把報告做成可擋 PR 的閘門；核心皆為現成 MCP／工具。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①CI／CD 整合 SaaS 月費：每次合併自動跑瀏覽器走查＋效能與主控台錯誤監控，依專案數或執行次數計費②免費『單頁網站健檢』工具（網頁端，效能／錯誤報告）掛 Adsterra／Monetag 廣告引流③進階報告模板與導入顧問走 Ko-fi，推薦相容的瀏覽器測試雲與主機商走工具／主機商聯盟。絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>open-code-review 解析 PR diff，判定改動風險與該重測範圍 → semble 對改動程式碼做高速語意檢索，定位受影響的頁面與元件（比 grep+read 省約 98% token）→ thClaws 當多供應商代理框架，把測試計畫排成可執行步驟並提供 GUI／CLI → chrome-devtools-mcp 驅動真實 Chrome 走查流程，擷取效能 trace、網路請求、主控台錯誤與截圖 → 彙整成附證據、可一鍵擋合併的健檢報告。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/">ChromeDevTools/chrome-devtools-mcp</a></h3>
+<p class="summary">Chrome DevTools for coding agents</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 44,699</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/alibaba-open-code-review/">alibaba/open-code-review</a></h3>
+<p class="summary">Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">OpenAI</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 9,593</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/minishlab-semble/">MinishLab/semble</a></h3>
+<p class="summary">Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 5,439</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/thclaws-thclaws/">thClaws/thClaws</a></h3>
+<p class="summary">Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Gemini</span><span class="badge target">OpenAI</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,132</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

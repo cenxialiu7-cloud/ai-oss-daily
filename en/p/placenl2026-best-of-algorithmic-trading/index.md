@@ -10,5 +10,5 @@ algorithmic trading curated list quant finance trading bots backtesting technica
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：264
+**Stars**：266
 **Source**：https://github.com/PlaceNL2026/best-of-algorithmic-trading

@@ -4,5 +4,5 @@ A high-performance Solana copy-trading bot written in Rust. It watches a target 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：287
+**Stars**：310
 **Source**：https://github.com/DexCrancer/solana-copytrading-bot

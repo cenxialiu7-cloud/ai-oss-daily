@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書 — AI OSS Daily</title>
+<meta name="description" content="給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P030/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P030/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P030/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P030/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P030/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書 — AI OSS Daily">
+<meta property="og:description" content="給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P030/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書 — AI OSS Daily">
+<meta name="twitter:description" content="給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書", "description": "給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。", "datePublished": "2026-06-29T08:00:00+00:00", "dateModified": "2026-06-29T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-06-29/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P030/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P030</p>
+  <h1>網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書</h1>
+  <p class="detail-lead">給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">3–4 週做出可用版本；模型與技能包現成，難點在長篇一致性（角色／伏筆記憶）的章節聖經串接與去 AI 味後處理，計費與前端為次要工。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①寫手訂閱制 SaaS（月費）：掃榜選題＋拆文大綱＋長文生成＋去 AI 味＋人物世界觀聖經管理，按字數或專案計費②有聲書加值：用 MOSS-TTS 把章節轉多角色語音，賣有聲版產出或代製配音③免費『網文趨勢掃榜站』（網頁端）掛 Adsterra／Monetag 廣告引流，進階模板與抖內走 Ko-fi。絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>oh-story-claudecode 提供掃榜／拆文／去 AI 味的網文寫作工作流骨架 → GLM-5.2 當中文長文寫作引擎，依拆解出的大綱逐章產出 → claude-obsidian 把人物設定、世界觀、伏筆整理成自組織知識圖譜（章節聖經），維持長篇前後一致 → 完稿章節丟 MOSS-TTS 轉多角色旁白輸出有聲書。全流程可本機或私有部署。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/worldwonderer-oh-story-claudecode/">worldwonderer/oh-story-claudecode</a></h3>
+<p class="summary">网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 3,365</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-zai-org-glm-5-2/">zai-org/GLM-5.2</a></h3>
+<p class="summary">text-generation · transformers, safetensors, glm_moe_dsa</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/">OpenMOSS-Team/MOSS-TTS-v1.5</a></h3>
+<p class="summary">text-to-speech · safetensors, moss_tts_delay, text-to-speech</p>  <div class="cardmeta">
+    <span class="badge domain">🎬 Media Creation</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/agricidaniel-claude-obsidian/">AgriciDaniel/claude-obsidian</a></h3>
+<p class="summary">Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 8,251</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

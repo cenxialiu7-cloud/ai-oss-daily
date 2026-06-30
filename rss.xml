@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>29 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>30 Jun 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>ilkerzgi/fal-Krea-2-Style-LoRAs</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</description>
+<title>Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>NorthMizukageBond/social-media-automation</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>自動化社群媒體管理工具，可協助發文、互動。</description>
+<title>QuantiaAI/helm-agents</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。</description>
 </item>
 <item>
-<title>inlineresearch/Inline-Studio</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>使用 ComfyUI 的 AI 影片創作平臺，提供創意工具和桌面應用程式。</description>
+<title>bcbl190626/SpanishBCBL</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>JCodesMore/ai-website-cloner-template</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>使用 AI 機器人克隆網站的工具。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>29 Jun 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>baidu/Unlimited-OCR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
+<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
 </item>
 </channel>
 </rss>

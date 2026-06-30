@@ -29,3 +29,7 @@
 - [🧩 開發者 AI 生產力套件（理解＋省錢＋情報＋資安）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P027/) — 給工程團隊的一站式 AI 套件：秒懂任何 codebase、砍 agent token 帳單、訂閱最新開源情報、即時資安稽核。
 - [AI 電話語音 Agent：自動接聽/外撥，幫在地服務業做預約、提醒、客服](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P028/) — 用電信 API＋開源語音模型，做一支會講中文、能接聽與外撥的 AI 電話 agent，幫診所/餐廳/美容做預約確認、提醒與基本客服。
 - [企業私有 AI 知識中樞（自架 RAG）：文件＋程式碼＋工作記憶餵進私有 LLM，一問就找到](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P029/) — 把公司散落的文件、程式碼、流程知識灌進一個自架的 AI 大腦，員工用一句話問答就能找到任何答案——資料完全不出公司內網。
+- [網文小說 AI 寫作工作室：掃榜選題 → 拆解大綱 → 長文生成 → 一鍵有聲書](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P030/) — 給網文寫手的一站式工具：自動掃榜找熱門題材、拆解爆款結構生成大綱、長篇逐章生成並去 AI 味，完稿再一鍵轉多角色有聲書。
+- [AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P031/) — 把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。
+- [本機法律 AI 工作台：合約審閱、法規檢索、文件起草一站搞定（Mac App，多司法管轄）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P032/) — 把開源法律技能庫＋OCR＋本機 LLM 串成個人律師與中小企業法務的合約審閱、檢索與起草助手，敏感卷宗完全不出本機。
+- [Skill 自進化工坊：量測表現→自動優化→編譯打包，把 AI 技能變可持續販售的資產（P007 強化版）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P033/) — 用 SkillOpt 的自我進化引擎＋可編譯技能標準，幫技能作者把 prompt 技能自動調優、客觀評分並打包成可版本控管、可販售的成品。
