@@ -15,17 +15,16 @@
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-6/) — 面壁 MiniCPM-V 多模態模型（看圖對話）。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-claim-ready/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-cosmos3-nano/) — NVIDIA Cosmos3 Nano 文生圖線上示範。
+- [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-locateanything-3b/) — NVIDIA LocateAnything 3B 視覺定位多模態模型。
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-misotts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [kepeng/MeasL-Bench-V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-kepeng-measl-bench-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — NayanaOCR：印度語系 OCR 語料庫。
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-higgs-audio-v3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-locateanything-3b/) — NVIDIA LocateAnything 3B 視覺定位多模態模型。
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-follow-the-mean/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-zonos2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-stanford-vision-lab-gpic/) — 史丹佛 GPIC 視覺生成圖像資料集（MIT 授權）。

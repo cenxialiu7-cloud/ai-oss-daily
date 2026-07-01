@@ -4,5 +4,5 @@ A high-performance, ultra low-latency trading terminal and AI-infused daemon bui
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：367
+**Stars**：370
 **Source**：https://github.com/Ashutosh0x/rust-finance

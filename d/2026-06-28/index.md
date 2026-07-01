@@ -118,7 +118,6 @@ _每日存檔 · 2026-06-28_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — 使用LoRA技術訓練的文本生成模型，適用於程式碼生成和對話。
 - [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -309,7 +308,6 @@ _每日存檔 · 2026-06-28_
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-swap-api/) — Solana交換API及路由器。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。

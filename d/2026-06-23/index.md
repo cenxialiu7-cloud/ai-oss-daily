@@ -105,7 +105,6 @@ _每日存檔 · 2026-06-23_
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -269,7 +268,6 @@ _每日存檔 · 2026-06-23_
 - [modelstudioai/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelstudioai-cli/) — 阿里雲百煉官方CLI工具，用於AI代理框架、模型搜尋和多模態能力管理。
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：55
+**Stars**：56
 **Source**：https://github.com/Enping-Hu/minimind-deep-dive

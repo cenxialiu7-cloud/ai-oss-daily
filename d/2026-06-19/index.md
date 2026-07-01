@@ -80,7 +80,6 @@ _每日存檔 · 2026-06-19_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
@@ -259,7 +258,6 @@ _每日存檔 · 2026-06-19_
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [timoncool/HiggsAudio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-higgsaudio-studio/) — 行動式 Windows 文字轉語音工具，支援多國語言和 NVIDIA GPU。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

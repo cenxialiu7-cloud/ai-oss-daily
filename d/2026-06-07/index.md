@@ -185,7 +185,6 @@ _每日存檔 · 2026-06-07_
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — 互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claudiodrews-memory-os/) — 適用於 Hermes Agent 的七層記憶作業系統，提供永續性記憶和上下文注入。

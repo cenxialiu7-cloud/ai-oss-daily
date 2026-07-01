@@ -117,7 +117,6 @@ _Daily archive · 2026-06-30_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — · region:us
 - [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, region:us
@@ -318,7 +317,6 @@ _Daily archive · 2026-06-30_
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — Best GPT Image 2 OpenAi Prompts & Tools Guide 2026
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Framework for Building Agents
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
@@ -360,7 +358,7 @@ _Daily archive · 2026-06-30_
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [rudrankriyam/Core-AI-Framework-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rudrankriyam-core-ai-framework-lab/) — A practical lab for exploring Apple's Core AI framework, model assets, specialization, and on-device inferenc…
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ducklelabs-duckle/) — Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB.…
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronesfe-polymarket-automated-trading-bot/) — Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and …
@@ -486,7 +484,7 @@ _Daily archive · 2026-06-30_
 - [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-cve-mcp-server/) — Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS sc…
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A collection of agent skills for CAD, robotics and hardware design
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reikwei-gu-piao-yu-ce/) — 股票预测项目,mvp版。期待openai给予额度、GPT加油。
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nanotron-ultrascale-playbook/) — · static, region:us
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughfenghen-dimcut/) — DimCut is a novel editing interaction design that folds the 1D timeline into multiple rows, integrating text,…
@@ -649,7 +647,7 @@ _Daily archive · 2026-06-30_
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfe…
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-zvec/) — A lightweight, lightning-fast, in-process vector database
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cporter202-agentic-ai-apis/) — The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents…
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dottedsign-official-dottedsign-mcp/) — A DottedSign MCP server that enables AI assistants (Claude, ChatGPT) to manage signing tasks, templates, and …

@@ -58,7 +58,6 @@ _Daily archive · 2026-06-14_
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
@@ -217,7 +216,6 @@ _Daily archive · 2026-06-14_
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qixuewei-nureasoning/) — · task_categories:visual-question-answering, task_categories:text-generation, task_categories:robotics
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
@@ -430,7 +428,7 @@ _Daily archive · 2026-06-14_
 - [FrancoisRost1/mini-bloomberg-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/francoisrost1-mini-bloomberg-terminal/) — Unified investment research terminal. Integrates 10 standalone financial engines (LBO, PE screener, factor mo…
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heymrun-heym/) — Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MC…
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilsvrc-imagenet-1k/) — · task_categories:image-classification, task_ids:multi-class-image-classification, annotations_creators:crowd…
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roneneldan-tinystories/) — · task_categories:text-generation, language:en, license:cdla-sharing-1.0

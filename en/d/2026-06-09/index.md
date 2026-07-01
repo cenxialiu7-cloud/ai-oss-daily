@@ -4,7 +4,6 @@ _Daily archive · 2026-06-09_
 
 ## 🆕 New
 
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
@@ -16,6 +15,7 @@ _Daily archive · 2026-06-09_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — · task_categories:text-generation, language:kha, license:cc-by-nc-4.0
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — · task_categories:translation, language:en, language:kha
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pengrambo3-tech-zeushammer/) — ZeusHammer - AI Super Agent with Local Brain, Voice Interaction & Three-Tier Memory
+- [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 
 ## 🚀 Climbing
 
@@ -64,7 +64,6 @@ _Daily archive · 2026-06-09_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
@@ -187,7 +186,6 @@ _Daily archive · 2026-06-09_
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nduckmink-arkon/) — Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts,…
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keshik6-gpic/) — Official Code for GPIC: A Giant Permissive Image Corpus for Visual Generation
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell — the AI short PJ Ace called "o…
 - [PlaceNL2026/best-of-algorithmic-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-best-of-algorithmic-trading/) — algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source…
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hajimides-sd-anima-prompt-studio/) — ✨ Stunning glassmorphism UI for Stable Diffusion and Anima prompt engineering. Intelligent conflict-free comp…
@@ -372,7 +370,7 @@ _Daily archive · 2026-06-09_
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pattern-ai-labs-agentcall/) — AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Me…
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/constellation-engine-constellation-engine/) — Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living…
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us

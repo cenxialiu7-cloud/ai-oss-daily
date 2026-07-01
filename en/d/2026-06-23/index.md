@@ -105,7 +105,6 @@ _Daily archive · 2026-06-23_
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — · gradio, region:us
@@ -243,7 +242,7 @@ _Daily archive · 2026-06-23_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us
@@ -269,7 +268,6 @@ _Daily archive · 2026-06-23_
 - [modelstudioai/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelstudioai-cli/) — Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and w…
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
@@ -537,7 +535,7 @@ _Daily archive · 2026-06-23_
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thetacursed-illustrious-noobai-style-explorer/) — Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized f…
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dottedsign-official-dottedsign-mcp/) — A DottedSign MCP server that enables AI assistants (Claude, ChatGPT) to manage signing tasks, templates, and …

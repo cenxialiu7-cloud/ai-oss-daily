@@ -4,5 +4,5 @@ Open source implementation and extension of Google Research’s PaperBanana for 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,038
+**Stars**：2,041
 **Source**：https://github.com/llmsresearch/paperbanana

@@ -107,7 +107,6 @@ _每日存檔 · 2026-06-24_
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。
@@ -281,7 +280,6 @@ _每日存檔 · 2026-06-24_
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [modelstudioai/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelstudioai-cli/) — 阿里雲百煉官方CLI工具，用於AI代理框架、模型搜尋和多模態能力管理。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-oh-story-claudecode/) — 網文寫作技能包，涵蓋掃榜、拆文、去 AI 味道等全流程。

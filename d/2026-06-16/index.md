@@ -65,7 +65,6 @@ _每日存檔 · 2026-06-16_
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — NVIDIA 的量化模型，用於文本生成和影像擴散。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
 - [MiniCPM5-1B（端側小鋼炮）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/) — 面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。
@@ -227,7 +226,6 @@ _每日存檔 · 2026-06-16_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-k2-fsa-omnivoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qixuewei-nureasoning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

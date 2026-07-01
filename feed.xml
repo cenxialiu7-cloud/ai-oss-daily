@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
+<updated>2026-07-01T08:00:00+00:00</updated>
 <entry>
-<title>Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
+<title>meituan-longcat/LongCat-2.0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
 <summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>QuantiaAI/helm-agents</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
-<summary>多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。</summary>
+<title>huihui-ai/Huihui-GLM-5.2-abliterated-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
+<summary>一款去識別化的 GLM 模型，支援文本生成。</summary>
 </entry>
 <entry>
-<title>bcbl190626/SpanishBCBL</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>nationaldesignstudio/rampart</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
+<summary>使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>calesthio/OpenMontage</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
+<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
 </entry>
 <entry>
-<title>JCodesMore/ai-website-cloner-template</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
-<summary>使用 AI 機器人克隆網站的工具。</summary>
+<title>safishamsi/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
+<summary>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</summary>
 </entry>
 <entry>
-<title>baidu/Unlimited-OCR</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
-<updated>2026-06-30T08:00:00+00:00</updated>
-<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
+<updated>2026-07-01T08:00:00+00:00</updated>
+<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
 </entry>
 </feed>

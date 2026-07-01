@@ -58,7 +58,6 @@ _每日存檔 · 2026-06-14_
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
@@ -217,7 +216,6 @@ _每日存檔 · 2026-06-14_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qixuewei-nureasoning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。

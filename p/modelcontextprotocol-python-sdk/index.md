@@ -2,9 +2,9 @@
 
 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 
-**為何上榜**：近一日新增 11★（現 23,485★）
+**為何上榜**：近一日新增 7★（現 23,492★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：23,485
+**Stars**：23,492
 **原始連結**：https://github.com/modelcontextprotocol/python-sdk

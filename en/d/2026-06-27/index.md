@@ -115,7 +115,6 @@ _Daily archive · 2026-06-27_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — text-generation · peft, safetensors, gguf
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
@@ -307,7 +306,6 @@ _Daily archive · 2026-06-27_
 - [allenai/tmax-15k-open-instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-tmax-15k-open-instruct/) — · language:en, license:odc-by, size_categories:10K<n<100K
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [timoncool/HiggsAudio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-higgsaudio-studio/) — Portable Windows TTS — Higgs Audio v3 + AI text director, podcast & audiobook multi-voice. One-click, 100% of…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
@@ -337,7 +335,7 @@ _Daily archive · 2026-06-27_
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI Avatars — heygen, d-id, ai avatar, ai video avatar.
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/withkynam-vibecode-pro-max-kit/) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real bui…
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
@@ -436,7 +434,7 @@ _Daily archive · 2026-06-27_
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thomasmoreai-legal-skills-open/) — Open library of legal AI skills (SKILL.md) for MCP-compatible agents — 39 jurisdictions, 200+ plugins, Apache…
 - [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safishamsi-graphify/) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of co…
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — · task_categories:translation, language:en, language:kha
 - [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/soniqo-speech-studio/) — Open-source desktop voice-cloning studio for creators — clone a voice, script lines with emotion markers, syn…
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday l…
@@ -604,7 +602,7 @@ _Daily archive · 2026-06-27_
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cporter202-agentic-ai-apis/) — The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents…
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [Monet-AI-Editor/Monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/monet-ai-editor-monet/) — Edit Videos and Design Images with Claude code or Codex
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [mirkobozzetto/flowflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkobozzetto-flowflow/) — Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman

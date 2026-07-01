@@ -56,7 +56,6 @@ _每日存檔 · 2026-06-13_
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
@@ -206,7 +205,6 @@ _每日存檔 · 2026-06-13_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
 - [HuggingAI4Engineering/CADGenBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingai4engineering-cadgenbench/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

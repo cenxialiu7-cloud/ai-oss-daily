@@ -155,7 +155,6 @@ _每日存檔 · 2026-06-03_
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。

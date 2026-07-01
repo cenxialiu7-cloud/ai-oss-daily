@@ -3,6 +3,7 @@
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
 - [crosbylegal/RedlineBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-crosbylegal-redlinebench/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
+- [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K

@@ -105,7 +105,6 @@ _Daily archive · 2026-06-02_
 - [someone-in-the-world/FireRed-Experimental-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-someone-in-the-world-firered-experimental-turbo/) — · gradio, image-generation, image-to-image
 - [Daankular/Sulphur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-daankular-sulphur/) — · gradio, region:us
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lukadev13-liminal-dreamcore-1k/) — · license:mit, modality:image, region:us
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [meituan-longcat/WBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-meituan-longcat-wbench/) — · task_categories:text-to-video, task_categories:image-to-video, language:en
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -249,7 +248,7 @@ _Daily archive · 2026-06-02_
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brodyautomates-polymarket-pipeline/) — Event-driven AI pipeline that monitors breaking news in real time, classifies market impact with Claude, and …
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flowelement-ai-m-flow/) — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/znyupup-ai-video-editing-skill/) — AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whispe…
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/purpledoubled-locally-uncensored/) — Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs …
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz audio, and LoRA training

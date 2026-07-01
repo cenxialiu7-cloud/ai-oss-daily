@@ -4,7 +4,6 @@ _每日存檔 · 2026-06-09_
 
 ## 🆕 新上榜
 
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — 快速、無審核限制的超大規模對話式文本生成模型。
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-06-09_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengrambo3-tech-zeushammer/) — 具備本地腦、語音互動及三層記憶的AI超級代理。
+- [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marchinthesun-epyc-max-inference-llm-optimizer/) — 針對AMD EPYC最佳化的llama.cpp分支，提升效能。
 
 ## 🚀 Star 竄升
 
@@ -64,7 +64,6 @@ _每日存檔 · 2026-06-09_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
@@ -187,7 +186,6 @@ _每日存檔 · 2026-06-09_
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。

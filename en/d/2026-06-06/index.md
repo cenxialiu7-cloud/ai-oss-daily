@@ -183,7 +183,6 @@ _Daily archive · 2026-06-06_
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simchowitzlabpublic-nano-world-model/) — A Minimalist, Batteries-included Repository for Advancing World Model Science.
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cliffsector21-fooocus/) — Fooocus — ДЕСКТОПНЫЕ AI — ИЗОБРАЖЕНИЯ.
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
@@ -320,7 +319,7 @@ _Daily archive · 2026-06-06_
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/znyupup-ai-video-editing-skill/) — AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whispe…
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dontplantoend-ugi-leaderboard/) — · docker, leaderboard, submission:manual
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brodyautomates-polymarket-pipeline/) — Event-driven AI pipeline that monitors breaking news in real time, classifies market impact with Claude, and …
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling

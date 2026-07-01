@@ -117,7 +117,6 @@ _每日存檔 · 2026-06-30_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -318,7 +317,6 @@ _每日存檔 · 2026-06-30_
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — GPT影像生成的最佳提示和工具指南。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — Claude Opus 4.6／4.7 推理過程資料集（8.7k 筆）。
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

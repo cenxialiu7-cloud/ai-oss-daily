@@ -183,7 +183,6 @@ _每日存檔 · 2026-06-06_
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepakness-google-ai-search-optimization/) — 依 Google 指引做 AI Overviews／AI Mode／SEO 稽核的 agent skill。
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts-server/) — 相容 OpenAI Text-to-Speech API 的 Irodori-TTS 伺服器。
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simchowitzlabpublic-nano-world-model/) — 極簡、開箱即用的「世界模型」研究框架。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cliffsector21-fooocus/) — 使用 Stable Diffusion 技術的桌面 AI 影像生成器。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。

@@ -53,7 +53,6 @@ _Daily archive · 2026-06-12_
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [LiquidAI/LFM2.5-8B-A1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-8b-a1b/) — text-generation · transformers, safetensors, lfm2_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -202,7 +201,6 @@ _Daily archive · 2026-06-12_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/billlucky-echocut/) — Turn raw footage into brand-ready, platform-optimized video with one command. Local-first: FFmpeg + WhisperX/…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-open-code-review/) — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pi…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
@@ -402,7 +400,7 @@ _Daily archive · 2026-06-12_
 - [activeloopai/hivemind](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeloopai-hivemind/) — Hivemind turns your traces into reusable skills across agents
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roneneldan-tinystories/) — · task_categories:text-generation, language:en, license:cdla-sharing-1.0

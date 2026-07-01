@@ -72,7 +72,6 @@ _Daily archive · 2026-06-17_
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [LiquidAI/LFM2.5-8B-A1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-8b-a1b/) — text-generation · transformers, safetensors, lfm2_moe
@@ -234,7 +233,6 @@ _Daily archive · 2026-06-17_
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
@@ -470,7 +468,7 @@ _Daily archive · 2026-06-17_
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/witty-suckerpunch492-daihuo-jianshou/) — 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thetacursed-illustrious-noobai-style-explorer/) — Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized f…

@@ -33,3 +33,4 @@
 - [AI 瀏覽器 QA／網站體檢代理：丟網址或 PR → 真實瀏覽器走查＋效能錯誤報告，可擋合併](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P031/) — 把一個網站或一個 PR 交給 AI，它用真實 Chrome 跑端對端流程、抓效能與主控台錯誤、定位受影響頁面，產出可擋下不良合併的健檢報告。
 - [本機法律 AI 工作台：合約審閱、法規檢索、文件起草一站搞定（Mac App，多司法管轄）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P032/) — 把開源法律技能庫＋OCR＋本機 LLM 串成個人律師與中小企業法務的合約審閱、檢索與起草助手，敏感卷宗完全不出本機。
 - [Skill 自進化工坊：量測表現→自動優化→編譯打包，把 AI 技能變可持續販售的資產（P007 強化版）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P033/) — 用 SkillOpt 的自我進化引擎＋可編譯技能標準，幫技能作者把 prompt 技能自動調優、客觀評分並打包成可版本控管、可販售的成品。
+- [AI 投資委員會：13 位角色化 AI 分析師研究＋辯論＋風控 → 一份可下載的個股決策報告（非訊號推播）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P034/) — 輸入一檔股票，13 位角色化 AI 分析師分頭研究、互相辯論、跑風控壓力測試，產出一份附回測佐證與信心度的繁中買賣決策報告。

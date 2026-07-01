@@ -79,7 +79,6 @@ _Daily archive · 2026-06-20_
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
@@ -256,7 +255,6 @@ _Daily archive · 2026-06-20_
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
@@ -508,7 +506,7 @@ _Daily archive · 2026-06-20_
 - [linoyts/Flux2-Klein-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-flux2-klein-face-swap/) — · gradio, region:us
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [mvanhorn/cli-printing-press](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mvanhorn-cli-printing-press/) — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds …
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/witty-suckerpunch492-daihuo-jianshou/) — 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frank-ay-mimo-mcp/) — 把小米 MiMo 全模态能力(对话/图像/视频/TTS/声音克隆)封装成 stdio MCP Server,Claude Code 与 Codex 可直接调用

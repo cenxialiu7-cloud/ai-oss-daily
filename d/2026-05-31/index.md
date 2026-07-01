@@ -90,7 +90,6 @@ _每日存檔 · 2026-05-31_
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — NayanaOCR：印度語系 OCR 語料庫。
 - [meituan-longcat/WBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meituan-longcat-wbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [5CD-AI/Viet-Handwriting-OCR-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-5cd-ai-viet-handwriting-ocr-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。

@@ -79,7 +79,6 @@ _每日存檔 · 2026-06-15_
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — gemma-4-12B 是用於程式碼生成和推理的模型。
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
@@ -207,7 +206,6 @@ _每日存檔 · 2026-06-15_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

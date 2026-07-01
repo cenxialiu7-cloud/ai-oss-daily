@@ -109,7 +109,6 @@ _Daily archive · 2026-06-01_
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lukadev13-liminal-dreamcore-1k/) — · license:mit, modality:image, region:us
 - [meituan-longcat/WBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-meituan-longcat-wbench/) — · task_categories:text-to-video, task_categories:image-to-video, language:en
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
 - [Kwai-Klear/GoLongRL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kwai-klear-golongrl/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
@@ -194,7 +193,7 @@ _Daily archive · 2026-06-01_
 - [seme-org/open-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seme-org-open-director/) — 🎬 开源 AI 视频工作室 — 从一句话到成片。支持创意模式（AI 导演全流程自动生成）和批量模式（批量生产短视频）。Open-source AI video studio — from one sentence to…
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chiennv2000-orthrus/) — Fast, lossless LLM inference via dual-view diffusion decoding.
 - [shootthesound/comfyui-CleanFreak](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-comfyui-cleanfreak/) — One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get the…
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rockeycoss-leapalign-code/) — [CVPR2026] LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajecto…
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-gpt-image-2-for-e-commerce/) — How to use GPT Image 2 for e-commerce: a prompt cookbook for listing photos, model try-on, product showcases,…
 - [GammaLabTechnologies/harmonist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gammalabtechnologies-harmonist/) — Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.

@@ -87,7 +87,6 @@ _每日存檔 · 2026-06-22_
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jedisct1-mimo-v2-5-coder-q2/) — MiMo V2.5 程式碼模型的 Q2 量化版（llama.cpp）。
@@ -265,7 +264,6 @@ _每日存檔 · 2026-06-22_
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artefactory-ledger-market-sentiment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

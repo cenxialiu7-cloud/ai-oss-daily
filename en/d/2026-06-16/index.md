@@ -65,7 +65,6 @@ _Daily archive · 2026-06-16_
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — text-generation · safetensors, diffusion_gemma, nvidia
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
@@ -227,7 +226,6 @@ _Daily archive · 2026-06-16_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-k2-fsa-omnivoice/) — · gradio, region:us
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qixuewei-nureasoning/) — · task_categories:visual-question-answering, task_categories:text-generation, task_categories:robotics
@@ -458,7 +456,7 @@ _Daily archive · 2026-06-16_
 - [wshobson/agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wshobson-agents/) — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Ge…
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughyau-qiushi-skill/) — 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the…
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/constellation-engine-constellation-engine/) — Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living…

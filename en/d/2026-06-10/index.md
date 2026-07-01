@@ -55,7 +55,6 @@ _Daily archive · 2026-06-10_
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
@@ -186,7 +185,6 @@ _Daily archive · 2026-06-10_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/katzca-autosocial/) — Local social media automation dashboard for TikTok, Instagram, and YouTube.
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Methodology + prompts + Claude Code Skill behind Zombie Scavenger by Mx-Shell — the AI short PJ Ace called "o…
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nduckmink-arkon/) — Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts,…
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
@@ -376,7 +374,7 @@ _Daily archive · 2026-06-10_
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techsquidtv-cliparr/) — Create clips from media on your personal media server
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/constellation-engine-constellation-engine/) — Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living…
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us
 - [black-forest-labs/FLUX.2-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-2-dev/) — · gradio, region:us

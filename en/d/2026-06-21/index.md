@@ -10,7 +10,7 @@ _Daily archive · 2026-06-21_
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-portable-diffusion/) — [Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-colbert-350m/) — sentence-similarity · PyLate, safetensors, lfm2
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omnigent-ai-omnigent/) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, a…
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrischen667788-wind-comic/) — Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic story…
 - [heygen-com/heygen-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-heygen-cli/) — Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
@@ -84,7 +84,6 @@ _Daily archive · 2026-06-21_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [Qwen/Qwen3.6-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-6-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
@@ -259,14 +258,13 @@ _Daily archive · 2026-06-21_
 - [timoncool/HiggsAudio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-higgsaudio-studio/) — Portable Windows TTS — Higgs Audio v3 + AI text director, podcast & audiobook multi-voice. One-click, 100% of…
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — All-in-one AI music studio on Stable Audio 3 and a CUDA port of Magenta RealTime. It generates audio from tex…
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexlex47-game-art-prompt-kit/) — Reusable prompt profiles for game art, pixel spritesheets, character concepts, and 2D environments.
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [momori777/Artemis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/momori777-artemis/) — 破限本地AI女友后宫，openclaw/claude code+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+前端，QQ+Telegram双通道，8G显存可跑🩵uncensored Fully offline…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
@@ -520,7 +518,7 @@ _Daily archive · 2026-06-21_
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deusdata-codebase-memory-mcp/) — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average …
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plan…
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system

@@ -57,7 +57,6 @@ _每日存檔 · 2026-06-11_
 - [Liquid LFM2.5-8B-A1B（MoE 模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/) — Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [MiniCPM5-1B（端側小鋼炮）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/) — 面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。
@@ -193,7 +192,6 @@ _每日存檔 · 2026-06-11_
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

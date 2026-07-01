@@ -112,7 +112,6 @@ _Daily archive · 2026-06-26_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — text-generation · peft, safetensors, gguf
@@ -298,7 +297,6 @@ _Daily archive · 2026-06-26_
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [allenai/tmax-15k-open-instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-tmax-15k-open-instruct/) — · language:en, license:odc-by, size_categories:10K<n<100K
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
@@ -325,7 +323,7 @@ _Daily archive · 2026-06-26_
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cliffsector21-fooocus/) — Fooocus — ДЕСКТОПНЫЕ AI — ИЗОБРАЖЕНИЯ.
 - [eight-acres-lab/skillplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eight-acres-lab-skillplus/) — A compilable skill package standard for reliable content-generation agents.
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI Avatars — heygen, d-id, ai avatar, ai video avatar.
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -351,7 +349,7 @@ _Daily archive · 2026-06-26_
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/billlucky-echocut/) — Turn raw footage into brand-ready, platform-optimized video with one command. Local-first: FFmpeg + WhisperX/…
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-k2-fsa-omnivoice/) — · gradio, region:us
@@ -593,7 +591,7 @@ _Daily archive · 2026-06-26_
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-seo/) — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, G…
 - [allenai/olmOCR-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-olmocr-bench/) — · benchmark:official, benchmark:eval-yaml, language:en
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuanzhongqiao-printfilm/) — 短剧平台 AI Short Film Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …

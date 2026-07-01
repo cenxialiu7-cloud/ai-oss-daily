@@ -7,14 +7,14 @@
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-krea2-lora-trainer/) — · gradio, region:us
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
-- [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting Claude Code session files (.jsonl) into the mes…
 - [M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-m3st3rj4k3l-flux-2-klein-multi-lora/) — · gradio, mcp-server, region:us
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。
+- [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting Claude Code session files (.jsonl) into the mes…
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
-- [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gvkhosla-pi-tinker/) — Fine-tune open-source models with Tinker from inside Pi — managed improve loops, data prep, evals, smoke test…
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
+- [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gvkhosla-pi-tinker/) — Fine-tune open-source models with Tinker from inside Pi — managed improve loops, data prep, evals, smoke test…
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.

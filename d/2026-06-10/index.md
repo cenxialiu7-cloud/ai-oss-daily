@@ -55,7 +55,6 @@ _每日存檔 · 2026-06-10_
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
@@ -186,7 +185,6 @@ _每日存檔 · 2026-06-10_
 - [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katzca-autosocial/) — 用於自動化TikTok、Instagram和YouTube的社交媒體管理儀錶板。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。

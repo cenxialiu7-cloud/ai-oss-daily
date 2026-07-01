@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>30 Jun 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>01 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
+<title>meituan-longcat/LongCat-2.0</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
 <description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>QuantiaAI/helm-agents</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
-<description>多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。</description>
+<title>huihui-ai/Huihui-GLM-5.2-abliterated-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
+<description>一款去識別化的 GLM 模型，支援文本生成。</description>
 </item>
 <item>
-<title>bcbl190626/SpanishBCBL</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>nationaldesignstudio/rampart</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
+<description>使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>calesthio/OpenMontage</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
+<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
 </item>
 <item>
-<title>JCodesMore/ai-website-cloner-template</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
-<description>使用 AI 機器人克隆網站的工具。</description>
+<title>safishamsi/graphify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
+<description>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</description>
 </item>
 <item>
-<title>baidu/Unlimited-OCR</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
-<pubDate>30 Jun 2026 08:00:00 +0000</pubDate>
-<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
+<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
+<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
 </item>
 </channel>
 </rss>

@@ -53,7 +53,6 @@ _每日存檔 · 2026-06-12_
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-pro/) — 一款基於轉換器模型的對話式文本生成工具。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
 - [Liquid LFM2.5-8B-A1B（MoE 模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-8b-a1b/) — Liquid AI 的 LFM 系列 MoE 模型(8B 參數、A1B 啟用)。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
@@ -202,7 +201,6 @@ _每日存檔 · 2026-06-12_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion WebUI（automatic1111／ComfyUI）整合下載與設定指南。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。

@@ -3,6 +3,7 @@
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-redmadrobot-rnd-pii-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [crosbylegal/RedlineBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-crosbylegal-redlinebench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Claude Fable 5 使用案例、整合及效能評估指南。
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-treble-technologies-ffasr/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-cosmos-humaneval-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

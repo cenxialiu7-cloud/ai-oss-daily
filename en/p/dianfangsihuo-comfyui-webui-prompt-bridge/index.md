@@ -1,6 +1,6 @@
 # dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge
 
-ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。
+ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

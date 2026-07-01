@@ -87,7 +87,6 @@ _Daily archive · 2026-06-22_
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-10eros/) — · gradio, region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jedisct1-mimo-v2-5-coder-q2/) — text-generation · llama.cpp, gguf, text-generation
@@ -122,7 +121,7 @@ _Daily archive · 2026-06-22_
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-colbert-350m/) — sentence-similarity · PyLate, safetensors, lfm2
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
@@ -265,7 +264,6 @@ _Daily archive · 2026-06-22_
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
@@ -522,7 +520,7 @@ _Daily archive · 2026-06-22_
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dottedsign-official-dottedsign-mcp/) — A DottedSign MCP server that enables AI assistants (Claude, ChatGPT) to manage signing tasks, templates, and …
 - [Saganaki22/ComfyUI-OmniVoice-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-omnivoice-tts/) — OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and…
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roneneldan-tinystories/) — · task_categories:text-generation, language:en, license:cdla-sharing-1.0
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zarazhangrui-personalized-podcast/) — Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and…

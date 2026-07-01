@@ -107,7 +107,6 @@ _Daily archive · 2026-06-24_
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-31b-it/) — image-text-to-text · transformers, safetensors, gemma4
@@ -259,7 +258,7 @@ _Daily archive · 2026-06-24_
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tahoebio-emeraldbay/) — · license:cc-by-4.0, size_categories:1M<n<10M, format:parquet
 - [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — · gradio, mcp-server, region:us
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omnigent-ai-omnigent/) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, a…
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
@@ -281,7 +280,6 @@ _Daily archive · 2026-06-24_
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
 - [modelstudioai/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelstudioai-cli/) — Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and w…
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-oh-story-claudecode/) — 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
@@ -550,7 +548,7 @@ _Daily archive · 2026-06-24_
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/witty-suckerpunch492-daihuo-jianshou/) — 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-ace-step-studio/) — Portable AI music generator — full songs with vocals, covers, music videos. One-click install, 100% offline, …
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuanzhongqiao-printfilm/) — 短剧平台 AI Short Film Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench

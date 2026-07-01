@@ -2,9 +2,9 @@
 
 ComfyUI 的 OmniVoice TTS 節點，支援零樣本多語言語音克隆和設計。
 
-**為何上榜**：近一日新增 20★（現 465★）
+**為何上榜**：近一日新增 10★（現 475★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：465
+**Stars**：475
 **原始連結**：https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS

@@ -112,7 +112,6 @@ _Daily archive · 2026-06-25_
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-1-dev/) — text-to-image · diffusers, safetensors, text-to-image
-- [nex-agi/Nex-N2-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-pro/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
@@ -288,10 +287,9 @@ _Daily archive · 2026-06-25_
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 - [momori777/Artemis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/momori777-artemis/) — 破限本地AI女友后宫，openclaw/claude code+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+前端，QQ+Telegram双通道，8G显存可跑🩵uncensored Fully offline…
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
-- [BasZ4ll/Stable-Diffusion-WebUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/basz4ll-stable-diffusion-webui/) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora m…
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
-- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search.
+- [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
@@ -572,7 +570,7 @@ _Daily archive · 2026-06-25_
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/witty-suckerpunch492-daihuo-jianshou/) — 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
-- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把一本书蒸馏成一组可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuanzhongqiao-printfilm/) — 短剧平台 AI Short Film Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG …
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/teng-lin-notebooklm-py/) — Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's featu…

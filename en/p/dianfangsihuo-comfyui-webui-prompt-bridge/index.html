@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge — 🎬 Media Creation — AI OSS Daily</title>
-<meta name="description" content="ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。">
+<meta name="description" content="ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dianfangsihuo-comfyui-webui-prompt-bridge/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge — 🎬 Media Creation — AI OSS Daily">
-<meta property="og:description" content="ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。">
+<meta property="og:description" content="ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge — 🎬 Media Creation — AI OSS Daily">
-<meta name="twitter:description" content="ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。">
+<meta name="twitter:description" content="ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge", "description": "ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 20, "bestRating": "5", "worstRating": "1"}, "keywords": "autocomplete, comfyui, custom-node, lora, prompt-engineering, stable-diffusion, translation"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge", "description": "ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 20, "bestRating": "5", "worstRating": "1"}, "keywords": "autocomplete, comfyui, custom-node, lora, prompt-engineering, stable-diffusion, translation"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🎬 Media Creation", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/media-creation/"}, {"@type": "ListItem", "position": 3, "name": "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/"}]}</script>
 </head>
 <body>
@@ -44,7 +44,7 @@
     <a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a>
   </p>
   <h1>dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge</h1>
-<p class="detail-lead">ComfyUI 的 WebUI 式提示词工作台：提示词编辑、LoRA 浏览加载、模型切换、中文翻译和布局助手。</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">ComfyUI 的 WebUI 式提示词工作台：管理提示词、LoRA、模型切换、区域控制，并可接管尺寸、Steps 和 Seed。</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🎬 Media Creation</span>
     <span class="badge lic-ok">✓ Commercial OK</span>
 <span class="badge stars">★ 20</span><span class="badge">JavaScript</span>  </div>

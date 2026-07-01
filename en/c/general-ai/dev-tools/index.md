@@ -12,10 +12,10 @@
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
-- [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
+- [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mrfakename-z-image-turbo/) — · gradio, mcp-server, region:us
+- [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday l…
