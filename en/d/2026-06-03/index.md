@@ -258,7 +258,7 @@ _Daily archive · 2026-06-03_
 - [jiuhuang-asset/jh_quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jiuhuang-asset-jh-quant/) — 开源量化交易平台 | 兼容 akshare/tushare 调用风格 | 回测引擎 · 因子模型 · 实盘交易 · 可视化仪表盘
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-ace-step-studio/) — Portable AI music generator — full songs with vocals, covers, music videos. One-click install, 100% offline, …
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/witty-suckerpunch492-daihuo-jianshou/) — 自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thetacursed-illustrious-noobai-style-explorer/) — Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized f…

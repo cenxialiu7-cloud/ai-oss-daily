@@ -180,7 +180,7 @@ _Daily archive · 2026-06-01_
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills-codex/) — Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/visko-platform-vefx-bench/) — VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0

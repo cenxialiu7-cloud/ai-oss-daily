@@ -218,7 +218,7 @@ _Daily archive · 2026-06-18_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
-- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — All-in-one AI music studio on Stable Audio 3 and a CUDA port of Magenta RealTime. It generates audio from tex…
+- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
@@ -512,7 +512,7 @@ _Daily archive · 2026-06-18_
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
 - [NVIDIA/NemoClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-nemoclaw/) — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pattern-ai-labs-agentcall/) — AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Me…
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brodyautomates-polymarket-pipeline/) — Event-driven AI pipeline that monitors breaking news in real time, classifies market impact with Claude, and …
 - [SakanaAI/AI-CUDA-Engineer-Archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sakanaai-ai-cuda-engineer-archive/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet

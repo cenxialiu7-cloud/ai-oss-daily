@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
+<updated>2026-07-02T08:00:00+00:00</updated>
 <entry>
-<title>meituan-longcat/LongCat-2.0</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
+<title>google/tabfm-1.0.0-pytorch</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>用於表格資料分類和回歸的 PyTorch 模型。</summary>
 </entry>
 <entry>
-<title>huihui-ai/Huihui-GLM-5.2-abliterated-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>一款去識別化的 GLM 模型，支援文本生成。</summary>
+<title>smolagents/hf-realtime-voice</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>nationaldesignstudio/rampart</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。</summary>
+<title>build-small-hackathon/certificate-generator</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>calesthio/OpenMontage</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>safishamsi/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</summary>
+<title>Imbad0202/academic-research-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。</summary>
 </entry>
 <entry>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
-<updated>2026-07-01T08:00:00+00:00</updated>
-<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
+<title>fal/LTX-2.3-3DREAL-LoRA</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</id>
+<updated>2026-07-02T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</summary>
 </entry>
 </feed>

@@ -394,7 +394,7 @@ _Daily archive · 2026-06-11_
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pattern-ai-labs-agentcall/) — AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Me…
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/constellation-engine-constellation-engine/) — Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living…
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/) — Chrome DevTools for coding agents
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roneneldan-tinystories/) — · task_categories:text-generation, language:en, license:cdla-sharing-1.0

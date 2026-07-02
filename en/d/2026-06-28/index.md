@@ -320,7 +320,7 @@ _Daily archive · 2026-06-28_
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qixuewei-nureasoning/) — · task_categories:visual-question-answering, task_categories:text-generation, task_categories:robotics
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
-- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — All-in-one AI music studio on Stable Audio 3 and a CUDA port of Magenta RealTime. It generates audio from tex…
+- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vibe-creating-skill/) — Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portab…
 - [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
@@ -434,7 +434,7 @@ _Daily archive · 2026-06-28_
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/byliutao-cdm/) — Continuous-Time Distribution Matching for Few-Step Diffusion Distillation👏
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — · task_categories:translation, language:en, language:kha
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-qwen-qwen3-tts/) — · gradio, region:us
-- [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egoist-machines-lodedb/) — World's fastest and most compact embedded vector database: exact, multimodal, local-first, and GPU-accelerated
+- [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egoist-machines-lodedb/) — World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU…
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-stabledaw/) — ARCHIVED USE theDAW at https://github.com/gantasmo/theDAW - Browser-based AI audio DAW for Stable Audio 3 wit…
@@ -671,7 +671,7 @@ _Daily archive · 2026-06-28_
 - [jiuhuang-asset/jh_quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jiuhuang-asset-jh-quant/) — 开源量化交易平台 | 兼容 akshare/tushare 调用风格 | 回测引擎 · 因子模型 · 实盘交易 · 可视化仪表盘
 - [walkinglabs/awesome-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-awesome-harness-engineering/) — 🛠️ Awesome tools & guides for harness engineering.
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz audio, and LoRA training
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/guoguo-tju-agent-java-offer/) — 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pattern-ai-labs-agentcall/) — AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Me…
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beever-ai-beever-atlas/) — Your First LLM-Wiki Conversation Knowledge Base

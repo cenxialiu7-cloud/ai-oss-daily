@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>01 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>02 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>meituan-longcat/LongCat-2.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
+<title>google/tabfm-1.0.0-pytorch</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>用於表格資料分類和回歸的 PyTorch 模型。</description>
 </item>
 <item>
-<title>huihui-ai/Huihui-GLM-5.2-abliterated-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款去識別化的 GLM 模型，支援文本生成。</description>
+<title>smolagents/hf-realtime-voice</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>nationaldesignstudio/rampart</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。</description>
+<title>build-small-hackathon/certificate-generator</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>calesthio/OpenMontage</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
+<title>DeusData/codebase-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
 </item>
 <item>
-<title>safishamsi/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。</description>
+<title>Imbad0202/academic-research-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。</description>
 </item>
 <item>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
-<pubDate>01 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
+<title>fal/LTX-2.3-3DREAL-LoRA</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</guid>
+<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</description>
 </item>
 </channel>
 </rss>

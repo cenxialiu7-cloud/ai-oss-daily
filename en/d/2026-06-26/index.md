@@ -305,7 +305,7 @@ _Daily archive · 2026-06-26_
 - [momori777/Artemis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/momori777-artemis/) — 破限本地AI女友后宫，openclaw/claude code+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+前端，QQ+Telegram双通道，8G显存可跑🩵uncensored Fully offline…
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
-- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — All-in-one AI music studio on Stable Audio 3 and a CUDA port of Magenta RealTime. It generates audio from tex…
+- [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [qixuewei/nuReasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qixuewei-nureasoning/) — · task_categories:visual-question-answering, task_categories:text-generation, task_categories:robotics
@@ -397,7 +397,7 @@ _Daily archive · 2026-06-26_
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
-- [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egoist-machines-lodedb/) — World's fastest and most compact embedded vector database: exact, multimodal, local-first, and GPU-accelerated
+- [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egoist-machines-lodedb/) — World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU…
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 - [opensquilla/opensquilla](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opensquilla-opensquilla/) — OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thclaws-thclaws/) — Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider,…
@@ -645,7 +645,7 @@ _Daily archive · 2026-06-26_
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz audio, and LoRA training
 - [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/guoguo-tju-agent-java-offer/) — 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
-- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs
+- [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B LoRAs
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaaiyun-joinquant-skill/) — AI agent skill for generating quantitative strategy code on JoinQuant platform - Cursor / Claude Code compati…
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/znyupup-ai-video-editing-skill/) — AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whispe…
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0

@@ -3,6 +3,7 @@
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ducklelabs-duckle/) — 拖放式資料管道設計工具，編譯成 SQL 在 DuckDB 上執行。
 - [Aliu-AiRobot/ESEILANE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aliu-airobot-eseilane/) — 高效率知識圖譜引擎，適用於 AI、大語言模型和 GraphRAG。
+- [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uw-math-ai-math-graph/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flowelement-ai-m-flow/) — 生物啟發式認知記憶引擎，適用於圖形 RAG 的新方法。
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。
 - [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/) — AI coding 助手 skill（Claude/Codex/Cursor/Gemini），把程式碼轉成圖（+938★）。
@@ -31,8 +32,8 @@
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
 - [EngramMemory/engram-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/engrammemory-engram-memory/) — 一款高分AI記憶系統，無需依賴大語言模型重排序，免費且節省Token。
 - [likeslines-maker/VectorRAG.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/likeslines-maker-vectorrag-net/) — .NET 向量資料庫，適用於語義搜尋和增強生成。
-- [McKern3l/RAGdrag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckern3l-ragdrag/) — RAG管道安全測試工具，涵蓋MITRE ATLAS的六個階段技術。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
+- [McKern3l/RAGdrag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckern3l-ragdrag/) — RAG管道安全測試工具，涵蓋MITRE ATLAS的六個階段技術。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
 - [radcrew/radcrew-unveiled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/radcrew-radcrew-unveiled/) — RadCrew.org網站，配備具LLM能力的聊天機器人。
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lyonzin-knowledge-rag/) — 從 Claude Code 搜尋檔案，提供混合搜尋和重排序功能，本地執行無伺服器。

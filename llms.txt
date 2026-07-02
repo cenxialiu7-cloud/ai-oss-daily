@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-07-01 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-07-02 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-07-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-02/)
 - [2026-07-01](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-01/)
 - [2026-06-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-30/)
 - [2026-06-29](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-29/)
@@ -26,15 +27,14 @@
 - [2026-06-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-21/)
 - [2026-06-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-20/)
 - [2026-06-19](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-19/)
-- [2026-06-18](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-18/)
 
 ## 今日精選 Today's picks
-- [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/)
-- [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/)
-- [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/)
-- [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/)
-- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/safishamsi-graphify/)
-- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/)
+- [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/)
+- [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/)
+- [build-small-hackathon/certificate-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/)
+- [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/)
+- [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/)
+- [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
