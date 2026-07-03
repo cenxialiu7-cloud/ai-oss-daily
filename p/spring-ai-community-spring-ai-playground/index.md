@@ -2,9 +2,9 @@
 
 安全本地執行層，用於構建和驗證MCP工具。
 
-**為何上榜**：125★ · 近期活躍
+**為何上榜**：124★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：125
+**Stars**：124
 **原始連結**：https://github.com/spring-ai-community/spring-ai-playground

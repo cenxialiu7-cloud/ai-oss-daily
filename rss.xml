@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>02 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>03 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>google/tabfm-1.0.0-pytorch</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>用於表格資料分類和回歸的 PyTorch 模型。</description>
+<title>markov-ai/gaming-500-hours</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-gaming-500-hours/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-gaming-500-hours/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>smolagents/hf-realtime-voice</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>RekaAI/CS2-10k</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>build-small-hackathon/certificate-generator</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>diversant-5714/DaVinci-26-Pro-Port</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>Imbad0202/academic-research-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。</description>
+<title>JCodesMore/ai-website-cloner-template</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>使用 AI 機器人克隆網站的工具。</description>
 </item>
 <item>
-<title>fal/LTX-2.3-3DREAL-LoRA</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/</guid>
-<pubDate>02 Jul 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。</description>
+<title>baidu/Unlimited-OCR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
+<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
 </item>
 </channel>
 </rss>

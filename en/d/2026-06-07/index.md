@@ -313,9 +313,8 @@ _Daily archive · 2026-06-07_
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [inhouseseo/superseo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inhouseseo-superseo-skills/) — 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, …
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
-- [ShandaAI/AlayaRenderer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shandaai-alayarenderer/) — Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. 面向游戏与虚拟世界的AI原生渲染引擎
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
-- [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sergebulaev-linkedin-skills/) — Claude Code skills for LinkedIn growth: write human-sounding posts, craft comments that get noticed, analyze …
+- [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sergebulaev-linkedin-skills/) — Claude Code and Codex skills for LinkedIn growth: write human-sounding posts, craft comments that get noticed…
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
 - [addyosmani/agentic-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agentic-seo/) — Agentic SEO / Agentic Engine Optimization (AEO) tools
 - [cutemarkets/cutebacktests](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cutemarkets-cutebacktests/) — Backtesting framework for modern option strategies

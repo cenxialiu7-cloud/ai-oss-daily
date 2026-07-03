@@ -1,6 +1,6 @@
 # google/tabfm-1.0.0-pytorch
 
-tabular-classification · tabfm, tabular, tabular-regression
+tabular-classification · tabfm, safetensors, tabular
 
 **Commercial license**：Non-commercial — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

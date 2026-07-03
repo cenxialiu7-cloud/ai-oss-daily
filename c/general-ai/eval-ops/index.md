@@ -1,9 +1,9 @@
 # 📊 評估／可觀測／安全
 
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/) — AI 評估／可觀測／安全工具（依標籤自動歸類，詳細看下方原文）
+- [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-ifstruct-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-redmadrobot-rnd-pii-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [crosbylegal/RedlineBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-crosbylegal-redlinebench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-treble-technologies-ffasr/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-cosmos-humaneval-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -4,5 +4,5 @@ On-device speech SDK for Android — ASR, TTS, VAD, and noise cancellation power
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：70
+**Stars**：71
 **Source**：https://github.com/soniqo/speech-android

@@ -4,5 +4,5 @@ DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skill
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,085
+**Stars**：1,118
 **Source**：https://github.com/zhu1090093659/deepseek-pp
