@@ -19,11 +19,11 @@ _Daily archive · 2026-06-10_
 ## 🚀 Climbing
 
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryancodrai-turbovec/) (+1,294★)
-- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safishamsi-graphify/) (+831★)
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) (+762★)
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egonex-ai-understand-anything/) (+690★)
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) (+655★)
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) (+537★)
+- [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/esengine-deepseek-reasonix/) (+528★)
 
 ## Full Board
 
@@ -87,7 +87,7 @@ _Daily archive · 2026-06-10_
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-diffusion-14b/) — text-generation · transformers, safetensors, nvidia
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-video/) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s wit…
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-aimeebingmouqu-protectbirds/) — · docker, region:us
-- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) — 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Sy…
+- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) — 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your …
 - [froggeric/Qwen-Fixed-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-froggeric-qwen-fixed-chat-templates/) — · mlx, jinja, chat-template
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-cosmos3-nano/) — · gradio, region:us
@@ -253,7 +253,6 @@ _Daily archive · 2026-06-10_
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-krafton-raon-opentts-pool/) — · task_categories:text-to-speech, language:en, license:other
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 Image nodes + LoRA training for ComfyUI
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
-- [safishamsi/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safishamsi-graphify/) — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of co…
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thaolst-tara-bot/) — Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday l…
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
@@ -616,7 +615,7 @@ _Daily archive · 2026-06-10_
 - [nextlevelbuilder/goclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nextlevelbuilder-goclaw/) — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurr…
 - [QingGo/engram-peft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qinggo-engram-peft/) — 🚀 Engram-PEFT: An unofficial implementation of DeepSeek Engram. Inject high-capacity conditional memory into …
 - [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skyhook-io-radar/) — The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing…
-- [ilang-ai/autocode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ilang-ai-autocode/) — You say it. AutoCode ships it. 46 skills. Code to deployment in one session. I-Lang v3.0 powered. Free foreve…
+- [ilang-ai/autocode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ilang-ai-autocode/) — You say it. AutoCode ships it. 48 skills. Code to deployment in one session. I-Lang v5.0 judgment + secret-sa…
 - [Agents365-ai/video-podcast-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agents365-ai-video-podcast-maker/) — Automated 4K video podcast creation for coding agents
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [agent-next/polymarket-paper-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-next-polymarket-paper-trader/) — Paper trading simulator for Polymarket — built for AI agents. MCP server, live order books, strategy backtest…

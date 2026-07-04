@@ -4,5 +4,5 @@ Desktop Companion for Hermes Agent
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,010
+**Stars**：13,048
 **Source**：https://github.com/fathah/hermes-desktop

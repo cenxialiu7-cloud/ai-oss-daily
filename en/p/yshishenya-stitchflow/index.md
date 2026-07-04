@@ -4,5 +4,5 @@ StitchFlow turns prompts into UI directions, Tailwind-friendly HTML, and screens
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：11
+**Stars**：12
 **Source**：https://github.com/yshishenya/stitchflow

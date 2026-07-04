@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>03 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>04 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>markov-ai/gaming-500-hours</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-gaming-500-hours/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-gaming-500-hours/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
+<title>eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
+<description>用 Flux2Klein 模型調整影像中的光照方向。</description>
+</item>
+<item>
+<title>OpenOneRec/Explorer_LLM_Rec_Competition</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
 <description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>RekaAI/CS2-10k</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>rl-llm-wiki/rl-dashboard</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-rl-llm-wiki-rl-dashboard/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-rl-llm-wiki-rl-dashboard/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>diversant-5714/DaVinci-26-Pro-Port</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
-<description>專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。</description>
+<title>calesthio/OpenMontage</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
+<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>JuliusBrussee/caveman</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
 </item>
 <item>
-<title>JCodesMore/ai-website-cloner-template</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
-<description>使用 AI 機器人克隆網站的工具。</description>
-</item>
-<item>
-<title>baidu/Unlimited-OCR</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
-<pubDate>03 Jul 2026 08:00:00 +0000</pubDate>
-<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
+<pubDate>04 Jul 2026 08:00:00 +0000</pubDate>
+<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
 </item>
 </channel>
 </rss>

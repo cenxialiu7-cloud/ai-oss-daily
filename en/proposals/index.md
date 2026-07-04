@@ -34,3 +34,5 @@
 - [本機法律 AI 工作台：合約審閱、法規檢索、文件起草一站搞定（Mac App，多司法管轄）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P032/) — 把開源法律技能庫＋OCR＋本機 LLM 串成個人律師與中小企業法務的合約審閱、檢索與起草助手，敏感卷宗完全不出本機。
 - [Skill 自進化工坊：量測表現→自動優化→編譯打包，把 AI 技能變可持續販售的資產（P007 強化版）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P033/) — 用 SkillOpt 的自我進化引擎＋可編譯技能標準，幫技能作者把 prompt 技能自動調優、客觀評分並打包成可版本控管、可販售的成品。
 - [AI 投資委員會：13 位角色化 AI 分析師研究＋辯論＋風控 → 一份可下載的個股決策報告（非訊號推播）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P034/) — 輸入一檔股票，13 位角色化 AI 分析師分頭研究、互相辯論、跑風控壓力測試，產出一份附回測佐證與信心度的繁中買賣決策報告。
+- [AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P035/) — 給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。
+- [AI 投資盡職調查中樞：把『AI 投資委員會決策報告』疊上『公司背景 OSINT 盡調』，產出機構級投資盡調卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P036/) — 投資前一次到位：13 位角色化 AI 分析師的基本面辯論決策，加上對該公司與經營層的公開背景與風險盡調，合成一份附佐證的繁中投資盡職調查卷宗。

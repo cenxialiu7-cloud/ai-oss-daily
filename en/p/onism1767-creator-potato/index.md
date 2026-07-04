@@ -4,5 +4,5 @@ Free Easy AI visibility check - measure how often a brand is mentioned & cited i
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：113
+**Stars**：128
 **Source**：https://github.com/onism1767-creator/potato

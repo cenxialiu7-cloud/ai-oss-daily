@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告 — AI OSS Daily</title>
+<meta name="description" content="給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P035/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P035/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P035/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P035/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P035/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告 — AI OSS Daily">
+<meta property="og:description" content="給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P035/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告 — AI OSS Daily">
+<meta name="twitter:description" content="給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告", "description": "給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。", "datePublished": "2026-07-03T08:00:00+00:00", "dateModified": "2026-07-03T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-07-03/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P035/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P035</p>
+  <h1>AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告</h1>
+  <p class="detail-lead">給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 2–4 週做出能跑的 MVP：接 OpenOSINT 與報告產生各約一週；難點在多來源情報去重與可信度評分、公開資料的合規與免責邊界、避免誤報造成名譽風險，以及查核結果的佐證連結可追溯性。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①網頁端『免費快篩版』盡調摘要（單一公司基本公開情報＋風險提示）掛 Adsterra／Monetag 廣告引流；②完整報告付費解鎖（多來源交叉比對、風險旗標、佐證連結彙整）用 Ko-fi 一次性解鎖，或 SaaS 月費（批量查核、每週重掃、PDF／CSV 匯出，賣給 HR／投資／合規團隊）；③自架部署教學帶主機商聯盟分潤，桌面整理版另做 Mac App 買斷。全程僅用公開資料並附合規與免責聲明，絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>OpenOSINT 當核心情報蒐集代理，用其 16 種工具跨網域、社群、公開登記與新聞來源，針對輸入的公司／網域抓取公開足跡（註冊資訊、關聯站點、外洩提及、品牌冒用等）→ baidu/Unlimited-OCR 把截圖、掃描登記文件或 PDF 轉成可比對文字 → semble 對彙整到的大量情報做高速檢索與去重，交叉比對出重複、矛盾與風險線索（比 grep+read 省約 98% token）→ GLM-5.2 將多語來源歸納成繁中盡調報告，標註風險旗標、信心度與佐證連結 → 以 modelcontextprotocol/python-sdk 包成 MCP／CLI，網頁端輸出可下載報告。僅蒐集公開資料、聚焦企業／網域層級的合規與商業盡職調查，非個人監控；與 P017 資安情報（CVE／紅隊、對象是自家程式碼漏洞）定位不同。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/openosint-openosint/">OpenOSINT/OpenOSINT</a></h3>
+<p class="summary">AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 884</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/minishlab-semble/">MinishLab/semble</a></h3>
+<p class="summary">Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 5,489</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-baidu-unlimited-ocr/">baidu/Unlimited-OCR</a></h3>
+<p class="summary">image-text-to-text · transformers, safetensors, unlimited-ocr</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-zai-org-glm-5-2/">zai-org/GLM-5.2</a></h3>
+<p class="summary">text-generation · transformers, safetensors, glm_moe_dsa</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 23,523</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

@@ -1,6 +1,6 @@
 # mlabonne/open-perfectblend
 
-· license:apache-2.0, size_categories:1M<n<10M, format:parquet
+· license:apache-2.0, arxiv:2409.20370, region:us
 
 **Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 
