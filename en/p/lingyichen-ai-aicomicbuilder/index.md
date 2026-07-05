@@ -4,5 +4,5 @@ AI-powered animated comic generator — transform scripts into fully animated vi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,621
+**Stars**：1,622
 **Source**：https://github.com/LingyiChen-AI/AIComicBuilder

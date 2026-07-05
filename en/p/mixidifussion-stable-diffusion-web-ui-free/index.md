@@ -4,5 +4,5 @@ stable diffusion web ui free comfyui  sd webui video git clone github ai art gen
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：64
+**Stars**：81
 **Source**：https://github.com/mixidifussion/stable-diffusion-web-ui-free

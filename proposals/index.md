@@ -36,3 +36,5 @@
 - [AI 投資委員會：13 位角色化 AI 分析師研究＋辯論＋風控 → 一份可下載的個股決策報告（非訊號推播）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P034/) — 輸入一檔股票，13 位角色化 AI 分析師分頭研究、互相辯論、跑風控壓力測試，產出一份附回測佐證與信心度的繁中買賣決策報告。
 - [AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P035/) — 給徵才、投資、合規與品牌保護團隊：輸入一家公司或網域，AI 用 OSINT 自動跨源蒐集公開情報，彙整成一份含風險旗標與佐證連結的繁中盡職調查報告。
 - [AI 投資盡職調查中樞：把『AI 投資委員會決策報告』疊上『公司背景 OSINT 盡調』，產出機構級投資盡調卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P036/) — 投資前一次到位：13 位角色化 AI 分析師的基本面辯論決策，加上對該公司與經營層的公開背景與風險盡調，合成一份附佐證的繁中投資盡職調查卷宗。
+- [AI 開發記憶與規格中樞：讓 Claude Code／Cursor 團隊每次開新 session 都不失憶、需求不跑偏](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P037/) — 把每次 agent session 的上下文自動壓縮成長期記憶，並把口頭需求即時整理成正式規格，讓任何相容 client 接上就能『記得』專案。
+- [MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/) — 把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。

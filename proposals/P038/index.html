@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板 — AI 開源日報</title>
+<meta name="description" content="把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P038/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/index.md" title="純文字（Markdown）版">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 開源日報">
+<meta property="og:title" content="MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板 — AI 開源日報">
+<meta property="og:description" content="把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板 — AI 開源日報">
+<meta name="twitter:description" content="把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板", "description": "把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。", "datePublished": "2026-07-05T08:00:00+00:00", "dateModified": "2026-07-05T08:00:00+00:00", "inLanguage": "zh-Hant", "author": {"@type": "Organization", "name": "AI 開源日報"}, "publisher": {"@type": "Organization", "name": "AI 開源日報"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-05/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/proposals/P038/">English</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/">回首頁</a> /
+    <a href="/ai-oss-daily/proposals/">AI 組合企劃</a> / P038</p>
+  <h1>MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板</h1>
+  <p class="detail-lead">把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">難度: medium</span>
+    <span class="badge">2–3 週可做出 MVP：MT5 資料橋接＋前端風控儀表板各約 1 週；難點在不同券商 MT5 環境的資料格式差異、相關性熱圖的即時運算效能，以及自動停損規則觸發的可靠度與延遲控制。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>怎麼變現</h2><p>①SaaS 月費（依連結帳戶數／資金規模分級，賣給 prop firm 操盤手與自營交易者，做跨帳戶即時風控訂閱）②Mac App 買斷版（本機跑、帳密與持倉資料不外流，主打注重隱私與資安的操盤手）③網頁端免費單帳戶體驗版掛 Adsterra／Monetag 廣告引流，另談 MT5 主機商／VPS／prop firm 評測型工具聯盟分潤（絕不碰任何 VPN 類聯盟）。</p></div>
+  <div class="panel"><h2>運作方式</h2><p>MT5 EA／橋接腳本即時匯出各帳戶持倉與歷史成交 → Risk-Nexus-Command 彙總跨帳戶保證金與曝險做全域風控 → MT5-Exposure-Mesh-Analyzer 算商品間相關性熱圖，揪出分散帳戶下其實同向的隱藏曝險 → PropGuard-Trailing-Equity-Armor 接手自動移動停損與浮動權益保護規則，超線觸發即自動減倉 → MT5-Directional-Flow-Dashboard 顯示各商品即時趨勢方向輔助判斷 → MT5-Post-Trade-Insight-Reporter 產出每日／每週交易後檢討報告。全部彙整進單一 Mac App／網頁儀表板，超曝險或逼近爆倉時可選擇串 Telegram／Discord 即時示警。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>用到的開源零件</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/p/youcefbibo53-propguard-trailing-equity-armor/">youcefbibo53/PropGuard-Trailing-Equity-Armor</a></h3>
+<p class="summary">提供自動化交易策略，保護資金管理者的風險。</p><p class="why">▸ 近期新建立，已獲 151★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 151</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/bipbopcompany-droid-risk-nexus-command/">bipbopcompany-droid/Risk-Nexus-Command</a></h3>
+<p class="summary">多帳戶風險控制系統，具備全球資金保護功能。</p><p class="why">▸ 近期新建立，已獲 151★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 151</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/syed-imran88-mt5-exposure-mesh-analyzer/">Syed-Imran88/MT5-Exposure-Mesh-Analyzer</a></h3>
+<p class="summary">MetaTrader 平臺的最佳多資產相關性熱圖分析工具。</p><p class="why">▸ 近期新建立，已獲 151★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 151</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/peridotfoundation-mt5-directional-flow-dashboard/">peridotfoundation/MT5-Directional-Flow-Dashboard</a></h3>
+<p class="summary">即時提供外匯和 CFD 交易的趨勢方向訊號。</p><p class="why">▸ 近期新建立，已獲 151★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 151</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/dream-xr-mt5-post-trade-insight-reporter/">Dream-XR/MT5-Post-Trade-Insight-Reporter</a></h3>
+<p class="summary">自動化外匯訊號交易平臺，從 Telegram 到 MT5 EA 的策略轉換。</p><p class="why">▸ 近期新建立，已獲 151★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 151</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">贊助連結 →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI 開源日報</strong><br>
+        <span style="color:var(--fg-faint)">去噪・抗洗榜・附「為何上榜」與商用授權判讀。</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ 請我喝杯咖啡</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/about/">關於</a> ·
+        <a href="/ai-oss-daily/changes/">每日變化</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">本站含聯盟連結；點擊不影響你的價格，會給作者一點回饋。</p>
+  </div>
+</footer></body>
+</html>

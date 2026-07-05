@@ -2,7 +2,7 @@
 
 用 Flux2Klein 模型調整影像中的光照方向。
 
-**為何上榜**：HF trending 53 · 54 likes
+**為何上榜**：HF trending 64 · 66 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

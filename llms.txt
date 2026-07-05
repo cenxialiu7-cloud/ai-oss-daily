@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-07-04 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-07-05 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-07-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-05/)
 - [2026-07-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-04/)
 - [2026-07-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-03/)
 - [2026-07-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-02/)
@@ -26,15 +27,14 @@
 - [2026-06-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-24/)
 - [2026-06-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-23/)
 - [2026-06-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-22/)
-- [2026-06-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-21/)
 
 ## 今日精選 Today's picks
-- [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/)
-- [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/)
-- [rl-llm-wiki/rl-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-rl-llm-wiki-rl-dashboard/)
-- [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/)
-- [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/)
-- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/)
+- [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/)
+- [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/)
+- [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/)
+- [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/)
+- [xbtlin/ai-berkshire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/)
+- [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -73,3 +73,5 @@
 - [AI 投資委員會：13 位角色化 AI 分析師研究＋辯論＋風控 → 一份可下載的個股決策報告（非訊號推播）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P034/)
 - [AI 企業盡職調查工作台：輸入公司／網域 → 自動彙整公開情報 → 產出風險與背景盡調報告](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P035/)
 - [AI 投資盡職調查中樞：把『AI 投資委員會決策報告』疊上『公司背景 OSINT 盡調』，產出機構級投資盡調卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P036/)
+- [AI 開發記憶與規格中樞：讓 Claude Code／Cursor 團隊每次開新 session 都不失憶、需求不跑偏](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P037/)
+- [MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/)

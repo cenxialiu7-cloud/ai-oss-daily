@@ -2,7 +2,7 @@
 
 NVIDIA LocateAnything 3B 視覺定位多模態模型。
 
-**為何上榜**：HF trending 177 · 2,588 likes · 1,108,586 下載
+**為何上榜**：HF trending 172 · 2,604 likes · 1,194,542 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
