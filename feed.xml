@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
+<updated>2026-07-06T08:00:00+00:00</updated>
 <entry>
-<title>AliesTaha/fable-traces</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>用於生成文本的轉型模型，支援對話和指令式生成。</summary>
+<title>victor/gemma-avatar</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>mistralai/Leanstral-1.5-119B-A6B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>基於 MistralAI 的大型語言模型，使用 vllm 技術。</summary>
+<title>cyyself/OpenTihui</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>適用於 iOS 的本地化大型語言模型，支援鍵盤快捷方式。</summary>
 </entry>
 <entry>
-<title>Huang-Hg/alpha-foundry</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>透過強型態 GP 和 GFlowNet 搜尋進行公式化 alpha 礦採。</summary>
+<title>Jsoned/autowealth-ai</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>多代理機器人投資分析引擎，提供加密貨幣和財務分析。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>xbtlin/ai-berkshire</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</summary>
+<title>ogulcancelik/herdr</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>在終端機中執行的AI代理多路復用器。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-05T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>baidu/Unlimited-OCR</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
+<updated>2026-07-06T08:00:00+00:00</updated>
+<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
 </entry>
 </feed>

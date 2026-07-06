@@ -10,5 +10,5 @@ Alpha Forge — an agentic AI operating system for systematic trading.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：167
+**Stars**：168
 **Source**：https://github.com/Liu-Ming-Yu/alpha-forge

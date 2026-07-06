@@ -4,5 +4,5 @@ OpenKB: Open LLM Knowledge Base
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,867
+**Stars**：2,879
 **Source**：https://github.com/VectifyAI/OpenKB

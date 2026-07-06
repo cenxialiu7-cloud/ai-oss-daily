@@ -10,5 +10,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：17,786
+**Stars**：17,972
 **Source**：https://github.com/HKUDS/Vibe-Trading

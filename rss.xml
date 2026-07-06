@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>05 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>06 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>AliesTaha/fable-traces</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>用於生成文本的轉型模型，支援對話和指令式生成。</description>
+<title>victor/gemma-avatar</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>mistralai/Leanstral-1.5-119B-A6B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於 MistralAI 的大型語言模型，使用 vllm 技術。</description>
+<title>cyyself/OpenTihui</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>適用於 iOS 的本地化大型語言模型，支援鍵盤快捷方式。</description>
 </item>
 <item>
-<title>Huang-Hg/alpha-foundry</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>透過強型態 GP 和 GFlowNet 搜尋進行公式化 alpha 礦採。</description>
+<title>Jsoned/autowealth-ai</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>多代理機器人投資分析引擎，提供加密貨幣和財務分析。</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>xbtlin/ai-berkshire</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</description>
+<title>ogulcancelik/herdr</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>在終端機中執行的AI代理多路復用器。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>05 Jul 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>baidu/Unlimited-OCR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</guid>
+<pubDate>06 Jul 2026 08:00:00 +0000</pubDate>
+<description>百度的無限 OCR 技術，將影像轉換為文字。</description>
 </item>
 </channel>
 </rss>

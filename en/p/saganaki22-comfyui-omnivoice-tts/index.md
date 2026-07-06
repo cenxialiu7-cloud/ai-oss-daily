@@ -4,5 +4,5 @@ OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：493
+**Stars**：495
 **Source**：https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS
