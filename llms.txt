@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-07-06 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-07-07 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-07-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-07/)
 - [2026-07-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-06/)
 - [2026-07-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-05/)
 - [2026-07-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-04/)
@@ -26,15 +27,14 @@
 - [2026-06-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-26/)
 - [2026-06-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-25/)
 - [2026-06-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-24/)
-- [2026-06-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-06-23/)
 
 ## 今日精選 Today's picks
-- [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/)
-- [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/)
-- [Jsoned/autowealth-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/)
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/)
+- [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/)
+- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/)
+- [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/)
+- [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/)
+- [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/)
+- [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -75,3 +75,4 @@
 - [AI 投資盡職調查中樞：把『AI 投資委員會決策報告』疊上『公司背景 OSINT 盡調』，產出機構級投資盡調卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P036/)
 - [AI 開發記憶與規格中樞：讓 Claude Code／Cursor 團隊每次開新 session 都不失憶、需求不跑偏](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P037/)
 - [MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/)
+- [地緣政治與總體經濟情報雷達：全球熱點即時轉繁中簡報，付費解鎖公司／國家背景深度卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P039/)

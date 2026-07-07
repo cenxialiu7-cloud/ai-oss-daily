@@ -11,5 +11,5 @@ Agentic SEO / Agentic Engine Optimization (AEO) tools
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：268
+**Stars**：269
 **Source**：https://github.com/addyosmani/agentic-seo

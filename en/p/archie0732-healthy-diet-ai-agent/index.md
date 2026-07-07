@@ -4,5 +4,5 @@ Healthy Diet AI Agent is a Bun + TypeScript backend for nutrition chat, food-ima
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：621
+**Stars**：618
 **Source**：https://github.com/archie0732/healthy-diet-ai-agent

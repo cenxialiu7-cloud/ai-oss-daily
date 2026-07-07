@@ -38,3 +38,4 @@
 - [AI 投資盡職調查中樞：把『AI 投資委員會決策報告』疊上『公司背景 OSINT 盡調』，產出機構級投資盡調卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P036/) — 投資前一次到位：13 位角色化 AI 分析師的基本面辯論決策，加上對該公司與經營層的公開背景與風險盡調，合成一份附佐證的繁中投資盡職調查卷宗。
 - [AI 開發記憶與規格中樞：讓 Claude Code／Cursor 團隊每次開新 session 都不失憶、需求不跑偏](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P037/) — 把每次 agent session 的上下文自動壓縮成長期記憶，並把口頭需求即時整理成正式規格，讓任何相容 client 接上就能『記得』專案。
 - [MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/) — 把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。
+- [地緣政治與總體經濟情報雷達：全球熱點即時轉繁中簡報，付費解鎖公司／國家背景深度卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P039/) — 把今天新上榜、61k★ 的全球即時情報儀表板接成公開雷達站，免費看熱點摘要，付費解鎖特定公司或國家的深度背景盡調卷宗。

@@ -4,5 +4,5 @@
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：349
+**Stars**：346
 **Source**：https://github.com/gudaochangsheng/RefAlign
