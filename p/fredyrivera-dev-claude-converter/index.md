@@ -2,9 +2,9 @@
 
 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。
 
-**為何上榜**：近一日新增 1★（現 27★）
+**為何上榜**：近一日新增 14★（現 41★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：27
+**Stars**：41
 **原始連結**：https://github.com/FredyRivera-dev/claude_converter

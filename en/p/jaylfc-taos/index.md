@@ -2,7 +2,7 @@
 
 Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).
 
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：414
+**Stars**：413
 **Source**：https://github.com/jaylfc/taOS

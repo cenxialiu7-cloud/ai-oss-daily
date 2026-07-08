@@ -4,5 +4,5 @@ Searchstack — Open-source AEO/GEO/SEO tech stack for AI-native founders. Monit
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：85
+**Stars**：86
 **Source**：https://github.com/alexpospekhov/searchstack-aeo

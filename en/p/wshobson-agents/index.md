@@ -4,5 +4,5 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, Ope
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：37,596
+**Stars**：37,639
 **Source**：https://github.com/wshobson/agents

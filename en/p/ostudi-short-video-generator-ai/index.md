@@ -4,5 +4,5 @@ Free open-source project designed for turning youtube-viedos into viral short vi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：122
+**Stars**：298
 **Source**：https://github.com/OStudi/short-video-generator-AI
