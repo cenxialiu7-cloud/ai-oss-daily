@@ -2,9 +2,9 @@
 
 Google NotebookLM的非官方Python API及代理技能。
 
-**為何上榜**：近一日新增 39★（現 17,309★）
+**為何上榜**：近一日新增 117★（現 17,426★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：17,309
+**Stars**：17,426
 **原始連結**：https://github.com/teng-lin/notebooklm-py

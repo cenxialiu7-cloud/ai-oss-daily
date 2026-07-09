@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
+<updated>2026-07-09T08:00:00+00:00</updated>
 <entry>
-<title>bottlecapai/ThinkingCap-Qwen3.6-27B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bottlecapai-thinkingcap-qwen3-6-27b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bottlecapai-thinkingcap-qwen3-6-27b/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>影像文字轉純文本生成模型，支援高效思考。</summary>
+<title>Alissonerdx/LTX-Best-Face-ID</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>將文字轉換為保留身份的影片，適用於Lora和ComfyUI。</summary>
 </entry>
 <entry>
-<title>SupraLabs/Supra-Router-51M</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra-router-51m/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra-router-51m/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>用於邊緣計算的文本生成模型，可路由和協調多個LLM。</summary>
+<title>CohereLabs/cohere-transcribe-arabic-07-2026</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>自動語音辨識模型，支援阿拉伯語轉錄。</summary>
 </entry>
 <entry>
-<title>kai-os/Grug-12B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。</summary>
+<title>conradlocke/krea2-identity-edit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>基於Krea-2的影像編輯工具，適用於ComfyUI。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>xbtlin/ai-berkshire</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-08T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
+<updated>2026-07-09T08:00:00+00:00</updated>
+<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
 </entry>
 </feed>

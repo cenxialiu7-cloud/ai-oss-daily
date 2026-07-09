@@ -2,9 +2,9 @@
 
 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
 
-**為何上榜**：91★ · 近期活躍
+**為何上榜**：89★ · 近期活躍
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：91
+**Stars**：89
 **原始連結**：https://github.com/python-telegramBot/crypto-liquidity-ai-trading-bot

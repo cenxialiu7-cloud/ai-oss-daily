@@ -4,5 +4,5 @@ Streaming-first technical indicators with a Rust core and Python, Node.js, WebAs
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：23
+**Stars**：24
 **Source**：https://github.com/wickra-lib/wickra

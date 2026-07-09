@@ -4,5 +4,5 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：10,307
+**Stars**：10,332
 **Source**：https://github.com/nidhinjs/prompt-master
