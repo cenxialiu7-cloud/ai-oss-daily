@@ -39,3 +39,5 @@
 - [AI 開發記憶與規格中樞：讓 Claude Code／Cursor 團隊每次開新 session 都不失憶、需求不跑偏](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P037/) — 把每次 agent session 的上下文自動壓縮成長期記憶，並把口頭需求即時整理成正式規格，讓任何相容 client 接上就能『記得』專案。
 - [MT5 多帳戶風險哨兵：跨帳戶曝險＋相關性熱圖＋移動停損，給 Prop Trader 的風控儀表板](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P038/) — 把今天上榜的一整批 MT5 風控／儀表板小工具串成一個跨帳戶即時風控駕駛艙，在爆倉前就抓出『看似分散、實則同向』的超額曝險。
 - [地緣政治與總體經濟情報雷達：全球熱點即時轉繁中簡報，付費解鎖公司／國家背景深度卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P039/) — 把今天新上榜、61k★ 的全球即時情報儀表板接成公開雷達站，免費看熱點摘要，付費解鎖特定公司或國家的深度背景盡調卷宗。
+- [AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P040/) — 不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。
+- [自架 AI 連接器與自動化閘道（Mac App／自架）：把 SaaS 一次接上任何 AI agent，省掉按人頭連接器月費](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P041/) — OAuth 一次授權，Slack／Notion／內部系統就變成 Claude、Cursor 能直接呼叫的工具，多步驟自動化可重放，資料與憑證全留自家主機。

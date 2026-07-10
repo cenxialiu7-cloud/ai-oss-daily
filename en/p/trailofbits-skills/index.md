@@ -4,5 +4,5 @@ Trail of Bits Claude Code skills for security research, vulnerability detection,
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：6,035
+**Stars**：6,051
 **Source**：https://github.com/trailofbits/skills

@@ -4,5 +4,5 @@ A slide framework built for agents.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,678
+**Stars**：5,694
 **Source**：https://github.com/1weiho/open-slide

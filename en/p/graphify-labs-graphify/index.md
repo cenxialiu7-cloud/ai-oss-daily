@@ -4,5 +4,5 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：80,469
+**Stars**：81,286
 **Source**：https://github.com/Graphify-Labs/graphify

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
+<updated>2026-07-10T08:00:00+00:00</updated>
 <entry>
-<title>Alissonerdx/LTX-Best-Face-ID</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>將文字轉換為保留身份的影片，適用於Lora和ComfyUI。</summary>
+<title>nineninesix/gepard-1.0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>一款基於轉換器的文本轉語音模型，適用於生成自然語言。</summary>
 </entry>
 <entry>
-<title>CohereLabs/cohere-transcribe-arabic-07-2026</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，支援阿拉伯語轉錄。</summary>
+<title>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>一個輕量級的文本生成模型，支援量化和GGUF格式。</summary>
 </entry>
 <entry>
-<title>conradlocke/krea2-identity-edit</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>基於Krea-2的影像編輯工具，適用於ComfyUI。</summary>
+<title>open-gigaai/Giga-World-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-open-gigaai-giga-world-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-open-gigaai-giga-world-1/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>基於Apache 2.0授權的影像生成模型。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>JuliusBrussee/caveman</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>iOfficeAI/OfficeCLI</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-09T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</id>
+<updated>2026-07-10T08:00:00+00:00</updated>
+<summary>一款基於gguf格式的文本生成模型，適用於長上下文推理。</summary>
 </entry>
 </feed>

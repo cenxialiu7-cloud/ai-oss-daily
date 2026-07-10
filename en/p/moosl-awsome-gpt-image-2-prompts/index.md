@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：69
+**Stars**：70
 **Source**：https://github.com/moosl/awsome-gpt-image-2-prompts

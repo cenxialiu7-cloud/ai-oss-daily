@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量 — AI OSS Daily</title>
+<meta name="description" content="不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P040/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P040/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P040/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P040/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P040/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量 — AI OSS Daily">
+<meta property="og:description" content="不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P040/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量 — AI OSS Daily">
+<meta name="twitter:description" content="不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量", "description": "不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。", "datePublished": "2026-07-09T08:00:00+00:00", "dateModified": "2026-07-09T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-07-09/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P040/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P040</p>
+  <h1>AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量</h1>
+  <p class="detail-lead">不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 2–3 週做出能跑的 MVP：爬站→量測→評分管線約一週可通，儀表板與排程快照約一週；難點在穩定地對多個 AI 答案引擎抓取並解析『被引用來源』（速率限制、反爬、引用歸屬正規化），以及跨引擎統一 share-of-voice 指標。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①SaaS 月費：依追蹤品牌數／關鍵字數／快照頻率分級（如 3 品牌 20 關鍵字週更 vs 日更）；②網頁端公開『產業 AI 可見度排行榜』吃自然流量、掛 Adsterra／Monetag 廣告並導流試用；③行銷代理商白標月報授權＋Ko-fi 贊助，另接 SEO／看盤工具與主機商聯盟分潤。廣告只放網頁端，絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>crawlie／SEOCORE 先爬你與競品站台，建立頁面與主題清單 → potato 針對追蹤關鍵字，量測品牌在搜尋與 AI 答案中的被提及次數與被引用來源 → orangeo-ai-visibility-skill 打 AI 可見度分數並計算對手落差 → 用 modelcontextprotocol/python-sdk 把整套包成 MCP 工具＋排程每日快照，累積『聲量趨勢／share-of-voice』時序資料 → 儀表板呈現趨勢與競品對比，分數下滑自動 email／LINE 示警。與 P014（一次性可引用性稽核）互補而非重疊：P014 是修站體檢，本案是持續監測實際被引聲量與對手基準的 BI／追蹤層。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/onism1767-creator-potato/">onism1767-creator/potato</a></h3>
+<p class="summary">Free Easy AI visibility check - measure how often a brand is mentioned &amp; cited in Claude&#39;s web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 202</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/pixelorange7-orangeo-ai-visibility-skill/">PixelOrange7/orangeo-ai-visibility-skill</a></h3>
+<p class="summary">Open-source GEO / AEO skill for AI visibility readiness: check robots.txt, llms.txt, schema, citation signals, competitor gaps, and buyer prompts</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 125</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/codepurse-seocore/">codepurse/SEOCORE</a></h3>
+<p class="summary">Enterprise-grade, multi-threaded SEO Crawler, Rule Engine, and Link Graph Analyzer. Built in TypeScript for speed, compliance, and deep site health audits.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 107</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/spronta-crawlie/">spronta/crawlie</a></h3>
+<p class="summary">Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 87</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 23,572</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

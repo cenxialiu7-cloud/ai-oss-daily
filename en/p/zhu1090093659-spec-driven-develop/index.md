@@ -4,5 +4,5 @@ Spec-driven development workflow for AI coding agents: architecture-first planni
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：918
+**Stars**：919
 **Source**：https://github.com/zhu1090093659/spec_driven_develop

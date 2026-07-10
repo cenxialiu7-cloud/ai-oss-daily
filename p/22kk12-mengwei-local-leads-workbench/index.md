@@ -1,0 +1,10 @@
+# 22kk12/mengwei-local-leads-workbench
+
+一個正在開發中的AI工作臺原型，用於內容生成、影片自動化等。
+
+**為何上榜**：近期新建立，已獲 66★
+
+**商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：66
+**原始連結**：https://github.com/22kk12/mengwei-local-leads-workbench

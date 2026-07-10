@@ -4,5 +4,5 @@ Portable Windows TTS — Higgs Audio v3 + AI text director, podcast & audiobook 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：56
+**Stars**：59
 **Source**：https://github.com/timoncool/HiggsAudio-Studio
