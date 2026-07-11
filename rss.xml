@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>10 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>11 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>nineninesix/gepard-1.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款基於轉換器的文本轉語音模型，適用於生成自然語言。</description>
+<title>Volumetenrectify/ae-motion-compiler</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。</description>
 </item>
 <item>
-<title>GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>一個輕量級的文本生成模型，支援量化和GGUF格式。</description>
+<title>SilentFleetKK/riskguard</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。</description>
 </item>
 <item>
-<title>open-gigaai/Giga-World-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-open-gigaai-giga-world-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-open-gigaai-giga-world-1/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於Apache 2.0授權的影像生成模型。</description>
+<title>HuggingFaceM4/hugging-voice</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-hugging-voice/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-hugging-voice/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>JuliusBrussee/caveman</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
+<title>Graphify-Labs/graphify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
 </item>
 <item>
-<title>iOfficeAI/OfficeCLI</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。</description>
+<title>ogulcancelik/herdr</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>在終端機中執行的AI代理多路復用器。</description>
 </item>
 <item>
-<title>empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/</guid>
-<pubDate>10 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款基於gguf格式的文本生成模型，適用於長上下文推理。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>11 Jul 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

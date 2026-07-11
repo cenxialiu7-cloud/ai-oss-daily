@@ -2,7 +2,7 @@
 
 NVIDIA的文本生成模型，適用於PyTorch環境。
 
-**為何上榜**：HF trending 83 · 85 likes · 16,959 下載
+**為何上榜**：HF trending 96 · 99 likes · 23,404 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

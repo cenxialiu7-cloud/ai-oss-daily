@@ -4,5 +4,5 @@ A general-purpose AIGC video engine: script to finished film in one pipeline —
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：813
+**Stars**：1,026
 **Source**：https://github.com/dramaclaw/dramaclaw

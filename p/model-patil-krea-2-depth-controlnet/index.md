@@ -2,7 +2,7 @@
 
 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
 
-**為何上榜**：HF trending 82 · 83 likes
+**為何上榜**：HF trending 70 · 89 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

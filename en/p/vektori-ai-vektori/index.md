@@ -4,5 +4,5 @@ Memory that remembers the story not just the facts. File System Memory and Three
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：128
+**Stars**：129
 **Source**：https://github.com/vektori-ai/vektori

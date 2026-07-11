@@ -4,5 +4,5 @@ Claude Code skills for social media — a complete AI social team for SMBs. Bran
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：161
+**Stars**：162
 **Source**：https://github.com/stevenflanagan1/social-ai-team

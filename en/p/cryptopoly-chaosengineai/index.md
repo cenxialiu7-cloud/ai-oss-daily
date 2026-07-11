@@ -4,5 +4,5 @@ Local AI workstation — discover, run, chat, benchmark, and generate images fro
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：23
+**Stars**：24
 **Source**：https://github.com/cryptopoly/ChaosEngineAI
