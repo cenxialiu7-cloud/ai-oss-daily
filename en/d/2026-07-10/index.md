@@ -365,7 +365,6 @@ _Daily archive · 2026-07-10_
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skillopt/) — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through…
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0

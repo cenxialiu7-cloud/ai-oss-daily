@@ -179,7 +179,6 @@ _每日存檔 · 2026-06-10_
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katzca-autosocial/) — 用於自動化TikTok、Instagram和YouTube的社交媒體管理儀錶板。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。

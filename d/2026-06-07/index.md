@@ -174,7 +174,6 @@ _每日存檔 · 2026-06-07_
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — 基於 Elixir 的單二進位LLM代理執行時，提供聊天介面和多供應商路由等功能。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。

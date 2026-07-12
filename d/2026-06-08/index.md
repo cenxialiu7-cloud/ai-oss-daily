@@ -168,7 +168,6 @@ _每日存檔 · 2026-06-08_
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。

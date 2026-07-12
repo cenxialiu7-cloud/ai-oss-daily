@@ -10,12 +10,12 @@ _Daily archive · 2026-07-11_
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [est-perso-dubbing-agent/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/est-perso-dubbing-agent-perso-dubbing-plugin/) — AI video auto-dubbing plugin for coding agents — translate & dub videos into multiple languages via the Perso…
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — · gradio, region:us
-- [yatin-superintelligence/blood-pathology-lims-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-blood-pathology-lims-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
 - [MLNLP-World/Paper-Rebuttal-Tips](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlnlp-world-paper-rebuttal-tips/) — MLNLP社区用来帮助大家论文Rebuttal的整理仓库。
 - [kodelyx/flow-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kodelyx-flow-agent/) — ⚡ CLI toolkit for Google Flow — Omni Flash video + unlimited Nano Banana 2 image generation. T2V, V2V, I2V, T…
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-114k/) — · license:apache-2.0, size_categories:100K<n<1M, format:parquet
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
+- [432539/gpt2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/432539-gpt2api/) — 多平台多通道 AIGC 聚合平台：GPT / GROK / 官方xAI / Adobe Firefly / pic2api / FlowMusic 多上游接入，支持上游 API 管理、模型路由、上游计费与利润、集群调度…
 
 ## 🚀 Climbing
 
@@ -365,13 +365,11 @@ _Daily archive · 2026-07-11_
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-infatoshi-kernelbench-hard-traces/) — · license:mit, size_categories:n<1K, format:json
-- [yatin-superintelligence/blood-pathology-lims-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-blood-pathology-lims-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trace-commons-agent-traces/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0

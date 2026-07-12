@@ -18,15 +18,15 @@
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-31b-it/) — image-text-to-text · transformers, safetensors, gemma4
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-z-image-6b-pixel-space/) — · gradio, region:us
+- [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sensenova-sensenova-vision-corpus-50m/) — · task_categories:any-to-any, language:en, license:cc-by-nc-4.0
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-claim-ready/) — · gradio, build-small-hackathon, document-ai
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-cosmos3-nano/) — · gradio, region:us
-- [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sensenova-sensenova-vision-corpus-50m/) — · task_categories:any-to-any, language:en, license:cc-by-nc-4.0
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-locateanything-3b/) — image-text-to-text · transformers, safetensors, locateanything
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-encoder-free-vlm/) — · docker, research-article-template, research paper
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [kepeng/MeasL-Bench-V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kepeng-measl-bench-v1/) — · task_categories:visual-question-answering, task_categories:image-to-text, language:en
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — · task_categories:image-to-text, task_categories:visual-question-answering, task_categories:image-text-to-text
+- [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-locateanything-3b/) — image-text-to-text · transformers, safetensors, locateanything
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-higgs-audio-v3-tts/) — · gradio, region:us
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-follow-the-mean/) — · gradio, flux, flux.2
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-zonos2/) — · gradio, region:us

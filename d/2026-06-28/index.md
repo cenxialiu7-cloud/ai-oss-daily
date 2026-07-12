@@ -297,7 +297,6 @@ _每日存檔 · 2026-06-28_
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnigent-ai-omnigent/) — 開源 AI 代理框架，可管理多個 AI 代理。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

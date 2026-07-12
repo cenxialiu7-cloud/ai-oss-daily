@@ -134,7 +134,6 @@ _每日存檔 · 2026-06-01_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。

@@ -130,7 +130,6 @@ _Daily archive · 2026-06-03_
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the des…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop…

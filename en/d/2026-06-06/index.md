@@ -176,7 +176,6 @@ _Daily archive · 2026-06-06_
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0factor/) — 面向 A 股本地数据的 AI 因子研究工作台：因子生成、存储、注册、评估与报告。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS

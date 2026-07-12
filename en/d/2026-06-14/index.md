@@ -210,7 +210,6 @@ _Daily archive · 2026-06-14_
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing

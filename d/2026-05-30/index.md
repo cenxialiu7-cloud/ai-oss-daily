@@ -94,7 +94,6 @@ _每日存檔 · 2026-05-30_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/) — 港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。
 - [Kalshi AI 交易機器人](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bestpracticai-kalshi-ai-trading-bot/) — Kalshi 預測市場的演算法自動交易機器人。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Harahan/RTDMD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/harahan-rtdmd/) — 論文 RTDMD 官方 PyTorch 實作：強化少步數生成式擴散模型。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。

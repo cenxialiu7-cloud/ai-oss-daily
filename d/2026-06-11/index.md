@@ -187,7 +187,6 @@ _每日存檔 · 2026-06-11_
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。

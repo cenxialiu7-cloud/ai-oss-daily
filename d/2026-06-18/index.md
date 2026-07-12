@@ -232,7 +232,6 @@ _每日存檔 · 2026-06-18_
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。

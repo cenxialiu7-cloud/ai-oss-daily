@@ -256,7 +256,6 @@ _每日存檔 · 2026-06-22_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [agents-last-exam/agents-last-exam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。

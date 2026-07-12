@@ -225,7 +225,6 @@ _每日存檔 · 2026-06-17_
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [timoncool/HiggsAudio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-higgsaudio-studio/) — 行動式 Windows 文字轉語音工具，支援多國語言和 NVIDIA GPU。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runapi-ai-mcp/) — RunAPI 的模型發現和價格查詢伺服器，提供 LLM 聊天功能。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。

@@ -286,7 +286,6 @@ _每日存檔 · 2026-06-26_
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lcy362-agnes-video-generator/) — Agnes Video Generator 是一個免費的 AI 影片生成器，可將文字轉換為多場景影片。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

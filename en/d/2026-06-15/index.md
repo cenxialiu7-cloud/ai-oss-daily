@@ -200,7 +200,6 @@ _Daily archive · 2026-06-15_
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-fable-5-boeing-747/) — · static, region:us
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other

@@ -4,5 +4,5 @@ Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Featur
 
 **Commercial license**：License unclear — 未知授權代碼 MS-PL — 請人工確認商用條款
 
-**Stars**：146
+**Stars**：149
 **Source**：https://github.com/bigmacman1129/solana-sniper-trading-mev-bot

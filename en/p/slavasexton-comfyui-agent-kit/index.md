@@ -4,5 +4,5 @@ One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwe
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：44
+**Stars**：45
 **Source**：https://github.com/SlavaSexton/ComfyUI-Agent-Kit

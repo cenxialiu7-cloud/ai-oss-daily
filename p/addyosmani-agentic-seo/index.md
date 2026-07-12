@@ -2,7 +2,7 @@
 
 Google 工程師 Addy Osmani 的 agentic SEO / AEO 工具。
 
-**為何上榜**：近一日新增 2★（現 276★）
+**為何上榜**：近一日新增 1★（現 277★）
 
 **主要功能**
 
@@ -15,5 +15,5 @@ Google 工程師 Addy Osmani 的 agentic SEO / AEO 工具。
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：276
+**Stars**：277
 **原始連結**：https://github.com/addyosmani/agentic-seo

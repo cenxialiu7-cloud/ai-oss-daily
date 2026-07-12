@@ -334,7 +334,6 @@ _每日存檔 · 2026-07-05_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [XiaomiMiMo/MiMo-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/) — 模型與代理共演進的 AI 工具。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

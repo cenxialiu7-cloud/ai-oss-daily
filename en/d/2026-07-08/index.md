@@ -344,7 +344,6 @@ _Daily archive · 2026-07-08_
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-bernini/) — Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner …
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts

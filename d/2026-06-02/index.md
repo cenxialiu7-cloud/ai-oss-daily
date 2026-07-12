@@ -131,7 +131,6 @@ _每日存檔 · 2026-06-02_
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-ai-shortfilm-prompts/) — AI 短片製作方法論＋prompt＋Claude Skill（殭屍主題短片的幕後）。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。

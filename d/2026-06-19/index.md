@@ -249,7 +249,6 @@ _每日存檔 · 2026-06-19_
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

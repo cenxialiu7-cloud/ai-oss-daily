@@ -255,7 +255,6 @@ _Daily archive · 2026-06-21_
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexlex47-game-art-prompt-kit/) — Reusable prompt profiles for game art, pixel spritesheets, character concepts, and 2D environments.
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论

@@ -1,6 +1,6 @@
 # AI OSS Daily — Today's Picks
 
-_Last updated: 2026-07-11 10:05 CST_
+_Last updated: 2026-07-12 09:05 CST_
 
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manavarya09-design-extract/) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP…
@@ -16,16 +16,16 @@ _Last updated: 2026-07-11 10:05 CST_
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
-- [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-ltx-best-face-id/) — text-to-video · ltx-video, ltx-2, identity-preservation
+- [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/) — A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute a…
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ale2348-trading-bot/) — A TypeScript versioned Polymarket Trading Bot for **Polymarket 5-minute crypto Up/Down** markets: **BTC, ETH,…
-- [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentfleetkk-riskguard/) — 开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。
 - [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlo…
 - [DexCrancer/solana-copytrading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dexcrancer-solana-copytrading-bot/) — A high-performance Solana copy-trading bot written in Rust. It watches a target wallet’s on-chain activity an…
-- [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-grid-pilot/) — 超越交易所原生网格机器人：用程序模拟盯盘交易员——动态改单不挂死、追踪建仓避免顶部接盘、Maker 优先省手续费、分层算法单止损、多段价格区间自适应。兼容 Binance / OKX / Gate.io，内置 12 种…
+- [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentfleetkk-riskguard/) — 开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。
+- [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alkhudarigroupuae-pumpfun-trainer-v1/) — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, mul…
 - [onism1767-creator/potato](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onism1767-creator-potato/) — Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers…
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
@@ -37,4 +37,4 @@ _Last updated: 2026-07-11 10:05 CST_
 - [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
-- [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1/) — text-generation · transformers, safetensors, qwen3_5_moe
+- [bottlecapai/ThinkingCap-Qwen3.6-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bottlecapai-thinkingcap-qwen3-6-27b/) — image-text-to-text · transformers, safetensors, qwen3_5

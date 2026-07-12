@@ -249,7 +249,6 @@ _Daily archive · 2026-06-19_
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us

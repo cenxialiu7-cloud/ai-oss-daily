@@ -200,7 +200,6 @@ _每日存檔 · 2026-06-15_
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-fable-5-boeing-747/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nxin-github-auteur/) — 多功能AI電影工作室，支援多代理程式協作。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。

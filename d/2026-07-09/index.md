@@ -354,7 +354,6 @@ _每日存檔 · 2026-07-09_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [QuantiaAI/helm-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/) — 多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。

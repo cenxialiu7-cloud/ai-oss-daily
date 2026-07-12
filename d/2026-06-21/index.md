@@ -255,7 +255,6 @@ _每日存檔 · 2026-06-21_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/) — 基於畫素的搜尋引擎，支援多模態資料。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexlex47-game-art-prompt-kit/) — 遊戲藝術、畫素角色等重複使用的提示配置套件。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。

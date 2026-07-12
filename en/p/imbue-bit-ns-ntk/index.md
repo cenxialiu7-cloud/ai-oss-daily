@@ -4,5 +4,5 @@ Official implementation for the paper: Deep Learning under Continuous Distributi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：43
+**Stars**：42
 **Source**：https://github.com/imbue-bit/NS-NTK

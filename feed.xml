@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
+<updated>2026-07-12T08:00:00+00:00</updated>
 <entry>
-<title>Volumetenrectify/ae-motion-compiler</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。</summary>
+<title>mgwr/M87</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</summary>
 </entry>
 <entry>
-<title>SilentFleetKK/riskguard</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。</summary>
+<title>Alisa0808/vox-director</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>自動化生成類似 Vox 風格的紙拼貼解說影片。</summary>
 </entry>
 <entry>
-<title>HuggingFaceM4/hugging-voice</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-hugging-voice/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-hugging-voice/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Blizaine/Maestro</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。</summary>
 </entry>
 <entry>
-<title>Graphify-Labs/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>ogulcancelik/herdr</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>在終端機中執行的AI代理多路復用器。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-11T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
+<updated>2026-07-12T08:00:00+00:00</updated>
+<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
 </entry>
 </feed>

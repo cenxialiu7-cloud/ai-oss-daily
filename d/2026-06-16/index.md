@@ -219,7 +219,6 @@ _每日存檔 · 2026-06-16_
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-k2-fsa-omnivoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。

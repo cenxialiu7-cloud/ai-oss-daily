@@ -210,7 +210,6 @@ _每日存檔 · 2026-06-14_
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。

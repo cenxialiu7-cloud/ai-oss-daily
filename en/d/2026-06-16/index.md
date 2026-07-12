@@ -219,7 +219,6 @@ _Daily archive · 2026-06-16_
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-cua-gym/) — · task_categories:reinforcement-learning, task_categories:text-generation, language:en
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-k2-fsa-omnivoice/) — · gradio, region:us
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other

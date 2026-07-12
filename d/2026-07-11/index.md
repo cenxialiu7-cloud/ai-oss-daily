@@ -10,12 +10,12 @@ _每日存檔 · 2026-07-11_
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rl-llm-wiki-knowledge-base/) — Hugging Face 資料集，關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
 - [est-perso-dubbing-agent/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/est-perso-dubbing-agent-perso-dubbing-plugin/) — 透過Perso Dubbing API自動翻譯和配音外掛，支援多語言。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [yatin-superintelligence/blood-pathology-lims-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yatin-superintelligence-blood-pathology-lims-environment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [MLNLP-World/Paper-Rebuttal-Tips](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mlnlp-world-paper-rebuttal-tips/) — 幫助研究者準備和提交論文反駁意見的資源整理。
 - [kodelyx/flow-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kodelyx-flow-agent/) — Google Flow的CLI工具，支援無限生成影片和影像。
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-114k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madslorentzen-ai-job-search/) — 基於Claude Code的AI職業申請框架，自動化求職流程。
+- [432539/gpt2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/432539-gpt2api/) — 多平臺AIGC聚合平臺，支援GPT等模型接入和管理。
 
 ## 🚀 Star 竄升
 
@@ -365,13 +365,11 @@ _每日存檔 · 2026-07-11_
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-infatoshi-kernelbench-hard-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [yatin-superintelligence/blood-pathology-lims-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yatin-superintelligence-blood-pathology-lims-environment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-trace-commons-agent-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

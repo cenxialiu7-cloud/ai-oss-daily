@@ -7,14 +7,15 @@
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [GenAI4ELab/papercli-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-genai4elab-papercli-papers/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — · gradio, mcp-server, region:us
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
+- [cbensimon/wan2-2-fp8da-aoti-preview2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cbensimon-wan2-2-fp8da-aoti-preview2/) — · gradio, mcp-server, region:us
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
-- [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
+- [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-angrygiraffe-claude-opus-4-6-4-7-reasoning-8-7k/) — · task_categories:text-generation, task_categories:question-answering, language:en
+- [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-not-lain-background-removal/) — · gradio, mcp-server, region:us
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0

@@ -2,23 +2,24 @@
 
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
-- [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/) — 將文字轉換為保留身份的影片，適用於Lora和ComfyUI。
+- [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
+- [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — 用 Flux2Klein 模型調整影像中的光照方向。
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/) — NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/) — 基於LORA技術的文字轉影像模型，用於生成影像。
 - [Microsoft Lens（文字生成圖像）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-lens/) — 微軟釋出的文生圖擴散模型，另有 Lens-Turbo 加速版（pipeline: text-to-image）。
+- [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
-- [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
@@ -30,33 +31,32 @@
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [black-forest-labs/FLUX.1-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-1-dev/) — 將文字轉換成影像的工具，適用於創意設計和藝術創作。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
-- [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
-- [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/) — 用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。
-- [Robbyant/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robbyant-lingbot-video/) — 一種基於混合專家的影片預訓練方法，適用於具身智慧。
+- [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
+- [Robbyant/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robbyant-lingbot-video/) — 一種基於混合專家的影片預訓練方法，適用於具身智慧。
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
+- [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shekmohammedakram-stable-diffusion-2026-free-local/) — 免費本地執行的穩定擴散模型，適用於AI影像生成。
-- [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
+- [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [mixidifussion/stable-diffusion-web-ui-free](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mixidifussion-stable-diffusion-web-ui-free/) — 免費的 Stable Diffusion Web UI，支援影像生成和控制網。
+- [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [QualityBlock/stable-diffusion-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qualityblock-stable-diffusion-ai/) — 使用穩定擴散模型的AI工具包，從文字提示生成影像。
 - [OStudi/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ostudi-short-video-generator-ai/) — 將YouTube影片轉換為短影片的開源工具，具備高亮檢測、字幕和翻譯功能。
+- [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/) — 用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
-- [est-perso-dubbing-agent/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/est-perso-dubbing-agent-perso-dubbing-plugin/) — 透過Perso Dubbing API自動翻譯和配音外掛，支援多語言。
 - [YeJe-cpu/talk-to-fengge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-talk-to-fengge/) — 克隆任何人聲音和個性進行即時對話的AI系統。
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio的工作流程指南，包括色彩校正和交付設定。
-- [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-video/) — 將 HTML、CSS 和資料轉換成 MP4 影片，支援多種渲染引擎和音效。
 - [eliudmakd782/vocal-craft-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eliudmakd782-vocal-craft-studio/) — 調校過的英語及印地語 AI 語音工作室，支援批次克隆和 TTS。
+- [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-video/) — 將 HTML、CSS 和資料轉換成 MP4 影片，支援多種渲染引擎和音效。
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicholascone-agnes-ai-video-suite/) — 最佳開源 AI 影片生成器，將文字轉換為帶旁白和字幕的電影。
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wordghost1234-agnes-ai-storyboard-studio/) — 自建式開源 AI 影片生成指南。
 - [22kk12/mengwei-local-leads-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/22kk12-mengwei-local-leads-workbench/) — 一個正在開發中的AI工作臺原型，用於內容生成、影片自動化等。
+- [RudySen/comfyui-muse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rudysen-comfyui-muse/) — ComfyUI 的本地 LLM 聊天面板，支援多會話及視覺功能。
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-local-ai-image-generator/) — Windows 系統上的離線 AI 影像生成器，支援 Stable Diffusion。
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-uncensored-local-studio/) — 無縫安裝的AI工作室，提供影像生成、語音轉換等多種功能。
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-bernini/) — 字節 Bernini：結合多模態 LLM 的統一影片生成與編輯框架。
-- [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/) — 使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。
-- [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lichamnesia-awesome-ad-video-prompts/) — AI廣告影片的提示工程師資源庫，適用於Seedance 2.0等平臺。
 - [freerollertunnel/Kling-AI-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/freerollertunnel-kling-ai-pro-unlimited/) — Kling AI Pro 是一款生成式影片AI工具，支援文字轉影片、影像動畫和電影片段。
-- [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/) — Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。

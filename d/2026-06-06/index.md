@@ -176,7 +176,6 @@ _每日存檔 · 2026-06-06_
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0factor/) — 面向 A 股本地資料的 AI 因子研究工作臺，用於生成、儲存、註冊、評估與報告因子。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomflow-ai-molecode/) — Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepakness-google-ai-search-optimization/) — 依 Google 指引做 AI Overviews／AI Mode／SEO 稽核的 agent skill。
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts-server/) — 相容 OpenAI Text-to-Speech API 的 Irodori-TTS 伺服器。

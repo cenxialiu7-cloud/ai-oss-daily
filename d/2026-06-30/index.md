@@ -300,7 +300,6 @@ _每日存檔 · 2026-06-30_
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lcy362-agnes-video-generator/) — Agnes Video Generator 是一個免費的 AI 影片生成器，可將文字轉換為多場景影片。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [xlangai/CUA-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-cua-gym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PixelOrange7/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pixelorange7-orangeo-ai-visibility-skill/) — 開源AI可見性檢查工具，用於評估網站SEO和競爭對手差距。
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnigent-ai-omnigent/) — 開源 AI 代理框架，可管理多個 AI 代理。
