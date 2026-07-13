@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定） — AI OSS Daily</title>
+<meta name="description" content="worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P042/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P042/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P042/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P042/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P042/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定） — AI OSS Daily">
+<meta property="og:description" content="worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P042/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定） — AI OSS Daily">
+<meta name="twitter:description" content="worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定）", "description": "worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。", "datePublished": "2026-07-12T08:00:00+00:00", "dateModified": "2026-07-12T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-07-12/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Newsletter</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P042/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P042</p>
+  <h1>事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定）</h1>
+  <p class="detail-lead">worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: high</span>
+    <span class="badge">估 4–6 週做出能跑的 MVP：worldmonitor 事件流接入＋事件正規化約 1.5 週，LLM 機率估計與提示工程約 1.5 週，Polymarket 賠率擷取與錯價比對約 1 週，riskguard 風控與回顧校準（Brier score）約 1–2 週。難點在事件與市場合約的對齊（同一事件在市場上的措辭與結算條件常不同）、LLM 機率的校準與過度自信、以及低流動性合約的滑價。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①Mac App 買斷：本機研究台，使用者自帶 API key，資料與策略不出機；②SaaS 月費：雲端版每日推送「事件錯價掃描報告」＋歷史校準分數（模型過去估得準不準），高階方案開放自訂事件追蹤；③免費的公開賠率／新聞追蹤網頁掛 Adsterra／Monetag 網頁廣告引流，站上放 Ko-fi 贊助與自架 VPS／主機商聯盟連結（自架者需要跑 24 小時監控節點）。定位是研究與風控工具，不代客下單、不做包贏承諾。</p></div>
+  <div class="panel"><h2>How it works</h2><p>koala73/worldmonitor 當即時情報層，持續聚合新聞與地緣政治訊號 → OpenOSINT 針對特定事件主體（人物／公司／國家）補齊公開背景情報 → hf:model:zai-org/GLM-5.2 本機或自架推論，把「事件敘述＋背景卷宗」轉成帶信心區間的機率估計與理由摘要 → MalcolmMcGough/polymarket-trading-bot-scalping 與 ale2348/trading-bot 提供 Polymarket 的行情擷取與下單介面（本案只取其「讀盤／賠率擷取」與可選的半自動執行層），把估計機率對照市場隱含機率算出錯價幅度 → SilentFleetKK/riskguard 作為執行前的風控閘門，套用倉位上限、單日最大虧損與熔斷機制。所有錯價候選以清單呈現給人審核，預設不自動下單。與 P010（股票／加密訊號社群）、P034（個股決策報告）、P038（MT5 風控）皆不同市場、不同資料源：本案吃的是新聞事件與預測市場賠率。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/koala73-worldmonitor/">koala73/worldmonitor</a></h3>
+<p class="summary">Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 61,769</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/">MalcolmMcGough/polymarket-trading-bot-scalping</a></h3>
+<p class="summary">A high-perforomance automated trading bot for Polymarket&#39;s ultra-short crypto prediction markets - 5-minute and 15-minute Up/Down markets on XRP, BNB, ETH, SOL, BTC, and DOGE. Built around a crowd-momentum confirmation strategy rather than news prediction, latency arbitrage, or pure arbitrage.</p>  <div class="cardmeta">
+    <span class="badge domain">💰 Fintech &amp; Investing</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 133</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/ale2348-trading-bot/">ale2348/trading-bot</a></h3>
+<p class="summary">A TypeScript versioned Polymarket Trading Bot for **Polymarket 5-minute crypto Up/Down** markets: **BTC, ETH, SOL, and XRP**. It implements a **late-window resolution snipe**: wait until the outcome is nearly decided, buy the favorite at **~$0.98–$0.99**, then hold to resolution for a small payout on each winning cycle.</p>  <div class="cardmeta">
+    <span class="badge domain">💰 Fintech &amp; Investing</span>
+    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 166</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/silentfleetkk-riskguard/">SilentFleetKK/riskguard</a></h3>
+<p class="summary">开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。</p>  <div class="cardmeta">
+    <span class="badge domain">💰 Fintech &amp; Investing</span>
+    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 60</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/openosint-openosint/">OpenOSINT/OpenOSINT</a></h3>
+<p class="summary">AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 907</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-zai-org-glm-5-2/">zai-org/GLM-5.2</a></h3>
+<p class="summary">text-generation · transformers, safetensors, glm_moe_dsa</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

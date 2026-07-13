@@ -41,3 +41,4 @@
 - [地緣政治與總體經濟情報雷達：全球熱點即時轉繁中簡報，付費解鎖公司／國家背景深度卷宗](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P039/) — 把今天新上榜、61k★ 的全球即時情報儀表板接成公開雷達站，免費看熱點摘要，付費解鎖特定公司或國家的深度背景盡調卷宗。
 - [AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P040/) — 不是體檢一次，而是每天盯著你和對手在 AI 搜尋答案（AI Overviews／聊天式搜尋）被提及與引用了多少，聲量掉了就示警。
 - [自架 AI 連接器與自動化閘道（Mac App／自架）：把 SaaS 一次接上任何 AI agent，省掉按人頭連接器月費](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P041/) — OAuth 一次授權，Slack／Notion／內部系統就變成 Claude、Cursor 能直接呼叫的工具，多步驟自動化可重放，資料與憑證全留自家主機。
+- [事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定）](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P042/) — worldmonitor 抓地緣政治／新聞事件 → LLM 估算事件真實機率 → 對照預測市場當下賠率，自動標出「市場錯價」清單，並用 riskguard 的倉位上限與熔斷規則守住風險。

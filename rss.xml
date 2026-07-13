@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>12 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>13 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>mgwr/M87</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</description>
+<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援多種音影片處理。</description>
 </item>
 <item>
-<title>Alisa0808/vox-director</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>自動化生成類似 Vox 風格的紙拼貼解說影片。</description>
+<title>kigner/audio.cpp-webui</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。</description>
 </item>
 <item>
-<title>Blizaine/Maestro</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。</description>
+<title>FINAL-Bench/VKUE</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>addyosmani/agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>生產級工程技能，用於 AI 程式設計代理。</description>
+<title>iOfficeAI/OfficeCLI</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>stablyai/orca</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>新一代平行代理開發環境，可在桌面和移動裝置上執行。</description>
 </item>
 <item>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
-<pubDate>12 Jul 2026 08:00:00 +0000</pubDate>
-<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
+<title>MOSS-TTS v1.5（開源語音合成）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/</guid>
+<pubDate>13 Jul 2026 08:00:00 +0000</pubDate>
+<description>復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</description>
 </item>
 </channel>
 </rss>

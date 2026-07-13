@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
+<updated>2026-07-13T08:00:00+00:00</updated>
 <entry>
-<title>mgwr/M87</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</summary>
+<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的模型，支援多種音影片處理。</summary>
 </entry>
 <entry>
-<title>Alisa0808/vox-director</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>自動化生成類似 Vox 風格的紙拼貼解說影片。</summary>
+<title>kigner/audio.cpp-webui</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。</summary>
 </entry>
 <entry>
-<title>Blizaine/Maestro</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。</summary>
+<title>FINAL-Bench/VKUE</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>iOfficeAI/OfficeCLI</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>stablyai/orca</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>新一代平行代理開發環境，可在桌面和移動裝置上執行。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-12T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>MOSS-TTS v1.5（開源語音合成）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/</id>
+<updated>2026-07-13T08:00:00+00:00</updated>
+<summary>復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</summary>
 </entry>
 </feed>

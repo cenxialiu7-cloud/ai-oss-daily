@@ -2,7 +2,7 @@
 
 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 
-**為何上榜**：HF trending 85 · 189 likes · 350 下載
+**為何上榜**：HF trending 73 · 193 likes · 353 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

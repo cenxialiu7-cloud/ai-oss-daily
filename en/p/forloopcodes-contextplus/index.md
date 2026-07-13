@@ -4,5 +4,5 @@ Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server des
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,949
+**Stars**：1,950
 **Source**：https://github.com/forloopcodes/contextplus

@@ -4,5 +4,5 @@ A zero-dependency Python module for inspecting and converting coding-agent sessi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：42
+**Stars**：44
 **Source**：https://github.com/FredyRivera-dev/claude_converter
