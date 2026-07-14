@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
+<updated>2026-07-14T08:00:00+00:00</updated>
 <entry>
-<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援多種音影片處理。</summary>
+<title>ostris/krea2_turbo_style_reference</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>基於Krea-2-Turbo的風格參考模型，用於文字轉影像。</summary>
 </entry>
 <entry>
-<title>kigner/audio.cpp-webui</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。</summary>
+<title>jlnsrk/GLM-5.2-colibri-int4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jlnsrk-glm-5-2-colibri-int4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jlnsrk-glm-5-2-colibri-int4/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>大型語言模型／權重（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>FINAL-Bench/VKUE</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>sher1096/klinepic-agent-api-examples</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>提供加密貨幣交易後的K線圖生成工具及範例。</summary>
 </entry>
 <entry>
-<title>iOfficeAI/OfficeCLI</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>stablyai/orca</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>新一代平行代理開發環境，可在桌面和移動裝置上執行。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>MOSS-TTS v1.5（開源語音合成）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/</id>
-<updated>2026-07-13T08:00:00+00:00</updated>
-<summary>復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。</summary>
+<title>Alissonerdx/LTX-Best-Face-ID</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/</id>
+<updated>2026-07-14T08:00:00+00:00</updated>
+<summary>將文字轉換為保留身份的影片，適用於Lora和ComfyUI。</summary>
 </entry>
 </feed>

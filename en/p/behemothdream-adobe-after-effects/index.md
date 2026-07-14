@@ -1,6 +1,6 @@
 # BehemothDream/Adobe-After-Effects
 
-影音製作相關 AI（依標籤自動歸類，詳細看下方原文）
+提供 Adobe After Effects 的相關資源和工具。
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 

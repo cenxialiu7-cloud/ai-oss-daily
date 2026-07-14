@@ -4,5 +4,5 @@ AI quantitative trading platform for crypto, stocks, and forex with backtesting,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,534
+**Stars**：9,582
 **Source**：https://github.com/brokermr810/QuantDinger

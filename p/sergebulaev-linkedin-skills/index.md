@@ -2,9 +2,9 @@
 
 LinkedIn 成長的 Claude skills：寫像真人的貼文與會被注意的留言。
 
-**為何上榜**：近一日新增 6★（現 363★）
+**為何上榜**：近一日新增 7★（現 370★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：363
+**Stars**：370
 **原始連結**：https://github.com/sergebulaev/linkedin-skills

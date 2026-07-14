@@ -1,6 +1,6 @@
 # BehemothDream/Adobe-After-Effects
 
-影音製作相關 AI（依標籤自動歸類，詳細看下方原文）
+提供 Adobe After Effects 的相關資源和工具。
 
 **為何上榜**：148★ · 近期活躍
 

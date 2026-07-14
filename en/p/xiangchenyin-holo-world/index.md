@@ -1,0 +1,8 @@
+# XiangchenYin/Holo-World
+
+Unified Camera, Object and Weather Control for Video World Model
+
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：45
+**Source**：https://github.com/XiangchenYin/Holo-World

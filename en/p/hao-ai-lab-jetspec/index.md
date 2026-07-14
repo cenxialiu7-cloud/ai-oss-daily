@@ -4,5 +4,5 @@ JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Causal Parall
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：159
+**Stars**：161
 **Source**：https://github.com/hao-ai-lab/JetSpec
