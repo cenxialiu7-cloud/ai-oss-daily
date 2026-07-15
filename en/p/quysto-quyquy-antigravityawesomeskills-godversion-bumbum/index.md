@@ -4,5 +4,5 @@ Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Cod
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5
+**Stars**：6
 **Source**：https://github.com/quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum

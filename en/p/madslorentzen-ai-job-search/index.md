@@ -4,5 +4,5 @@ The job search that runs on your machine. AI job application framework built on 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：21,900
+**Stars**：22,495
 **Source**：https://github.com/MadsLorentzen/ai-job-search

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>14 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>15 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>ostris/krea2_turbo_style_reference</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於Krea-2-Turbo的風格參考模型，用於文字轉影像。</description>
+<title>Wan-AI/Wan-Dancer-14B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為動畫的模型，支援音樂生成舞蹈動作。</description>
 </item>
 <item>
-<title>jlnsrk/GLM-5.2-colibri-int4</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jlnsrk-glm-5-2-colibri-int4/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jlnsrk-glm-5-2-colibri-int4/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>大型語言模型／權重（依標籤自動歸類，詳細看下方原文）</description>
+<title>prism-ml/Ternary-Bonsai-27B-gguf</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>使用二進製表示的對話生成模型，適合輕量級運算。</description>
 </item>
 <item>
-<title>sher1096/klinepic-agent-api-examples</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>提供加密貨幣交易後的K線圖生成工具及範例。</description>
+<title>ATH-MaaS/OvisOCR2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。</description>
 </item>
 <item>
-<title>Graphify-Labs/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>addyosmani/agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>生產級工程技能，用於 AI 程式設計代理。</description>
 </item>
 <item>
-<title>Alissonerdx/LTX-Best-Face-ID</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/</guid>
-<pubDate>14 Jul 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為保留身份的影片，適用於Lora和ComfyUI。</description>
+<title>mgwr/M87</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</guid>
+<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
+<description>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</description>
 </item>
 </channel>
 </rss>

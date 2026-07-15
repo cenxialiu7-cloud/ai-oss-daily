@@ -4,5 +4,5 @@ ComfyUI nodes for MOSS-TTS-Local-Transformer-v1.5 , a 48 kHz stereo local Transf
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：21
+**Stars**：27
 **Source**：https://github.com/Saganaki22/Moss_TTS-ComfyUI
