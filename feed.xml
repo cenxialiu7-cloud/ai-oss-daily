@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
+<updated>2026-07-16T08:00:00+00:00</updated>
 <entry>
-<title>Wan-AI/Wan-Dancer-14B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>將影像轉換為動畫的模型，支援音樂生成舞蹈動作。</summary>
+<title>thinkingmachines/Inkling</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為純文本的對話式模型。</summary>
 </entry>
 <entry>
-<title>prism-ml/Ternary-Bonsai-27B-gguf</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>使用二進製表示的對話生成模型，適合輕量級運算。</summary>
+<title>Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>基於 LoRA 技術生成影片，支援多角度合成。</summary>
 </entry>
 <entry>
-<title>ATH-MaaS/OvisOCR2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。</summary>
+<title>prism-ml/Ternary-Bonsai-27B-mlx-2bit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>用於文本生成的輕量級模型，採用二進製表示。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>stablyai/orca</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>新一代平行代理開發環境，可在桌面和移動裝置上執行。</summary>
 </entry>
 <entry>
-<title>mgwr/M87</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</id>
-<updated>2026-07-15T08:00:00+00:00</updated>
-<summary>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</summary>
+<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</id>
+<updated>2026-07-16T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的模型，支援多種音影片處理。</summary>
 </entry>
 </feed>

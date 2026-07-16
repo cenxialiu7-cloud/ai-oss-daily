@@ -2,9 +2,9 @@
 
 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
 
-**為何上榜**：93★ · 近期活躍
+**為何上榜**：近一日新增 2★（現 95★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：93
+**Stars**：95
 **原始連結**：https://github.com/VeKiner/akshare-stock-data-fetcher

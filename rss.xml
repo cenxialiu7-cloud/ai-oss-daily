@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>15 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>16 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Wan-AI/Wan-Dancer-14B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為動畫的模型，支援音樂生成舞蹈動作。</description>
+<title>thinkingmachines/Inkling</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為純文本的對話式模型。</description>
 </item>
 <item>
-<title>prism-ml/Ternary-Bonsai-27B-gguf</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>使用二進製表示的對話生成模型，適合輕量級運算。</description>
+<title>Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>基於 LoRA 技術生成影片，支援多角度合成。</description>
 </item>
 <item>
-<title>ATH-MaaS/OvisOCR2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。</description>
+<title>prism-ml/Ternary-Bonsai-27B-mlx-2bit</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>用於文本生成的輕量級模型，採用二進製表示。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</description>
 </item>
 <item>
-<title>addyosmani/agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>生產級工程技能，用於 AI 程式設計代理。</description>
+<title>stablyai/orca</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>新一代平行代理開發環境，可在桌面和移動裝置上執行。</description>
 </item>
 <item>
-<title>mgwr/M87</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/</guid>
-<pubDate>15 Jul 2026 08:00:00 +0000</pubDate>
-<description>一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。</description>
+<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</guid>
+<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援多種音影片處理。</description>
 </item>
 </channel>
 </rss>

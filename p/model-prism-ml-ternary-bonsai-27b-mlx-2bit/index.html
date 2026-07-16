@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>prism-ml/Ternary-Bonsai-27B-mlx-2bit — 🧱 AI 基礎堆疊 — AI 開源日報</title>
+<meta name="description" content="用於文本生成的輕量級模型，採用二進製表示。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/index.md" title="純文字（Markdown）版">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 開源日報">
+<meta property="og:title" content="prism-ml/Ternary-Bonsai-27B-mlx-2bit — 🧱 AI 基礎堆疊 — AI 開源日報">
+<meta property="og:description" content="用於文本生成的輕量級模型，採用二進製表示。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="prism-ml/Ternary-Bonsai-27B-mlx-2bit — 🧱 AI 基礎堆疊 — AI 開源日報">
+<meta name="twitter:description" content="用於文本生成的輕量級模型，採用二進製表示。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "prism-ml/Ternary-Bonsai-27B-mlx-2bit", "description": "用於文本生成的輕量級模型，採用二進製表示。", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit", "license": "apache-2.0", "keywords": "mlx, safetensors, qwen3_5, conversational, ternary, 2-bit, cuda, metal"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI 開源日報", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI 基礎堆疊", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "🧠 LLM 模型／權重", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/model-llm/"}, {"@type": "ListItem", "position": 4, "name": "prism-ml/Ternary-Bonsai-27B-mlx-2bit", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/"}]}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">電子報</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/">English</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="detail-head" style="padding-top:36px">
+  <p class="crumbs">
+    <a href="/ai-oss-daily/">回首頁</a> /
+    <a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a>
+ / <a href="/ai-oss-daily/c/general-ai/model-llm/">🧠 LLM 模型／權重</a>  </p>
+  <h1>prism-ml/Ternary-Bonsai-27B-mlx-2bit</h1>
+<p class="detail-lead">用於文本生成的輕量級模型，採用二進製表示。</p>  <div class="cardmeta" style="margin-top:12px">
+    <span class="badge domain">🧱 AI 基礎堆疊</span>
+    <span class="badge lic-unknown">授權未明</span>
+  </div>
+  <div class="hero-cta">
+    <a class="btn primary" href="https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit" rel="noopener" target="_blank">↗ 原始連結</a>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>為何上榜</h2><p>HF trending 68 · 70 likes · 6 下載</p></div>
+  <div class="panel">
+    <h2>商用授權</h2>
+    <div class="kv"><span class="badge lic-unknown">授權未明</span><span class="badge">apache-2.0</span></div>
+<p style="color:var(--fg-dim)">未知授權代碼 apache-2.0 — 請人工確認商用條款</p>  </div>
+  <div class="panel"><h2>Topics</h2><div class="chips" style="margin:0"><span class="chip">mlx</span><span class="chip">safetensors</span><span class="chip">qwen3_5</span><span class="chip">conversational</span><span class="chip">ternary</span><span class="chip">2-bit</span><span class="chip">cuda</span><span class="chip">metal</span></div></div>
+</section>
+
+<div style="display:flex;justify-content:center"><div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="300" height="250" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;edaa490f3a506385716ea337d3097972&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:250,&#39;width&#39;:300,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/edaa490f3a506385716ea337d3097972/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+</div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">贊助連結 →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI 開源日報</strong><br>
+        <span style="color:var(--fg-faint)">去噪・抗洗榜・附「為何上榜」與商用授權判讀。</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ 請我喝杯咖啡</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/about/">關於</a> ·
+        <a href="/ai-oss-daily/changes/">每日變化</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">本站含聯盟連結；點擊不影響你的價格，會給作者一點回饋。</p>
+  </div>
+</footer></body>
+</html>

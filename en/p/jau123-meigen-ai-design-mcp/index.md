@@ -4,5 +4,5 @@ Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefull
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,572
+**Stars**：1,575
 **Source**：https://github.com/jau123/MeiGen-AI-Design-MCP

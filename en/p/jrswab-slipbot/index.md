@@ -4,5 +4,5 @@ Agentic Zettelkasten skill definitions for AI Agents. Captures notes, quotes, id
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：11
+**Stars**：12
 **Source**：https://github.com/jrswab/slipbot
