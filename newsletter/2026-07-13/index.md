@@ -1,6 +1,6 @@
 # AI 開源日報 · 電子報 · 2026-07-13
 
-每天約 09:00 自動更新。訂閱 Telegram、LINE 或 Email，當日精選直接送到你手上——免費、隨時退訂。
+每天約 09:00 自動更新，當日精選直接推播到你的 Telegram——免費、無廣告、隨時退訂。
 
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。

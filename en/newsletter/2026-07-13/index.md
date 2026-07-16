@@ -1,6 +1,6 @@
 # AI OSS Daily · Newsletter · 2026-07-13
 
-Auto-updated daily around 09:00. Subscribe via Telegram, LINE, or email to get the day's picks delivered — free, unsubscribe anytime.
+Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation

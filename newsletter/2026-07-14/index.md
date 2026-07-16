@@ -1,6 +1,6 @@
 # AI 開源日報 · 電子報 · 2026-07-14
 
-每天約 09:00 自動更新。訂閱 Telegram、LINE 或 Email，當日精選直接送到你手上——免費、隨時退訂。
+每天約 09:00 自動更新，當日精選直接推播到你的 Telegram——免費、無廣告、隨時退訂。
 
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/) — 將文字轉換為保留身份的影片，適用於Lora和ComfyUI。
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — 一款基於gguf格式的文本生成模型，適用於長上下文推理。

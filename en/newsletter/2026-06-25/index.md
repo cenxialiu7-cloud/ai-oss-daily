@@ -1,6 +1,6 @@
 # AI OSS Daily · Newsletter · 2026-06-25
 
-Auto-updated daily around 09:00. Subscribe via Telegram, LINE, or email to get the day's picks delivered — free, unsubscribe anytime.
+Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-nano-v1/) — text-to-speech · pytorch, text-to-speech, tts
 - [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa

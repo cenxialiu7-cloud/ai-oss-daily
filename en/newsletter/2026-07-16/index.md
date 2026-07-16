@@ -1,6 +1,6 @@
 # AI OSS Daily · Newsletter · 2026-07-16
 
-Auto-updated daily around 09:00. Subscribe via Telegram, LINE, or email to get the day's picks delivered — free, unsubscribe anytime.
+Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mgwr-m87/) — text-to-image · diffusers, text-to-image, lora
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-ltx-best-face-id/) — text-to-video · ltx-video, identity-preservation, ipt2v

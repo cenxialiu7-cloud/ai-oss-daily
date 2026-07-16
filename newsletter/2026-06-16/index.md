@@ -1,6 +1,6 @@
 # AI 開源日報 · 電子報 · 2026-06-16
 
-每天約 09:00 自動更新。訂閱 Telegram、LINE 或 Email，當日精選直接送到你手上——免費、隨時退訂。
+每天約 09:00 自動更新，當日精選直接推播到你的 Telegram——免費、無廣告、隨時退訂。
 
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
