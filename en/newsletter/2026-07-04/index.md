@@ -1,4 +1,4 @@
-# AI OSS Daily · Newsletter · 2026-07-04
+# AI OSS Daily · Picks archive · 2026-07-04
 
 Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 

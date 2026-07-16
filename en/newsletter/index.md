@@ -1,4 +1,4 @@
-# Newsletter
+# Picks archive
 
 Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
