@@ -4,5 +4,5 @@ An iteration research agent: searches academic research, applies it to time seri
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：68
+**Stars**：69
 **Source**：https://github.com/adam-s/alphadidactic

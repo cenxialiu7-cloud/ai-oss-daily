@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
+<updated>2026-07-17T08:00:00+00:00</updated>
 <entry>
-<title>thinkingmachines/Inkling</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為純文本的對話式模型。</summary>
+<title>prism-ml/Bonsai-27B-mlx-1bit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。</summary>
 </entry>
 <entry>
-<title>Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>基於 LoRA 技術生成影片，支援多角度合成。</summary>
+<title>OpenMOSS-Team/MOSS-VL-Realtime</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>即時影片文字轉換工具，支援即時流媒體和影片理解。</summary>
 </entry>
 <entry>
-<title>prism-ml/Ternary-Bonsai-27B-mlx-2bit</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>用於文本生成的輕量級模型，採用二進製表示。</summary>
+<title>robinhood-ape/robinhood-sniper-bot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。</summary>
 </entry>
 <entry>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>stablyai/orca</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>新一代平行代理開發環境，可在桌面和移動裝置上執行。</summary>
+<title>calesthio/OpenMontage</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
 </entry>
 <entry>
-<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</id>
-<updated>2026-07-16T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援多種音影片處理。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-07-17T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

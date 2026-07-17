@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>16 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>17 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>thinkingmachines/Inkling</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為純文本的對話式模型。</description>
+<title>prism-ml/Bonsai-27B-mlx-1bit</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。</description>
 </item>
 <item>
-<title>Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於 LoRA 技術生成影片，支援多角度合成。</description>
+<title>OpenMOSS-Team/MOSS-VL-Realtime</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>即時影片文字轉換工具，支援即時流媒體和影片理解。</description>
 </item>
 <item>
-<title>prism-ml/Ternary-Bonsai-27B-mlx-2bit</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>用於文本生成的輕量級模型，採用二進製表示。</description>
+<title>robinhood-ape/robinhood-sniper-bot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。</description>
 </item>
 <item>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</description>
+<title>Graphify-Labs/graphify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
 </item>
 <item>
-<title>stablyai/orca</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>新一代平行代理開發環境，可在桌面和移動裝置上執行。</description>
+<title>calesthio/OpenMontage</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
 </item>
 <item>
-<title>robbyant/lingbot-world-v2-14b-causal-fast</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/</guid>
-<pubDate>16 Jul 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援多種音影片處理。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

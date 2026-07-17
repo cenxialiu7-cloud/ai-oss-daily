@@ -4,9 +4,8 @@ _Daily archive · 2026-07-16_
 
 ## 🆕 New
 
-- [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · safetensors, inkling_mm_model, conversational
+- [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · transformers, safetensors, inkling_mm_model
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — · video-generation, lora, ic-lora
-- [prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/) — text-generation · mlx, safetensors, qwen3_5
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure
 - [ICML-2026-agent-repro/challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-icml-2026-agent-repro-challenge/) — · static, trackio, open-reproductions
 - [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
@@ -16,6 +15,7 @@ _Daily archive · 2026-07-16_
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/extraltodeus-j-wash/) — Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Re…
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantjourneyorg-quantjourney-bt/) — QuantJourney Backtester
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gdpval/) — · size_categories:n<1K, format:parquet, modality:text
+- [AgriciDaniel/flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-flow/) — Find · Leverage · Optimize · Win — an evidence-led SEO playbook for the AI-search era. 72 docs · 42 AI prompt…
 
 ## 🚀 Climbing
 
@@ -44,7 +44,7 @@ _Daily archive · 2026-07-16_
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-image2video/) — image-to-video · cosmos, diffusers, safetensors
 - [prism-ml/Ternary-Bonsai-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-gguf/) — text-generation · llama.cpp, gguf, conversational
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
-- [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · safetensors, inkling_mm_model, conversational
+- [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · transformers, safetensors, inkling_mm_model
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — image-to-image · Flux2Klein, Sun, I2I
@@ -124,7 +124,6 @@ _Daily archive · 2026-07-16_
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
-- [prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-mlx-2bit/) — text-generation · mlx, safetensors, qwen3_5
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
@@ -448,7 +447,7 @@ _Daily archive · 2026-07-16_
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lichamnesia-awesome-ad-video-prompts/) — Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to H…
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mrfakename-z-image-turbo/) — · gradio, mcp-server, region:us
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beijingcao-binance-deribit-btc/) — Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask …
-- [dduongtrandai/LA-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dduongtrandai-la-studio/) — Privacy-first desktop app for local AI audio: speech-to-text, text-to-speech, voice cloning, voice design, mo…
+- [dduongtrandai/LA-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dduongtrandai-la-studio/) — LA Studio is a local-first AI audio platform for exploring, downloading, and testing speech-to-text, text-to-…
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-portable-diffusion/) — [Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
@@ -595,7 +594,7 @@ _Daily archive · 2026-07-16_
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nduckmink-arkon/) — Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts,…
 - [PlaceNL2026/best-of-algorithmic-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-best-of-algorithmic-trading/) — algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source…
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/etherll-timbre/) — Extract a target speaker’s clean, non-overlapped speech from multi-speaker audio and export word-safe LJSpeec…
-- [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop…
+- [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruvnet-agenticow/) — Git for Agent Memory: Copy-On-Write vector branching for embedded multi-agent memory (83x faster, 3000x small…
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
@@ -983,7 +982,7 @@ _Daily archive · 2026-07-16_
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
 - [wquguru/harness-books](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wquguru-harness-books/) — 📚 Two books on harness engineering — the design philosophies behind Claude Code & Codex: constraints, query l…
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
-- [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/purpledoubled-locally-uncensored/) — Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs …
+- [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/purpledoubled-locally-uncensored/) — Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs…
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/generative-computing-granite-switch/) — Granite Switch — Build AI models like you build software
 - [yupoet/aurumq-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yupoet-aurumq-rl/) — RL stock selection for China A-share — bundled polars-native factor library (105 Alpha101 + 191 GTJA Alpha191…
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evomap-evolver/) — The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | e…

@@ -4,5 +4,5 @@ Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：599
+**Stars**：598
 **Source**：https://github.com/Coolver/home-assistant-vibecode-agent

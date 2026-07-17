@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：191
+**Stars**：196
 **Source**：https://github.com/didilili/shopkeeper-agent

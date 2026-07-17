@@ -4,5 +4,5 @@ Next-gen, source-available alternative to Codex and Claude Code — one local-fi
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：1,243
+**Stars**：1,265
 **Source**：https://github.com/Devin-AXIS/iPolloWork

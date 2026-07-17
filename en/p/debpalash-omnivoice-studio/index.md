@@ -1,8 +1,8 @@
 # debpalash/OmniVoice-Studio
 
-The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
+Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：8,481
+**Stars**：8,524
 **Source**：https://github.com/debpalash/OmniVoice-Studio
