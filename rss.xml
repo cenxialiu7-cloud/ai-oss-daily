@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>17 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>18 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>prism-ml/Bonsai-27B-mlx-1bit</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。</description>
+<title>hogan-tech/brand-loom</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>開源行銷技能平臺，支援任何模型執行，無需程式設計。</description>
 </item>
 <item>
-<title>OpenMOSS-Team/MOSS-VL-Realtime</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>即時影片文字轉換工具，支援即時流媒體和影片理解。</description>
+<title>t-tech/TRuST</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>robinhood-ape/robinhood-sniper-bot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。</description>
+<title>GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。</description>
 </item>
 <item>
-<title>Graphify-Labs/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>calesthio/OpenMontage</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
+<title>DeusData/codebase-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>17 Jul 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
+<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
+<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
 </item>
 </channel>
 </rss>

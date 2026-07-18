@@ -4,5 +4,5 @@ A context harness for AI agents: all your scattered context — code, memory, do
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：105
+**Stars**：108
 **Source**：https://github.com/zilliztech/mfs

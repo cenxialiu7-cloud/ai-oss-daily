@@ -4,5 +4,5 @@ Open CLI for integrating AI search, recommendation, and conversational retrieval
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,128
+**Stars**：1,129
 **Source**：https://github.com/volcengine/SearchCLI

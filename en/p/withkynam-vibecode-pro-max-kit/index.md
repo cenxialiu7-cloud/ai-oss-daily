@@ -4,5 +4,5 @@ Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, prod
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,042
+**Stars**：1,043
 **Source**：https://github.com/withkynam/vibecode-pro-max-kit

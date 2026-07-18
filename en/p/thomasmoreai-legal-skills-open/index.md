@@ -4,5 +4,5 @@ Open library of legal AI skills (SKILL.md) for MCP-compatible agents — 39 juri
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：30
+**Stars**：32
 **Source**：https://github.com/ThomasMoreAI/legal-skills-open

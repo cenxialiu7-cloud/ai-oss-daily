@@ -12,10 +12,10 @@ _每日存檔 · 2026-07-17_
 - [schema-harness/arc-agi-3-schema-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-schema-harness-arc-agi-3-schema-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [feyninc/pulpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-pulpie/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HumeAI/rw-voice-eq](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-humeai-rw-voice-eq/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [MCG-NJU/VideoChat3-Academic2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mcg-nju-videochat3-academic2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-precisionaiinc-agristress-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [codeparrot/github-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codeparrot-github-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vitaecontext/vitaecontext](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vitaecontext-vitaecontext/) — 為 AI 代理提供職業背景知識和上下文。
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rebelytics-one-skill-to-rule-them-all/) — 自動捕捉並改進工作中的修正和判斷的元技能。
 
 ## 🚀 Star 竄升
 
@@ -408,7 +408,6 @@ _每日存檔 · 2026-07-17_
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ajibawa-2023-shell-code-large/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [MCG-NJU/VideoChat3-Academic2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mcg-nju-videochat3-academic2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

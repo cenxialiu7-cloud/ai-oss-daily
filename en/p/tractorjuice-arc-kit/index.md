@@ -4,5 +4,5 @@ The Enterprise Architecture Governance Harness — strategy, architecture, deliv
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,089
+**Stars**：2,091
 **Source**：https://github.com/tractorjuice/arc-kit

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
+<updated>2026-07-18T08:00:00+00:00</updated>
 <entry>
-<title>prism-ml/Bonsai-27B-mlx-1bit</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。</summary>
+<title>hogan-tech/brand-loom</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>開源行銷技能平臺，支援任何模型執行，無需程式設計。</summary>
 </entry>
 <entry>
-<title>OpenMOSS-Team/MOSS-VL-Realtime</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>即時影片文字轉換工具，支援即時流媒體和影片理解。</summary>
+<title>t-tech/TRuST</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>robinhood-ape/robinhood-sniper-bot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。</summary>
+<title>GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。</summary>
 </entry>
 <entry>
-<title>Graphify-Labs/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>calesthio/OpenMontage</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-17T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
+<updated>2026-07-18T08:00:00+00:00</updated>
+<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
 </entry>
 </feed>

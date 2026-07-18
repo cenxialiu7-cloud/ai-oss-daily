@@ -4,5 +4,5 @@ The only browser automation that bypasses anti-bot systems. AI writes network ho
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,519
+**Stars**：1,521
 **Source**：https://github.com/vibheksoni/stealth-browser-mcp
