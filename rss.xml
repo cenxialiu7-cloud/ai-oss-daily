@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>18 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>19 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>hogan-tech/brand-loom</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>開源行銷技能平臺，支援任何模型執行，無需程式設計。</description>
+<title>nvidia/Nemotron-3-Embed-1B-BF16</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>用於句子相似度分析的模型，生成文本嵌入以支援檢索。</description>
 </item>
 <item>
-<title>t-tech/TRuST</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>基於GGUF格式的圖文轉文字模型，具備未審查和異端特點。</description>
 </item>
 <item>
-<title>GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。</description>
+<title>tetsuo-ai/voice_clone_lab</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</description>
 </item>
 <item>
-<title>DeusData/codebase-memory-mcp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</description>
+<title>ogulcancelik/herdr</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>在終端機中執行的AI代理多路復用器。</description>
 </item>
 <item>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
-<pubDate>18 Jul 2026 08:00:00 +0000</pubDate>
-<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
+<title>thinkingmachines/Inkling</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</guid>
+<pubDate>19 Jul 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為純文本的對話式模型。</description>
 </item>
 </channel>
 </rss>

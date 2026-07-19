@@ -4,5 +4,5 @@ Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheet
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：29,789
+**Stars**：29,813
 **Source**：https://github.com/googleworkspace/cli
