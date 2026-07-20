@@ -2,9 +2,9 @@
 
 讓Home Assistant支援Claude Code等工具，協助自動化設計與除錯。
 
-**為何上榜**：近一日新增 1★（現 599★）
+**為何上榜**：近一日新增 1★（現 600★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：599
+**Stars**：600
 **原始連結**：https://github.com/Coolver/home-assistant-vibecode-agent

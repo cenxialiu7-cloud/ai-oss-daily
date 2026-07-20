@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
+<updated>2026-07-20T08:00:00+00:00</updated>
 <entry>
-<title>nvidia/Nemotron-3-Embed-1B-BF16</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>用於句子相似度分析的模型，生成文本嵌入以支援檢索。</summary>
+<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v3-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v3-gguf/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>基於Qwen的圖文生成文字模型，支援GGUF格式及無審核內容。</summary>
 </entry>
 <entry>
-<title>DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>基於GGUF格式的圖文轉文字模型，具備未審查和異端特點。</summary>
+<title>joeseesun/qiaomu-cut-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。</summary>
 </entry>
 <entry>
-<title>tetsuo-ai/voice_clone_lab</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。</summary>
+<title>katipally/openlive</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>開源的在地端語音與視覺層AI代理框架，支援本地語音迴圈處理。</summary>
 </entry>
 <entry>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>ogulcancelik/herdr</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>在終端機中執行的AI代理多路復用器。</summary>
+<title>calesthio/OpenMontage</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</summary>
 </entry>
 <entry>
-<title>thinkingmachines/Inkling</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</id>
-<updated>2026-07-19T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為純文本的對話式模型。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-07-20T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

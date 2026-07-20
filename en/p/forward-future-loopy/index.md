@@ -4,5 +4,5 @@ A library of practical AI-agent loops and an installable skill for finding, adap
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,765
+**Stars**：2,803
 **Source**：https://github.com/Forward-Future/loopy

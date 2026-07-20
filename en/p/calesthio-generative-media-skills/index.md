@@ -4,5 +4,5 @@ Research-backed agent skills and tools for premium image, video, audio, voice, a
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：84
+**Stars**：86
 **Source**：https://github.com/calesthio/generative-media-skills
