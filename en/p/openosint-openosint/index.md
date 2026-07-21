@@ -4,5 +4,5 @@ AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Wor
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：907
+**Stars**：1,077
 **Source**：https://github.com/OpenOSINT/OpenOSINT

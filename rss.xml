@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>20 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>21 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v3-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v3-gguf/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>基於Qwen的圖文生成文字模型，支援GGUF格式及無審核內容。</description>
+<title>openbmb/MiniCPM-RobotManip</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-robotmanip/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-robotmanip/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>適用於機器人控制的轉換模型，支援視覺語言動作。</description>
 </item>
 <item>
-<title>joeseesun/qiaomu-cut-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。</description>
+<title>Soofi-Project/Soofi-S-Base</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的文本生成模型，專為主權AI設計。</description>
 </item>
 <item>
-<title>katipally/openlive</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>開源的在地端語音與視覺層AI代理框架，支援本地語音迴圈處理。</description>
+<title>0xsline/OpenChatCut</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。</description>
 </item>
 <item>
-<title>Graphify-Labs/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
+<title>rohitg00/ai-engineering-from-scratch</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。</description>
 </item>
 <item>
-<title>calesthio/OpenMontage</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>20 Jul 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
+<pubDate>21 Jul 2026 08:00:00 +0000</pubDate>
+<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
 </item>
 </channel>
 </rss>

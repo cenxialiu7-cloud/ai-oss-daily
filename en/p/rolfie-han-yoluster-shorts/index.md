@@ -4,5 +4,5 @@ YoLuster Shorts 釉光影：An independently developed AI short-drama creation w
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：241
+**Stars**：245
 **Source**：https://github.com/rolfie-han/YoLuster-shorts
