@@ -95,7 +95,6 @@ _Daily archive · 2026-06-24_
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jedisct1-mimo-v2-5-coder-q2/) — text-generation · llama.cpp, gguf, text-generation
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-m-1/) — text-generation · vllm, safetensors, laguna
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-boogu-image/) — · comfyui, license:apache-2.0, region:us
@@ -125,7 +124,7 @@ _Daily archive · 2026-06-24_
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-encoder-free-vlm/) — · docker, research-article-template, research paper
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
-- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, region:us
+- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, not-for-all-audiences, region:us
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-embedding-350m/) — sentence-similarity · sentence-transformers, safetensors, lfm2
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
@@ -436,7 +435,7 @@ _Daily archive · 2026-06-24_
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana trading bot for sniping new tokens on Raydium AMM v4 and pump.fun. Features real-time on-chain monitor…
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chiennv2000-orthrus/) — Fast, lossless LLM inference via dual-view diffusion decoding.
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavemem/) — Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-superpowers-zh/) — 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / C…
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
@@ -519,7 +518,7 @@ _Daily archive · 2026-06-24_
 - [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dongxinsuperman-ai-phone/) — iOS/Android/HarmonyOS 三端真机 AI 自动化中台 · 自然语言驱动纯视觉执行，开箱即用的设备调度与报告回传
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfe…
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plan…
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-hands-on-modern-rl/) — 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and adv…
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0share/) — A 股、期货、期权数据本地化管道：Tushare Pro 拉取 → Parquet 分区存储 → DuckDB 本地查询，支持增量同步与定时调度

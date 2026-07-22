@@ -125,7 +125,6 @@ _Daily archive · 2026-07-17_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-m-1/) — text-generation · vllm, safetensors, laguna
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — · video-generation, lora, ic-lora
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-vl-realtime/) — video-text-to-text · transformers, safetensors, moss_vl
@@ -149,7 +148,7 @@ _Daily archive · 2026-07-17_
 - [ICML-2026-agent-repro/challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-icml-2026-agent-repro-challenge/) — · static, trackio, open-reproductions
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
-- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, region:us
+- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, not-for-all-audiences, region:us
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
@@ -419,7 +418,7 @@ _Daily archive · 2026-07-17_
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [onism1767-creator/potato](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onism1767-creator-potato/) — Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers…
-- [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perfectgf-lora-dataset-studio/) — Self-hosted workbench for building face/character LoRA datasets - generate variations from one reference phot…
+- [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perfectgf-lora-dataset-studio/) — Self-hosted, one-tab workbench for the whole LoRA lifecycle: build Character / Concept / Style datasets (gene…
 - [STBack23/omnivoice-vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stback23-omnivoice-vi/) — · language:vi, license:apache-2.0, size_categories:n<1K
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
 - [allenai/tmax-15k-open-instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-tmax-15k-open-instruct/) — · language:en, license:odc-by, size_categories:10K<n<100K
@@ -691,7 +690,7 @@ _Daily archive · 2026-07-17_
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/) — 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [linoyts/Flux2-Klein-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-flux2-klein-face-swap/) — · gradio, region:us
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday l…
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plan…
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
@@ -720,7 +719,7 @@ _Daily archive · 2026-07-17_
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pineforge-4pass-pineforge-engine/) — Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-stabledaw/) — ARCHIVED USE theDAW at https://github.com/gantasmo/theDAW - Browser-based AI audio DAW for Stable Audio 3 wit…
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：中文提示词、Tag 编辑、LoRA 管理、模型切换、图生图和生成参数控制。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 在 ComfyUI 里获得 WebUI 式提示词体验：中文翻译、Tag 自动补全、LoRA 管理、提示词市场和高级模块接入。
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/teng-lin-notebooklm-py/) — Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's featu…
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gdpval/) — · size_categories:n<1K, format:parquet, modality:text
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shurikentrade-shuriken-skills/) — Agent-consumable integration skills for the Shuriken platform 🥷
@@ -807,7 +806,7 @@ _Daily archive · 2026-07-17_
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/osaurus-ai-osaurus/) — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cr…
 - [AgriciDaniel/claude-ads](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-ads/) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, Linke…
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-system/) — A complete collection of RAG interview questions, answers (505 questions & 41 RAG types), system design scena…
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opensensenova-sensenova-skills/) — Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [achaljhawar/1rok](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/achaljhawar-1rok/) — Multi-LLM trading harness.
@@ -1109,7 +1108,6 @@ _Daily archive · 2026-07-17_
 - [zilliztech/mfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zilliztech-mfs/) — A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — in one se…
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/productfculty-aipm-pm-copilot-by-product-faculty/) — PM Copilot: 65+ framework-grounded PM skills across 12 domains, 17 command-based workflows, and 8 specialized…
 - [omnuron/omniclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omnuron-omniclaw/) — The first agentic payment network: policy-controlled, gasless, and real money-ready. OmniClaw CLI + Financial…
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leqwin-monbooru/) — Self-hosted, booru-style gallery for a personal image collection
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-ai-engineering-interview-questions/) — Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
 - [Auriti-Labs/geo-optimizer-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/auriti-labs-geo-optimizer-skill/) — Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize…
 - [BehemothDream/Adobe-After-Effects](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/behemothdream-adobe-after-effects/) — 提供 Adobe After Effects 的相關資源和工具。

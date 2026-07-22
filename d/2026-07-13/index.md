@@ -117,7 +117,6 @@ _每日存檔 · 2026-07-13_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/) — Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
@@ -1033,7 +1032,6 @@ _每日存檔 · 2026-07-13_
 - [didilili/shopkeeper-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-shopkeeper-agent/) — 電商資料倉儲的智慧問答 AI 代理，結合 LangGraph、FastAPI 等技術實現自然語言生成 SQL 查詢。
 - [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — 將遊戲逆向工程、指標掃描和記憶體分析自動化，透過自然語言與 Cheat Engine 連線。
 - [CarverXx/jarvis-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carverxx-jarvis-v3/) — 具雙腦架構的本地語音助手，快速對話和工具呼叫功能。
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 - [ZeroLu/awesome-happy-horse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zerolu-awesome-happy-horse/) — Happy Horse 模型的社群整理提示、新聞、評估等資源中心，包含文字轉影片示範。
 - [puaclaw/PUAClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/puaclaw-puaclaw/) — 終將接管世界的 Claw 機器人。
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。

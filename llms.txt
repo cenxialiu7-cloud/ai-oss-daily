@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-07-21 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-07-22 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-07-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-22/)
 - [2026-07-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-21/)
 - [2026-07-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-20/)
 - [2026-07-19](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-19/)
@@ -26,15 +27,14 @@
 - [2026-07-11](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-11/)
 - [2026-07-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-10/)
 - [2026-07-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-09/)
-- [2026-07-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-08/)
 
 ## 今日精選 Today's picks
-- [openbmb/MiniCPM-RobotManip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-robotmanip/)
-- [Soofi-Project/Soofi-S-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/)
-- [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/)
-- [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/)
+- [reteetzad/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/)
+- [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/)
+- [Motif-Technologies/Motif-3-Beta](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/)
+- [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/)
+- [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/)
+- [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -79,3 +79,5 @@
 - [AI 答案引擎可見度雷達：持續追蹤品牌與對手在 AI 答案中的被引用聲量](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P040/)
 - [自架 AI 連接器與自動化閘道（Mac App／自架）：把 SaaS 一次接上任何 AI agent，省掉按人頭連接器月費](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P041/)
 - [事件預測市場研究台：把全球即時新聞轉成機率，對照 Polymarket 賠率找錯價（本機自架，人來下決定）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P042/)
+- [帳號矩陣分發中台：一支影片、一篇貼文 → 自動改寫成各平台原生版本並排程發到 N 個帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P043/)
+- [報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P044/)

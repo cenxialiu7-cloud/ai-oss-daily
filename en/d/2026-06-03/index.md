@@ -197,7 +197,7 @@ _Daily archive · 2026-06-03_
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/facebookresearch-vlm3/) — Official implementation of paper "VLM³: Vision Language Models Are Native 3D Learners".
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills-codex/) — Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfe…
 - [mteb/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mteb-leaderboard/) — · docker, leaderboard, region:us

@@ -127,7 +127,6 @@ _每日存檔 · 2026-07-14_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/) — Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1011,7 +1010,6 @@ _每日存檔 · 2026-07-14_
 - [soniqo/speech-swift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-swift/) — 適用於 Apple 裝置的 AI 語音工具包，支援語音識別、文字轉語音等功能。
 - [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — 將遊戲逆向工程、指標掃描和記憶體分析自動化，透過自然語言與 Cheat Engine 連線。
 - [ibm-research/AssetOpsBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ibm-research-assetopsbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 - [repowise-dev/claude-code-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repowise-dev-claude-code-prompts/) — 獨立撰寫的 AI 程式碼代理提示模板，涵蓋系統提示、工具提示等。
 - [rasbt/mini-coding-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rasbt-mini-coding-agent/) — 簡潔易懂的 Python 程式碼代理實現，解釋核心元件。
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abhi1693-openclaw-mission-control/) — 管理AI代理、分配任務並協調多代理合作的儀錶板。

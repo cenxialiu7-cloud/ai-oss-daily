@@ -4,5 +4,5 @@ OpenLoomi is an open-source AI coworker for builders who want local-first work m
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：683
+**Stars**：690
 **Source**：https://github.com/melandlabs/openloomi

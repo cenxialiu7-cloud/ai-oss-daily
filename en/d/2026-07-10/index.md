@@ -120,7 +120,6 @@ _Daily archive · 2026-07-10_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-m-1/) — text-generation · vllm, safetensors, laguna
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-razzzhf-realism-engine-ideogram-4/) — · license:unknown, region:us
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-10eros/) — · gradio, region:us
@@ -132,7 +131,7 @@ _Daily archive · 2026-07-10_
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kai-os-grug-12b/) — text-generation · transformers, safetensors, gemma4_unified
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-krea-2/) — · comfyui, license:other, region:us
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
-- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, region:us
+- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, not-for-all-audiences, region:us
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mradermacher-mythos-nano-i1-gguf/) — · transformers, gguf, reasoning
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
@@ -628,7 +627,7 @@ _Daily archive · 2026-07-10_
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A collection of agent skills for CAD, robotics and hardware design
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pineforge-4pass-pineforge-engine/) — Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juanjuandog-finsight-ai/) — AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, …
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：中文提示词、Tag 编辑、LoRA 管理、模型切换、图生图和生成参数控制。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 在 ComfyUI 里获得 WebUI 式提示词体验：中文翻译、Tag 自动补全、LoRA 管理、提示词市场和高级模块接入。
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/santanderai-linear-adapter-trainer/) — Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries (RAG).
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 - [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deusdata-codebase-memory-mcp/) — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average …
@@ -653,7 +652,7 @@ _Daily archive · 2026-07-10_
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [volcengine/SearchCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/volcengine-searchcli/) — Open CLI for integrating AI search, recommendation, and conversational retrieval into agent systems and busin…
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evanbacon-serve-sim/) — The `npx serve` of Apple Simulators.
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plan…
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thaolst-tara-bot/) — Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
@@ -710,7 +709,7 @@ _Daily archive · 2026-07-10_
 - [GammaLabTechnologies/harmonist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gammalabtechnologies-harmonist/) — Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yusufkaraaslan-skill-seekers/) — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d…
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cintellifusion-multiworld/) — Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K

@@ -11,5 +11,5 @@ AI 批量產內容、自動鋪設多站台，搶佔 Google 與 AI 引擎(被 Cha
 ## Open-source parts
 
 - [yaojingang/GEOFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geoflow/) — Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, …
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [addyosmani/agentic-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agentic-seo/) — Agentic SEO / Agentic Engine Optimization (AEO) tools

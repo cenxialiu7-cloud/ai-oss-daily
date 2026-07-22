@@ -14,7 +14,6 @@ _Daily archive · 2026-07-12_
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [muxuuu/serenity-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/muxuuu-serenity-skill/) — Serenity-inspired Agent Skill for supply-chain bottleneck stock research
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-crypto-arbitrage/) — Crypto arbitrage trading bot that detects triangular and cross-exchange opportunities, executes trades automa…
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leqwin-monbooru/) — Self-hosted, booru-style gallery for a personal image collection
 
 ## 🚀 Climbing
 
@@ -116,7 +115,6 @@ _Daily archive · 2026-07-12_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-m-1/) — text-generation · vllm, safetensors, laguna
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-razzzhf-realism-engine-ideogram-4/) — · license:unknown, region:us
@@ -132,7 +130,7 @@ _Daily archive · 2026-07-12_
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-flyrank-internship-warehouse/) — · language:en, license:other, size_categories:10M<n<100M
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-6/) — image-text-to-text · transformers, safetensors, minicpmv4_6
-- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, region:us
+- [Sneak-Moose/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-pro-realism-edit-studio/) — · gradio, not-for-all-audiences, region:us
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mradermacher-mythos-nano-i1-gguf/) — · transformers, gguf, reasoning
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-boogu-image/) — · comfyui, license:apache-2.0, region:us
@@ -647,7 +645,7 @@ _Daily archive · 2026-07-12_
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/k-dense-ai-scientific-agent-skills/) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists …
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juanjuandog-finsight-ai/) — AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, …
-- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — ComfyUI 的 WebUI 式提示词工作台：中文提示词、Tag 编辑、LoRA 管理、模型切换、图生图和生成参数控制。
+- [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 在 ComfyUI 里获得 WebUI 式提示词体验：中文翻译、Tag 自动补全、LoRA 管理、提示词市场和高级模块接入。
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
 - [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, S…
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
@@ -657,7 +655,7 @@ _Daily archive · 2026-07-12_
 - [repoprompt/repoprompt-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/repoprompt-repoprompt-ce/) — Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 - [hwdsl2/self-hosted-ai-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hwdsl2-self-hosted-ai-stack/) — Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLiv…
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plan…
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrischen667788-wind-comic/) — Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic story…
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kdan-pdf-kdan-pdf-mcp/) — Connect Claude and ChatGPT to KDAN PDF — upload, edit, compress, protect, redact, and compare PDFs in chat.
@@ -730,7 +728,7 @@ _Daily archive · 2026-07-12_
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egalano-build-a-skill/) — Interactive Skill that walks you through Anthropic's "Complete Guide to Building Skills for Claude" — ship a …
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
-- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [PatterAI/Patter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/patterai-patter/) — Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI ag…
@@ -948,7 +946,6 @@ _Daily archive · 2026-07-12_
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-gao-leanctx/) — Drop-in prompt compression for production LLM apps. Cut your token bill 40-60% without changing your code. Py…
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evomap-evolver/) — The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | e…
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leqwin-monbooru/) — Self-hosted, booru-style gallery for a personal image collection
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blockrunai-clawrouter/) — The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chaosrealmsai-gpt-image-2-gallery/) — AI image inspiration atlas · 3,800+ GPT-Image-2 works across 445 themes with full copy-paste prompts · MIT + …
 - [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datagouv-datagouv-mcp/) — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and ana…

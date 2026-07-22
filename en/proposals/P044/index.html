@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表 — AI OSS Daily</title>
+<meta name="description" content="把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P044/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P044/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P044/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P044/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P044/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表 — AI OSS Daily">
+<meta property="og:description" content="把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P044/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表 — AI OSS Daily">
+<meta name="twitter:description" content="把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表", "description": "把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。", "datePublished": "2026-07-21T08:00:00+00:00", "dateModified": "2026-07-21T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-07-21/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P044/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P044</p>
+  <h1>報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表</h1>
+  <p class="detail-lead">把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 3–4 週做出能跑的 MVP：資料源 MCP（試算表＋一個平台匯出檔）約 1 週，flint-chart 圖表規格產生與版型約 1 週，解讀文字的「只能引用查詢值」約束與事後對數驗算約 0.5–1 週，HTML／PDF 交付與排程寄送約 1 週。難點在資料清洗（客戶給的表格欄位每月都會變）與跨月欄位對齊，以及讓敘述文字與圖表數字保持一致。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①SaaS 月費：按「客戶數 × 每月報表數」分級，主客群是行銷代理商、記帳與顧問業；②Mac App 買斷：本機版直接連客戶的試算表或資料庫，資料不出機，適合合約有保密條款的顧問；③範本市集：電商月報、廣告投放月報、SaaS 營運月報等現成版型單次付費。公開的報表範本展示站掛 Adsterra／Monetag 網頁廣告並放 Ko-fi 贊助。廣告只放網頁端。</p></div>
+  <div class="panel"><h2>How it works</h2><p>livecontext-ai/livecontext-ce 當自動化骨架，用自然語言描述「每月 1 號拉上月資料、產出這幾張圖、寄給客戶」並生成可重跑的工作流程 → 用 modelcontextprotocol/python-sdk 把資料源（試算表、資料庫、各平台匯出檔）包成 MCP 工具，讓 agent 以查詢取數而不是憑印象生成數字 → microsoft/flint-chart 是本案關鍵：agent 只負責產出「圖表規格」，由 flint-chart 這個視覺化語言渲染成圖，避開 LLM 直接畫圖時常見的軸標錯置與數值對不上 → hf:model:zai-org/GLM-5.2 只負責寫解讀文字（變化幅度、可能原因、下月建議），並限制只能引用查詢回來的數值，產出後再對數驗證一次 → nexu-io/html-anything 把圖表與敘述排成可寄送的 HTML 報表或 PDF，套用客戶品牌色。與 P020（廣告投放管家）分工不同：P020 是進帳戶做投放優化，本案完全不碰帳戶設定，專做跨資料源的報表產出與交付。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/microsoft-flint-chart/">microsoft/flint-chart</a></h3>
+<p class="summary">🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,996</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/livecontext-ai-livecontext-ce/">livecontext-ai/livecontext-ce</a></h3>
+<p class="summary">The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflows, scoped AI agents, and small apps your team uses. Chat, Workflow, Agent and App on one canvas.</p>  <div class="cardmeta">
+    <span class="badge domain">🚀 Make Money</span>
+    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 107</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/nexu-io-html-anything/">nexu-io/html-anything</a></h3>
+<p class="summary">✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 7,889</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-zai-org-glm-5-2/">zai-org/GLM-5.2</a></h3>
+<p class="summary">text-generation · transformers, safetensors, glm_moe_dsa</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 23,679</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

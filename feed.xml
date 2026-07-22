@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
+<updated>2026-07-22T08:00:00+00:00</updated>
 <entry>
-<title>openbmb/MiniCPM-RobotManip</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-robotmanip/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-robotmanip/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>適用於機器人控制的轉換模型，支援視覺語言動作。</summary>
+<title>reteetzad/Kimi-K3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>Soofi-Project/Soofi-S-Base</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>基於轉換器的文本生成模型，專為主權AI設計。</summary>
+<title>poolside/Laguna-S-2.1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。</summary>
 </entry>
 <entry>
-<title>0xsline/OpenChatCut</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。</summary>
+<title>Motif-Technologies/Motif-3-Beta</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>Motif-3-Beta 是用於特徵抽取和混合專家系統的AI模型。</summary>
 </entry>
 <entry>
-<title>rohitg00/ai-engineering-from-scratch</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。</summary>
+<title>koala73/worldmonitor</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-21T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>thinkingmachines/Inkling</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</id>
+<updated>2026-07-22T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為純文本的對話式模型。</summary>
 </entry>
 </feed>

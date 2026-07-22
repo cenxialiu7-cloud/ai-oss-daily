@@ -125,7 +125,6 @@ _每日存檔 · 2026-07-17_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/) — Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — 基於 LoRA 技術生成影片，支援多角度合成。
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/) — 即時影片文字轉換工具，支援即時流媒體和影片理解。
@@ -1109,7 +1108,6 @@ _每日存檔 · 2026-07-17_
 - [zilliztech/mfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-mfs/) — 為AI代理提供統一的上下文管理介面，整合程式碼、檔案和資料庫。
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — 產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。
 - [omnuron/omniclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnuron-omniclaw/) — 一個自動代理支付網路，讓機器人安全快速地進行交易。
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-ai-engineering-interview-questions/) — AI 工程師面試題庫及答案，助你準備面試。
 - [Auriti-Labs/geo-optimizer-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/auriti-labs-geo-optimizer-skill/) — GEO 生成式引擎優化工具包：稽核、優化、讓網站被 AI 引擎引用。
 - [BehemothDream/Adobe-After-Effects](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdream-adobe-after-effects/) — 提供 Adobe After Effects 的相關資源和工具。

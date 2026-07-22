@@ -121,7 +121,6 @@ _每日存檔 · 2026-07-19_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/) — Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — 基於 LoRA 技術生成影片，支援多角度合成。
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
@@ -1138,7 +1137,6 @@ _每日存檔 · 2026-07-19_
 - [vasu-devs/JustHireMe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vasu-devs-justhireme/) — 本地化 AI 工作平臺，協助職位搜尋、匹配度評估和申請材料生成。
 - [suislanchez/polymarket-kalshi-weather-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/suislanchez-polymarket-kalshi-weather-bot/) — 多平臺預測市場交易機器人，基於 GFS 整合預報和比特幣微結構訊號進行交易。
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-sparkvsr/) — 透過稀疏關鍵幀傳播進行互動式影片超解析。
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。
 - [zilliztech/mfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-mfs/) — 為AI代理提供統一的上下文管理介面，整合程式碼、檔案和資料庫。

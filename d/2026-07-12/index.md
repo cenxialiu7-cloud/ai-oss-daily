@@ -14,7 +14,6 @@ _每日存檔 · 2026-07-12_
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [muxuuu/serenity-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muxuuu-serenity-skill/) — 供應鏈研究的 Serenity 源啟靈感代理技能。
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-crypto-arbitrage/) — 自動執行加密貨幣套利交易的機器人，包含歷史回測策略。
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 
 ## 🚀 Star 竄升
 
@@ -116,7 +115,6 @@ _每日存檔 · 2026-07-12_
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
-- [poolside/Laguna-M.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-m-1/) — Laguna-M.1 是一個基於 vllm 的文本生成模型，支援半精度運算。
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
@@ -948,7 +946,6 @@ _每日存檔 · 2026-07-12_
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-gao-leanctx/) — 用 Python SDK 壓縮提示語，減少 LLM 應用的代幣費用。
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runanywhereai-rcli/) — 本地裝置上的語音AI助手，無需雲端支援即可查詢檔案。
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evomap-evolver/) — 基於GEP的自我演進引擎，為AI代理提供可審計的演化。
-- [leqwin/monbooru](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leqwin-monbooru/) — 自建式 Booru 風格相簿，適用於個人圖片收藏管理。
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blockrunai-clawrouter/) — OpenClaw的LLM路由器，支援41+模型，低延遲路由。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。
 - [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — 官方資料.gov.fr的MCP伺服器，讓AI聊天機器人能直接對話探索法國開放資料平臺。

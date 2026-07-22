@@ -2,7 +2,7 @@
 
 修正過的 Qwen 對話模板（MLX／jinja）。
 
-**為何上榜**：HF trending 67 · 951 likes
+**為何上榜**：HF trending 61 · 959 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

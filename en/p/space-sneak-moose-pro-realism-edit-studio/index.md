@@ -1,6 +1,6 @@
 # Sneak-Moose/Pro-Realism-Edit-Studio
 
-· gradio, region:us
+· gradio, not-for-all-audiences, region:us
 
 **Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 
