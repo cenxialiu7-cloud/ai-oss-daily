@@ -12,4 +12,3 @@
 
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
-- [microsoft/Lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-lens/) — text-to-image · diffusers, safetensors, text-to-image

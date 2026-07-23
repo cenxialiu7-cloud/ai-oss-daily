@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>botAGI/AGmind-ML — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="Fine-tuned local RAG models. First: agmind-rag-splitter-ru — a Russian context-aware document splitter (T-lite-it-2.1 LoRA, distillation, GGUF, AMD Vulkan…">
+<meta name="description" content="Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистилляция от учителя → GGUF → llama.cpp на AMD Vu…">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/botagi-agmind-ml/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="botAGI/AGmind-ML — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="Fine-tuned local RAG models. First: agmind-rag-splitter-ru — a Russian context-aware document splitter (T-lite-it-2.1 LoRA, distillation, GGUF, AMD Vulkan…">
+<meta property="og:description" content="Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистилляция от учителя → GGUF → llama.cpp на AMD Vu…">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="botAGI/AGmind-ML — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="Fine-tuned local RAG models. First: agmind-rag-splitter-ru — a Russian context-aware document splitter (T-lite-it-2.1 LoRA, distillation, GGUF, AMD Vulkan…">
+<meta name="twitter:description" content="Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистилляция от учителя → GGUF → llama.cpp на AMD Vu…">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "botAGI/AGmind-ML", "description": "Fine-tuned local RAG models. First: agmind-rag-splitter-ru — a Russian context-aware document splitter (T-lite-it-2.1 LoRA, distillation, GGUF, AMD Vulkan). 100% valid JSON / boundary-F1@±1 0.821.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/botAGI/AGmind-ML", "license": "Apache-2.0", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 20, "bestRating": "5", "worstRating": "1"}, "keywords": "chunking, fine-tuning, gguf, llama-cpp, llm, lora, nlp, qwen, rag, russian"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "botAGI/AGmind-ML", "description": "Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистилляция от учителя → GGUF → llama.cpp на AMD Vulkan. Лицензии commercial-OK.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/botAGI/AGmind-ML", "license": "Apache-2.0", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 20, "bestRating": "5", "worstRating": "1"}, "keywords": "chunking, fine-tuning, gguf, llama-cpp, llm, lora, nlp, qwen, rag, russian"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "📚 RAG / Retrieval / Vector DB", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/rag/"}, {"@type": "ListItem", "position": 4, "name": "botAGI/AGmind-ML", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/"}]}</script>
 </head>
 <body>
@@ -44,7 +44,7 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/rag/">📚 RAG / Retrieval / Vector DB</a>  </p>
   <h1>botAGI/AGmind-ML</h1>
-<p class="detail-lead">Fine-tuned local RAG models. First: agmind-rag-splitter-ru — a Russian context-aware document splitter (T-lite-it-2.1 LoRA, distillation, GGUF, AMD Vulkan). 100% valid JSON / boundary-F1@±1 0.821.</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистилляция от учителя → GGUF → llama.cpp на AMD Vulkan. Лицензии commercial-OK.</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-ok">✓ Commercial OK</span>
 <span class="badge stars">★ 20</span><span class="badge">Python</span>  </div>

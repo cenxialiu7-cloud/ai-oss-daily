@@ -4,5 +4,5 @@ The full-stack TypeScript framework to build, test, and deploy production-ready 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,167
+**Stars**：1,166
 **Source**：https://github.com/nitrocloudofficial/nitrostack

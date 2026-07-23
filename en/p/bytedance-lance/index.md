@@ -11,5 +11,5 @@ A 3B-active-parameter native unified multimodal model for image and video unders
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,282
+**Stars**：1,287
 **Source**：https://github.com/bytedance/Lance

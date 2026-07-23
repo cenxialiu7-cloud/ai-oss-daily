@@ -4,5 +4,5 @@ An enterprise AI workspace for model routing, multimodal chat, files, tools, bil
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,049
+**Stars**：1,060
 **Source**：https://github.com/DEEIX-AI/DEEIX-Chat

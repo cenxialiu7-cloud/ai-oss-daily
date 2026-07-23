@@ -4,5 +4,5 @@ Code Mode inspired local sandboxed MCP Gateway - collapses N servers x M tools i
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：149
+**Stars**：150
 **Source**：https://github.com/postrv/forgemax

@@ -4,5 +4,5 @@ A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from L
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,718
+**Stars**：4,751
 **Source**：https://github.com/WenyuChiou/awesome-agentic-ai-zh

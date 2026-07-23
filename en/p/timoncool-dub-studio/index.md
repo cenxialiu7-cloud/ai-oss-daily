@@ -4,5 +4,5 @@ Free offline AI video dubbing studio for Windows — voice cloning, translation,
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：67
+**Stars**：70
 **Source**：https://github.com/timoncool/dub-studio

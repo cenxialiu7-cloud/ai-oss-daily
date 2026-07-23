@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
+<updated>2026-07-23T08:00:00+00:00</updated>
 <entry>
-<title>reteetzad/Kimi-K3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 <entry>
-<title>poolside/Laguna-S-2.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。</summary>
+<title>upstage/Solar-Open2-250B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。</summary>
 </entry>
 <entry>
-<title>Motif-Technologies/Motif-3-Beta</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>Motif-3-Beta 是用於特徵抽取和混合專家系統的AI模型。</summary>
+<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>Qwen多模態模型的無審核版本，支援影像和文本到文本的轉換。</summary>
 </entry>
 <entry>
-<title>koala73/worldmonitor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>Vibe-Trading（個人交易 Agent）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
+<title>ogulcancelik/herdr</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>在終端機中執行的AI代理多路復用器。</summary>
 </entry>
 <entry>
-<title>thinkingmachines/Inkling</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/</id>
-<updated>2026-07-22T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為純文本的對話式模型。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-07-23T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

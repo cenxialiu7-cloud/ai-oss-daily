@@ -4,5 +4,5 @@ Zero-dependency browser video editor that AI agents can drive — JSON timeline,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：490
+**Stars**：495
 **Source**：https://github.com/ronak-create/FableCut

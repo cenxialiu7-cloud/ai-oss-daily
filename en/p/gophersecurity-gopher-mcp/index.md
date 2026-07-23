@@ -1,6 +1,6 @@
 # GopherSecurity/gopher-mcp
 
-MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, observability and connectivity.
+C++ MCP SDK - build Model Context Protocol (MCP) servers and clients in C++ / CPP. Enterprise-grade security, observability, connectivity. Stdio, HTTP+SSE, Streamable HTTP, WebSocket, TCP transports. Bindings for Python, TypeScript, Go, Rust, Java, C#.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

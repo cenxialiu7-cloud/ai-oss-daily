@@ -4,5 +4,5 @@ The go-to web for your AI coding agent — local-first search, fetch, crawl & re
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,152
+**Stars**：3,445
 **Source**：https://github.com/KnockOutEZ/wigolo

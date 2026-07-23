@@ -4,5 +4,5 @@ Reverse engineer any repo into it's original prompt
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：1,231
+**Stars**：1,234
 **Source**：https://github.com/filiksyos/gitreverse
