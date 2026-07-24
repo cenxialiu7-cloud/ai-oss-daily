@@ -4,5 +4,5 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,903
+**Stars**：1,907
 **Source**：https://github.com/fikrikarim/parlor

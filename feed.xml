@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
+<updated>2026-07-24T08:00:00+00:00</updated>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>baseten/GLM-5.2-Vision-NVFP4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>圖文轉文字模型，支援多模態和對話功能。</summary>
 </entry>
 <entry>
-<title>upstage/Solar-Open2-250B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。</summary>
+<title>Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>影片去背及物件移除工具，適用於後期製作。</summary>
 </entry>
 <entry>
-<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>Qwen多模態模型的無審核版本，支援影像和文本到文本的轉換。</summary>
+<title>HuggingFaceCode/stack-v3-train</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>Graphify-Labs/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>ogulcancelik/herdr</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>在終端機中執行的AI代理多路復用器。</summary>
+<title>DeusData/codebase-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-23T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>baidu/Unlimited-OCR</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
+<updated>2026-07-24T08:00:00+00:00</updated>
+<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
 </entry>
 </feed>

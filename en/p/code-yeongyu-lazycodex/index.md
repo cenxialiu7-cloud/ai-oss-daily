@@ -4,5 +4,5 @@ The one and only agent harness for complex codebases. Project memory, planning, 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,910
+**Stars**：2,922
 **Source**：https://github.com/code-yeongyu/lazycodex

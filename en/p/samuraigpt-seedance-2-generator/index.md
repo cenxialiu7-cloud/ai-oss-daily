@@ -4,5 +4,5 @@ Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini vid
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：61
+**Stars**：63
 **Source**：https://github.com/SamurAIGPT/seedance-2-generator

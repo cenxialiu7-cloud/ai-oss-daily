@@ -4,5 +4,5 @@ Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; B
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,717
+**Stars**：2,720
 **Source**：https://github.com/deeplethe/forkd

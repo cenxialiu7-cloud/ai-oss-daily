@@ -4,5 +4,5 @@ Turn one topic into a finished Vox-style paper-collage explainer/ad video — au
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：355
+**Stars**：396
 **Source**：https://github.com/Alisa0808/vox-director

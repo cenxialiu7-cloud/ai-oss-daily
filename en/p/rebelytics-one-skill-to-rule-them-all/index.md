@@ -4,5 +4,5 @@ The meta-skill that builds and improves all your skills, including itself. Watch
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：1,193
+**Stars**：1,223
 **Source**：https://github.com/rebelytics/one-skill-to-rule-them-all

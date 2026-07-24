@@ -4,5 +4,5 @@ Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboar
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：301
+**Stars**：347
 **Source**：https://github.com/crawlseo/crawlseo
