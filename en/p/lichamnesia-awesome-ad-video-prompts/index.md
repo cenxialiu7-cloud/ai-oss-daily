@@ -4,5 +4,5 @@ Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kl
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：157
+**Stars**：158
 **Source**：https://github.com/LichAmnesia/awesome-ad-video-prompts

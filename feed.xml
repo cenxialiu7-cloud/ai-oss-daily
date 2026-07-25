@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
+<updated>2026-07-25T08:00:00+00:00</updated>
 <entry>
-<title>baseten/GLM-5.2-Vision-NVFP4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>圖文轉文字模型，支援多模態和對話功能。</summary>
+<title>microsoft/Mage-Flow-Edit-Turbo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>影像編輯模型，支援指令式編輯和影像轉換。</summary>
 </entry>
 <entry>
-<title>Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>影片去背及物件移除工具，適用於後期製作。</summary>
+<title>Kwaipilot/KAT-Coder-V2.5-Dev</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。</summary>
 </entry>
 <entry>
-<title>HuggingFaceCode/stack-v3-train</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>t-tech/t-search-blog</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-t-tech-t-search-blog/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-t-tech-t-search-blog/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)，關鍵字：agent、RAG（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>koala73/worldmonitor</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
 </entry>
 <entry>
-<title>DeusData/codebase-memory-mcp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deusdata-codebase-memory-mcp/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</summary>
+<title>KnockOutEZ/wigolo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>為AI程式設計代理設計的本地搜尋、抓取和研究平臺。</summary>
 </entry>
 <entry>
-<title>baidu/Unlimited-OCR</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/</id>
-<updated>2026-07-24T08:00:00+00:00</updated>
-<summary>百度的無限 OCR 技術，將影像轉換為文字。</summary>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
+<updated>2026-07-25T08:00:00+00:00</updated>
+<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
 </entry>
 </feed>
