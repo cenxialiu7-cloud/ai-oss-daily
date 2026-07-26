@@ -4,5 +4,5 @@ AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,886
+**Stars**：14,053
 **Source**：https://github.com/xbtlin/ai-berkshire

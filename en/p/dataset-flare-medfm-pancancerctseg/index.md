@@ -1,6 +1,6 @@
 # FLARE-MedFM/PancancerCTSeg
 
-· license:cc-by-nc-4.0, size_categories:10K<n<100K, library:datasets
+· license:cc-by-nc-4.0, size_categories:10K<n<100K, arxiv:2504.03600
 
 **Commercial license**：Non-commercial — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

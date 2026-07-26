@@ -2,9 +2,9 @@
 
 turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 
-**為何上榜**：近一日新增 73★（現 213★）
+**為何上榜**：近一日新增 23★（現 236★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：213
+**Stars**：236
 **原始連結**：https://github.com/drumih/turbo-fieldfare

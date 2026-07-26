@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
+<updated>2026-07-26T08:00:00+00:00</updated>
 <entry>
-<title>microsoft/Mage-Flow-Edit-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>影像編輯模型，支援指令式編輯和影像轉換。</summary>
+<title>owensong/Inflect-Micro-v2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>一個小型的本地語音合成模型，適用於邊緣裝置。</summary>
 </entry>
 <entry>
-<title>Kwaipilot/KAT-Coder-V2.5-Dev</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。</summary>
+<title>DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>經過特殊調整的影像文字轉換模型。</summary>
 </entry>
 <entry>
-<title>t-tech/t-search-blog</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-t-tech-t-search-blog/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-t-tech-t-search-blog/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)，關鍵字：agent、RAG（依標籤自動歸類，詳細看下方原文）</summary>
+<title>on-page-ai/geo-seo-superapp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。</summary>
 </entry>
 <entry>
-<title>koala73/worldmonitor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>KnockOutEZ/wigolo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>為AI程式設計代理設計的本地搜尋、抓取和研究平臺。</summary>
+<title>Vibe-Trading（個人交易 Agent）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-25T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-07-26T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

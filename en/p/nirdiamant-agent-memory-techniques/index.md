@@ -4,5 +4,5 @@ Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffe
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：813
+**Stars**：814
 **Source**：https://github.com/NirDiamant/Agent_Memory_Techniques
