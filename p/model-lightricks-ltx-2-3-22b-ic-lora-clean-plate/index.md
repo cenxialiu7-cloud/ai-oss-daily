@@ -2,7 +2,7 @@
 
 影片去背及物件移除工具，適用於後期製作。
 
-**為何上榜**：HF trending 72 · 74 likes
+**為何上榜**：HF trending 74 · 76 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
