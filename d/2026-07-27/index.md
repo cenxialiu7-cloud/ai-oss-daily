@@ -10,7 +10,6 @@ _每日存檔 · 2026-07-27_
 - [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuixin8-meiti-ai/) — AI 自媒體內容運營平臺，自動分發至多個社交平臺。
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autonomous-ai-autonomous-grid/) — 將現有電腦連線成 AI 內網進行推理和訓練。
 - [google-antigravity/antigravity-sdk-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-antigravity-antigravity-sdk-python/) — 用於構建使用 Google Antigravity 的 Python AI 代理庫。
-- [mercor/apex-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mercor-apex-agents/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Loklokguo/Pixelle-Video-HappyHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loklokguo-pixelle-video-happyhorse/) — AI 自動生成完整影片的引擎，無需 GPU 和專業技能。
 - [tddworks/baguette](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tddworks-baguette/) — 管理 iOS 模擬器並注入輸入指令。
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dwgx-windsurfapi/) — 將 Windsurf 的 AI 模型轉換為相容 OpenAI 等 API 的代理。
@@ -86,7 +85,6 @@ _每日存檔 · 2026-07-27_
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/) — 用於表格資料分類和回歸的 PyTorch 模型。
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1-nvfp4/) — 一個適用於對話生成的文本生成模型，具有高度自訂化的能力。
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
-- [reteetzad/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reteetzad-kimi-k3/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — NVIDIA的文本生成模型，適用於PyTorch環境。
 - [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/) — Qwen多模態模型的無審核版本，支援影像和文本到文本的轉換。
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/) — 將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。
@@ -109,7 +107,6 @@ _每日存檔 · 2026-07-27_
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — 基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/) — 基於Krea-2的影像編輯工具，適用於ComfyUI。
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k2-7-code/) — 影像轉文字的AI模型，支援多模態和壓縮張量。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — 無審核的 Gemma4 模型，支援多模式和程式碼生成。
@@ -798,7 +795,6 @@ _每日存檔 · 2026-07-27_
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/panniantong-agent-reach/) — 讓 AI 代理可以瀏覽整個網際網路，支援多平臺無費率 API 查詢。
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-zvec/) — 輕量級向量資料庫，適用於本地語意搜尋。
-- [ScaleAI/SWE-bench_Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-scaleai-swe-bench-pro/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
 - [RightNow-AI/AutoMegaKernel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-automegakernel/) — AutoMegaKernel 是一個自調優的 CUDA 巨核編譯器，適用於大型語言模型解碼。
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -834,7 +830,6 @@ _每日存檔 · 2026-07-27_
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-use-browser-harness/) — 自我修復的瀏覽器元件，讓LLMs完成任何任務。
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。
-- [mercor/apex-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mercor-apex-agents/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Loklokguo/Pixelle-Video-HappyHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loklokguo-pixelle-video-happyhorse/) — AI 自動生成完整影片的引擎，無需 GPU 和專業技能。
 - [Rohit-Dnath/RAMen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohit-dnath-ramen/) — 快速記憶體資料庫，專為AI設計，具備向量搜尋和MCP伺服器功能。
 - [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nidhinjs-prompt-master/) — 一個為任何 AI 工具生成精確提示的技能，確保零浪費。
@@ -884,7 +879,6 @@ _每日存檔 · 2026-07-27_
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
 - [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evanbacon-serve-sim/) — 用於 Apple 模擬器的無頭伺服器工具，類似 npx serve。
-- [allenai/olmOCR-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-olmocr-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ontos-AI/knowhere](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ontos-ai-knowhere/) — 提取、解析並輸出結構化資料供AI代理使用。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/philolabs-agentic-vbench/) — 評測 AI agent 能否完成真實影片後製任務的基準測試。

@@ -34,7 +34,6 @@ _Daily archive · 2026-06-17_
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
@@ -576,7 +575,7 @@ _Daily archive · 2026-06-17_
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pku-yuangroup-helios/) — Helios: Real Real-Time Long Video Generation Model
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sbhooley-ainativelang/) — AINL helps turn AI from "a smart conversation" into "a structured worker." It is designed for teams building …
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [axnoller32/AntiDetect-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axnoller32-antidetect-26/) — Multi Profile + ByPass + Free Prx + AI
 - [ebringelvissanchez/Image-AI-Generator-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ebringelvissanchez-image-ai-generator-2026/) — AI Image Generator is a powerful and user-friendly desktop application designed to help creators produce stun…
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexpospekhov-searchstack-aeo/) — Searchstack — Open-source AEO/GEO/SEO tech stack for AI-native founders. Monitor your visibility across Googl…
@@ -939,7 +938,7 @@ _Daily archive · 2026-06-17_
 - [elbruno/ElBruno.QwenTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elbruno-elbruno-qwentts/) — Qwen3-TTS ONNX export pipeline + C# .NET 10 console app for local voice generation
 - [itsjwill/vanta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/itsjwill-vanta/) — Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, video editor, ti…
 - [DojoCodingLabs/remotion-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dojocodinglabs-remotion-superpowers/) — 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/…
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [imbue-bit/Moses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-moses/) — 开放信号聚合ensemble框架。
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holo-q-comfy-api-liberation/) — Use your own API keys with ComfyUI. No account required.
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lyonzin-knowledge-rag/) — [knowledge-rag] - Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid sear…

@@ -62,7 +62,6 @@ _Daily archive · 2026-07-04_
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-tabfm-1-0-0-pytorch/) — tabular-classification · tabfm, safetensors, tabular
@@ -411,7 +410,7 @@ _Daily archive · 2026-07-04_
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
 - [HuggingAI4Engineering/CADGenBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingai4engineering-cadgenbench/) — · docker, leaderboard, modality:3d
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 18 tools. Works with Claude, GPT-4, or loc…
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
 - [seuksaedu-beep/Persona-Flow-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seuksaedu-beep-persona-flow-chat/) — Simulate AI Personas in Social Feeds with Real-Time Chat Bots 2026
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.
@@ -657,7 +656,6 @@ _Daily archive · 2026-07-04_
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joshua-zyy-academic-paper-writer/) — 面向 CS / AI / ML 领域的证据驱动、分节推进的论文写作 Agent Skill。
 - [shootthesound/comfyui-ReferenceLatentPlus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-comfyui-referencelatentplus/) — Improved ReferenceLatent for ComfyUI — per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image i…
 - [zoyluoblue/mc_aiplayer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zoyluoblue-mc-aiplayer/) — Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek /…
-- [ScaleAI/SWE-bench_Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scaleai-swe-bench-pro/) — · benchmark:official, benchmark:eval-yaml, size_categories:n<1K
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/felixmelanson-quantdrift/) — WIP; Tracking 7 AI models as they pilot live stock portfolios using distinct, data-driven philosophies.
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-system/) — A complete collection of RAG interview questions, answers (512 questions & 41 RAG types), system design scena…
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
@@ -704,7 +702,6 @@ _Daily archive · 2026-07-04_
 - [cutemarkets/cutebacktests](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cutemarkets-cutebacktests/) — Backtesting framework for modern option strategies
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brokermr810-quantdinger/) — AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, a…
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0
-- [allenai/olmOCR-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-olmocr-bench/) — · benchmark:official, benchmark:eval-yaml, language:en
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfe…
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0share/) — A 股、期货、期权数据本地化管道：Tushare Pro 拉取 → Parquet 分区存储 → DuckDB 本地查询，支持增量同步与定时调度
 - [mirkobozzetto/flowflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkobozzetto-flowflow/) — Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
@@ -720,7 +717,7 @@ _Daily archive · 2026-07-04_
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuanzhongqiao-printfilm/) — 短剧平台 AI Short Film Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zarazhangrui-personalized-podcast/) — Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and…
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pengrambo3-tech-zeushammer/) — ZeusHammer - AI Super Agent with Local Brain, Voice Interaction & Three-Tier Memory
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/osaurus-ai-osaurus/) — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cr…
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vybenetwork-solana-mcp-vybe/) — Public Solana MCP registry metadata for Vybe Solana API
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frank-ay-mimo-mcp/) — 把小米 MiMo 全模态能力(对话/图像/视频/TTS/声音克隆)封装成 stdio MCP Server,Claude Code 与 Codex 可直接调用
@@ -1195,7 +1192,7 @@ _Daily archive · 2026-07-04_
 - [dan-k-k/vocal-gate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dan-k-k-vocal-gate/) — Free real-time AI Noise Gate VST3/AU plugin. Removes coughs, sneezes, and other artifacts from your live stre…
 - [yshishenya/stitchflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yshishenya-stitchflow/) — StitchFlow turns prompts into UI directions, Tailwind-friendly HTML, and screenshots across Codex, Claude Cod…
 - [radcrew/radcrew-unveiled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/radcrew-radcrew-unveiled/) — RadCrew.org website with LLM-powered chatbot
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [Rezzecup/whale-wallet-mirror-copy-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rezzecup-whale-wallet-mirror-copy-trader/) — On-chain copy trading engine for Base & Solana — monitors Smart Money wallets and mirrors their swaps instant…
 - [itsjwill/vanta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/itsjwill-vanta/) — Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, video editor, ti…
 - [iron-mukakin/Emoji-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/iron-mukakin-emoji-tts/) — Irodori-TTSのフォーク、echo-TTSのwebuiになります。

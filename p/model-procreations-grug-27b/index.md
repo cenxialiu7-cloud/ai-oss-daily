@@ -1,0 +1,10 @@
+# ProCreations/grug-27b
+
+文本生成模型，具備推理和工具使用能力。
+
+**為何上榜**：HF trending 66 · 66 likes · 1,083 下載
+
+**商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
+
+**Stars**：0
+**原始連結**：https://huggingface.co/ProCreations/grug-27b

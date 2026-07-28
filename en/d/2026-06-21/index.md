@@ -42,7 +42,6 @@ _Daily archive · 2026-06-21_
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
@@ -591,7 +590,6 @@ _Daily archive · 2026-06-21_
 - [Stonewuu/ai-fusion-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stonewuu-ai-fusion-video/) — 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alvinreal-awesome-opensource-ai/) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [activeloopai/hivemind](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeloopai-hivemind/) — Hivemind turns your traces into reusable skills across agents
-- [ScaleAI/SWE-bench_Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scaleai-swe-bench-pro/) — · benchmark:official, benchmark:eval-yaml, size_categories:n<1K
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mnfst-awesome-free-llm-apis/) — List of Permanent Free LLM API (API Keys)
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-gao-leanctx/) — Drop-in prompt compression for production LLM apps. Cut your token bill 40-60% without changing your code. Py…
 - [tanweai/pua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tanweai-pua/) — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 3…
@@ -607,7 +605,7 @@ _Daily archive · 2026-06-21_
 - [ling-0729/KHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ling-0729-khunter/) — KHunter 是一套开箱即用的A股量化交易系统，集数据管理、策略选股、择时交易、风险控制、回测验证于一体，为个人投资者提供从数据到交易的全流程量化解决方案。
 - [ZeroLu/awesome-happy-horse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zerolu-awesome-happy-horse/) — Happy Horse 1.0 - Community-curated prompts, news, benchmarks, prompts and sample outputs for the Happy Horse…
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/taco-group-sparkvsr/) — [ECCV 2026] SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [heygen-com/heygen-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-heygen-cli/) — Create AI videos from the terminal. Official CLI for the HeyGen video generation API.
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/voltagent-awesome-codex-subagents/) — A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsanei-darwinia/) — The Self-Evolving Agent Ecosystem — Trading agents that evolve through Darwinian selection and adversarial se…
@@ -1000,7 +998,7 @@ _Daily archive · 2026-06-21_
 - [DojoCodingLabs/remotion-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dojocodinglabs-remotion-superpowers/) — 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/…
 - [undead-undead/AIMAXXING](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/undead-undead-aimaxxing/) — Your Very Own Agent: The Ultimate, Complete Edition
 - [augiemazza/varrd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/augiemazza-varrd/) — AI-powered trading research platform. Test any idea on stocks, futures, and crypto with event studies, backte…
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [imbue-bit/Moses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-moses/) — 开放信号聚合ensemble框架。
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holo-q-comfy-api-liberation/) — Use your own API keys with ComfyUI. No account required.
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lyonzin-knowledge-rag/) — [knowledge-rag] - Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid sear…

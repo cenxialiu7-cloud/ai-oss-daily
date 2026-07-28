@@ -35,7 +35,6 @@ _Daily archive · 2026-06-18_
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
 - [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-magenta-realtime-2/) — text-to-audio · magenta-realtime-2, tflite, text-to-audio
@@ -588,7 +587,7 @@ _Daily archive · 2026-06-18_
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miasyster-quantgpt/) — Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN
 - [axnoller32/AntiDetect-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axnoller32-antidetect-26/) — Multi Profile + ByPass + Free Prx + AI
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pku-yuangroup-helios/) — Helios: Real Real-Time Long Video Generation Model
@@ -958,7 +957,7 @@ _Daily archive · 2026-06-18_
 - [itsjwill/vanta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/itsjwill-vanta/) — Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, video editor, ti…
 - [DojoCodingLabs/remotion-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dojocodinglabs-remotion-superpowers/) — 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/…
 - [elbruno/ElBruno.QwenTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elbruno-elbruno-qwentts/) — Qwen3-TTS ONNX export pipeline + C# .NET 10 console app for local voice generation
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [imbue-bit/Moses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-moses/) — 开放信号聚合ensemble框架。
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holo-q-comfy-api-liberation/) — Use your own API keys with ComfyUI. No account required.
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lyonzin-knowledge-rag/) — [knowledge-rag] - Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid sear…

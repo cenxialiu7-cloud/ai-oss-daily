@@ -4,7 +4,6 @@ _Daily archive · 2026-06-13_
 
 ## 🆕 New
 
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
@@ -16,6 +15,7 @@ _Daily archive · 2026-06-13_
 - [AdamBien/lightmetal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adambien-lightmetal/) — Apple Silicon mlx with Zero Dependency Java
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-hands-on-modern-rl/) — 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and adv…
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughyau-qiushi-skill/) — 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the…
+- [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
 
 ## 🚀 Climbing
 
@@ -43,7 +43,6 @@ _Daily archive · 2026-06-13_
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-misolabs-misotts/) — text-to-speech · pytorch, safetensors, text-to-speech
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — text-to-image · diffusers, safetensors, ternary
@@ -537,7 +536,7 @@ _Daily archive · 2026-06-13_
 - [adam-s/alphadidactic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adam-s-alphadidactic/) — An iteration research agent: searches academic research, applies it to time series data, and probes it to fin…
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vernonoy-alpha-skills/) — Quantitative factor research skills for AI coding assistants
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendemon-pilipili-autovideo/) — 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ashutosh0x-rust-finance/) — A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 - [PMZFX/intel-arc-pro-b70-benchmarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pmzfx-intel-arc-pro-b70-benchmarks/) — Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video …
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prismer-ai-prismercloud/) — Prismer Cloud
@@ -879,7 +878,7 @@ _Daily archive · 2026-06-13_
 - [MakazhanAlpamys/Soup](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/makazhanalpamys-soup/) — Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done.
 - [itsjwill/vanta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/itsjwill-vanta/) — Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, video editor, ti…
 - [DojoCodingLabs/remotion-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dojocodinglabs-remotion-superpowers/) — 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/…
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [clawdata/clawdata](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/clawdata-clawdata/) — Your own personal data engineer for OpenClaw.
 - [imbue-bit/Moses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-moses/) — 开放信号聚合ensemble框架。
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holo-q-comfy-api-liberation/) — Use your own API keys with ComfyUI. No account required.

@@ -51,7 +51,6 @@ _Daily archive · 2026-06-15_
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
-- [moonshotai/Kimi-K2.7-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k2-7-code/) — image-text-to-text · transformers, safetensors, kimi_k25
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
@@ -548,7 +547,7 @@ _Daily archive · 2026-06-15_
 - [tsensei/OpenReels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tsensei-openreels/) — Open-source AI pipeline that turns any topic into a publish-ready YouTube/Instagram/TikTok Short — research, …
 - [every-app/open-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/every-app-open-seo/) — Open source alternative to Semrush and Ahrefs
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/productfculty-aipm-pm-copilot-by-product-faculty/) — PM Copilot: 65+ framework-grounded PM skills across 12 domains, 17 command-based workflows, and 8 specialized…
-- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Lightweight, open-source AI agent for your tools, chats, and workflows.
+- [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [gudaochangsheng/RefAlign](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gudaochangsheng-refalign/) — [ECCV 2026] Official PyTorch implementation of RefAlign: Representation Alignment for Reference-to-Video Gene…
 - [amitshekhariitbhu/ai-engineering-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-ai-engineering-interview-questions/) — Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/markbrezina-ctrl-alt-defeatthemarket/) — An unofficial guide to IMC Prosperity algorithmic trading
@@ -901,7 +900,7 @@ _Daily archive · 2026-06-15_
 - [modl-org/modl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modl-org-modl/) — Local-first AI image generation toolkit. Pull models, train LoRAs, generate images. One CLI, no glue code.
 - [itsjwill/vanta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/itsjwill-vanta/) — Open source AI video engine built on Remotion. Voice cloning, AI avatars, animated captions, video editor, ti…
 - [DojoCodingLabs/remotion-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dojocodinglabs-remotion-superpowers/) — 🎬 Claude Code plugin — full video production studio for Remotion. AI voiceovers, music, stock footage, image/…
-- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 6 • pgvector • bun
+- [laguagu/claude-code-nextjs-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laguagu-claude-code-nextjs-skills/) — Claude Code skills for AI apps • Next.js 16 • AI SDK 7 • pgvector • bun
 - [imbue-bit/Moses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-moses/) — 开放信号聚合ensemble框架。
 - [holo-q/comfy-api-liberation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holo-q-comfy-api-liberation/) — Use your own API keys with ComfyUI. No account required.
 - [marswangyang/personal-ai-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marswangyang-personal-ai-memory/) — A local-first Chrome extension that passively captures ChatGPT, Gemini, Claude, Grok, Perplexity conversation…

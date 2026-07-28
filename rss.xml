@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>27 Jul 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>28 Jul 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>unstonio/pixelgpt-24x24-20k</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-unstonio-pixelgpt-24x24-20k/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-unstonio-pixelgpt-24x24-20k/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>moonshotai/Kimi-K3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>圖文轉文字模型，支援對話和特徵抽取。</description>
 </item>
 <item>
-<title>Fangx-AI/cut-director</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。</description>
+<title>microsoft/VibeVoice-ASR-BitNet</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，適用於 CPU 推論。</description>
 </item>
 <item>
-<title>SeedOfEvil/Pro-Realism-Edit-Studio</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>wassgha/rescript</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>基於字幕的線上影音編輯器。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>koala73/worldmonitor</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>27 Jul 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
+<pubDate>28 Jul 2026 08:00:00 +0000</pubDate>
+<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
 </item>
 </channel>
 </rss>
