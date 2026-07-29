@@ -363,7 +363,6 @@ _每日存檔 · 2026-06-08_
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS外掛，支援30種語言和音訊設計。
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaaiyun-joinquant-skill/) — 在 JoinQuant 平台生成量化策略碼的 AI agent skill（Cursor／Claude）。
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavegemma/) — 將Gemma 4模型微調為原始人風格的語音。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — 用於程式設計代理的Chrome開發者工具外掛。
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devnen-qwen3-6-windows-server/) — Windows上的一鍵式Qwen3.6-27B推理部署，無需WSL或Docker。
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayoubnabil-aiondb/) — 一個從頭開始用 Rust 製作的相容 PostgreSQL 的 SQL、圖形和向量資料庫。

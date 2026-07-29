@@ -762,7 +762,6 @@ _每日存檔 · 2026-07-15_
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bladedevoff-studiomi300/) — 導演 agent＋視覺評審＋圖像/影片/音樂/語音模型，全跑在單張 AMD Instinct。
 - [GammaLabTechnologies/harmonist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gammalabtechnologies-harmonist/) — 行動式AI代理協調系統，無執行時依賴。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

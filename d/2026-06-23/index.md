@@ -572,7 +572,6 @@ _每日存檔 · 2026-06-23_
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beever-ai-beever-atlas/) — 第一個大型語言模型維基對話知識庫。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。
 - [DozaVisuals/doza-assist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozavisuals-doza-assist/) — 從剪輯中學習風格，協助轉換訪談片段為粗略剪輯的AI助手。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [Arthur-Ficial/apfel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arthur-ficial-apfel/) — Mac 上免費的 AI 工具，包含 CLI 和 OpenAI 相容伺服器。
 - [wquguru/harness-books](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wquguru-harness-books/) — 兩本關於 Claude Code 和 Codex 的設計哲學書籍，涵蓋約束、查詢迴圈等。

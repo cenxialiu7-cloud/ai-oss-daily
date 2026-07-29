@@ -30,14 +30,13 @@
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/) — 影像編輯模型，支援指令式編輯和影像轉換。
+- [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/) — 自動語音辨識模型，適用於 CPU 推論。
 - [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/) — 一個小型的本地語音合成模型，適用於邊緣裝置。
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — 即時語音識別系統，支援多語言。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
-- [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/) — 自動語音辨識模型，適用於 CPU 推論。
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-soundeffect-v2-0/) — 將文本轉換為音訊的擴散模型，適用於聲音效果和語音合成。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
-- [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 - [ARSreg46/Ai-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arsreg46-ai-image-generator/) — 從文字提示生成 AI 圖片的桌面應用程式，整合多個繪畫 API。
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
@@ -51,12 +50,13 @@
 - [QualityBlock/stable-diffusion-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qualityblock-stable-diffusion-ai/) — 使用穩定擴散模型的AI工具包，從文字提示生成影像。
 - [joeseesun/qiaomu-cut-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/) — 智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。
 - [Robbyant/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robbyant-lingbot-video/) — 一種基於混合專家的影片預訓練方法，適用於具身智慧。
-- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/martindelophy-ai-video-editor/) — ai-video-editor 是一個基於瀏覽器的AI影片編輯器，支援ONNX語音旁白等功能。
-- [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
+- [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackmixture-mix-studio/) — 基於ComfyUI的清潔響應式AI工作空間，適用於桌面和手機。
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
+- [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
+- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/martindelophy-ai-video-editor/) — ai-video-editor 是一個基於瀏覽器的AI影片編輯器，支援ONNX語音旁白等功能。
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
+- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio的工作流程指南，包括色彩校正和交付設定。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

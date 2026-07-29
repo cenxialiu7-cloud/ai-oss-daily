@@ -542,7 +542,6 @@ _每日存檔 · 2026-06-20_
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — 將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xpzouying-xiaohongshu-mcp/) — 小紅書的MCP伺服器。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [JuneYaooo/awesome-ai-media-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juneyaooo-awesome-ai-media-cn/) — 收集150多個AI影片製作和自媒體運營工具的列表。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaaiyun-joinquant-skill/) — 在 JoinQuant 平台生成量化策略碼的 AI agent skill（Cursor／Claude）。

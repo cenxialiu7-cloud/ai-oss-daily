@@ -4,5 +4,5 @@ Model Context Protocol Servers
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：88,961
+**Stars**：88,997
 **Source**：https://github.com/modelcontextprotocol/servers

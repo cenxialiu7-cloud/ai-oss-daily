@@ -818,7 +818,6 @@ _每日存檔 · 2026-07-23_
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pineforge-4pass-pineforge-engine/) — 確定性 PineScript v6 回測執行時，與 TradingView 對比驗證。
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
 - [repoprompt/repoprompt-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoprompt-repoprompt-ce/) — RepoPrompt 社群版：為 AI 程式碼代理提供上下文工程的 macOS 原生應用。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wantongc-journal-adapt-writing-skill/) — 根據期刊文章學習寫作規範並修改手稿以匹配特定格式。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

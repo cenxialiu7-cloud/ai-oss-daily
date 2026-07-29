@@ -625,7 +625,6 @@ _每日存檔 · 2026-06-26_
 - [jiuhuang-asset/jh_quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiuhuang-asset-jh-quant/) — 開源量化交易平台，兼容 akshare/tushare，含回測引擎/因子模型/實盤/儀表盤。
 - [JuneYaooo/awesome-ai-media-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juneyaooo-awesome-ai-media-cn/) — 收集150多個AI影片製作和自媒體運營工具的列表。
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS外掛，支援30種語言和音訊設計。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guoguo-tju-agent-java-offer/) — 公開的 Java 後端 / AI 代理 / 系統設計 / 面試複習資料庫。
 - [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-fizgig/) — Flux 2 Klein 9B LoRA 工作室：訓練/profile/修復/抽取 LoRA。
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaaiyun-joinquant-skill/) — 在 JoinQuant 平台生成量化策略碼的 AI agent skill（Cursor／Claude）。

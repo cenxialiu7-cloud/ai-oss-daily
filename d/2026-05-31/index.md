@@ -214,7 +214,6 @@ _每日存檔 · 2026-05-31_
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flowelement-ai-m-flow/) — 生物啟發式認知記憶引擎，適用於圖形 RAG 的新方法。
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sipeter-clonetts/) — 輕量級離線Android文字轉語音引擎，支援系統級全域性聽書。
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackwener-opencli/) — 將網站轉換為命令列介面，並使用AI代理登入瀏覽器。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。
 - [lintsinghua/claude-code-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lintsinghua-claude-code-book/) — 深入剖析Claude Code架構的42萬字電子書，解析AI Agent的骨架與神經。
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devnen-qwen3-6-windows-server/) — Windows上的一鍵式Qwen3.6-27B推理部署，無需WSL或Docker。

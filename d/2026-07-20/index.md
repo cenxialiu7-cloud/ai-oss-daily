@@ -790,7 +790,6 @@ _每日存檔 · 2026-07-20_
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/poechant-davinci-resolve-cli/) — 用於控制 DaVinci Resolve 專案、媒體等的命令列工具。
 - [Ontos-AI/knowhere](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ontos-ai-knowhere/) — 提取、解析並輸出結構化資料供AI代理使用。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。

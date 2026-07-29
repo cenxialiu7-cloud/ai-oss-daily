@@ -21,14 +21,15 @@
 - [mobilesitebytim/Forex-Trend-Dashboard-Engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mobilesitebytim-forex-trend-dashboard-engine/) — 機構趨勢分類器及多資產態勢儀錶板引擎。
 - [Syed-Imran88/MT5-Exposure-Mesh-Analyzer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syed-imran88-mt5-exposure-mesh-analyzer/) — MetaTrader 平臺的最佳多資產相關性熱圖分析工具。
 - [Nguyen-Phu-Cuong/Matrix-Confluence-Scorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nguyen-phu-cuong-matrix-confluence-scorer/) — 多時間框架的市場結構分析工具，適用於 MetaTrader 5。
+- [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [Wendy-Bay/PropFirm-Tracker-Elite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wendy-bay-propfirm-tracker-elite/) — 專為 Prop Fund 管理設計的多功能交易追蹤系統。
 - [majoudeh/Portfolio-Pulse-Blogger-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/majoudeh-portfolio-pulse-blogger-templates/) — 專業網站的最佳投資組合 Blogger 模板集。
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youcefbibo53-propguard-trailing-equity-armor/) — 提供自動化交易策略，保護資金管理者的風險。
 - [bipbopcompany-droid/Risk-Nexus-Command](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bipbopcompany-droid-risk-nexus-command/) — 多帳戶風險控制系統，具備全球資金保護功能。
 - [peridotfoundation/MT5-Directional-Flow-Dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/peridotfoundation-mt5-directional-flow-dashboard/) — 即時提供外匯和 CFD 交易的趨勢方向訊號。
-- [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronesfe-polymarket-automated-trading-bot/) — Polymarket 預測市場自動交易機器人，支援 4 種策略、可選 AI。
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travisun-opptrix/) — 大模型驅動的投研助手，支援因子篩選、回測等功能。
+- [rootSunc/ashare-lake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rootsunc-ashare-lake/) — 提供全面的量化資料，涵蓋A股行情、大宗期貨、基本面等多種金融資訊。
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mars-tw-anti-gambling-trader-tw/) — 免費的投資防詐工具，提供交易統計與自動化交易功能。
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-swap-api/) — Solana交換API及路由器。
@@ -42,11 +43,11 @@
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantjourneyorg-quantjourney-bt/) — 量化交易回測引擎。
 - [simonlin1212/TradingAgents-astock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonlin1212-tradingagents-astock/) — 基於AI的A股投資研究框架，適配多個資料來源和分析師。
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。
-- [hello245m/free-stockdb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hello245m-free-stockdb/) — 面向A股的日K線和分鐘級資料本地量化引擎，具備增量同步與回測功能。
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/) — 透過強型態 GP 和 GFlowNet 搜尋進行公式化 alpha 礦採。
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [FloorCommander/MultiCharts-Advanced-Backtesting-Premium](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/floorcommander-multicharts-advanced-backtesting-premium/) — 提供完整版本策略開發與回測功能的量化交易平臺。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
+- [hello245m/free-stockdb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hello245m-free-stockdb/) — 面向A股的日K線和分鐘級資料本地量化引擎，具備增量同步與回測功能。
 - [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — 用於PolyMarket套利交易的Python機器人。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。
@@ -58,5 +59,4 @@
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbue-bit-ns-ntk/) — 非穩態神經網路理論，適用於量化金融中的連續分佈變換。
 - [Jsoned/autowealth-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/) — 多代理機器人投資分析引擎，提供加密貨幣和財務分析。
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shurikentrade-shuriken-skills/) — 適用於 Shuriken 平臺的 AI 交易技能集。
-- [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nai-he-fund-analysis-agent/) — 基金資料收集與 AI 分析工具，支援多源資料和風險評估。
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。

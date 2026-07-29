@@ -832,7 +832,6 @@ _每日存檔 · 2026-07-25_
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [wickra-lib/wickra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wickra-lib-wickra/) — 基於Rust核心的技術指標流式處理框架，支援多種語言元件，適用於演算法交易。
 - [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 提供 ComfyUI 的 WebUI 式提示詞編輯和 LoRA 瀏覽功能。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。

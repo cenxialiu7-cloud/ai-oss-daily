@@ -449,7 +449,6 @@ _每日存檔 · 2026-06-14_
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayoubnabil-aiondb/) — 一個從頭開始用 Rust 製作的相容 PostgreSQL 的 SQL、圖形和向量資料庫。
 - [mvanhorn/cli-printing-press](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mvanhorn-cli-printing-press/) — 將API轉換為強大的CLI工具，專門設計給AI代理程式使用。
 - [oliviazzzu/minimal-embodiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oliviazzzu-minimal-embodiment/) — 讓大型語言模型具備閉環物理實體和自我感知迴圈的最小硬體軟體架構。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teknium-openhermes-2-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。

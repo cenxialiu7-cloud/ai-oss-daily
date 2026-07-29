@@ -670,7 +670,6 @@ _每日存檔 · 2026-07-01_
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dottedsign-official-dottedsign-mcp/) — DottedSign MCP server，讓 AI 助手管理電子簽署任務。
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-ace-step-studio/) — 行動式 AI 歌曲生成器，可製作完整歌曲和音樂影片，離線執行。
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/constellation-engine-constellation-engine/) — Constellation Engine 讓AI代理擁有記憶功能，持續與使用者互動。
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuanzhongqiao-printfilm/) — AI 短劇生成平臺，用於動畫和影片製作。

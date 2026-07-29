@@ -1,6 +1,6 @@
 # AI OSS Daily — Today's Picks
 
-_Last updated: 2026-07-28 09:05 CST_
+_Last updated: 2026-07-29 09:05 CST_
 
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/illiahaidar-mcptrustchecker/) — Security scanner for MCP (Model Context Protocol) servers — reads the real published npm/PyPI source, not jus…
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
@@ -10,8 +10,8 @@ _Last updated: 2026-07-28 09:05 CST_
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/) — The official Python SDK for Model Context Protocol servers and clients
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-open-code-review/) — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pi…
-- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the des…
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayghri-i-have-adhd/) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-open-design/) — 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the des…
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skillopt/) — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through…
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
@@ -28,13 +28,13 @@ _Last updated: 2026-07-28 09:05 CST_
 - [robinhood-ape/robinhood-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/robinhood-ape-robinhood-sniper-bot/) — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sell…
 - [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/growthack88-growth-marketing-os/) — Growth Marketing OS | Mahmoud Omar — open-source AI marketing prompts, Claude skills, agents & growth playboo…
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/on-page-ai-geo-seo-superapp/) — Free macOS workspace for SEO and GEO agencies
-- [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
+- [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
 - [eight-acres-lab/skillplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eight-acres-lab-skillplus/) — A compilable skill package standard for reliable content-generation agents.
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [prefeitura-rio/Rio-3.5-Open-397B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prefeitura-rio-rio-3-5-open-397b/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
-- [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1/) — text-generation · transformers, safetensors, laguna
+- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
+- [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text

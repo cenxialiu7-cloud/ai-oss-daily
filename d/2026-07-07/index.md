@@ -706,7 +706,6 @@ _每日存檔 · 2026-07-07_
 - [zhou343-de/easyup-platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhou343-de-easyup-platform/) — AI 量化交易系統，提供選股、風控和盯盤功能。
 - [openmelon（多模態內容創作 runtime）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-openmelon/) — 可重現的多模態內容創作 agent 執行環境。
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — 面向電腦科學、AI 和 ML 領域的論文寫作代理技能。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

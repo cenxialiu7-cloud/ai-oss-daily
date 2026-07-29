@@ -281,7 +281,7 @@ _Daily archive · 2026-06-11_
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills-codex/) — Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rockeycoss-leapalign-code/) — [CVPR2026] LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajecto…
@@ -403,7 +403,6 @@ _Daily archive · 2026-06-11_
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ogulcancelik-herdr/) — agent multiplexer that lives in your terminal.
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [lintsinghua/claude-code-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lintsinghua-claude-code-book/) — 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网…
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [amitshekhariitbhu/llm-internals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-llm-internals/) — Learn LLM internals step by step - from tokenization to attention to inference optimization.
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devnen-qwen3-6-windows-server/) — One-click Qwen3.6-27B inference on Windows. 158 tok/s on RTX 5090, 72 tok/s on RTX 3090. Native, no WSL, no D…

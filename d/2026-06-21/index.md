@@ -559,7 +559,6 @@ _每日存檔 · 2026-06-21_
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — 將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beever-ai-beever-atlas/) — 第一個大型語言模型維基對話知識庫。
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — 為主動型AI代理設計的記憶系統，提供結構化儲存和意圖捕捉功能。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-fleurs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaaiyun-joinquant-skill/) — 在 JoinQuant 平台生成量化策略碼的 AI agent skill（Cursor／Claude）。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。

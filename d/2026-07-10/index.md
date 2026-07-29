@@ -735,7 +735,6 @@ _每日存檔 · 2026-07-10_
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [backblaze-labs/genblaze](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/backblaze-labs-genblaze/) — 跨影片、音訊和影像供應商生成 AI 媒體管道的 Python SDK。
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。

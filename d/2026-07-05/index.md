@@ -687,7 +687,6 @@ _每日存檔 · 2026-07-05_
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-hands-on-modern-rl/) — 從基本RL概念到LLM對齊的手動實踐教程。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
 - [AlayaLab/AlayaRenderer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alayalab-alayarenderer/) — 面向遊戲與虛擬世界的AI原生渲染引擎。
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。

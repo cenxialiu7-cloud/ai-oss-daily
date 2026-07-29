@@ -247,7 +247,7 @@ _Daily archive · 2026-06-08_
 - [bestpracticaI/kalshi-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bestpracticai-kalshi-ai-trading-bot/) — Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA si…
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saurabhv749-supertonic3-voice-clone/) — Train voice styles for Supertone/supertonic-3 model.
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A collection of agent skills for CAD, robotics and hardware design
@@ -363,7 +363,6 @@ _Daily archive · 2026-06-08_
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz audio, and LoRA training
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaaiyun-joinquant-skill/) — AI agent skill for generating quantitative strategy code on JoinQuant platform - Cursor / Claude Code compati…
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/) — Chrome DevTools for coding agents
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devnen-qwen3-6-windows-server/) — One-click Qwen3.6-27B inference on Windows. 158 tok/s on RTX 5090, 72 tok/s on RTX 3090. Native, no WSL, no D…
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayoubnabil-aiondb/) — PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.

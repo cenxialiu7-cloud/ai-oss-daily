@@ -452,7 +452,6 @@ _每日存檔 · 2026-06-15_
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marchinthesun-epyc-max-inference-llm-optimizer/) — 針對AMD EPYC最佳化的llama.cpp分支，提升效能。
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-llm-gpu-lab/) — 在單一GPU上進行大型語言模型全流程實驗。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

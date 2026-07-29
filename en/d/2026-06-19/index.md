@@ -375,7 +375,7 @@ _Daily archive · 2026-06-19_
 - [Ontos-AI/knowhere](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ontos-ai-knowhere/) — Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flowelement-ai-m-flow/) — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing str…
@@ -539,7 +539,6 @@ _Daily archive · 2026-06-19_
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beever-ai-beever-atlas/) — Your First LLM-Wiki Conversation Knowledge Base
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/guoguo-tju-agent-java-offer/) — 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaaiyun-joinquant-skill/) — AI agent skill for generating quantitative strategy code on JoinQuant platform - Cursor / Claude Code compati…
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.

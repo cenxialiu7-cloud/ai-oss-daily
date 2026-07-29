@@ -695,7 +695,6 @@ _每日存檔 · 2026-07-03_
 - [cutebacktests（選擇權回測框架）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cutemarkets-cutebacktests/) — 針對現代選擇權策略的回測框架。
 - [quant-whisper（本機端對沖基金）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ritiksuman07-quant-whisper/) — 「在你本機上的對沖基金」—— 終端機原生的演算法交易工具。
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — GPT Image 2 prompt 大全（策展清單）。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-multi-agent-open-multi-agent/) — 基於 TypeScript 的多代理系統自動化工具。

@@ -632,7 +632,6 @@ _每日存檔 · 2026-06-28_
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [NVIDIA/NemoClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-nemoclaw/) — 在 NVIDIA OpenShell 中更安全地執行 Hermes 和 OpenClaw 代理程式。
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/can4hou6joeng4-boss-agent-cli/) — BOSS直聘職位搜尋和簡歷最佳化的AI代理CLI工具。
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectifyai-openkb/) — 開放式大型語言模型知識庫。

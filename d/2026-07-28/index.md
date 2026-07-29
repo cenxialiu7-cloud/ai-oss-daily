@@ -843,7 +843,6 @@ _每日存檔 · 2026-07-28_
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills-codex/) — Codex原生學術研究技能套件，適用於人機互動的研究流程。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Lynpoint/CyberVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lynpoint-cyberverse/) — 自建即時數字人類代理平臺，支援 WebRTC 和工具整合。

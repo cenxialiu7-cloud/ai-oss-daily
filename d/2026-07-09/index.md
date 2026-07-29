@@ -725,7 +725,6 @@ _每日存檔 · 2026-07-09_
 - [backblaze-labs/genblaze](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/backblaze-labs-genblaze/) — 跨影片、音訊和影像供應商生成 AI 媒體管道的 Python SDK。
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/) — 在終端機中執行的AI代理多路復用器。
 - [CodeAbra/iai-personal-memory-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeabra-iai-personal-memory-engine/) — 為 AI 程式設計助手提供加密記憶服務，支援多種 MCP 客戶端。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [bigmacman1129/btc-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-btc-arbitrage-trading-bot/) — 基於Python的加密貨幣套利交易機器人，監控價格差異並自動執行交易。
 - [zhou343-de/easyup-platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhou343-de-easyup-platform/) — AI 量化交易系統，提供選股、風控和盯盤功能。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

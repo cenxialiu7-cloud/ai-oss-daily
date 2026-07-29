@@ -21,14 +21,15 @@
 - [mobilesitebytim/Forex-Trend-Dashboard-Engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mobilesitebytim-forex-trend-dashboard-engine/) — 2026 MT5 Gateway: Institutional Trend Classifier & Multi-Asset Regime Dashboard
 - [Syed-Imran88/MT5-Exposure-Mesh-Analyzer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syed-imran88-mt5-exposure-mesh-analyzer/) — Best Multi-Asset Correlation Heatmap & Risk Matrix for MetaTrader 2026
 - [Nguyen-Phu-Cuong/Matrix-Confluence-Scorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nguyen-phu-cuong-matrix-confluence-scorer/) — 2026 Pro-Level Multi-Timeframe Confluence Matrix for MT5: Liquidity Sweeps & Institutional Signals
+- [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [Wendy-Bay/PropFirm-Tracker-Elite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wendy-bay-propfirm-tracker-elite/) — Best Proprietary MT4/MT5 Prop Fund Manager 2026 for Multi-Phase Challenge Tracking
 - [majoudeh/Portfolio-Pulse-Blogger-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/majoudeh-portfolio-pulse-blogger-templates/) — Best Portfolio Blogger Templates 2026 For Professional Websites
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youcefbibo53-propguard-trailing-equity-armor/) — Top Prop Firm Drawdown Protector EA 2026: FTMO & MyForexFunds Risk Manager
 - [bipbopcompany-droid/Risk-Nexus-Command](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bipbopcompany-droid-risk-nexus-command/) — Prop Matrix Engine 2026: Multi-Account MT5 Risk Control with Global Drawdown Guard & Kill-Switch
 - [peridotfoundation/MT5-Directional-Flow-Dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/peridotfoundation-mt5-directional-flow-dashboard/) — MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts
-- [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronesfe-polymarket-automated-trading-bot/) — Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and …
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [rootSunc/ashare-lake](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-ashare-lake/) — A股数据湖，覆盖股票行情/大宗期货/基本面/资金/结构/宏观/舆情/风控等全套量化数据
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-grid-pilot/) — 超越交易所原生网格机器人：用程序模拟盯盘交易员——动态改单不挂死、追踪建仓避免顶部接盘、Maker 优先省手续费、分层算法单止损、多段价格区间自适应。兼容 Binance / OKX / Gate.io，内置 12 种…
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-tw-anti-gambling-trader-tw/) — 免費開源的投資反詐、交易統計與自動化交易程式工具：預設 PaperBroker，提供 14 種券商／交易所選項；交易紀錄分析在本機執行。
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vybenetwork-solana-swap-api/) — Solana Swap API & Router
@@ -42,11 +43,11 @@
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantjourneyorg-quantjourney-bt/) — QuantJourney Backtester
 - [simonlin1212/TradingAgents-astock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-tradingagents-astock/) — A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment r…
 - [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
-- [hello245m/free-stockdb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hello245m-free-stockdb/) — 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huang-hg-alpha-foundry/) — Formulaic alpha mining: strongly-typed GP + GFlowNet search over a typed DSL, with C++/OpenMP portfolio backt…
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
 - [FloorCommander/MultiCharts-Advanced-Backtesting-Premium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/floorcommander-multicharts-advanced-backtesting-premium/) — MultiCharts Advanced Backtesting Premium provides the Full Version with Professional Build strategy developme…
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…
+- [hello245m/free-stockdb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hello245m-free-stockdb/) — 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 - [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — polymarket arbitrage bot polymarket arbitrage bot
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
@@ -58,5 +59,4 @@
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-ns-ntk/) — Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary …
 - [Jsoned/autowealth-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jsoned-autowealth-ai/) — Multi-Agent AI Investment Analysis Engine
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shurikentrade-shuriken-skills/) — Agent-consumable integration skills for the Shuriken platform 🥷
-- [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nai-he-fund-analysis-agent/) — 国内公募基金数据采集与AI辅助分析工具 — 全栈FastAPI+React，集成AKShare多源数据、风险评分引擎、回测验证、LLM可选分析
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/felixmelanson-quantdrift/) — WIP; Tracking 7 AI models as they pilot live stock portfolios using distinct, data-driven philosophies.

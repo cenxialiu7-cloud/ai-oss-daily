@@ -310,7 +310,7 @@ _Daily archive · 2026-06-15_
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saurabhv749-supertonic3-voice-clone/) — Train voice styles for Supertone/supertonic-3 model.
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing str…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — · task_categories:text-generation, language:kha, license:cc-by-nc-4.0
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
@@ -452,7 +452,6 @@ _Daily archive · 2026-06-15_
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jegly-box/) — The most advanced, fully offline client-side AI suite on Android today.
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K

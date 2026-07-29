@@ -693,7 +693,6 @@ _每日存檔 · 2026-07-06_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [seranking/seo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seranking-seo-skills/) — SEO Skills 為 SE Ranking MCP 伺服器提供 Claude 機器人技能，包括內容摘要、關鍵詞叢集等。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [rediumvex/ai-video-generator-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-ai-video-generator-claude/) — Claude 技能，生成高品質 AI 影片提示，適用於 Seedance 2.0。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

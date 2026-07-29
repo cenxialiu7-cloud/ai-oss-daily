@@ -712,7 +712,6 @@ _每日存檔 · 2026-07-08_
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/) — 在終端機中執行的AI代理多路復用器。
 - [zoyluoblue/mc_aiplayer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zoyluoblue-mc-aiplayer/) — 使用 DeepSeek 驅動的 Minecraft 自主 AI 玩家模組。
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — 面向電腦科學、AI 和 ML 領域的論文寫作代理技能。
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-system/) — 一套完整的 RAG 面試問題、答案及系統設計場景集合。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

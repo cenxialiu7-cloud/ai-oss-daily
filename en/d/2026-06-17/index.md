@@ -342,7 +342,7 @@ _Daily archive · 2026-06-17_
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nanotron-ultrascale-playbook/) — · static, region:us
@@ -501,7 +501,6 @@ _Daily archive · 2026-06-17_
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agents365-ai-drawio-skill/) — Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools:…
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beever-ai-beever-atlas/) — Your First LLM-Wiki Conversation Knowledge Base
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vectifyai-openkb/) — OpenKB: Open LLM Knowledge Base
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/guoguo-tju-agent-java-offer/) — 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sipeter-clonetts/) — A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and hi…
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents

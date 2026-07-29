@@ -769,7 +769,6 @@ _每日存檔 · 2026-07-16_
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [NirDiamant/Agent_Memory_Techniques](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nirdiamant-agent-memory-techniques/) — LLM的代理記憶技術集合。
 - [xbtlin/ai-berkshire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/) — 基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bladedevoff-studiomi300/) — 導演 agent＋視覺評審＋圖像/影片/音樂/語音模型，全跑在單張 AMD Instinct。

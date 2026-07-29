@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
+<updated>2026-07-29T08:00:00+00:00</updated>
 <entry>
-<title>moonshotai/Kimi-K3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>圖文轉文字模型，支援對話和特徵抽取。</summary>
+<title>badtheorylabs/BTL-3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>BTL-3 是一個使用 PEFT 技術的文本生成模型，適用於程式設計、推理和工具使用的 AI 代理。</summary>
 </entry>
 <entry>
-<title>microsoft/VibeVoice-ASR-BitNet</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，適用於 CPU 推論。</summary>
+<title>hugging-apps/mage-vl-demo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mage-vl-demo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mage-vl-demo/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>wassgha/rescript</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>基於字幕的線上影音編輯器。</summary>
+<title>PLUS-WAVE/InfiniSplat</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-plus-wave-infinisplat/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-plus-wave-infinisplat/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>koala73/worldmonitor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>HKUDS/nanobot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-28T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-07-29T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

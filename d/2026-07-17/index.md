@@ -769,7 +769,6 @@ _每日存檔 · 2026-07-17_
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-webworlddata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana交易狙擊機器人，可在Raydium和pump.fun上自動交易新代幣。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [epicsagas/Velith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/epicsagas-velith/) — 基於AI的出版系統，從空白頁面到EPUB/PDF的全流程自動化。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

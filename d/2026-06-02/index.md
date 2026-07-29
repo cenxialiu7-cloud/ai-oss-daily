@@ -245,7 +245,6 @@ _每日存檔 · 2026-06-02_
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackwener-opencli/) — 將網站轉換為命令列介面，並使用AI代理登入瀏覽器。
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS外掛，支援30種語言和音訊設計。
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/constellation-engine-constellation-engine/) — Constellation Engine 讓AI代理擁有記憶功能，持續與使用者互動。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sipeter-clonetts/) — 輕量級離線Android文字轉語音引擎，支援系統級全域性聽書。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。
 - [imgx-studio/gpt-image-2-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgx-studio-gpt-image-2-webui/) — 自建GPT影像生成WebUI，支援文本轉影像和多語言創意工作流程。

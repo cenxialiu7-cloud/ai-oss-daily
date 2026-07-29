@@ -6,10 +6,11 @@
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
-- [datacurve/deep-swe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-datacurve-deep-swe/) — · benchmark:official, benchmark:eval-yaml, language:en
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
+- [datacurve/deep-swe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-datacurve-deep-swe/) — · benchmark:official, benchmark:eval-yaml, language:en
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
+- [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-scarfbench/) — · task_categories:text-generation, arxiv:2605.06754, region:us

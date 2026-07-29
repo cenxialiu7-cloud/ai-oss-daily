@@ -713,7 +713,6 @@ _每日存檔 · 2026-07-13_
 - [bigmacman1129/solana-sniper-trading-mev-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-sniper-trading-mev-bot/) — Solana交易狙擊機器人，可在Raydium和pump.fun上自動交易新代幣。
 - [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
 - [superjack2050/1688-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superjack2050-1688-cli/) — 用於 1688 資源搜尋、產品研究及訂單管理的自動化 CLI 工具。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
 - [PolyX-Research/Robust-U1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polyx-research-robust-u1/) — 大型語言模型自我修復損壞視覺內容以實現穩健理解的研究。
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bladedevoff-studiomi300/) — 導演 agent＋視覺評審＋圖像/影片/音樂/語音模型，全跑在單張 AMD Instinct。

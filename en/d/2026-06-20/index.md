@@ -372,7 +372,7 @@ _Daily archive · 2026-06-20_
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flowelement-ai-m-flow/) — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + M…
+- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integ…
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 63 bilingual AI marketing skills (31 VN + 31 Global) for Claude Code, OpenCode, Codex, VS Code. Marketing str…
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/) — The official Python SDK for Model Context Protocol servers and clients
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dontplantoend-ugi-leaderboard/) — · docker, leaderboard, submission:manual
@@ -542,7 +542,6 @@ _Daily archive · 2026-06-20_
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/felixmelanson-quantdrift/) — WIP; Tracking 7 AI models as they pilot live stock portfolios using distinct, data-driven philosophies.
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yusufkaraaslan-skill-seekers/) — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict d…
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xpzouying-xiaohongshu-mcp/) — MCP for xiaohongshu.com
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-0-prompts/) — 100+ curated Seedance 2 prompts, examples, and guides for AI video generation.
 - [JuneYaooo/awesome-ai-media-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-awesome-ai-media-cn/) — AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaaiyun-joinquant-skill/) — AI agent skill for generating quantitative strategy code on JoinQuant platform - Cursor / Claude Code compati…

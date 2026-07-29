@@ -649,7 +649,6 @@ _每日存檔 · 2026-06-30_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [AdamBien/lightmetal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adambien-lightmetal/) — 在Apple Silicon上執行的零依賴Java框架。
 - [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heymrun-heym/) — 自託管的 AI 工作流自動化平臺，具備視覺畫布、代理和監控功能。
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-mcp-vybe/) — 公開的Vybe Solana API元資料 registry。
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-illustrious-noobai-style-explorer/) — 快速參考 16000 多種藝術風格的相簿，適用於 Illustrious XL 和 NoobAI-XL 模型。

@@ -484,7 +484,6 @@ _每日存檔 · 2026-06-16_
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guoguo-tju-agent-java-offer/) — 公開的 Java 後端 / AI 代理 / 系統設計 / 面試複習資料庫。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beever-ai-beever-atlas/) — 第一個大型語言模型維基對話知識庫。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectifyai-openkb/) — 開放式大型語言模型知識庫。
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexpospekhov-searchstack-aeo/) — 開源搜尋技術堆疊，監控 Google、ChatGPT 等平臺上的能見度。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。

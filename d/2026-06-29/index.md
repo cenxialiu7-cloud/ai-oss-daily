@@ -637,7 +637,6 @@ _每日存檔 · 2026-06-29_
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0x4m4-hexstrike-ai/) — 讓AI代理自主執行150多種資安工具的MCP伺服器。
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-illustrious-noobai-style-explorer/) — 快速參考 16000 多種藝術風格的相簿，適用於 Illustrious XL 和 NoobAI-XL 模型。
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heymrun-heym/) — 自託管的 AI 工作流自動化平臺，具備視覺畫布、代理和監控功能。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengrambo3-tech-zeushammer/) — 具備本地腦、語音互動及三層記憶的AI超級代理。
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackwener-opencli/) — 將網站轉換為命令列介面，並使用AI代理登入瀏覽器。
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frank-ay-mimo-mcp/) — 將小米 MiMo 的多模態能力封裝成 stdio MCP 伺服器，Claude Code 和 Codex 可直接呼叫。

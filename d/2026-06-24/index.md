@@ -599,7 +599,6 @@ _每日存檔 · 2026-06-24_
 - [kevin801221/stock-strategies-only](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevin801221-stock-strategies-only/) — 台股每日自動選股機器人：基本面×技術面×回測，Telegram 推播、GitHub Actions 免費跑。
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [wquguru/harness-books](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wquguru-harness-books/) — 兩本關於 Claude Code 和 Codex 的設計哲學書籍，涵蓋約束、查詢迴圈等。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

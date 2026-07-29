@@ -1,6 +1,6 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-07-28 09:05 CST_
+_最後更新: 2026-07-29 09:05 CST_
 
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
@@ -10,8 +10,8 @@ _最後更新: 2026-07-28 09:05 CST_
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
-- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/) — 幫助程式碼代理生成適合ADHD使用者的清晰答案。
+- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
@@ -28,13 +28,13 @@ _最後更新: 2026-07-28 09:05 CST_
 - [robinhood-ape/robinhood-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/) — 在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。
 - [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/growthack88-growth-marketing-os/) — 開源AI營銷平臺，提供促銷策略、技能和代理程式。
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
-- [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
+- [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — 基於GGUF格式的圖文轉文字模型，具備未審查和異端特點。
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [prefeitura-rio/Rio-3.5-Open-397B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prefeitura-rio-rio-3-5-open-397b/) — 將影像和文字轉換為文本的模型，支援多種語言。
-- [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/) — Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。
+- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
+- [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。

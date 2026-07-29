@@ -743,7 +743,6 @@ _每日存檔 · 2026-07-11_
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。
 - [fathah/hermes-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fathah-hermes-desktop/) — 為 Hermes 代理設計的桌面伴侶，提供聊天機器人功能。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/visko-platform-vefx-bench/) — VEFX-Bench：通用影片編輯與視覺特效的綜合基準測試。
 - [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergebulaev-linkedin-skills/) — LinkedIn 成長的 Claude skills：寫像真人的貼文與會被注意的留言。
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。

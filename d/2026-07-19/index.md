@@ -783,7 +783,6 @@ _每日存檔 · 2026-07-19_
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [superjack2050/1688-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superjack2050-1688-cli/) — 用於 1688 資源搜尋、產品研究及訂單管理的自動化 CLI 工具。
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thaolst-tara-bot/) — Tara Bot 是一個智慧 Telegram 機器人，能搜尋航班、比較價格並插入聯盟連結。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。

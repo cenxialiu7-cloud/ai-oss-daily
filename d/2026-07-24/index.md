@@ -821,7 +821,6 @@ _每日存檔 · 2026-07-24_
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/echo-team-joy-future-academy-jd-echo-memory/) — 具有記憶功能的簡單基線影片世界模型。
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
-- [EvoLinkAI/awesome-seedance-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-0-prompts/) — 收集了100多個Seedance 2的提示、範例和指南，用於生成AI影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ChypherFish3r/coinbase-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chypherfish3r-coinbase-trading-bot/) — Coinbase 動量策略交易機器人，具備選項利潤轉移功能。
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
