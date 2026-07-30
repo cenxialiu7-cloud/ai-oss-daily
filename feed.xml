@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
+<updated>2026-07-30T08:00:00+00:00</updated>
 <entry>
-<title>badtheorylabs/BTL-3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>BTL-3 是一個使用 PEFT 技術的文本生成模型，適用於程式設計、推理和工具使用的 AI 代理。</summary>
+<title>nota-ai/Solar-Open2-250B-Nota-NVFP4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。</summary>
 </entry>
 <entry>
-<title>hugging-apps/mage-vl-demo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mage-vl-demo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mage-vl-demo/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Comfy-Org/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。</summary>
 </entry>
 <entry>
-<title>PLUS-WAVE/InfiniSplat</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-plus-wave-infinisplat/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-plus-wave-infinisplat/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>microsoft/Mage-VL</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文本的多模態模型，適用於視覺語言任務。</summary>
 </entry>
 <entry>
-<title>Graphify-Labs/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
+<title>alibaba/open-code-review</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
 </entry>
 <entry>
-<title>HKUDS/nanobot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-07-29T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-07-30T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

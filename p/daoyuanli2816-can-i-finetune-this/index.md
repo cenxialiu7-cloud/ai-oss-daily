@@ -2,9 +2,9 @@
 
 估計Hugging Face模型是否能在你的本地GPU上微調。
 
-**為何上榜**：793★ · 近期活躍
+**為何上榜**：792★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：793
+**Stars**：792
 **原始連結**：https://github.com/DaoyuanLi2816/can-i-finetune-this
