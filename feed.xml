@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
+<updated>2026-07-31T08:00:00+00:00</updated>
 <entry>
-<title>nota-ai/Solar-Open2-250B-Nota-NVFP4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。</summary>
+<title>Audio8/Audio8-TTS-Preview-0.6b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>將文字轉換成語音的模型，支援自訂聲音。</summary>
 </entry>
 <entry>
-<title>Comfy-Org/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。</summary>
+<title>XYZAILab/XYZ-Aquila-mini</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xyzailab-xyz-aquila-mini/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xyzailab-xyz-aquila-mini/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>文本生成模型，具備代理搜尋和影像到文本的能力。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-VL</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文本的多模態模型，適用於視覺語言任務。</summary>
+<title>XYZAILab/XYZ-Aquila-SFT</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>alibaba/open-code-review</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
+<title>koala73/worldmonitor</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>ayghri/i-have-adhd</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-07-30T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
+<updated>2026-07-31T08:00:00+00:00</updated>
+<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
 </entry>
 </feed>

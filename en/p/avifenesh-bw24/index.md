@@ -1,8 +1,8 @@
 # avifenesh/bw24
 
-From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a).
+bw24 — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：290
+**Stars**：291
 **Source**：https://github.com/avifenesh/bw24

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流 — AI 開源日報</title>
+<meta name="description" content="把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P045/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/index.md" title="純文字（Markdown）版">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 開源日報">
+<meta property="og:title" content="團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流 — AI 開源日報">
+<meta property="og:description" content="把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流 — AI 開源日報">
+<meta name="twitter:description" content="把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流", "description": "把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。", "datePublished": "2026-07-30T08:00:00+00:00", "dateModified": "2026-07-30T08:00:00+00:00", "inLanguage": "zh-Hant", "author": {"@type": "Organization", "name": "AI 開源日報"}, "publisher": {"@type": "Organization", "name": "AI 開源日報"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-30/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">精選存檔</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/proposals/P045/">English</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/">回首頁</a> /
+    <a href="/ai-oss-daily/proposals/">AI 組合企劃</a> / P045</p>
+  <h1>團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流</h1>
+  <p class="detail-lead">把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">難度: medium</span>
+    <span class="badge">估 2–3 週做出能跑的自架版：codebase-memory-mcp 索引＋python-sdk 暴露工具約 1 週，多 client（Claude／Cursor／Codex）相容測試與一鍵自架打包約 1 週；難點在大型 monorepo 的索引效能與增量更新、跨 client 的 MCP 相容性差異，以及自架部署（含本機模型）的資源需求與安裝體驗。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>怎麼變現</h2><p>①團隊自架授權＋席次月費（SaaS）：主打注重程式碼保密、不能上雲的團隊（金融／醫療／政府外包），依開發者席次或索引 repo 數計費；②個人開發者 Mac App 買斷（本機索引單機版，資料零外流）；③官網／文件站掛 Adsterra／Monetag 網頁廣告引流，放 Ko-fi 贊助，並接自架 VPS／主機商聯盟連結（自架需常駐索引節點）。廣告只放網頁端，絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>運作方式</h2><p>codebase-memory-mcp 對整個 repo／monorepo 做多語言快速索引，建立可語意檢索的程式碼記憶庫 → 透過 modelcontextprotocol/python-sdk 暴露成標準 MCP server，讓 Claude、Cursor、Codex、Windsurf、Gemini 等多個 AI client 連上『同一份』索引，不必各自重掃 → code-yeongyu/oh-my-openagent 負責在複雜 codebase 上做多步驟檢索與跨檔案追蹤（『這個函式誰在呼叫、改了會影響哪些頁面』）→ addyosmani/agent-skills 把檢索到的結果接上生產級工程技能，直接轉成重構、補測試、寫文件等具體動作 → 需要離線／隱私部署時，用 nvidia/Qwen3.6-35B-A3B-NVFP4（NVFP4 量化 MoE，省顯存）在自有主機上做推理，程式碼與查詢全程不出內網。與 P018（視覺化架構地圖）、P029（文件＋流程的企業 RAG 問答）、P037（跨會話對話記憶）定位不同：本案是專供 AI 編碼工具共用的『程式碼索引檢索後端』基礎設施，核心是多 client 共享同一份高速程式碼索引且可自架。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>用到的開源零件</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/p/deusdata-codebase-memory-mcp/">DeusData/codebase-memory-mcp</a></h3>
+<p class="summary">高效能程式碼智慧伺服器，快速索引多種語言的程式碼庫。</p><p class="why">▸ 近一日新增 198★（現 36,658★）</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP 伺服器</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 36,658</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/code-yeongyu-oh-my-openagent/">code-yeongyu/oh-my-openagent</a></h3>
+<p class="summary">專門為複雜程式碼庫設計的AI代理整合工具。</p><p class="why">▸ 近一日新增 75★（現 66,865★）</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 66,865</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/addyosmani-agent-skills/">addyosmani/agent-skills</a></h3>
+<p class="summary">生產級工程技能，用於 AI 程式設計代理。</p><p class="why">▸ 近一日新增 118★（現 81,022★）</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 81,022</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。</p><p class="why">▸ 近一日新增 25★（現 23,803★）</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP 伺服器</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ 權威收錄</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 23,803</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/">nvidia/Qwen3.6-35B-A3B-NVFP4</a></h3>
+<p class="summary">NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。</p><p class="why">▸ HF trending 68 · 416 likes · 6,031,864 下載</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI 基礎堆疊</span>
+    <span class="badge lic-unknown">授權未明</span>
+  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">贊助連結 →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI 開源日報</strong><br>
+        <span style="color:var(--fg-faint)">去噪・抗洗榜・附「為何上榜」與商用授權判讀。</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ 請我喝杯咖啡</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/about/">關於</a> ·
+        <a href="/ai-oss-daily/changes/">每日變化</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">本站含聯盟連結；點擊不影響你的價格，會給作者一點回饋。</p>
+  </div>
+</footer></body>
+</html>
