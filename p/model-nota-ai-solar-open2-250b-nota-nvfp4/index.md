@@ -2,7 +2,7 @@
 
 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 
-**為何上榜**：HF trending 122 · 147 likes · 7,755 下載
+**為何上榜**：HF trending 116 · 151 likes · 18,531 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

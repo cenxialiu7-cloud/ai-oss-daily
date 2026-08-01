@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
+<updated>2026-08-01T08:00:00+00:00</updated>
 <entry>
-<title>Audio8/Audio8-TTS-Preview-0.6b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>將文字轉換成語音的模型，支援自訂聲音。</summary>
+<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>深度文本生成模型，適用於各種對話和創作場景。</summary>
 </entry>
 <entry>
-<title>XYZAILab/XYZ-Aquila-mini</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xyzailab-xyz-aquila-mini/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xyzailab-xyz-aquila-mini/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>文本生成模型，具備代理搜尋和影像到文本的能力。</summary>
+<title>LGAI-EXAONE/K-EXAONE-2.0-750B-A37B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>大型語言模型，支援多語種文本生成。</summary>
 </entry>
 <entry>
-<title>XYZAILab/XYZ-Aquila-SFT</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>skt/A.X-K2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>韓國開發的對話式文本生成模型，支援多種語言。</summary>
 </entry>
 <entry>
-<title>koala73/worldmonitor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
+<title>Graphify-Labs/graphify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>HKUDS/nanobot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-07-31T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-08-01T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>
