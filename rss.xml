@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>01 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>02 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>深度文本生成模型，適用於各種對話和創作場景。</description>
+<title>lodestones/Kroma</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。</description>
 </item>
 <item>
-<title>LGAI-EXAONE/K-EXAONE-2.0-750B-A37B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>大型語言模型，支援多語種文本生成。</description>
+<title>Eyeline-Labs/ID-V2V</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。</description>
 </item>
 <item>
-<title>skt/A.X-K2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>韓國開發的對話式文本生成模型，支援多種語言。</description>
+<title>h5i-dev/h5i-db</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>h5i-db 是一個高效能的時間序列資料庫和回測引擎，專為 AI 代理設計。</description>
 </item>
 <item>
-<title>Graphify-Labs/graphify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</description>
+<title>alibaba/open-code-review</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
 </item>
 <item>
-<title>HKUDS/nanobot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。</description>
+<title>img2threejs/img2threejs</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>將參考影像轉換成高品質的 Three.js 動畫模型。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>01 Aug 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>

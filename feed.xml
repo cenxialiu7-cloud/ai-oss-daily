@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
+<updated>2026-08-02T08:00:00+00:00</updated>
 <entry>
-<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>深度文本生成模型，適用於各種對話和創作場景。</summary>
+<title>lodestones/Kroma</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。</summary>
 </entry>
 <entry>
-<title>LGAI-EXAONE/K-EXAONE-2.0-750B-A37B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>大型語言模型，支援多語種文本生成。</summary>
+<title>Eyeline-Labs/ID-V2V</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。</summary>
 </entry>
 <entry>
-<title>skt/A.X-K2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>韓國開發的對話式文本生成模型，支援多種語言。</summary>
+<title>h5i-dev/h5i-db</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>h5i-db 是一個高效能的時間序列資料庫和回測引擎，專為 AI 代理設計。</summary>
 </entry>
 <entry>
-<title>Graphify-Labs/graphify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。</summary>
+<title>alibaba/open-code-review</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
 </entry>
 <entry>
-<title>HKUDS/nanobot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。</summary>
+<title>img2threejs/img2threejs</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>將參考影像轉換成高品質的 Three.js 動畫模型。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-08-01T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-08-02T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>
