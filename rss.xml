@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>02 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>03 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>lodestones/Kroma</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。</description>
+<title>nyralabs/CrisperWhisper2.0_large</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>更清晰的語音轉文字工具，支援斷句和口吃修正。</description>
 </item>
 <item>
-<title>Eyeline-Labs/ID-V2V</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。</description>
+<title>flatkey-ai/flatkey-cli</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>用於生成影像、影片、音訊等多媒體內容的命令列工具。</description>
 </item>
 <item>
-<title>h5i-dev/h5i-db</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>h5i-db 是一個高效能的時間序列資料庫和回測引擎，專為 AI 代理設計。</description>
+<title>jiamo509/jj-koubo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>使用 Remotion 技術為 Codex 和 Claude Code 建立真人出鏡剪輯技能。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>img2threejs/img2threejs</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>將參考影像轉換成高品質的 Three.js 動畫模型。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>jdopensource/JoyAI-Echo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
-<pubDate>02 Aug 2026 08:00:00 +0000</pubDate>
-<description>文字轉影片生成工具，適用於長片。</description>
+<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
+<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
+<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
 </item>
 </channel>
 </rss>

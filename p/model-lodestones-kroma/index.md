@@ -2,7 +2,7 @@
 
 Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。
 
-**為何上榜**：HF trending 94 · 94 likes
+**為何上榜**：HF trending 124 · 126 likes
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 
