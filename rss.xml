@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>03 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>04 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>nyralabs/CrisperWhisper2.0_large</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>更清晰的語音轉文字工具，支援斷句和口吃修正。</description>
+<title>MiniMaxAI/MiniMax-H3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為影片的模型。</description>
 </item>
 <item>
-<title>flatkey-ai/flatkey-cli</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>用於生成影像、影片、音訊等多媒體內容的命令列工具。</description>
+<title>unsloth/Inkling-Small-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於影像和文字生成文字的對話式模型。</description>
 </item>
 <item>
-<title>jiamo509/jj-koubo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>使用 Remotion 技術為 Codex 和 Claude Code 建立真人出鏡剪輯技能。</description>
+<title>ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>Qwen3-VL 和 MiniMax-H3 結合的圖文轉文字模型。</description>
 </item>
 <item>
-<title>ayghri/i-have-adhd</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
+<title>drumih/turbo-fieldfare</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>koala73/worldmonitor</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</description>
 </item>
 <item>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</guid>
-<pubDate>03 Aug 2026 08:00:00 +0000</pubDate>
-<description>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</description>
+<title>microsoft/Mage-Flow</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
+<pubDate>04 Aug 2026 08:00:00 +0000</pubDate>
+<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
 </item>
 </channel>
 </rss>

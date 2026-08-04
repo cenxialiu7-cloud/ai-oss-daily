@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
+<updated>2026-08-04T08:00:00+00:00</updated>
 <entry>
-<title>nyralabs/CrisperWhisper2.0_large</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>更清晰的語音轉文字工具，支援斷句和口吃修正。</summary>
+<title>MiniMaxAI/MiniMax-H3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為影片的模型。</summary>
 </entry>
 <entry>
-<title>flatkey-ai/flatkey-cli</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>用於生成影像、影片、音訊等多媒體內容的命令列工具。</summary>
+<title>unsloth/Inkling-Small-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>基於影像和文字生成文字的對話式模型。</summary>
 </entry>
 <entry>
-<title>jiamo509/jj-koubo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-jj-koubo/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>使用 Remotion 技術為 Codex 和 Claude Code 建立真人出鏡剪輯技能。</summary>
+<title>ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>Qwen3-VL 和 MiniMax-H3 結合的圖文轉文字模型。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>drumih/turbo-fieldfare</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>koala73/worldmonitor</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
 </entry>
 <entry>
-<title>Stable Audio 3 Medium（文字生成音樂/音效）</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/</id>
-<updated>2026-08-03T08:00:00+00:00</updated>
-<summary>Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-08-04T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>
