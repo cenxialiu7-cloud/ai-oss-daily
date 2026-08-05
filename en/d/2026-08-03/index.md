@@ -6,7 +6,6 @@ _Daily archive · 2026-08-03_
 
 - [nyralabs/CrisperWhisper2.0_large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nyralabs-crisperwhisper2-0-large/) — automatic-speech-recognition · crisperwhisper, safetensors, whisper
 - [flatkey-ai/flatkey-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flatkey-ai-flatkey-cli/) — Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.
-- [jiamo509/jj-koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jiamo509-jj-koubo/) — JJ 口播剪辑 Skill 开源试用版（功能尚未完善，仅供学习体验，非商业许可）。最新完整版本及安装、环境配置、部署问题请联系原作者博主微信：Lhwai2026
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qwenaudio-qwen-audio-agent/) — A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agen…
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [the0cp/beatflow-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/the0cp-beatflow-skill/) — AI music composition skill with a Python DSL, musical diagnostics, and deterministic multi-track MIDI renderi…
@@ -16,6 +15,7 @@ _Daily archive · 2026-08-03_
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/200lz-llm-inference-optimization-lab/) — Reproducible llama.cpp CPU inference profiling and a deterministic LLM serving simulator with continuous batc…
 - [austin-starks/Public-Portfolio-Challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/austin-starks-public-portfolio-challenge/) — 4 AI agents. One runbook. Real $25K, live and verifiable. Currently +22.85%.
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-hermes-function-calling-v1/) — · task_categories:text-generation, task_categories:question-answering, task_categories:feature-extraction
+- [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 
 ## 🚀 Climbing
 
@@ -103,7 +103,6 @@ _Daily archive · 2026-08-03_
 - [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aliestaha-fable-traces/) — text-generation · transformers, safetensors, qwen3
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
-- [LiquidAI/LFM2.5-8B-A1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-8b-a1b/) — text-generation · transformers, safetensors, lfm2_moe
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
@@ -292,7 +291,6 @@ _Daily archive · 2026-08-03_
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
 - [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-simple-world-lab-hifi-umi-2k/) — · task_categories:robotics, language:en, license:cc-by-4.0
-- [jiamo509/jj-koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jiamo509-jj-koubo/) — JJ 口播剪辑 Skill 开源试用版（功能尚未完善，仅供学习体验，非商业许可）。最新完整版本及安装、环境配置、部署问题请联系原作者博主微信：Lhwai2026
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-umutkocasari-faceanything/) — · gradio, face, 4d-reconstruction
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vox-director/) — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Clo…
@@ -472,7 +470,6 @@ _Daily archive · 2026-08-03_
 - [katipally/openlive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/katipally-openlive/) — Opensource, on-device voice + vision layer for AI agents. Bring any model or coding agent; the whole speech l…
 - [unstonio/pixelgpt-24x24](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/unstonio-pixelgpt-24x24/) — Tiny local text-to-24x24 pixel art model, trained on roughly 200K samples in 30 minutes on an RTX 5090.
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
-- [ChannelSlug61/stable-diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/channelslug61-stable-diffusion/) — Stable Diffusion
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kuberwastaken-megaphone/) — Free, private, on-device dictation for Mac, powered by Apple's SpeechAnalyzer and Foundation Models.
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -483,7 +480,6 @@ _Daily archive · 2026-08-03_
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/orkas-ai-orkas-videostudio/) — Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the tim…
 - [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kachence-polymm/) — A Polymarket sports market-making / arbitrage bot in Python - de-vig sportsbook odds, quote, hedge. The retir…
-- [Segmentsemode/kling-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/segmentsemode-kling-ai/) — Kling AI
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnikodev-robinhood-ai-dev-sniper/) — 🏹 RobinHood — AI Dev Sniper: Go sniper & trading panel for Robinhood Chain (Arbitrum-Orbit L2, id 4663). Boun…
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
@@ -802,7 +798,7 @@ _Daily archive · 2026-08-03_
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
-- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 67 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI…
+- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 69 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI…
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alirezarezvani-claude-skills/) — 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable r…

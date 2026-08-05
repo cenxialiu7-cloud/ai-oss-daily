@@ -4,5 +4,5 @@ Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：6,953
+**Stars**：7,226
 **Source**：https://github.com/lidge-jun/opencodex

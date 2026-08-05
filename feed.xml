@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
+<updated>2026-08-05T08:00:00+00:00</updated>
 <entry>
-<title>MiniMaxAI/MiniMax-H3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為影片的模型。</summary>
+<title>realrebelai/MiniMax-H3_GGUFs</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>將文字轉換為影片的模型，支援gguf格式。</summary>
 </entry>
 <entry>
-<title>unsloth/Inkling-Small-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>基於影像和文字生成文字的對話式模型。</summary>
+<title>LiquidAI/LFM2.5-2.6B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>基於transformers框架的文字生成模型。</summary>
 </entry>
 <entry>
-<title>ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>Qwen3-VL 和 MiniMax-H3 結合的圖文轉文字模型。</summary>
+<title>Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>將文字、圖片轉換為影片的多模態模型。</summary>
 </entry>
 <entry>
-<title>drumih/turbo-fieldfare</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。</summary>
+<title>alibaba/open-code-review</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
 </entry>
 <entry>
-<title>koala73/worldmonitor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。</summary>
+<title>XiaomiMiMo/MiMo-Code</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>模型與代理共演進的 AI 工具。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-08-04T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</id>
+<updated>2026-08-05T08:00:00+00:00</updated>
+<summary>深度文本生成模型，適用於各種對話和創作場景。</summary>
 </entry>
 </feed>

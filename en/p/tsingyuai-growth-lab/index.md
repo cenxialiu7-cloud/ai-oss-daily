@@ -4,5 +4,5 @@ An end-to-end growth tool that understands the product, fetch the data it needs,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：374
+**Stars**：457
 **Source**：https://github.com/tsingyuai/growth-lab

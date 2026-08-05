@@ -2,7 +2,7 @@
 
 將影像和文字轉換為影片的模型。
 
-**為何上榜**：HF trending 1417 · 1,450 likes
+**為何上榜**：HF trending 1946 · 2,013 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
