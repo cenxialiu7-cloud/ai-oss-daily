@@ -1,13 +1,11 @@
 # 🎬 影音製作
 
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/) — 將文字轉換成語音的模型，支援自訂聲音。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
-- [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
+- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/) — 將文字轉換成語音的模型，支援自訂聲音。
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
-- [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/) — 將文字轉換為影片的模型，支援gguf格式。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
-- [lodestones/Kroma](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/) — Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
+- [lodestones/Kroma](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kroma/) — Kroma 是一個使用 LoRA、Krea2 和 Krea 技術的文字轉影像模型。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/) — 基於Krea-2-Turbo的風格參考模型，用於文字轉影像。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
@@ -35,28 +33,30 @@
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/) — 影像編輯模型，支援指令式編輯和影像轉換。
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/) — 自動語音辨識模型，適用於 CPU 推論。
-- [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/) — 一個小型的本地語音合成模型，適用於邊緣裝置。
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — 即時語音識別系統，支援多語言。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
+- [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/) — 一個小型的本地語音合成模型，適用於邊緣裝置。
 - [nyralabs/CrisperWhisper2.0_large](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nyralabs-crisperwhisper2-0-large/) — 更清晰的語音轉文字工具，支援斷句和口吃修正。
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-soundeffect-v2-0/) — 將文本轉換為音訊的擴散模型，適用於聲音效果和語音合成。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
+- [openai/whisper-large-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-whisper-large-v3/) — 一個使用 Transformers、PyTorch 和 JAX 的自動語音識別模型。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [ARSreg46/Ai-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arsreg46-ai-image-generator/) — 從文字提示生成 AI 圖片的桌面應用程式，整合多個繪畫 API。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
+- [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seesee75-commits-comfyui-minimaxh3-director/) — 用於 ComfyUI 中 MiniMax H3 的時間軸編輯器，支援故事板提示和動態預覽。
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shekmohammedakram-stable-diffusion-2026-free-local/) — 免費本地執行的穩定擴散模型，適用於AI影像生成。
+- [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/veedstudio-open-edit/) — 一個使用 AI 代理的影片編輯工具，可自訂字幕和轉錄。
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
 - [mixidifussion/stable-diffusion-web-ui-free](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mixidifussion-stable-diffusion-web-ui-free/) — 免費的 Stable Diffusion Web UI，支援影像生成和控制網。
 - [jiamo509/koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-koubo/) — 開源JJ口播剪輯技能，供學習使用。
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
-- [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pyang5166-gbro-collage-broll/) — 生成半調紙拼貼 B-roll 的技能，使用 Gemini Omni Flash 技術。
+- [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 - [ucsandman/marketing-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ucsandman-marketing-studio/) — Claude Code驅動的行銷工作室，自動生成產品推廣素材。
-- [PhaseConquer/stable-diffusion-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phaseconquer-stable-diffusion-flow/) — 穩定擴散流模型。
+- [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pyang5166-gbro-collage-broll/) — 生成半調紙拼貼 B-roll 的技能，使用 Gemini Omni Flash 技術。
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/) — 本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。
-- [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axisegretdefeat-kling-ai-master/) — Kling AI主體模型，將文字轉換為影像。
-- [Hallzyaoscillator/melodyne-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hallzyaoscillator-melodyne-forge/) — 音樂生成和旋律抽取工具。
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
+- [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。

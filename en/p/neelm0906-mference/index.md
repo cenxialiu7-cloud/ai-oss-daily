@@ -4,5 +4,5 @@ Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：51
+**Stars**：64
 **Source**：https://github.com/NeelM0906/Mference

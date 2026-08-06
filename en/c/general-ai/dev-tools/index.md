@@ -2,12 +2,12 @@
 
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
-- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-lingbot-video/) — · gradio, mcp-server, region:us
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-prompt-routing/) — · docker, region:us
-- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan555/) — · gradio, mcp-server, region:us
+- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
+- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan555/) — · gradio, mcp-server, region:us
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-yijunwang2-krea2-outpaint/) — · gradio, mcp-server, region:us
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-ardy/) — · gradio, mcp-server, region:us
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krafton-ax-k2-raon-speech-demo/) — · gradio, mcp-server, region:us
@@ -32,9 +32,9 @@
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-not-lain-background-removal/) — · gradio, mcp-server, region:us
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
-- [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
-- [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
+- [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
+- [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-clickygpt-nsfw-z-image-turbo/) — · gradio, region:us

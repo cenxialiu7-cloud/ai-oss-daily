@@ -100,7 +100,6 @@ _Daily archive · 2026-07-25_
 - [deepreinforce-ai/Ornith-1.0-397B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-397b/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [webml-community/bonsai-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-webgpu-kernels/) — · static, region:us
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/) — image-text-to-text · hermes, gguf, uncensored
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
@@ -562,7 +561,7 @@ _Daily archive · 2026-07-25_
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vibe-creating-skill/) — Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portab…
 - [mteb/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mteb-leaderboard/) — · docker, leaderboard, region:us
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
-- [inlineresearch/Inline-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inlineresearch-inline-studio/) — AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut, and keep every …
+- [inlineresearch/Inline-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inlineresearch-inline-studio/) — AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Image, Krea 2…
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - [M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-m3st3rj4k3l-flux-2-klein-multi-lora/) — · gradio, mcp-server, region:us
 - [SlavaSexton/ComfyUI-Agent-Kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/slavasexton-comfyui-agent-kit/) — One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local Comfy…

@@ -4,5 +4,5 @@ A practical Claude Code guide with clear mental models and copy-paste examples �
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,511
+**Stars**：2,566
 **Source**：https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know

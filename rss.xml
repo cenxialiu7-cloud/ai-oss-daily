@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>05 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>06 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>realrebelai/MiniMax-H3_GGUFs</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為影片的模型，支援gguf格式。</description>
+<title>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。</description>
 </item>
 <item>
-<title>LiquidAI/LFM2.5-2.6B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於transformers框架的文字生成模型。</description>
+<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於 Hermes 和 GGUF 格式的 Qwen3.6 模型，用於圖文生成。</description>
 </item>
 <item>
-<title>Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字、圖片轉換為影片的多模態模型。</description>
+<title>deepgrove/maple-preview</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>一個使用 Transformers 的文本生成模型，支援 Mixture of Experts 進行推理。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>XiaomiMiMo/MiMo-Code</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>模型與代理共演進的 AI 工具。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</guid>
-<pubDate>05 Aug 2026 08:00:00 +0000</pubDate>
-<description>深度文本生成模型，適用於各種對話和創作場景。</description>
+<title>Audio8/Audio8-TTS-Preview-0.6b</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/</guid>
+<pubDate>06 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成語音的模型，支援自訂聲音。</description>
 </item>
 </channel>
 </rss>

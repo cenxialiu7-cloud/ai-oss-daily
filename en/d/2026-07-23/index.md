@@ -6,7 +6,6 @@ _Daily archive · 2026-07-23_
 
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/) — image-text-to-text · hermes, gguf, uncensored
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fdtn-ai-antares-1b/) — text-generation · transformers, safetensors, granitemoehybrid
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pireel-pireel/) — The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
@@ -16,6 +15,7 @@ _Daily archive · 2026-07-23_
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-tw-anti-gambling-trader-tw/) — 免費開源的投資反詐、交易統計與自動化交易程式工具：預設 PaperBroker，提供 14 種券商／交易所選項；交易紀錄分析在本機執行。
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
+- [lidge-jun/opencodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lidge-jun-opencodex/) — Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…
 
 ## 🚀 Climbing
 
@@ -114,7 +114,6 @@ _Daily archive · 2026-07-23_
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-27b-mlx-1bit/) — text-generation · mlx, safetensors, qwen3_5
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/) — image-text-to-text · hermes, gguf, uncensored
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
@@ -535,7 +534,7 @@ _Daily archive · 2026-07-23_
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/extraltodeus-j-wash/) — Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Re…
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vibe-creating-skill/) — Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portab…
-- [inlineresearch/Inline-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inlineresearch-inline-studio/) — AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut, and keep every …
+- [inlineresearch/Inline-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inlineresearch-inline-studio/) — AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Image, Krea 2…
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantjourneyorg-quantjourney-bt/) — QuantJourney Backtester
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Expre…
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-bonsai-image-demo/) — · docker, region:us

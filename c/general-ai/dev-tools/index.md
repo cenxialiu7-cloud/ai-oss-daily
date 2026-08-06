@@ -2,12 +2,12 @@
 
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cinderholm-wan2-2-i2v-v3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-pid-image-upscaler/) — PiD 圖像放大線上示範（含 MCP server）。
-- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-vibevoice-asr-bitnet-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-lingbot-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-prompt-routing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-vibevoice-asr-bitnet-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-society-ethics-annotated-encyclical/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-ardy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -32,9 +32,9 @@
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-not-lain-background-removal/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pliny-the-prompter-obliteratus/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadevin-ilab-conjure/) — 用於GPT-image-2的AI圖片生成工作臺，支援Codex回應和OpenAPI接入。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadevin-ilab-conjure/) — 用於GPT-image-2的AI圖片生成工作臺，支援Codex回應和OpenAPI接入。
+- [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pliny-the-prompter-obliteratus/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

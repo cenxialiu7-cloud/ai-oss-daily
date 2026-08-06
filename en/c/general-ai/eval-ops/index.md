@@ -11,8 +11,9 @@
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
-- [hf-audio/open-asr-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hf-audio-open-asr-leaderboard/) — · benchmark:official, benchmark:eval-yaml, size_categories:100K<n<1M
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
+- [hf-audio/open-asr-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hf-audio-open-asr-leaderboard/) — · benchmark:official, benchmark:eval-yaml, size_categories:100K<n<1M
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
+- [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-paddlepaddle-real5-omnidocbench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-text
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-scarfbench/) — · task_categories:text-generation, arxiv:2605.06754, region:us
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mme-benchmarks-video-mme-v2/) — Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding

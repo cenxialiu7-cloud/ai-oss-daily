@@ -6,7 +6,6 @@ _每日存檔 · 2026-08-04_
 
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [unsloth/Inkling-Small-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/) — 基於影像和文字生成文字的對話式模型。
-- [ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/) — Qwen3-VL 和 MiniMax-H3 結合的圖文轉文字模型。
 - [v-modal/vmodal_sdk_android](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/v-modal-vmodal-sdk-android/) — 適用於 Android 的影片搜尋 SDK，可整合到任何影片應用程式中。
 - [makecindy/cindy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makecindy-cindy/) — 開源、即插即用的 AI 代理，支援多平臺。
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-kroma-krea2-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-08-04_
 - [karthikreddy-7/ai-engineering-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karthikreddy-7-ai-engineering-playbook/) — 從零開始的應用 AI 工程學習路徑，涵蓋 RAG、嵌入式向量搜尋等。
 - [Jintae-Park/ReDesign-Figma909](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jintae-park-redesign-figma909/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Syh1906/openai-compatible-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syh1906-openai-compatible-imagegen/) — 與 OpenAI 相容的影像生成和編輯代理技能。
+- [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -134,7 +134,6 @@ _每日存檔 · 2026-08-04_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v5-gguf/) — Qwen多模態模型的無審核版本，支援影像和文本到文本的轉換。
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — NVIDIA開發的文本生成模型，具備推理能力。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
@@ -170,7 +169,6 @@ _每日存檔 · 2026-08-04_
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — 使用LoRA技術訓練的文本生成模型，適用於程式碼生成和對話。
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
-- [ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-minimax-h3-comfyui-int8-convrot/) — Qwen3-VL 和 MiniMax-H3 結合的圖文轉文字模型。
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fdtn-ai-antares-1b/) — 一個用於生成文本的安全性強大的模型，具備檢測漏洞的能力。
 - [Motif-Technologies/Motif-3-Beta](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3-beta/) — Motif-3-Beta 是用於特徵抽取和混合專家系統的AI模型。
 - [bottlecapai/ThinkingCap-Qwen3.6-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bottlecapai-thinkingcap-qwen3-6-27b/) — 影像文字轉純文本生成模型，支援高效思考。

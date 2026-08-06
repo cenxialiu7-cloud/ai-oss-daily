@@ -16,8 +16,8 @@
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/futureuniant-workshadow/) — 本地優先的桌面工作日誌應用，支援富文本記錄和語義檢索。
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/) — 將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
-- [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。
+- [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/santanderai-linear-adapter-trainer/) — 使用 triplet loss 訓練線性嵌入介面卡以對齊檢索嵌入。
 - [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tmasjc-deka-oss/) — 將人類直覺與語義空間對齊的工具。
@@ -26,8 +26,8 @@
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [CodeAbra/iai-personal-memory-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeabra-iai-personal-memory-engine/) — 為 AI 程式設計助手提供加密記憶服務，支援多種 MCP 客戶端。
-- [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-system/) — 一套完整的 RAG 面試問題、答案及系統設計場景集合。
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skegdb-skeg/) — 多租戶向量資料庫，專注於極低記憶體使用效率。
+- [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-system/) — 一套完整的 RAG 面試問題、答案及系統設計場景集合。
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [CortexReach/memory-lancedb-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cortexreach-memory-lancedb-pro/) — 增強版 LanceDB 記憶外掛，適用於 OpenClaw 的混合檢索。
 - [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infino-ai-infino/) — 基於物件儲存的快速全文檢索引擎，支援向量和SQL查詢。
@@ -51,9 +51,9 @@
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lyonzin-knowledge-rag/) — 從 Claude Code 搜尋檔案，提供混合搜尋和重排序功能，本地執行無伺服器。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
-- [JustVugg/distillery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/justvugg-distillery/) — 將檔案轉換成高質量指令資料集，包括去重和來源追溯。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
 - [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
+- [JustVugg/distillery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/justvugg-distillery/) — 將檔案轉換成高質量指令資料集，包括去重和來源追溯。
 - [QingGo/engram-peft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qinggo-engram-peft/) — DeepSeek Engram 非官方實現，通過稀疏檢索 PEFT 為 LLMs 新增條件記憶。
 - [marswangyang/personal-ai-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marswangyang-personal-ai-memory/) — 個人AI記憶外掛，自動捕捉並整理ChatGPT等對話至私人知識圖譜。
 - [MicroClub-USTHB/mAIcro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microclub-usthb-maicro/) — 為社群和組織設計的開源 AI 基礎設施，理解結構化資料並回答問題。

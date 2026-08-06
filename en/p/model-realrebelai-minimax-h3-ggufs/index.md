@@ -1,6 +1,6 @@
 # realrebelai/MiniMax-H3_GGUFs
 
-text-to-video · gguf, text-to-video, minimax
+· gguf, minimax, comfyui
 
 **Commercial license**：License unclear — 未知授權代碼 unknown — 請人工確認商用條款
 

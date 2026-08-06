@@ -4,5 +4,5 @@ Ultra-lightweight, open-source, self-hosted personal AI agent framework in Pytho
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：46,617
+**Stars**：46,686
 **Source**：https://github.com/HKUDS/nanobot
