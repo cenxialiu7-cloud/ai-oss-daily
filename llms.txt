@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-08-06 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-08-07 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-08-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-07/)
 - [2026-08-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-06/)
 - [2026-08-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-05/)
 - [2026-08-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-04/)
@@ -26,15 +27,14 @@
 - [2026-07-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-27/)
 - [2026-07-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-26/)
 - [2026-07-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-25/)
-- [2026-07-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-07-24/)
 
 ## 今日精選 Today's picks
-- [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/)
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/)
-- [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/)
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/)
+- [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/)
+- [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/)
+- [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/)
+- [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/)
+- [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/)
+- [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -82,3 +82,5 @@
 - [帳號矩陣分發中台：一支影片、一篇貼文 → 自動改寫成各平台原生版本並排程發到 N 個帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P043/)
 - [報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P044/)
 - [團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/)
+- [MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P046/)
+- [AI 電影級產品宣傳片工作室：一張產品照＋賣點 → 電影感廣告短片](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P047/)

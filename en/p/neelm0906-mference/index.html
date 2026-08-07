@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>NeelM0906/Mference — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35B in ~1.45 GB, and DeepSeek-V4-Flash 284B at up to 4.8 tok/s on a 24 GB Ma…">
+<meta name="description" content="Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in …">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neelm0906-mference/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="NeelM0906/Mference — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35B in ~1.45 GB, and DeepSeek-V4-Flash 284B at up to 4.8 tok/s on a 24 GB Ma…">
+<meta property="og:description" content="Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in …">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NeelM0906/Mference — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35B in ~1.45 GB, and DeepSeek-V4-Flash 284B at up to 4.8 tok/s on a 24 GB Ma…">
+<meta name="twitter:description" content="Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in …">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "NeelM0906/Mference", "description": "Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35B in ~1.45 GB, and DeepSeek-V4-Flash 284B at up to 4.8 tok/s on a 24 GB Mac. SSD-streamed experts, native Mac app, CLI, and OpenAI-compatible server.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/NeelM0906/Mference", "license": "NOASSERTION", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 64, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, deepseek, gemma, llm-inference, macos, metal, mixture-of-experts, qwen, swift"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "NeelM0906/Mference", "description": "Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in ~2 GB, DeepSeek-V4-Flash 284B, Inkling-Small 276B, native Mac app, CLI, and OpenAI-compatible server.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/NeelM0906/Mference", "license": "NOASSERTION", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 73, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, deepseek, gemma, llm-inference, macos, metal, mixture-of-experts, qwen, swift"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ Inference / Serving", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "NeelM0906/Mference", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/neelm0906-mference/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/inference/">⚡ Inference / Serving</a>  </p>
   <h1>NeelM0906/Mference</h1>
-<p class="detail-lead">Swift + Metal MoE inference for Apple Silicon: Gemma 4 26B in ~2 GB, Qwen 3.6 35B in ~1.45 GB, and DeepSeek-V4-Flash 284B at up to 4.8 tok/s on a 24 GB Mac. SSD-streamed experts, native Mac app, CLI, and OpenAI-compatible server.</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in ~2 GB, DeepSeek-V4-Flash 284B, Inkling-Small 276B, native Mac app, CLI, and OpenAI-compatible server.</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-unknown">License unclear</span>
-<span class="badge stars">★ 64</span><span class="badge">Swift</span>  </div>
+<span class="badge stars">★ 73</span><span class="badge">Swift</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/NeelM0906/Mference" rel="noopener" target="_blank">↗ Source</a>
   </div>

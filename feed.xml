@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
+<updated>2026-08-07T08:00:00+00:00</updated>
 <entry>
-<title>ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。</summary>
+<title>larryvrh/MiniMax-H3-Turbo-Lora</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。</summary>
 </entry>
 <entry>
-<title>LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>基於 Hermes 和 GGUF 格式的 Qwen3.6 模型，用於圖文生成。</summary>
+<title>drbaph/MiniMax-H3-Turbo-Lora-ComfyUI</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。</summary>
 </entry>
 <entry>
-<title>deepgrove/maple-preview</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>一個使用 Transformers 的文本生成模型，支援 Mixture of Experts 進行推理。</summary>
+<title>Kijai/MiniMax-H3-experimental</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>esengine/DeepSeek-Reasonix</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>drumih/turbo-fieldfare</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。</summary>
 </entry>
 <entry>
-<title>Audio8/Audio8-TTS-Preview-0.6b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/</id>
-<updated>2026-08-06T08:00:00+00:00</updated>
-<summary>將文字轉換成語音的模型，支援自訂聲音。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-08-07T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

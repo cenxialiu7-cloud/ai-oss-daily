@@ -4,5 +4,5 @@ Business operating system for Claude Code — 57 skills, 21 agents, smart daemon
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：21
+**Stars**：22
 **Source**：https://github.com/Lifecycle-Innovations-Limited/claude-ops

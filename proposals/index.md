@@ -45,3 +45,5 @@
 - [帳號矩陣分發中台：一支影片、一篇貼文 → 自動改寫成各平台原生版本並排程發到 N 個帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P043/) — 接在「內容生成」之後的分發層：同一素材自動改寫成 TikTok／Reels／Shorts／小紅書／X／FB 的原生語氣與長度，跨帳號排程發佈，並把成效數據回收餵給下一輪選題。
 - [報表機器人：接上資料源 → 每月自動產出帶「可信圖表」的客戶月報與營運報表](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P044/) — 把行銷代理商與顧問每月手工做客戶月報的苦差事自動化：取數、產圖、寫繁中解讀一次完成；圖表由規格語言渲染而非讓 LLM 直接畫，數字不會被編出來。
 - [團隊共用程式碼記憶 MCP（自架）：一次索引全公司程式碼，讓 Claude／Cursor／Codex 每個 AI 工具都精準檢索、程式碼零外流](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P045/) — 把整個 codebase 建成一座自架的 MCP 索引，團隊任何 AI 編碼工具連上就能秒查『這功能在哪、怎麼串接、改哪裡會壞』，程式碼不出公司內網。
+- [MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P046/) — MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。
+- [AI 電影級產品宣傳片工作室：一張產品照＋賣點 → 電影感廣告短片](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P047/) — 給電商／DTC 品牌的產品廣告片產線：上傳產品照與賣點，用電影級分鏡模板自動生成帶運鏡、旁白、字幕的宣傳短片，不必找攝影棚與剪接師。

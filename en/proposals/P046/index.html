@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分 — AI OSS Daily</title>
+<meta name="description" content="MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P046/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P046/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P046/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P046/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P046/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分 — AI OSS Daily">
+<meta property="og:description" content="MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P046/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分 — AI OSS Daily">
+<meta name="twitter:description" content="MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分", "description": "MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。", "datePublished": "2026-08-06T08:00:00+00:00", "dateModified": "2026-08-06T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-08-06/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P046/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P046</p>
+  <h1>MCP 伺服器信任稽核平台：安裝前先掃描，給每個 MCP server 一個供應鏈安全評分</h1>
+  <p class="detail-lead">MCP 生態爆量，但裝一個來路不明的 server 等於把權限與資料交出去；本平台自動掃描並替每個 MCP server 打信任分數、列出紅旗，讓團隊安裝前先驗過。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 2–3 週做出能掃 servers 目錄並出信任分數的網站 MVP：mcptrustchecker 掃描管線＋分數計算約 1 週，python-sdk 包成 MCP 工具與網站後端約 1 週，公開目錄前端與私有清單稽核約 1 週。難點在掃描規則的準確度與誤報控制、持續跟上目錄更新，以及評分標準要能服眾（可解釋、可申訴）。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①免費『MCP 信任評分目錄』網站（掃描 modelcontextprotocol/servers 收錄的 server，公開風險分數與紅旗清單）衝自然流量，網頁端掛 Adsterra／Monetag 廣告；②團隊／企業版私有稽核 SaaS 月費：接上團隊實際連上的 MCP／SaaS 端點，持續監控供應鏈風險並產出稽核報告，依席次或受監控端點數計費；③本機 CLI／掃描器免費，進階規則庫與離線報告走 Ko-fi 贊助或包成 Mac App 買斷給獨立開發者。廣告只放網頁端，絕不碰任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>排程持續抓 modelcontextprotocol/servers 官方收錄清單當掃描對象 → 對每個 server 用 mcptrustchecker 做靜態與行為掃描（過度權限、危險工具、可疑網路呼叫、憑證外洩、可疑相依），算出信任分數與紅旗清單 → 透過 modelcontextprotocol/python-sdk 把掃描器本身包成一個標準 MCP server，讓 Claude／Cursor 在安裝任何工具前先呼叫它查分，同時當公開評分網站的後端 → 團隊／企業版用 oomol-lab/open-connector 盤點該團隊實際連上的 SaaS／MCP 端點，把公開目錄的評分套到私有清單做持續稽核與告警。與 P017（給 AI 的 CVE／紅隊知識庫）定位不同：本案稽核的是『MCP 工具本身的供應鏈可信度』，賣點是安裝前的把關與持續監控。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/illiahaidar-mcptrustchecker/">illiahaidar/mcptrustchecker</a></h3>
+<p class="summary">Security scanner for MCP (Model Context Protocol) servers — reads the real published npm/PyPI source, not just metadata, to catch tool poisoning, prompt injection, toxic flows &amp; supply-chain risk. Offline, deterministic A–F Trust Score, SARIF + CI gates.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 180</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-servers/">modelcontextprotocol/servers</a></h3>
+<p class="summary">Model Context Protocol Servers</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge change">✦ Curated</span>    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 89,291</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 23,917</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/oomol-lab-open-connector/">oomol-lab/open-connector</a></h3>
+<p class="summary">Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 4,376</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

@@ -2,6 +2,7 @@
 
 Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
+- [2026-08-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-08-07/)
 - [2026-08-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-08-06/)
 - [2026-08-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-08-05/)
 - [2026-08-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/newsletter/2026-08-04/)
