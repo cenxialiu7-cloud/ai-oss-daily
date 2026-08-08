@@ -2,9 +2,9 @@
 
 CuteMarkets即時及歷史選項資料TypeScript SDK。
 
-**為何上榜**：近一日新增 3★（現 49★）
+**為何上榜**：近一日新增 1★（現 50★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：49
+**Stars**：50
 **原始連結**：https://github.com/cutemarkets/cutemarkets-typescript

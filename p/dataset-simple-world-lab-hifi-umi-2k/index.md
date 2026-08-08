@@ -2,7 +2,7 @@
 
 Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 24 · 38 likes · 65,528 下載
+**為何上榜**：HF trending 22 · 40 likes · 71,367 下載
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 

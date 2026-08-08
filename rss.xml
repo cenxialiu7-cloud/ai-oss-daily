@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>07 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>08 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>larryvrh/MiniMax-H3-Turbo-Lora</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
-<description>一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。</description>
+<title>lightx2v/Minimax-h3-Turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
 </item>
 <item>
-<title>drbaph/MiniMax-H3-Turbo-Lora-ComfyUI</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
-<description>使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。</description>
+<title>SexGod1979/PinkCherry_MiniMax-H3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於MiniMax-H3的文字生成影片模型。</description>
 </item>
 <item>
-<title>Kijai/MiniMax-H3-experimental</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
+<title>Kijai/MiniMax-H3_comfy</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
 <description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>esengine/DeepSeek-Reasonix</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</description>
+<title>JuliusBrussee/caveman</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
 </item>
 <item>
-<title>drumih/turbo-fieldfare</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
-<description>turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。</description>
+<title>xbtlin/ai-berkshire</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>07 Aug 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</guid>
+<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
+<description>深度文本生成模型，適用於各種對話和創作場景。</description>
 </item>
 </channel>
 </rss>
