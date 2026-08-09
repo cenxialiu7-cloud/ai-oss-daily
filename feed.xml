@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
+<updated>2026-08-09T08:00:00+00:00</updated>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>SexGod1979/PinkCherry_MiniMax-H3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>基於MiniMax-H3的文字生成影片模型。</summary>
+<title>endless-frontier/BigBang-v1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文本的模型，支援對話式生成。</summary>
 </entry>
 <entry>
-<title>Kijai/MiniMax-H3_comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>AI 相關專案（依標籤自動歸類，詳細看下方原文）</summary>
+<title>GravityVerseYield47/flux-ai-works</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>提供從影像生成影片的功能。</summary>
 </entry>
 <entry>
-<title>JuliusBrussee/caveman</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>xbtlin/ai-berkshire</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</id>
-<updated>2026-08-08T08:00:00+00:00</updated>
-<summary>深度文本生成模型，適用於各種對話和創作場景。</summary>
+<title>jdopensource/JoyAI-Echo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
+<updated>2026-08-09T08:00:00+00:00</updated>
+<summary>文字轉影片生成工具，適用於長片。</summary>
 </entry>
 </feed>

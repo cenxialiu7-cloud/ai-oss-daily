@@ -13,9 +13,9 @@ _每日存檔 · 2026-07-31_
 - [KyleHessling1/Qwopus3.6-27B-Fusion-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kylehessling1-qwopus3-6-27b-fusion-gguf/) — 使用 GGUF 格式的文本生成模型，支援任務向量。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [iannuttall/seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iannuttall-seo/) — 提供70多種SEO審核工具，透過本地CLI和MCP伺服器使用自定義爬蟲、Search Console和GA4資料。
 - [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-vibevoice-asr-bitnet-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-prompt-routing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -271,7 +271,6 @@ _每日存檔 · 2026-07-31_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-facebook-vggt-omega/) — Meta VGGT 3D 視覺幾何重建示範（HF Space）。
 - [build-small-hackathon/FamilyLegacy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-familylegacy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

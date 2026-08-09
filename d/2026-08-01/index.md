@@ -415,7 +415,6 @@ _每日存檔 · 2026-08-01_
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-unise-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mig-nju-omnivideo-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/) — 將參考影像轉換成高品質的 Three.js 動畫模型。

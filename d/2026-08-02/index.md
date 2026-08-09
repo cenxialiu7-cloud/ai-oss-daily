@@ -462,7 +462,6 @@ _每日存檔 · 2026-08-02_
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-ardy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [Alissonerdx/ltx-best-face-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alissonerdx-ltx-best-face-id/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnikodev-robinhood-ai-dev-sniper/) — 專為Robinhood Chain設計的AI交易狙擊工具。

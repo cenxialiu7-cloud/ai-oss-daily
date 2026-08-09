@@ -2,21 +2,20 @@
 
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3/) — image-text-to-video · diffusers, safetensors, text-to-video
 - [open-gigaai/Giga-World-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-open-gigaai-giga-world-1/) — · diffusers, safetensors, license:apache-2.0
-- [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-comfy/) — · region:us
+- [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
+- [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-razzzhf-realism-engine-ideogram-4/) — · license:unknown, region:us
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-10eros/) — · gradio, region:us
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-krea-2/) — · comfyui, license:other, region:us
-- [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-mage-flow/) — · diffusion-single-file, comfyui, base_model:microsoft/Mage-Flow
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-boogu-image/) — · comfyui, license:apache-2.0, region:us
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — · region:us
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
-- [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — · static, region:us
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-cs2-10k/) — · task_categories:other, license:cc-by-nc-4.0, size_categories:100K<n<1M
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-neuronpedia-jacobian-lens/) — · jacobian_lens, license:mit, region:us
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xdof-abc-130k/) — · task_categories:robotics, language:en, license:apache-2.0
@@ -24,24 +23,22 @@
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-aimeebingmouqu-protectbirds/) — · docker, region:us
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-edge/) — · cosmos, diffusers, safetensors
-- [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-simple-world-lab-hifi-umi-2k/) — · task_categories:robotics, language:en, license:cc-by-4.0
+- [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — · static, region:us
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-registration/) — · gradio, region:us
+- [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-simple-world-lab-hifi-umi-2k/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huuyfytryr-jigarrzz/) — · docker, region:us
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-gemma-4-webgpu-kernels/) — · static, region:us
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
-- [PLUS-WAVE/InfiniSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-plus-wave-infinisplat/) — · gradio, region:us
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ginigen-ai-metacognition-leaderboard-space/) — · docker, region:us
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-sun-direction-flux2-klein/) — · gradio, region:us
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zzwater-viitorvoice/) — · gradio, region:us
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-lfm2-webgpu-kernels/) — · static, region:us
 - [openbmb/MiniCPM5-1B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-minicpm5-1b-demo/) — · gradio, region:us
-- [microsoft/mage-vl-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-mage-vl-demo/) — · gradio, region:us
 - [julien-c/synthtraces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-julien-c-synthtraces/) — · language:en, license:mit, size_categories:1K<n<10K
 - [TuringEnterprises/Open-MM-RL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-turingenterprises-open-mm-rl/) — · task_categories:question-answering, language:en, license:mit
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-psibotai-syndata/) — · language:en, license:cc-by-4.0, size_categories:100K<n<1M
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hidream-ai-hidream-o1-image-dev/) — · gradio, region:us
-- [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-flyrank-internship-warehouse/) — · language:en, license:other, size_categories:10M<n<100M
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacebio-carbon-demo/) — · docker, region:us
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-supertone-supertonic-3/) — · static, speech-synthesis, text-to-speech
 - [build-small-hackathon/small-talk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-small-talk/) — · gradio, reachy_mini, livekit
@@ -49,6 +46,7 @@
 - [huggingface-projects/diffusiongemma-codegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingface-projects-diffusiongemma-codegen/) — · gradio, region:us
 - [Kaikaku/epicure-explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kaikaku-epicure-explorer/) — · gradio, region:us
 - [build-small-hackathon/PITCHFIGHT_AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-pitchfight-ai/) — · gradio, build-small-hackathon, backyard-ai
+- [PLUS-WAVE/InfiniSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-plus-wave-infinisplat/) — · gradio, region:us
 - [ngocdang83/tran-vi-teacher](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ngocdang83-tran-vi-teacher/) — · task_categories:translation, language:zh, language:vi
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Ryiys/media-processor-service](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ryiys-media-processor-service/) — · docker, region:us
@@ -58,20 +56,20 @@
 - [build-small-hackathon/her](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-her/) — · gradio, track:backyard, sponsor:nvidia
 - [zhifeixie/Voices-in-the-Wild-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-voices-in-the-wild-2m/) — · task_categories:automatic-speech-recognition, language:en, language:zh
 - [HuggingFaceM4/hugging-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-hugging-voice/) — · docker, research-article-template, research paper
+- [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-flyrank-internship-warehouse/) — · language:en, license:other, size_categories:10M<n<100M
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500-lerobot/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
-- [webml-community/bonsai-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-webgpu-kernels/) — · static, region:us
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-ternary-bonsai-27b-demo/) — · gradio, region:us
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-facebook-vggt-omega/) — · gradio, region:us
 - [build-small-hackathon/FamilyLegacy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-familylegacy/) — · gradio, track:backyard, sponsor:openbmb
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500/) — · language:en, license:cc-by-4.0, region:us
 - [CohereLabs/command-a-plus-05-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-command-a-plus-05-2026/) — · gradio, region:us
 - [build-small-hackathon/prize-ledger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-prize-ledger/) — · static, region:us
-- [EilamSha/glee-competition-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eilamsha-glee-competition-leaderboard/) — · static, region:us
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-umutkocasari-faceanything/) — · gradio, face, 4d-reconstruction
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
 - [fffiloni/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fffiloni-scail-2/) — · gradio, region:us
 - [huggingface-projects/rf-detr-realtime-webcam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingface-projects-rf-detr-realtime-webcam/) — · gradio, object-detection, instance-segmentation
+- [microsoft/mage-vl-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-mage-vl-demo/) — · gradio, region:us
 - [FINAL-Bench/POCKET-35B-CPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-35b-cpu/) — · docker, region:us
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-fable-5-boeing-747/) — · static, region:us
 - [feyninc/pulpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-pulpie/) — · gradio, region:us
@@ -91,6 +89,8 @@
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-jawbreaker/) — · gradio, track:backyard, sponsor:openbmb
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lukadev13-liminal-dreamcore-1k/) — · license:mit, modality:image, region:us
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-axiomiclabs-open-slm-leaderboard/) — · static, region:us
+- [webml-community/bonsai-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-webgpu-kernels/) — · static, region:us
+- [EilamSha/glee-competition-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eilamsha-glee-competition-leaderboard/) — · static, region:us
 - [HKUSTAudio/ISCSLP2026-CoT-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hkustaudio-iscslp2026-cot-tts/) — · region:us
 - [Syn4D/Syn4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-syn4d-syn4d/) — · license:cc-by-4.0, arxiv:2605.05207, region:us
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-k-intelligence-ksafe-mm/) — · size_categories:10K<n<100K, format:parquet, format:optimized-parquet
@@ -101,21 +101,20 @@
 - [RekaAI/RekaDaily-10k-raw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-rekadaily-10k-raw/) — · task_categories:video-classification, task_categories:image-to-video, language:en
 - [carpedkm/CustoMDiT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-carpedkm-customdit/) — · task_categories:text-to-video, license:cc-by-4.0, size_categories:1M<n<10M
 - [bcbl190626/SpanishBCBL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bcbl190626-spanishbcbl/) — · task_categories:other, language:es, license:cc-by-nc-4.0
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-seedofevil-pro-realism-edit-studio/) — · gradio, region:us
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cha007-pornflux-i2v-6e9et/) — · static, deepsite-v4, region:us
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nineninesix-gepard/) — · gradio, region:us
+- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-seedofevil-pro-realism-edit-studio/) — · gradio, region:us
 - [Kwai-Klear/GoLongRL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kwai-klear-golongrl/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — · gradio, region:us
-- [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-acvlab-abot-world-interactive/) — · gradio, region:us
 - [BoJack/MMAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bojack-mmae/) — · task_categories:audio-to-audio, size_categories:1K<n<10K, format:audiofolder
+- [kulibinai/cadena-stepwise-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulibinai-cadena-stepwise-cad/) — · gradio, region:us
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
 - [anthonytec2/OctoSense](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthonytec2-octosense/) — · task_categories:depth-estimation, task_categories:image-segmentation, task_categories:robotics
 - [HumeAI/rw-voice-eq](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-humeai-rw-voice-eq/) — · gradio, region:us
 - [utkucoban/NanoMaestro-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-utkucoban-nanomaestro-realtime/) — · static, region:us
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — · gradio, region:us
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openvivo-vins-120k/) — · task_categories:image-text-to-image, language:en, license:apache-2.0
-- [kulibinai/cadena-stepwise-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulibinai-cadena-stepwise-cad/) — · gradio, region:us
 - [gemma-challenge/gemma-interactions-view](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gemma-challenge-gemma-interactions-view/) — · static, region:us
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
 - [witcherderivia/TeleStyleV2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-witcherderivia-telestylev2/) — · gradio, region:us
@@ -124,6 +123,7 @@
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-synthcomp/) — · language:ru, language:en, license:odc-by
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-localduo/) — · gradio, track:backyard, achievement:offgrid
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
+- [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-acvlab-abot-world-interactive/) — · gradio, region:us
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-gemma-avatar/) — · docker, region:us
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
@@ -136,7 +136,6 @@
 - [macrodata/WGO-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-macrodata-wgo-bench/) — · task_categories:robotics, task_categories:video-classification, language:en
 - [inclusionAI/OpenAoE-2000h](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-openaoe-2000h/) — · language:zh, language:en, license:other
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-molmo-motion-1m/) — · task_categories:other, language:en, license:other
-- [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-infatoshi-kernelbench-hard-traces/) — · license:mit, size_categories:n<1K, format:json
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
@@ -144,20 +143,22 @@
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
-- [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/img2threejs-img2threejs/) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js m…
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
+- [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/img2threejs-img2threejs/) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js m…
+- [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
+- [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-feynobg/) — · gradio, background-removal, image-matting
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [STBack23/omnivoice-vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stback23-omnivoice-vi/) — · language:vi, license:apache-2.0, size_categories:n<1K
 - [allenai/tmax-15k-open-instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-tmax-15k-open-instruct/) — · language:en, license:odc-by, size_categories:10K<n<100K
 - [ByteDance/TableVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bytedance-tableverse/) — · task_categories:robotics, license:cc-by-4.0, arxiv:2607.21017
-- [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-alpamayo2-super/) — robotics · safetensors, alpamayo2_super, alpamayo
-- [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
+- [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
+- [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-alpamayo2-super/) — robotics · safetensors, alpamayo2_super, alpamayo
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dronefreak-exdark/) — · task_categories:object-detection, language:en, license:bsd-3-clause
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-osworld-v2-tasks/) — · license:apache-2.0, size_categories:n<1K, format:json
@@ -180,16 +181,17 @@
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kwai-kolors-kolors-virtual-try-on/) — · gradio, region:us
-- [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-databricks-databricks-dolly-15k/) — · task_categories:question-answering, task_categories:summarization, language:en
-- [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
 - [Jintae-Park/ReDesign-Figma909](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jintae-park-redesign-figma909/) — · task_categories:image-to-image, license:cc-by-4.0, size_categories:n<1K
+- [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-bleckhert-uncensored-image-to-video-alchemist/) — · static, deepsite-v3, region:us
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — · task_categories:translation, language:en, language:kha
+- [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-databricks-databricks-dolly-15k/) — · task_categories:question-answering, task_categories:summarization, language:en
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nanotron-ultrascale-playbook/) — · static, region:us
 - [AI4Editing/MagicQuill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ai4editing-magicquill/) — · gradio, region:us
 - [nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-robotics-locomanipulation-grail/) — · license:apache-2.0, size_categories:1K<n<10K, modality:image
+- [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
 - [hexgrad/Kokoro-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hexgrad-kokoro-tts/) — · gradio, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [mteb/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mteb-leaderboard/) — · docker, leaderboard, region:us
+- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
 - [black-forest-labs/FLUX.2-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-2-dev/) — · gradio, region:us
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-114k/) — · license:apache-2.0, size_categories:100K<n<1M, format:parquet
@@ -201,17 +203,17 @@
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gdpval/) — · size_categories:n<1K, format:parquet, modality:text
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lmsys-lmsys-chat-1m/) — · size_categories:1M<n<10M, format:parquet, modality:text
-- [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-waxalnlp/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language_creators:creator_1
 - [kongyiji/face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kongyiji-face-swap/) — · gradio, region:us
+- [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlabonne-open-perfectblend/) — · license:apache-2.0, arxiv:2409.20370, region:us
 - [SakanaAI/AI-CUDA-Engineer-Archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sakanaai-ai-cuda-engineer-archive/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [ASLP-lab/WSC-Train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-wsc-train/) — · license:apache-2.0, arxiv:2509.18004, region:us
-- [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [shootstuff/flux-img2img-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-shootstuff-flux-img2img-uncensored/) — · gradio, region:us
+- [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
 - [RioShiina/ImageGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rioshiina-imagegen/) — · gradio, region:us
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [openai/healthbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-healthbench/) — · license:mit, region:us

@@ -2,9 +2,9 @@
 
 28 個開放原始碼的 Agent 技能，適用於 Claude Code 和 Codex。
 
-**為何上榜**：近一日新增 2★（現 150★）
+**為何上榜**：近一日新增 2★（現 152★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：150
+**Stars**：152
 **原始連結**：https://github.com/JasonColapietro/suede-creator-skills

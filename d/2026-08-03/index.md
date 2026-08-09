@@ -473,7 +473,6 @@ _每日存檔 · 2026-08-03_
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。

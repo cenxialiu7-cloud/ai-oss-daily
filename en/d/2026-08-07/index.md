@@ -462,7 +462,7 @@ _Daily archive · 2026-08-07_
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-infatoshi-kernelbench-hard-traces/) — · license:mit, size_categories:n<1K, format:json
-- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Local-first browser AI video editor with WebGPU AI music, AI repair, voiceovers, captions, talking avatars, a…
+- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Local-first browser AI video editor with WebGPU and agent skills helps to create any videos
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trace-commons-agent-traces/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-reasoning-summaries-61k/) — · task_categories:summarization, task_categories:text-generation, language:en
@@ -494,7 +494,6 @@ _Daily archive · 2026-08-07_
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stationgraph-flux-ai/) — Flux AI
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-antirez-deepseek-v4-gguf/) — text-generation · gguf, quantized, deepseek
@@ -873,7 +872,7 @@ _Daily archive · 2026-08-07_
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seeda…
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
-- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистил…
+- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Locally fine-tuned Russian RAG models: document splitter, query expansion, retrieval embedder. Teacher distil…
 - [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cyyself-opentihui/) — on-device LLM for iOS with keyboard shortcuts
 - [0xSero/glm-5.2-sm120](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsero-glm-5-2-sm120/) — GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K c…
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing

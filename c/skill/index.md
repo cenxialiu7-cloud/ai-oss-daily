@@ -26,8 +26,8 @@
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
-- [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/) — 將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。
+- [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — Google NotebookLM的非官方Python API及代理技能。
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-oh-story-claudecode/) — 網文寫作技能包，涵蓋掃榜、拆文、去 AI 味道等全流程。
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/) — 用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。
@@ -44,19 +44,19 @@
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-superpowers-zh/) — Claude Code等AI程式設計工具的中文增強版和技能。
 - [deanpeters/Product-Manager-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deanpeters-product-manager-skills/) — 基於 AI 代理的產品管理技能框架。
-- [motiful/product-shots](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/motiful-product-shots/) — 使用Claude Code技能將單一產品照片轉換為完整的電商視覺素材。
 - [antfu/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/antfu-skills/) — Anthony Fu 編輯的 AI 代理技能集合。
+- [motiful/product-shots](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/motiful-product-shots/) — 使用Claude Code技能將單一產品照片轉換為完整的電商視覺素材。
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breaking-brake-cc-wf-studio/) — 用於工作流程自動化的 CC Workflow Studio 工具。
 - [browser-act/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-act-skills/) — 用於AI代理的瀏覽器自動化CLI工具，支援跨平臺操作和多工執行。
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anbeime-skill/) — 提供涵蓋多個領域的技能包商店，自動抓取 GitHub 上的 Skills 專案並整理。
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — 為安全研究和漏洞檢測設計的 Claude Code 技能集。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
 - [rohitg00/pro-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-pro-workflow/) — Claude Code 自我修正記憶，支援多個工作樹並行運作。
-- [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kklimuk-docx-cli/) — 讓 AI 代理可以讀取、編輯和評論 .docx 檔案的命令列工具。
 - [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rebelytics-one-skill-to-rule-them-all/) — 自動捕捉並改進工作中的修正和判斷的元技能。
+- [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kklimuk-docx-cli/) — 讓 AI 代理可以讀取、編輯和評論 .docx 檔案的命令列工具。
 - [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — 基於 Elixir 的單二進位LLM代理執行時，提供聊天介面和多供應商路由等功能。
-- [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvk-llm-wiki/) — LLM 編譯知識庫，用於 AI 代理的平行多代理研究和文件編輯。
 - [guanyang/antigravity-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-antigravity-skills/) — 通過模組化技能定義賦予代理程式專業能力，如全端開發、複雜邏輯規劃等。
 - [guanyang/open-agent-hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-open-agent-hub/) — 輕量級CLI工具，管理AI程式設計助手的能力。
+- [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvk-llm-wiki/) — LLM 編譯知識庫，用於 AI 代理的平行多代理研究和文件編輯。
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — 互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
-- [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。
+- [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — 產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。

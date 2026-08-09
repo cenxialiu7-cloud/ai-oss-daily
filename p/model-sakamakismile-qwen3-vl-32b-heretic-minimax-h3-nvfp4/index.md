@@ -2,7 +2,7 @@
 
 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
 
-**為何上榜**：HF trending 115 · 121 likes
+**為何上榜**：HF trending 125 · 133 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

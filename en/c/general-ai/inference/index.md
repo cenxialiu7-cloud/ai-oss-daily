@@ -6,35 +6,35 @@
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
-- [huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-deepseek-v4-flash-0731-abliterated-gguf/) — text-generation · gguf, abliterated, uncensored
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
-- [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
-- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/) — image-text-to-text · hermes, gguf, uncensored
+- [huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-deepseek-v4-flash-0731-abliterated-gguf/) — text-generation · gguf, abliterated, uncensored
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
+- [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
+- [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/) — image-text-to-text · hermes, gguf, uncensored
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1/) — text-generation · transformers, safetensors, laguna
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-27b-mlx-1bit/) — text-generation · mlx, safetensors, qwen3_5
 - [prism-ml/Ternary-Bonsai-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-27b-gguf/) — text-generation · llama.cpp, gguf, conversational
-- [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mradermacher-mythos-nano-i1-gguf/) — · transformers, gguf, reasoning
 - [unsloth/Inkling-Small-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-inkling-small-gguf/) — image-text-to-text · gguf, conversational, image-text-to-text
-- [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · safetensors, qwen3_5_moe, mixture-of-experts
+- [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
 - [KyleHessling1/Qwopus3.6-27B-Fusion-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kylehessling1-qwopus3-6-27b-fusion-gguf/) — text-generation · gguf, merge, task-vector
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — text-generation · peft, safetensors, gguf
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
+- [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · safetensors, qwen3_5_moe, mixture-of-experts
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — · region:us
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
 - [owensong/Inflect-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-owensong-inflect-v2/) — · gradio, text-to-speech, local-tts
-- [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-llm-cinema/) — · gradio, build-small-hackathon, thousand-token-wood
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fareedkhan-dev-kimi-k3-in-c/) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS,…
+- [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-llm-cinema/) — · gradio, build-small-hackathon, thousand-token-wood
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
@@ -50,8 +50,8 @@
 - [avifenesh/bw24](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-bw24/) — bw24 — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
 - [re4/LibreCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/re4-librecode/) — LibreCode - A Ollama cursor like coding / Reversing Interface
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-memra/) — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
-- [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helasaoudi-llm-inspector/) — The htop for LLM inference see exactly where every GB of VRAM goes and get measured quantization savings.
+- [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/200lz-llm-inference-optimization-lab/) — Reproducible llama.cpp CPU inference profiling and a deterministic LLM serving simulator with continuous batc…
 - [seuksaedu-beep/Persona-Flow-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seuksaedu-beep-persona-flow-chat/) — Simulate AI Personas in Social Feeds with Real-Time Chat Bots 2026
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
@@ -61,8 +61,8 @@
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundot-omlx/) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b…
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chiennv2000-orthrus/) — Fast, lossless LLM inference via dual-view diffusion decoding.
-- [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnyk-council-of-high-intelligence/) — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman,…
+- [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [Arthur-Ficial/apfel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arthur-ficial-apfel/) — The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via…
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mnfst-awesome-free-llm-apis/) — List of Permanent Free LLM API (API Keys)
 - [Andyyyy64/whichllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/andyyyy64-whichllm/) — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware bench…
@@ -84,12 +84,12 @@
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dynamis-labs-spectralquant/) — SpectralQuant: Calibrated Eigenbasis Rotation and Water-Filled Bit Allocation for KV-Cache Compression
 - [psmarter/CUDA-Practice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/psmarter-cuda-practice/) — CUDA编程练习项目-Hands-on CUDA kernels and performance optimization, covering GEMM, FlashAttention, Tensor Cores, C…
 - [Zyora-Dev/zse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zyora-dev-zse/) — The inference engine the open-source world built for itself.
-- [thomas9120/LLama-GUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thomas9120-llama-gui/) — User friendly GUI for Llama.cpp for easy configuration and launching.
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nightmean-ollitert/) — Turn your Android phone into an OpenAI-compatible LLM inference server — Fully local, private and Open Source
 - [Mcourtyard/m-courtyard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcourtyard-m-courtyard/) — M-Courtyard: Local AI Model Fine-tuning Assistant for Apple Silicon. Zero-code, zero-cloud, privacy-first des…
+- [thomas9120/LLama-GUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thomas9120-llama-gui/) — User friendly GUI for Llama.cpp for easy configuration and launching.
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matt-k-wong-mlx-flash/) — Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon.
-- [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tinybiggames-vindexllm/) — VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF mod…
 - [BenChaliah/Tensa-Lang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/benchaliah-tensa-lang/) — TensaLang is a Tensor-first programming language, compiler, and runtime that let you write the Model’s infere…
+- [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tinybiggames-vindexllm/) — VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF mod…
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onlyterp-turboquant/) — First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LL…
 - [TheToughCrane/nano-kvllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thetoughcrane-nano-kvllm/) — This project aims to provide a high effective KV cache manage framework for llm inference and improve memory …
 - [OpenDCAI/Flash-MinerU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendcai-flash-mineru/) — Ray-powered accelerator for MinerU, turning PDF → Markdown into a scalable, cluster-ready data infrastructure…

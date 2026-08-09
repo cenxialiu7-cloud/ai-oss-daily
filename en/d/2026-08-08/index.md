@@ -478,7 +478,7 @@ _Daily archive · 2026-08-08_
 - [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sensenova-sensenova-vision-corpus-50m/) — · task_categories:any-to-any, language:en, license:cc-by-nc-4.0
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
-- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Local-first browser AI video editor with WebGPU AI music, AI repair, voiceovers, captions, talking avatars, a…
+- [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Local-first browser AI video editor with WebGPU and agent skills helps to create any videos
 - [froggeric/Qwen-Fixed-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-froggeric-qwen-fixed-chat-templates/) — · mlx, jinja, chat-template
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
@@ -501,7 +501,6 @@ _Daily archive · 2026-08-08_
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stationgraph-flux-ai/) — Flux AI
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-streamaudio-2m/) — · task_categories:audio-classification, task_categories:automatic-speech-recognition, task_categories:transla…
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-antirez-deepseek-v4-gguf/) — text-generation · gguf, quantized, deepseek
@@ -886,7 +885,7 @@ _Daily archive · 2026-08-08_
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
-- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Локально дообученные русские RAG-модели: сплиттер документов, расширение запросов, retrieval-эмбеддер. Дистил…
+- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Locally fine-tuned Russian RAG models: document splitter, query expansion, retrieval embedder. Teacher distil…
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seeda…
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/panniantong-agent-reach/) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,…

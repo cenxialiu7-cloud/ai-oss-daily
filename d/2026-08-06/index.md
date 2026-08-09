@@ -488,7 +488,6 @@ _每日存檔 · 2026-08-06_
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [StationGraph/flux-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stationgraph-flux-ai/) — 將文字和影像轉換成影片的工具。
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qwenaudio-qwen-audio-agent/) — 即時語音執行框架，讓 AI 代理保持線上和互動。

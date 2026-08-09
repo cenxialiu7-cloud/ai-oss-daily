@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>08 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>09 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
+<title>lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>SexGod1979/PinkCherry_MiniMax-H3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於MiniMax-H3的文字生成影片模型。</description>
+<title>endless-frontier/BigBang-v1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文本的模型，支援對話式生成。</description>
 </item>
 <item>
-<title>Kijai/MiniMax-H3_comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
+<title>GravityVerseYield47/flux-ai-works</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>提供從影像生成影片的功能。</description>
 </item>
 <item>
-<title>JuliusBrussee/caveman</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>xbtlin/ai-berkshire</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。</description>
+<title>addyosmani/agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>生產級工程技能，用於 AI 程式設計代理。</description>
 </item>
 <item>
-<title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/</guid>
-<pubDate>08 Aug 2026 08:00:00 +0000</pubDate>
-<description>深度文本生成模型，適用於各種對話和創作場景。</description>
+<title>jdopensource/JoyAI-Echo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</guid>
+<pubDate>09 Aug 2026 08:00:00 +0000</pubDate>
+<description>文字轉影片生成工具，適用於長片。</description>
 </item>
 </channel>
 </rss>
