@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
+<updated>2026-08-10T08:00:00+00:00</updated>
 <entry>
-<title>lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Akahsizrr/fuse-1-Lite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akahsizrr-fuse-1-lite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akahsizrr-fuse-1-lite/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>輕量版文本生成模型，支援專家混合系統。</summary>
 </entry>
 <entry>
-<title>endless-frontier/BigBang-v1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文本的模型，支援對話式生成。</summary>
+<title>NikoDemon80/ComfyUI-H3-Motion-Context</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nikodemon80-comfyui-h3-motion-context/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nikodemon80-comfyui-h3-motion-context/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>在 ComfyUI 中為 MiniMax H3 提供連續動畫和音訊的片段連線功能。</summary>
 </entry>
 <entry>
-<title>GravityVerseYield47/flux-ai-works</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>提供從影像生成影片的功能。</summary>
+<title>bamboostrip/Handwriting-simulator</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>將普通文本轉換成手寫體圖片，支援 GUI 和 CLI 入口。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>esengine/DeepSeek-Reasonix</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</summary>
 </entry>
 <entry>
-<title>addyosmani/agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
+<title>FareedKhan-dev/kimi-k3-in-c</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</summary>
 </entry>
 <entry>
-<title>jdopensource/JoyAI-Echo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/</id>
-<updated>2026-08-09T08:00:00+00:00</updated>
-<summary>文字轉影片生成工具，適用於長片。</summary>
+<title>larryvrh/MiniMax-H3-Turbo-Lora</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</id>
+<updated>2026-08-10T08:00:00+00:00</updated>
+<summary>一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。</summary>
 </entry>
 </feed>

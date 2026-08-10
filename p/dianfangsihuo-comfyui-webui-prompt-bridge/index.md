@@ -2,9 +2,9 @@
 
 提供 ComfyUI 的 WebUI 式提示詞編輯和 LoRA 瀏覽功能。
 
-**為何上榜**：31★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 32★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：31
+**Stars**：32
 **原始連結**：https://github.com/dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge

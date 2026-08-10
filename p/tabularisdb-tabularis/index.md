@@ -2,9 +2,9 @@
 
 開源資料庫客戶端，支援 PostgreSQL、MySQL/MariaDB 和 SQLite。
 
-**為何上榜**：近一日新增 4★（現 4,047★）
+**為何上榜**：近一日新增 7★（現 4,054★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,047
+**Stars**：4,054
 **原始連結**：https://github.com/TabularisDB/tabularis

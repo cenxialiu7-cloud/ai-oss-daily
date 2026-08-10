@@ -4,5 +4,5 @@ Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：910
+**Stars**：911
 **Source**：https://github.com/Robbyant/lingbot-video

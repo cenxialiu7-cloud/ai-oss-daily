@@ -4,5 +4,5 @@ XERJ is the new way for AI to search data. Its autoindex capability activates ag
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,286
+**Stars**：1,318
 **Source**：https://github.com/xerj-org/xerj
