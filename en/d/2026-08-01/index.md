@@ -557,7 +557,7 @@ _Daily archive · 2026-08-01_
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gclef-cmu-multtipop/) — · task_categories:audio-to-audio, license:cc-by-4.0, size_categories:n<1K
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
 - [tencent/workbuddy-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-workbuddy-bench/) — · task_categories:text-generation, language:en, language:zh
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us

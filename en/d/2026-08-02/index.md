@@ -559,7 +559,7 @@ _Daily archive · 2026-08-02_
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [microsoft/Echoverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-echoverse/) — · task_categories:other, language:en, license:mit
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [tencent/workbuddy-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-workbuddy-bench/) — · task_categories:text-generation, language:en, language:zh

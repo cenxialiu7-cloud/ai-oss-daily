@@ -5,7 +5,7 @@ _Daily archive · 2026-08-08_
 ## 🆕 New
 
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
-- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, text-to-video, minimax-h3
+- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, minimax-h3, text-to-video
 - [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-comfy/) — · region:us
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
@@ -53,7 +53,7 @@ _Daily archive · 2026-08-08_
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — image-to-video · diffusers, safetensors, i2v
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-wan-ai-wan-dancer-14b/) — image-to-video · diffusers, safetensors, i2v
-- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, text-to-video, minimax-h3
+- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, minimax-h3, text-to-video
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mgwr-m87/) — text-to-image · diffusers, text-to-image, lora
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
@@ -582,7 +582,6 @@ _Daily archive · 2026-08-08_
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-firered-image-edit-stripped/) — · gradio, image-generation, image-to-image
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/patchy631-time-to-first-token/) — A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, s…
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xwilliamortiz-ponytail-improved/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perfectgf-lora-dataset-studio/) — Self-hosted, one-tab workbench for the whole LoRA lifecycle: build Character / Concept / Style datasets (gene…
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
@@ -630,7 +629,7 @@ _Daily archive · 2026-08-08_
 - [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfaceh4-ultrachat-200k/) — · task_categories:text-generation, language:en, license:mit
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nicholascone-agnes-ai-video-suite/) — Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wordghost1234-agnes-ai-storyboard-studio/) — 2026 Guide to Self-Hosted Open Source AI Video Generation
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [eliudmakd782/vocal-craft-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eliudmakd782-vocal-craft-studio/) — Tuned Hindi & English AI Voice Studio 2026 – Batch Cloning & TTS
 - [reunios2024/cortex-sentinel-trading-nexus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reunios2024-cortex-sentinel-trading-nexus/) — Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dream-xr-mt5-post-trade-insight-reporter/) — AutoTrade Forex Signals: Telegram to MT5 EA 2026 Strategy

@@ -413,7 +413,6 @@ _Daily archive · 2026-08-05_
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-localduo/) — · gradio, track:backyard, achievement:offgrid
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio workflow — color grading, Fusion comps and delivery presets on Windows.
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blizaine-maestro/) — An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short …
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xwilliamortiz-ponytail-improved/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
@@ -579,7 +578,7 @@ _Daily archive · 2026-08-05_
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nicholascone-agnes-ai-video-suite/) — Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles
 - [DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-claude-4-6-highiq-thinking-heretic-uncensored/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentfleetkk-riskguard/) — 开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wordghost1234-agnes-ai-storyboard-studio/) — 2026 Guide to Self-Hosted Open Source AI Video Generation
 - [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/growthack88-growth-marketing-os/) — Growth Marketing OS | Mahmoud Omar — open-source AI marketing prompts, Claude skills, agents & growth playboo…
 - [eliudmakd782/vocal-craft-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eliudmakd782-vocal-craft-studio/) — Tuned Hindi & English AI Voice Studio 2026 – Batch Cloning & TTS

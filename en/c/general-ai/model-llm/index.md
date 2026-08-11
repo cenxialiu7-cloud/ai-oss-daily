@@ -5,36 +5,37 @@
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
+- [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepgrove-maple-preview/) — text-generation · transformers, safetensors, text-generation
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-glm-5-2-nvfp4/) — text-generation · Model Optimizer, safetensors, glm_moe_dsa
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
+- [inclusionAI/Ling-3.0-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inclusionai-ling-3-0-flash/) — text-generation · safetensors, bailing_hybrid, text-generation
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-tabfm-1-0-0-pytorch/) — tabular-classification · tabfm, safetensors, tabular
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
-- [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepgrove-maple-preview/) — text-generation · transformers, safetensors, text-generation
 - [openbmb/MiniCPM-RobotManip](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-robotmanip/) — robotics · transformers, safetensors, minicpm_vla
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — text-generation · safetensors, diffusion_gemma, nvidia
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
-- [inclusionAI/Ling-3.0-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inclusionai-ling-3-0-flash/) — text-generation · safetensors, bailing_hybrid, text-generation
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aliestaha-fable-traces/) — text-generation · transformers, safetensors, qwen3
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
+- [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
 - [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
-- [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
+- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
+- [SyzygyResearch/Mach-1-Additive-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-syzygyresearch-mach-1-additive-35b/) — · qwen3_5_moe, qwen, mach-1
 - [jlnsrk/GLM-5.2-colibri-int4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jlnsrk-glm-5-2-colibri-int4/) — · glm_moe_dsa, int4, cpu
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-vl-realtime/) — video-text-to-text · transformers, safetensors, moss_vl
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
+- [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
 - [LGAI-EXAONE/K-EXAONE-2.0-750B-A37B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/) — text-generation · transformers, safetensors, exaone_moe
-- [SyzygyResearch/Mach-1-Additive-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-syzygyresearch-mach-1-additive-35b/) — · qwen3_5_moe, qwen, mach-1
 - [skt/A.X-K2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-skt-a-x-k2/) — text-generation · transformers, safetensors, axk2
 - [amd/Instella-MoE-16B-A3B-Think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-amd-instella-moe-16b-a3b-think/) — text-generation · transformers, safetensors, deepseek_v3
-- [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
+- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-free-ai-humanizer/) — · static, ai-humanizer, humanize-ai-text
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [Motif-Technologies/Motif-3-Beta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-motif-technologies-motif-3-beta/) — text-generation · transformers, safetensors, Motif
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
@@ -51,13 +52,13 @@
 - [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-vietnam/) — · task_categories:text-generation, language:vi, license:cc-by-4.0
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-reasoncore-open-spatial-reasoning/) — · task_categories:multiple-choice, language:en, license:cc-by-4.0
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [unstonio/pixelgpt-24x24-20k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-unstonio-pixelgpt-24x24-20k/) — · task_categories:text-to-image, task_categories:image-to-image, language:en
 - [nvidia/Nemotron-Personas-El-Salvador](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-el-salvador/) — · task_categories:text-generation, language:es, license:cc-by-4.0
 - [FINAL-Bench/Aether-7B-5Attn-checkpoints](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-aether-7b-5attn-checkpoints/) — · language:en, language:ko, license:apache-2.0
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-qwen3-7-max-pi-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [rl-llm-wiki/rl-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rl-llm-wiki-rl-wiki/) — · static, region:us
-- [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — · task_categories:text-generation, language:en, license:apache-2.0
+- [unstonio/pixelgpt-24x24-20k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-unstonio-pixelgpt-24x24-20k/) — · task_categories:text-to-image, task_categories:image-to-image, language:en
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
+- [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
 - [meta-llama/Llama-3.1-8B-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-llama-llama-3-1-8b-instruct/) — text-generation · transformers, safetensors, llama
 - [GD-ML/TransitLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gd-ml-transitlm/) — · task_categories:text-generation, language:zh, license:cc-by-nc-4.0
@@ -70,10 +71,10 @@
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yucrazing1-clothtransformer-dataset/) — · task_categories:other, language:en, license:cc-by-4.0
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-digital-hospital-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
+- [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-reasoning-summaries-61k/) — · task_categories:summarization, task_categories:text-generation, language:en
 - [froggeric/Qwen-Fixed-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-froggeric-qwen-fixed-chat-templates/) — · mlx, jinja, chat-template
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ajibawa-2023-shell-code-large/) — · task_categories:text-generation, language:en, license:mit
-- [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-makora-ai-triton-gpu-latency/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:tr
@@ -82,17 +83,17 @@
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ianncity-glm-5-2-finance-80000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [trillionlabs/TheBioCollection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trillionlabs-thebiocollection/) — · task_categories:text-generation, language:en, size_categories:10M<n<100M
+- [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, size_categories:n<1K, format:parquet
+- [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfaceh4-ultrachat-200k/) — · task_categories:text-generation, language:en, license:mit
 - [scholarweave/arxiv-latex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scholarweave-arxiv-latex/) — · task_categories:text-generation, task_categories:feature-extraction, language:en
 - [ministere-culture/comparia-fr-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ministere-culture-comparia-fr-arena/) — · task_categories:text-generation, language:fr, license:etalab-2.0
 - [codeparrot/github-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codeparrot-github-code/) — · task_categories:text-generation, task_ids:language-modeling, language_creators:crowdsourced
-- [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, size_categories:n<1K, format:parquet
-- [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfaceh4-ultrachat-200k/) — · task_categories:text-generation, language:en, license:mit
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tatsu-lab-alpaca/) — · task_categories:text-generation, language:en, license:cc-by-nc-4.0
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — · task_categories:text-generation, language:kha, license:cc-by-nc-4.0
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/extraltodeus-j-wash/) — Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Re…
+- [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-qwen-qwen3-tts/) — · gradio, region:us
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [IlyaGusev/habr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilyagusev-habr/) — · task_categories:text-generation, language:ru, language:en
-- [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-qwen-qwen3-tts/) — · gradio, region:us
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us
 - [MLNLP-World/Paper-Rebuttal-Tips](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlnlp-world-paper-rebuttal-tips/) — MLNLP社区用来帮助大家论文Rebuttal的整理仓库。
 - [openbmb/Ultra-FineWeb-L3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l3/) — · task_categories:text-generation, language:en, language:zh
@@ -100,13 +101,13 @@
 - [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roneneldan-tinystories/) — · task_categories:text-generation, language:en, license:cdla-sharing-1.0
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-hermes-function-calling-v1/) — · task_categories:text-generation, task_categories:question-answering, task_categories:feature-extraction
-- [raiyanyahya/how-to-train-your-gpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-how-to-train-your-gpt/) — Build a modern LLM from scratch. Every line commented. Explained like we are five.
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — · gradio, region:us
+- [raiyanyahya/how-to-train-your-gpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-how-to-train-your-gpt/) — Build a modern LLM from scratch. Every line commented. Explained like we are five.
 - [hao-ai-lab/JetSpec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hao-ai-lab-jetspec/) — JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Causal Parallel Tree Drafting
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-minhxthanh-vietnam-history-1m-vi/) — · task_categories:question-answering, task_categories:text-generation, language:vi
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
-- [PolyX-Research/Robust-U1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-robust-u1/) — 🚀🚀🚀 [ICML 2026] Official Implementation of Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Rob…
 - [Trendyol/Trendyol-Cybersecurity-Instruction-Tuning-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trendyol-trendyol-cybersecurity-instruction-tuning-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:en
+- [PolyX-Research/Robust-U1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-robust-u1/) — 🚀🚀🚀 [ICML 2026] Official Implementation of Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Rob…
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibayram-identity-finetune-magibu-q3/) — · task_categories:text-generation, language:tr, language:en
 - [oliviazzzu/minimal-embodiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oliviazzzu-minimal-embodiment/) — A minimal hardware-software architecture giving large language models a closed-loop physical embodiment with …
 - [livehl/aimirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/livehl-aimirror/) — 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来

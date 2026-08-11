@@ -413,7 +413,6 @@ _每日存檔 · 2026-08-05_
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-localduo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio的工作流程指南，包括色彩校正和交付設定。
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xwilliamortiz-ponytail-improved/) — 讓 AI 代理像懶惰的老手開發者一樣思考，避免寫不必要的程式碼。
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-pocket-image-studio/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。

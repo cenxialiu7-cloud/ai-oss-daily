@@ -599,7 +599,6 @@ _每日存檔 · 2026-08-10_
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-firered-image-edit-stripped/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackmixture-mix-studio/) — 基於ComfyUI的清潔響應式AI工作空間，適用於桌面和手機。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xwilliamortiz-ponytail-improved/) — 讓 AI 代理像懶惰的老手開發者一樣思考，避免寫不必要的程式碼。
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [EvoLinkAI/awesome-ideogram-4.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-ideogram-4-0-prompts/) — 收集的Ideogram 4.0提示和影像範例，涵蓋多種創作型別。

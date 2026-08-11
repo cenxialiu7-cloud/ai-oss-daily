@@ -230,7 +230,7 @@ _Daily archive · 2026-07-14_
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-reasoncore-open-spatial-reasoning/) — · task_categories:multiple-choice, language:en, license:cc-by-4.0
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500-lerobot/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-manusagents-gpt-5-5-gemini-3-1-pro-grok-4-claude-fable-5-mythos-5-qwen-3-7-max-and-more-distillation-dataset/) — · task_categories:text-generation, task_categories:other, language:en
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-digital-hospital-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-facebook-vggt-omega/) — · gradio, region:us

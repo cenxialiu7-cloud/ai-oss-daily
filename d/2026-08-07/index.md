@@ -565,7 +565,6 @@ _每日存檔 · 2026-08-07_
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ducklelabs-duckle/) — 拖放式資料管道設計工具，編譯成 SQL 在 DuckDB 上執行。
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronesfe-polymarket-automated-trading-bot/) — Polymarket 預測市場自動交易機器人，支援 4 種策略、可選 AI。
 - [trillionlabs/TheBioCollection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-trillionlabs-thebiocollection/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xwilliamortiz-ponytail-improved/) — 讓 AI 代理像懶惰的老手開發者一樣思考，避免寫不必要的程式碼。
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patchy631-time-to-first-token/) — LLM 推論服務和最佳化學習路徑。
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-firered-image-edit-stripped/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

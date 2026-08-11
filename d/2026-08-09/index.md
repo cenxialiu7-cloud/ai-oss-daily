@@ -591,7 +591,6 @@ _每日存檔 · 2026-08-09_
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-firered-image-edit-stripped/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patchy631-time-to-first-token/) — LLM 推論服務和最佳化學習路徑。
 - [h5i-dev/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/) — h5i-db 是一個高效能的時間序列資料庫和回測引擎，專為 AI 代理設計。
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xwilliamortiz-ponytail-improved/) — 讓 AI 代理像懶惰的老手開發者一樣思考，避免寫不必要的程式碼。
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joonion-pdf-rag-chatbot/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。

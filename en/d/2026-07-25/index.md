@@ -480,7 +480,7 @@ _Daily archive · 2026-07-25_
 - [peridotfoundation/MT5-Directional-Flow-Dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/peridotfoundation-mt5-directional-flow-dashboard/) — MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [synthetic-sciences/openscience](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synthetic-sciences-openscience/) — The open-source AI workbench for scientific research

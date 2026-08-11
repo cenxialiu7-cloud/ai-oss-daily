@@ -2,7 +2,7 @@
 
 一個使用 Transformers、PyTorch 和 JAX 的自動語音識別模型。
 
-**為何上榜**：HF trending 89 · 6,120 likes · 4,967,955 下載
+**為何上榜**：HF trending 95 · 6,127 likes · 4,901,834 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>10 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>11 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Akahsizrr/fuse-1-Lite</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akahsizrr-fuse-1-lite/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akahsizrr-fuse-1-lite/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>輕量版文本生成模型，支援專家混合系統。</description>
+<title>meta-models/Muse-Glimmer-30B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文本的模型，適用於對話式應用。</description>
 </item>
 <item>
-<title>NikoDemon80/ComfyUI-H3-Motion-Context</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nikodemon80-comfyui-h3-motion-context/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nikodemon80-comfyui-h3-motion-context/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>在 ComfyUI 中為 MiniMax H3 提供連續動畫和音訊的片段連線功能。</description>
+<title>Lynote/free-ai-humanizer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>bamboostrip/Handwriting-simulator</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>將普通文本轉換成手寫體圖片，支援 GUI 和 CLI 入口。</description>
+<title>Lynote/free-ai-detector</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>esengine/DeepSeek-Reasonix</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>FareedKhan-dev/kimi-k3-in-c</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</description>
+<title>JCodesMore/ai-website-cloner-template</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>使用 AI 機器人克隆網站的工具。</description>
 </item>
 <item>
-<title>larryvrh/MiniMax-H3-Turbo-Lora</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</guid>
-<pubDate>10 Aug 2026 08:00:00 +0000</pubDate>
-<description>一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。</description>
+<title>lightx2v/Minimax-h3-Turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
+<pubDate>11 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
 </item>
 </channel>
 </rss>

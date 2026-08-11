@@ -553,7 +553,6 @@ _每日存檔 · 2026-08-06_
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xwilliamortiz-ponytail-improved/) — 讓 AI 代理像懶惰的老手開發者一樣思考，避免寫不必要的程式碼。
 - [h5i-dev/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h5i-dev-h5i-db/) — h5i-db 是一個高效能的時間序列資料庫和回測引擎，專為 AI 代理設計。
 - [microsoft/Echoverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-microsoft-echoverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ducklelabs-duckle/) — 拖放式資料管道設計工具，編譯成 SQL 在 DuckDB 上執行。

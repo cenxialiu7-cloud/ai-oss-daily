@@ -33,7 +33,7 @@ _Daily archive · 2026-08-10_
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3/) — image-text-to-video · diffusers, safetensors, text-to-video
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
-- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, text-to-video, minimax-h3
+- [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, minimax-h3, text-to-video
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-0731/) — text-generation · transformers, safetensors, deepseek_v4
@@ -599,7 +599,6 @@ _Daily archive · 2026-08-10_
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-firered-image-edit-stripped/) — · gradio, image-generation, image-to-image
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blackmixture-mix-studio/) — The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from your deskto…
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perfectgf-lora-dataset-studio/) — Self-hosted, one-tab workbench for the whole LoRA lifecycle: build Character / Concept / Style datasets (gene…
-- [0xwilliamortiz/ponytail-improved](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xwilliamortiz-ponytail-improved/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [EvoLinkAI/awesome-ideogram-4.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-ideogram-4-0-prompts/) — Curated Ideogram 4.0 prompts and image examples — typography, photorealistic portraits, product/UI mockups, a…
@@ -640,7 +639,7 @@ _Daily archive · 2026-08-10_
 - [synthetic-sciences/openscience](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synthetic-sciences-openscience/) — The open-source AI workbench for scientific research
 - [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfaceh4-ultrachat-200k/) — · task_categories:text-generation, language:en, license:mit
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
-- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor screening…
+- [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/travisun-opptrix/) — Opptrix — AI驱动的全球多市场投研工作台 | Open-source LLM research assistant for China A-shares. 170+ MCP tools, factor scr…
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sahir619-fable-method/) — The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that ke…
 - [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayghri-i-have-adhd/) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
