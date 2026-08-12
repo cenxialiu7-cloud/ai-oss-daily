@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
+<updated>2026-08-12T08:00:00+00:00</updated>
 <entry>
-<title>meta-models/Muse-Glimmer-30B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文本的模型，適用於對話式應用。</summary>
+<title>Lightricks/LTX-2.5</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的擴散模型。</summary>
 </entry>
 <entry>
-<title>Lynote/free-ai-humanizer</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>fal/MiniMax-H3-Realism-People-LoRA</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。</summary>
 </entry>
 <entry>
-<title>Lynote/free-ai-detector</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>inclusionAI/Ling-3.0-tiny</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>一個小型的自定義編碼模型。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>JCodesMore/ai-website-cloner-template</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>使用 AI 機器人克隆網站的工具。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-11T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>drbaph/MiniMax-H3-Turbo-Lora-ComfyUI</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</id>
+<updated>2026-08-12T08:00:00+00:00</updated>
+<summary>使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。</summary>
 </entry>
 </feed>

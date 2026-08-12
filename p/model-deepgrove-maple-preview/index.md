@@ -2,7 +2,7 @@
 
 一個使用 Transformers 的文本生成模型，支援 Mixture of Experts 進行推理。
 
-**為何上榜**：HF trending 299 · 312 likes · 1,344 下載
+**為何上榜**：HF trending 297 · 332 likes · 2,049 下載
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 

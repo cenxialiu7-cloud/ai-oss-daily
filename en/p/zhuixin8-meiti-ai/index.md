@@ -4,5 +4,5 @@ ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：23
+**Stars**：24
 **Source**：https://github.com/zhuixin8/meiti-ai
