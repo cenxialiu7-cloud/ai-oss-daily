@@ -4,5 +4,5 @@ High-performance multi-data-source database client — ~30MB, AI & MCP ready, ze
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,852
+**Stars**：1,853
 **Source**：https://github.com/Syngnat/GoNavi

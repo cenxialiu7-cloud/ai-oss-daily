@@ -2,7 +2,7 @@
 
 Open-source local AI workspace — advancing on-device inference.
 
-**Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：328
+**Stars**：330
 **Source**：https://github.com/zeraix/zeraix

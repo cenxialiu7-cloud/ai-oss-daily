@@ -2,9 +2,9 @@
 
 系統化 ETF 相對強度研究及套利組合構建工具。
 
-**為何上榜**：近一日新增 44★（現 75★）
+**為何上榜**：近一日新增 29★（現 104★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：75
+**Stars**：104
 **原始連結**：https://github.com/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution

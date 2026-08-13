@@ -1,0 +1,10 @@
+# nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1
+
+Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+
+**為何上榜**：HF trending 10 · 10 likes
+
+**商用授權**：可商用 — 可商用，CC-BY 類需署名
+
+**Stars**：0
+**原始連結**：https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1

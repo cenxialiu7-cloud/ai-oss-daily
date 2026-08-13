@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>12 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>13 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Lightricks/LTX-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的擴散模型。</description>
+<title>Gazingstars123/Anima-2.9B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gazingstars123-anima-2-9b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gazingstars123-anima-2-9b/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>Anime風格的影像生成模型，支援文字轉圖片。</description>
 </item>
 <item>
-<title>fal/MiniMax-H3-Realism-People-LoRA</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。</description>
+<title>NicoLab28/ClipProj-MiniMax-H3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文本轉換為影片的MiniMax-H3模型。</description>
 </item>
 <item>
-<title>inclusionAI/Ling-3.0-tiny</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>一個小型的自定義編碼模型。</description>
+<title>Qwen/Qwen3.8-2.4T-A95B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-2-4t-a95b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-2-4t-a95b/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於Transformers的文字生成模型，適用於對話式AI。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>FareedKhan-dev/kimi-k3-in-c</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</description>
 </item>
 <item>
-<title>addyosmani/agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>生產級工程技能，用於 AI 程式設計代理。</description>
+<title>esengine/DeepSeek-Reasonix</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。</description>
 </item>
 <item>
-<title>drbaph/MiniMax-H3-Turbo-Lora-ComfyUI</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/</guid>
-<pubDate>12 Aug 2026 08:00:00 +0000</pubDate>
-<description>使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。</description>
+<title>larryvrh/MiniMax-H3-Turbo-Lora</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/</guid>
+<pubDate>13 Aug 2026 08:00:00 +0000</pubDate>
+<description>一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。</description>
 </item>
 </channel>
 </rss>
