@@ -4,5 +4,5 @@ By a 12-year product manager who builds 0-to-1: takes a beginner from a vague id
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：553
+**Stars**：556
 **Source**：https://github.com/TexasBedouin/vibe-check

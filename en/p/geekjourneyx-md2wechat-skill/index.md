@@ -4,5 +4,5 @@ Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,500
+**Stars**：3,513
 **Source**：https://github.com/geekjourneyx/md2wechat-skill

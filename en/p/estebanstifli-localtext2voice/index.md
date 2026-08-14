@@ -4,5 +4,5 @@ A complete local production workflow for clean narration, structured learning co
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：292
+**Stars**：294
 **Source**：https://github.com/estebanstifli/LocalText2Voice

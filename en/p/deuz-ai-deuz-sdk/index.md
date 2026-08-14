@@ -4,5 +4,5 @@ Zero-dependency TypeScript framework for production AI agents: durable execution
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：451
+**Stars**：521
 **Source**：https://github.com/Deuz-AI/Deuz-SDK

@@ -2,7 +2,7 @@
 
 使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。
 
-**為何上榜**：HF trending 288 · 301 likes
+**為何上榜**：HF trending 187 · 314 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

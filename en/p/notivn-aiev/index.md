@@ -4,5 +4,5 @@ Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graph
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：90
+**Stars**：92
 **Source**：https://github.com/notivn/AIEV

@@ -1,8 +1,8 @@
 # Echo-Team-Joy-Future-Academy-JD/Echo-Memory
 
-A Simple Baseline for Video World Models with Memory
+Official code for Echo-Memory: a controlled study of memory in action-conditioned video world models (Context, Compression, Spatial, State-Space).
 
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：231
+**Stars**：239
 **Source**：https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory

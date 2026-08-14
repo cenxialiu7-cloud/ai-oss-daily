@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，但修改該元件本身須開源(動態連結通常可)
 
-**Stars**：1,525
+**Stars**：1,526
 **Source**：https://github.com/universal-tool-calling-protocol/code-mode

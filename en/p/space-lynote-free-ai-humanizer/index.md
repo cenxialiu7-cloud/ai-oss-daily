@@ -1,6 +1,6 @@
 # Lynote/free-ai-humanizer
 
-· static, ai-humanizer, humanize-ai-text
+· static, text-generation, text-analysis
 
 **Commercial license**：License unclear — 未知授權代碼 mit — 請人工確認商用條款
 
