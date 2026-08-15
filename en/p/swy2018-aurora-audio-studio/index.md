@@ -4,5 +4,5 @@ Aurora Audio Studio 1.3.0：本地优先的 Windows AI 音频工作台，提供�
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：42
+**Stars**：27
 **Source**：https://github.com/swy2018/Aurora-Audio-Studio

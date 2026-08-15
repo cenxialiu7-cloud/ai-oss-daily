@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：24,961
+**Stars**：25,002
 **Source**：https://github.com/JimLiu/baoyu-skills

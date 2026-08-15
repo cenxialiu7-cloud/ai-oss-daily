@@ -4,5 +4,5 @@ Experimental, entirely AI-coded ComfyUI nodes for MiniMax H3 T2I, I2I, reference
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：37
+**Stars**：57
 **Source**：https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio

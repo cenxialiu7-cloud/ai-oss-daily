@@ -4,5 +4,5 @@ A Python library for building AI agents that leverage the full power of Google A
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,993
+**Stars**：3,014
 **Source**：https://github.com/google-antigravity/antigravity-sdk-python

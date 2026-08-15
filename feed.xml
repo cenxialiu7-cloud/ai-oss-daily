@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
+<updated>2026-08-15T08:00:00+00:00</updated>
 <entry>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>將文字轉換成音樂的模型。</summary>
+<title>Qwen/Qwen3.8-27B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文字的模型。</summary>
 </entry>
 <entry>
-<title>CohereLabs/North-Micro-Vision-Instruct</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-micro-vision-instruct/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-micro-vision-instruct/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文本的多模態模型。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>Cactus-Compute/needle2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle2/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>在裝置上執行的文本生成工具。</summary>
+<title>unsloth/Qwen3.8-27B-NVFP4</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>Qwen 27B 模型的量化版本。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>anthropics/skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>公開的Agent Skills儲存庫。</summary>
+<title>addyosmani/agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>生產級工程技能，用於 AI 程式設計代理。</summary>
 </entry>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-14T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>Lightricks/LTX-2.5</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</id>
+<updated>2026-08-15T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的擴散模型。</summary>
 </entry>
 </feed>

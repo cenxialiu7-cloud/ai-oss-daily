@@ -1,6 +1,6 @@
 # MiniMaxAI/MiniMax-Music3
 
-text-to-audio · sglang-omni, diffusers, safetensors
+text-to-audio · diffusers, safetensors, minimax_music3
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 

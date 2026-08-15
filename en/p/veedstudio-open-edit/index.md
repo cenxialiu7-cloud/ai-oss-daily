@@ -4,5 +4,5 @@ The video editor you own, not rent — edit clips from your coding agent (Claude
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：263
+**Stars**：265
 **Source**：https://github.com/veedstudio/open-edit

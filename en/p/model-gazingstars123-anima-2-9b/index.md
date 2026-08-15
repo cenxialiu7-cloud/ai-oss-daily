@@ -1,6 +1,6 @@
 # Gazingstars123/Anima-2.9B
 
-text-to-image · diffusion-single-file, anima, text-to-image
+text-to-image · diffusion-single-file, anima, comfyui
 
 **Commercial license**：Non-commercial — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

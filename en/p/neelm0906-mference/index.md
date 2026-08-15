@@ -4,5 +4,5 @@ Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：91
+**Stars**：92
 **Source**：https://github.com/NeelM0906/Mference

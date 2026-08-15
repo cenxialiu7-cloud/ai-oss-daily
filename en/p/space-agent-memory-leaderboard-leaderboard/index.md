@@ -1,8 +1,8 @@
 # agent-memory-leaderboard/leaderboard
 
-· static, region:us
+· static, leaderboard, benchmark
 
-**Commercial license**：License unclear — 未知授權代碼 mit — 請人工確認商用條款
+**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
 **Stars**：0
 **Source**：https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard
