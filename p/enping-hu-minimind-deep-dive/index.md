@@ -2,9 +2,9 @@
 
 MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 
-**為何上榜**：197★ · 近期活躍
+**為何上榜**：193★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：197
+**Stars**：193
 **原始連結**：https://github.com/Enping-Hu/minimind-deep-dive

@@ -4,5 +4,5 @@ AK 設計的開源免費AI SEO陪跑教練——不丟報告，在你自己的�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：82
+**Stars**：83
 **Source**：https://github.com/akseolabs-seo/seo-coach

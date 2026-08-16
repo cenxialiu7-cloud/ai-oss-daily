@@ -4,5 +4,5 @@ A AI general-purpose state-space search engine, validated first on autonomous pe
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：2,297
+**Stars**：2,300
 **Source**：https://github.com/oritera/Cairn

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚 — AI OSS Daily</title>
+<meta name="description" content="掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P050/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P050/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚 — AI OSS Daily">
+<meta property="og:description" content="掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚 — AI OSS Daily">
+<meta name="twitter:description" content="掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚", "description": "掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。", "datePublished": "2026-08-15T08:00:00+00:00", "dateModified": "2026-08-15T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-08-15/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P050/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P050</p>
+  <h1>AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚</h1>
+  <p class="detail-lead">掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 4–5 週做出能跑版本：atlas 的 agent 改動追蹤接進既有 Git 流程約 1.5 週，open-code-review 管道客製 AI 專屬規則集約 1 週，Graft 上下文層與 Understand-Anything 知識圖譜整併約 1 週，MCP 包裝與報告輸出約 1 週。難點在於『這段是不是 agent 寫的』的歸因準確度（需在 agent 側就攔截記錄，事後推斷不可靠）、大型 repo 的圖譜建置效能，以及要讓報告的結論穩定到能拿去給稽核／客戶看，不能每次跑都換一套說法。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①團隊版 SaaS 月費（依 repo 數或席次計價）：自架或雲端皆可，賣點是 AI 改動的可稽核性與合規交付；②Mac App 買斷：單人／小團隊本機版，程式碼不外流；③開發工具與主機商聯盟：報告內建議的 CI、靜態掃描、代管服務自然導流；④公開的免費線上『AI 程式碼風險自評』小工具頁掛 Adsterra／Monetag 廣告衝自然流量，並放 Ko-fi 贊助入口。不涉及任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>以 pacifio/atlas 當底層來源記錄：它專門為 AI 程式碼代理做原始碼控制，可追蹤每次 agent 修改並事後查詢，於是每個 commit 都能標註『人寫／agent 寫／哪個 agent、什麼指令下產生』→ 這些被標記的差異丟進 alibaba/open-code-review（阿里巴巴規模驗證、確定性管道＋LLM 代理的審查工具）跑審查，對 AI 產出的段落套用更嚴格的規則集（幻覺 API、未處理錯誤、複製貼上重複、缺測試）→ NanoNets/Graft 補上程式碼上下文理解，讓審查看得懂跨檔案關聯而非只看 diff → Egonex-AI/Understand-Anything 把 repo 轉成可互動的知識圖譜，讓稽核者點開任一風險段落即可回溯它牽動的模組 → 最外層用 modelcontextprotocol/python-sdk 包成 MCP server，讓 Claude／Cursor 直接問『這個 release 有多少比例是 AI 寫的、風險最高的三處在哪』，並輸出繁中稽核報告（HTML／PDF）。與 P031（瀏覽器 QA／網站體檢）定位不同：P031 檢查的是網站在真實瀏覽器的行為，本案檢查的是『程式碼的產出來源與合規性』；與 P021（砍 token 帳單）、P037（開發記憶與規格）、P045（團隊程式碼記憶檢索）也不同：那三案是提升 agent 生產力，本案賣的是導入 agent 之後的治理與舉證能力。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/pacifio-atlas/">pacifio/atlas</a></h3>
+<p class="summary">Source control for agents. Use multiple coding agents, track they change, and query them in one place</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,038</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/alibaba-open-code-review/">alibaba/open-code-review</a></h3>
+<p class="summary">Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">OpenAI</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 20,540</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/nanonets-graft/">NanoNets/Graft</a></h3>
+<p class="summary">Turbocharge Claude Code, Cursor, Codex, Gemini &amp; every coding agent: faster, cheaper, with contextual understanding specific to your codebase.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 2,853</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/egonex-ai-understand-anything/">Egonex-AI/Understand-Anything</a></h3>
+<p class="summary">Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 79,411</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 24,015</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

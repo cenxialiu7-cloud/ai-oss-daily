@@ -18,6 +18,7 @@
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/) — Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。
+- [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/) — 一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。
 - [prism-ml/Ternary-Bonsai-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-27b-gguf/) — 使用二進製表示的對話生成模型，適合輕量級運算。
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-mythos-nano-i1-gguf/) — 一個基於轉換器的推理模型，支援GGUF格式。
@@ -37,13 +38,11 @@
 - [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-llm-cinema/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-pocket-image-studio/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
-- [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — 快速、無審核限制的超大規模對話式文本生成模型。
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/) — 純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-antirez-deepseek-v4-gguf/) — 基於 GGUF 格式的深度搜尋文本生成模型。
-- [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patchy631-time-to-first-token/) — LLM 推論服務和最佳化學習路徑。
+- [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [RavichandranJ/Dolphin3-Cyber-8B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ravichandranj-dolphin3-cyber-8b-gguf/) — 基於轉換器框架的文本生成模型，支援GGUF格式。
-- [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [lidge-jun/opencodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lidge-jun-opencodex/) — 一個通用代理，讓使用者可以使用任何大型語言模型來驅動OpenAI Codex和Claude Code。
 - [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-ethan-codex-keysmith/) — 無版本依賴的Codex指令部署工具，具備模擬、備份和恢復功能。
 - [avifenesh/bw24](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avifenesh-bw24/) — 從頭開始的Rust+CUDA推理引擎，適用於RTX 5090。
@@ -52,6 +51,8 @@
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avifenesh-memra/) — 為RTX 5090和H100設計的從零開始構建的大語言模型推論框架。
 - [zeraix/zeraix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeraix-zeraix/) — 開源本地AI工作空間，提升裝置上的推論效能。
 - [wladimiravila/esp32s3-distributed-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wladimiravila-esp32s3-distributed-ai/) — 在 ESP32-S3 上進行分散式 AI 推理的解決方案。
+- [FareedKhan-dev/glm-5.2-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-glm-5-2-in-c/) — GLM-5.2 模型的純 C 推理引擎，量化至 int4 並從磁碟流式傳輸專家。
+- [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/200lz-llm-inference-optimization-lab/) — 可重現的 llama.cpp CPU 推理分析和確定性 LLM 伺服器模擬工具。
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helasaoudi-llm-inspector/) — 監控大型語言模型推論過程中的 GPU 記憶體使用情況，並測量量化節省。
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marchinthesun-epyc-max-inference-llm-optimizer/) — 針對AMD EPYC最佳化的llama.cpp分支，提升效能。
@@ -65,8 +66,8 @@
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnyk-council-of-high-intelligence/) — 多個 LLM 提供的 AI 角色協助你做出困難決策，進行結構化多輪辯論。
 - [Arthur-Ficial/apfel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arthur-ficial-apfel/) — Mac 上免費的 AI 工具，包含 CLI 和 OpenAI 相容伺服器。
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mnfst-awesome-free-llm-apis/) — 永久免費的大語言模型API列表。
-- [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [Andyyyy64/whichllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/andyyyy64-whichllm/) — 根據硬體效能評估本地LLM效能並排名的CLI工具。
+- [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avarok-cybersecurity-atlas/) — 一個純 Rust 實現的推理引擎，支援 CUDA 加速。
 - [walkinglabs/modern-llm-notebook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-modern-llm-notebook/) — 使用 PyTorch 建立現代大規模語言模型的手把手教程。
 - [ahammadmejbah/Awesome-Datasets-Hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ahammadmejbah-awesome-datasets-hub/) — 為大型語言模型收集的資料集集合，涵蓋醫學 AI、NLP 等領域。
@@ -87,11 +88,11 @@
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
 - [Mcourtyard/m-courtyard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcourtyard-m-courtyard/) — M-Courtyard：適用於Apple Silicon的本地AI模型微調助手，無需程式碼和雲端。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
-- [PMZFX/intel-arc-pro-b70-benchmarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pmzfx-intel-arc-pro-b70-benchmarks/) — Intel Arc Pro B70 GPU 的效能資料和測試結果，適用於 LLM 推論等。
 - [hec-ovi/vllm-awq4-qwen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hec-ovi-vllm-awq4-qwen/) — 基於AMD顯示卡的Qwen 3.6-27B模型，支援視覺和工具呼叫等功能。
+- [PMZFX/intel-arc-pro-b70-benchmarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pmzfx-intel-arc-pro-b70-benchmarks/) — Intel Arc Pro B70 GPU 的效能資料和測試結果，適用於 LLM 推論等。
 - [BenChaliah/Tensa-Lang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/benchaliah-tensa-lang/) — Tensor 為主的程式語言、編譯器和執行時環境，用於高階語言編寫模型推理引擎。
-- [thomas9120/LLama-GUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomas9120-llama-gui/) — Llama.cpp 的使用者友好圖形介面，方便配置和啟動。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
+- [thomas9120/LLama-GUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomas9120-llama-gui/) — Llama.cpp 的使用者友好圖形介面，方便配置和啟動。
 - [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tinybiggames-vindexllm/) — 純 Delphi 開發的 GPU 加速 LLM 推論引擎，完全在 GPU 上執行。
 - [TheToughCrane/nano-kvllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetoughcrane-nano-kvllm/) — 用於提高LLM推理速度及記憶體利用率的高效KV快取管理框架。
 - [OpenDCAI/Flash-MinerU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opendcai-flash-mineru/) — 基於 Ray 的 MinerU 加速層，將 PDF 轉換為可擴充套件的 Markdown 資料基礎設施。

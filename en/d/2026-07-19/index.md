@@ -9,7 +9,7 @@ _Daily archive · 2026-07-19_
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-ternary-bonsai-27b-demo/) — · gradio, region:us
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
-- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
+- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation…
 - [RavichandranJ/Dolphin3-Cyber-8B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ravichandranj-dolphin3-cyber-8b-gguf/) — text-generation · transformers, gguf, llama
 - [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — polymarket arbitrage bot polymarket arbitrage bot
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/octane0411-open-vibe-island/) — The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode…
@@ -345,7 +345,6 @@ _Daily archive · 2026-07-19_
 - [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/volumetenrectify-ae-motion-compiler/) — Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expres…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
-- [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-digital-hospital-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-synthcomp/) — · language:ru, language:en, license:odc-by
@@ -377,7 +376,7 @@ _Daily archive · 2026-07-19_
 - [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aletheiaresearch-glm-5-2-agent/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
-- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
+- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation…
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ajibawa-2023-shell-code-large/) — · task_categories:text-generation, language:en, license:mit
 - [livecontext-ai/livecontext-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/livecontext-ai-livecontext-ce/) — The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflo…
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling

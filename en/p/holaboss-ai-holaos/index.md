@@ -4,5 +4,5 @@ Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：7,295
+**Stars**：7,567
 **Source**：https://github.com/holaboss-ai/holaOS

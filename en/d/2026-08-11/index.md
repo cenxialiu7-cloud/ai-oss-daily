@@ -449,7 +449,6 @@ _Daily archive · 2026-08-11_
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
-- [Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jiunsong-supergemma4-26b-uncensored-gguf-v2/) — text-generation · gguf, gemma4, uncensored
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-digital-hospital-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prathoshap-vagdhenu-data/) — · task_categories:text-to-speech, language:sa, license:cc-by-4.0
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-unise-speech-enhancement/) — · gradio, mcp-server, region:us
@@ -672,7 +671,7 @@ _Daily archive · 2026-08-11_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-tw-anti-gambling-trader-tw/) — 免費開源的投資反詐、交易統計與自動化交易程式工具：預設 PaperBroker，提供 14 種券商／交易所選項；交易紀錄分析在本機執行。
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-bleckhert-uncensored-image-to-video-alchemist/) — · static, deepsite-v3, region:us
-- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
+- [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jia-ethan-codex-keysmith/) — Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation…
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-databricks-databricks-dolly-15k/) — · task_categories:question-answering, task_categories:summarization, language:en
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-georank/) — Open-source GEO ranking and generative engine optimization platform.
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
@@ -800,7 +799,7 @@ _Daily archive · 2026-08-11_
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reikwei-gu-piao-yu-ce/) — 股票预测项目,mvp版。期待openai给予额度、GPT加油。
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
-- [huangruiteng/loopx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huangruiteng-loopx/) — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, …
+- [huangruiteng/loopx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huangruiteng-loopx/) — Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
 - [FrancoisRost1/mini-bloomberg-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/francoisrost1-mini-bloomberg-terminal/) — Unified investment research terminal. Integrates 10 standalone financial engines (LBO, PE screener, factor mo…
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
@@ -943,7 +942,7 @@ _Daily archive · 2026-08-11_
 - [aliang2052/aliang-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliang2052-aliang-skills/) — 阿亮开源的 Skills 合集：短剧成片 / 电商详情图 / 儿童故事 / 有声绘本 / 配音 / 多人播客。一句话触发，AI 走完整 AIGC 流程。
 - [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuixin8-meiti-ai/) — ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵…
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0
-- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 71 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI…
+- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 73 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI…
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/autonomous-ai-autonomous-grid/) — Your AI intranet: network the computers you already own for inference and training.
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-researchstudio/) — ResearchStudio: Our AI co-author, from research problem to final publication.
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vigozhao-ai-visual-prompt-cookbook/) — Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated dail…

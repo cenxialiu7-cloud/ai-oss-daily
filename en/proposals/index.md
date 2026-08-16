@@ -49,3 +49,4 @@
 - [AI 電影級產品宣傳片工作室：一張產品照＋賣點 → 電影感廣告短片](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P047/) — 給電商／DTC 品牌的產品廣告片產線：上傳產品照與賣點，用電影級分鏡模板自動生成帶運鏡、旁白、字幕的宣傳短片，不必找攝影棚與剪接師。
 - [ETF 相對強度輪動研究台：系統化排名強勢 ETF、拆解超額報酬來源，本機自架、人來決策](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P048/) — 一鍵掃描 ETF 宇宙的相對強度排名，拆解每檔的 alpha 歸因（因子貢獻），產出可下載的輪動研究報告——不推播訊號、不代下單，決定權留給使用者。
 - [本機技術 SEO 體檢台（Mac App）：一鍵爬站 → 70+ 項技術 SEO 診斷 + GSC／GA4 對照，附 GEO 加分層](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P049/) — 丟一個網域，本機完整爬站、跑 70+ 項技術 SEO 檢查並串接 Search Console／GA4，產出可白標交付的體檢報告；再疊一層 GEO 診斷看內容能不能被 AI 答案引用。
+- [AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/) — 掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。

@@ -4,5 +4,5 @@ Official code for Echo-Memory: a controlled study of memory in action-conditione
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：239
+**Stars**：232
 **Source**：https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory
