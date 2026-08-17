@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
+<updated>2026-08-17T08:00:00+00:00</updated>
 <entry>
-<title>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>無審查限制的 Qwen 生成模型，支援 gguf 格式。</summary>
+<title>IndexTeam/IndexTTS-2.5</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。</summary>
 </entry>
 <entry>
-<title>tornikegomareli/Talkify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。</summary>
+<title>Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。</summary>
 </entry>
 <entry>
-<title>FINAL-Bench/open-discovery-challenge</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>TenStrip/10Eros-Max</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。</summary>
 </entry>
 <entry>
-<title>nexu-io/open-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
+<title>holaboss-ai/holaOS</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>本地優先的超級工作代理，快速學習並記住工作上下文。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>anthropics/skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>公開的Agent Skills儲存庫。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-08-16T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
+<updated>2026-08-17T08:00:00+00:00</updated>
+<summary>將文字轉換成音樂的模型。</summary>
 </entry>
 </feed>

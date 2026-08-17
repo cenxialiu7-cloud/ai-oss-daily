@@ -1,6 +1,6 @@
 # Comfy-Org/MiniMax-Music-3
 
-· comfyui, license:apache-2.0, region:us
+· diffusion-single-file, comfyui, license:apache-2.0
 
 **Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

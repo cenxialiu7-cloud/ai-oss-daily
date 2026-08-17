@@ -4,5 +4,5 @@ Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-takin
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,421
+**Stars**：1,420
 **Source**：https://github.com/team-reflect/reflect-open

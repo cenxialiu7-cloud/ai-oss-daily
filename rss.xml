@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>16 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>17 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>JonathanColetti/Qwen3.8-27B-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>無審查限制的 Qwen 生成模型，支援 gguf 格式。</description>
+<title>IndexTeam/IndexTTS-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。</description>
 </item>
 <item>
-<title>tornikegomareli/Talkify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。</description>
+<title>Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。</description>
 </item>
 <item>
-<title>FINAL-Bench/open-discovery-challenge</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>TenStrip/10Eros-Max</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>holaboss-ai/holaOS</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>本地優先的超級工作代理，快速學習並記住工作上下文。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>anthropics/skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>公開的Agent Skills儲存庫。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>16 Aug 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
+<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成音樂的模型。</description>
 </item>
 </channel>
 </rss>

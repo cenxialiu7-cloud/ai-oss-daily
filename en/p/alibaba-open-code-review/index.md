@@ -4,5 +4,5 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：20,540
+**Stars**：20,599
 **Source**：https://github.com/alibaba/open-code-review
