@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
+<updated>2026-08-18T08:00:00+00:00</updated>
 <entry>
-<title>IndexTeam/IndexTTS-2.5</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。</summary>
+<title>AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>一個基於Qwen 3.5的大型語言模型，支援文本生成。</summary>
 </entry>
 <entry>
-<title>Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。</summary>
+<title>apiframe-ai/seedance-2.0-api</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apiframe-ai-seedance-2-0-api/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apiframe-ai-seedance-2-0-api/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>Seedance 2.0 API 提供文字轉影片和影像轉影片功能。</summary>
 </entry>
 <entry>
-<title>TenStrip/10Eros-Max</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。</summary>
+<title>Carasibana/ComfyUI-H3-FaceRefine</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carasibana-comfyui-h3-facerefine/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carasibana-comfyui-h3-facerefine/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>使用MiniMax H3技術提升小臉清晰度的AI工具。</summary>
 </entry>
 <entry>
-<title>holaboss-ai/holaOS</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>本地優先的超級工作代理，快速學習並記住工作上下文。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>anthropics/skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>公開的Agent Skills儲存庫。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
-<updated>2026-08-17T08:00:00+00:00</updated>
-<summary>將文字轉換成音樂的模型。</summary>
+<title>Lightricks/LTX-2.5</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</id>
+<updated>2026-08-18T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的擴散模型。</summary>
 </entry>
 </feed>

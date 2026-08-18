@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>17 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>18 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>IndexTeam/IndexTTS-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。</description>
+<title>AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>一個基於Qwen 3.5的大型語言模型，支援文本生成。</description>
 </item>
 <item>
-<title>Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。</description>
+<title>apiframe-ai/seedance-2.0-api</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apiframe-ai-seedance-2-0-api/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apiframe-ai-seedance-2-0-api/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>Seedance 2.0 API 提供文字轉影片和影像轉影片功能。</description>
 </item>
 <item>
-<title>TenStrip/10Eros-Max</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。</description>
+<title>Carasibana/ComfyUI-H3-FaceRefine</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carasibana-comfyui-h3-facerefine/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carasibana-comfyui-h3-facerefine/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>使用MiniMax H3技術提升小臉清晰度的AI工具。</description>
 </item>
 <item>
-<title>holaboss-ai/holaOS</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>本地優先的超級工作代理，快速學習並記住工作上下文。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>anthropics/skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>公開的Agent Skills儲存庫。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
-<pubDate>17 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換成音樂的模型。</description>
+<title>Lightricks/LTX-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
+<pubDate>18 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的擴散模型。</description>
 </item>
 </channel>
 </rss>

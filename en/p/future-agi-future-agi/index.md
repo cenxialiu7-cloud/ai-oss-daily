@@ -4,5 +4,5 @@ Open-source, end-to-end platform for evaluating, observing, and improving LLM an
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,687
+**Stars**：1,695
 **Source**：https://github.com/future-agi/future-agi

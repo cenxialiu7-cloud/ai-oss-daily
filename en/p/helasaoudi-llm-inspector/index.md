@@ -4,5 +4,5 @@ The htop for LLM inference  see exactly where every GB of VRAM goes and get meas
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：70
+**Stars**：69
 **Source**：https://github.com/helasaoudi/llm-inspector

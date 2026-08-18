@@ -4,5 +4,5 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,200
+**Stars**：1,203
 **Source**：https://github.com/pacifio/atlas
