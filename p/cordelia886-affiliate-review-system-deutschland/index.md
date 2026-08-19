@@ -2,9 +2,9 @@
 
 德語區高轉換率聯盟行銷系統，適用於ClickBank和Digistore24。
 
-**為何上榜**：近期新建立，已獲 22★
+**為何上榜**：近一日新增 4★（現 26★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：22
+**Stars**：26
 **原始連結**：https://github.com/Cordelia886/affiliate-review-system-deutschland

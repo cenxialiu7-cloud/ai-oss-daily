@@ -1,8 +1,8 @@
 # veedstudio/open-edit
 
-The video editor you own, not rent — edit clips from your coding agent (Claude Code, Codex, Gemini); e.g. burn in stylized subtitles.
+Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：280
+**Stars**：287
 **Source**：https://github.com/veedstudio/open-edit

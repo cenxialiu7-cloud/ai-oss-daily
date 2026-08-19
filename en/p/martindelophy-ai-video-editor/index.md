@@ -4,5 +4,5 @@ Open-source, local-first video editor where creators and AI agents edit the same
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：513
+**Stars**：520
 **Source**：https://github.com/MartinDelophy/ai-video-editor

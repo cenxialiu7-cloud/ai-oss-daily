@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：452
+**Stars**：481
 **Source**：https://github.com/Jaycheng1103/chatgpt-video-editing-skills

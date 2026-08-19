@@ -50,3 +50,5 @@
 - [ETF 相對強度輪動研究台：系統化排名強勢 ETF、拆解超額報酬來源，本機自架、人來決策](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P048/) — 一鍵掃描 ETF 宇宙的相對強度排名，拆解每檔的 alpha 歸因（因子貢獻），產出可下載的輪動研究報告——不推播訊號、不代下單，決定權留給使用者。
 - [本機技術 SEO 體檢台（Mac App）：一鍵爬站 → 70+ 項技術 SEO 診斷 + GSC／GA4 對照，附 GEO 加分層](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P049/) — 丟一個網域，本機完整爬站、跑 70+ 項技術 SEO 檢查並串接 Search Console／GA4，產出可白標交付的體檢報告；再疊一層 GEO 診斷看內容能不能被 AI 答案引用。
 - [AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P050/) — 掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。
+- [版權乾淨的 AI 配樂音效庫：短影音與 Podcast 創作者一鍵取得可商用的背景音樂、音效與片頭視覺](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P051/) — 用全可商用授權的開源模型量產背景音樂、音效與旁白，附上一份寫得出來的商用授權證明，解決創作者最怕的『影片被下架／被抽分潤』。
+- [🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P052/) — 企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道…

@@ -1,6 +1,6 @@
 # inclusionAI/Ling-3.0-tiny
 
-· safetensors, bailing_hybrid, custom_code
+text-generation · safetensors, bailing_hybrid, text-generation
 
 **Commercial license**：License unclear — 未知授權代碼 mit — 請人工確認商用條款
 

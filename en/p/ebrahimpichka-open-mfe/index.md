@@ -4,5 +4,5 @@ A community-curated vault of openly available resources that replicates the rigo
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：34
+**Stars**：35
 **Source**：https://github.com/ebrahimpichka/open-MFE

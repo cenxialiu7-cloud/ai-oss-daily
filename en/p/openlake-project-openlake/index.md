@@ -4,5 +4,5 @@ OpenLake is a high performance storage engine for efficient LLM inference and GP
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,328
+**Stars**：2,331
 **Source**：https://github.com/openlake-project/openlake

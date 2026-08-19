@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合 — AI OSS Daily</title>
+<meta name="description" content="企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道有紀錄、可撤銷的關卡。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P052/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P052/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P052/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P052/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P052/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合 — AI OSS Daily">
+<meta property="og:description" content="企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道有紀錄、可撤銷的關卡。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P052/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合 — AI OSS Daily">
+<meta name="twitter:description" content="企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道有紀錄、可撤銷的關卡。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合", "description": "企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道有紀錄、可撤銷的關卡。", "datePublished": "2026-08-18T08:00:00+00:00", "dateModified": "2026-08-18T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-08-18/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P052/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P052</p>
+  <h1>🧩 🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合</h1>
+  <p class="detail-lead">企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道有紀錄、可撤銷的關卡。</p>
+  <div class="cardmeta" style="margin-top:10px">
+<span class="badge change">🧩 Super-bundle</span>    <span class="badge">Difficulty: high</span>
+    <span class="badge">估 6–8 週做出能跑版本：代理型 MCP 閘道（協定轉發、工具過濾、呼叫紀錄）約 2–3 週，mcptrustchecker 整合與評分規則庫、白名單基線約 1.5 週，角色權限與內部註冊表 UI 約 1.5 週，OpenRath 會話隔離與跨 server 編排約 1 週，稽核報告輸出約 0.5 週。難點：一是協定相容性——MCP 規格與各家客戶端行為仍在變動，代理層要容忍版本差異且不能明顯增加延遲；二是評分要能服人，純靜態掃描容易誤判，需要人工複核流程與申訴機制，否則 IT 不敢用來擋人；三是這類產品的買家是資安／IT 部門，銷售週期長，需要先用免費評分查詢頁累積名聲再進企業。</span>
+  </div>
+  <p class="crumbs" style="margin-top:10px">Combines these ideas: 
+<a href="/ai-oss-daily/en/proposals/P041/">P041</a>、<a href="/ai-oss-daily/en/proposals/P045/">P045</a>、<a href="/ai-oss-daily/en/proposals/P046/">P046</a></p>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①企業自架年度授權（依員工席次或接入的 MCP server 數計價）：賣的是治理與可稽核性，不是功能；②導入顧問費：協助盤點現有 MCP、建立內部註冊表與權限政策，一次性收費；③持續訂閱：安全評分規則庫更新、新 MCP server 上架前的自動複掃、每季稽核報告；④小團隊 Mac App 買斷版：單機閘道＋本機評分，給沒有 IT 部門的工作室；⑤公開的免費『MCP server 安全評分查詢』網頁版掛 Adsterra／Monetag 衝自然流量並放 Ko-fi，同時當作企業版的導流入口；⑥主機商與資安工具聯盟。不涉及任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>分成三層。安全層：illiahaidar/mcptrustchecker 對每個候選 MCP server 做供應鏈掃描（可疑指令、外連目的地、權限索取範圍、維護者活躍度），產出一個可解釋的信任分數；modelcontextprotocol/servers 作為官方參考基準庫，用來比對『這個 server 是不是官方版本的變體』並建立白名單基線。閘道層：用 modelcontextprotocol/python-sdk 自建一個代理型 MCP server，員工的 Claude／Cursor／Codex 只連這一個端點，由它依角色分派可用的下游 server 與工具，並記錄每一次工具呼叫（誰、何時、呼叫哪個工具、參數摘要、回傳大小），成為稽核軌跡與撤銷開關。編排層：Rath-Team/OpenRath 的多代理／多會話執行時負責把跨 server 的工作流串起來並隔離會話，避免某個 server 的回應污染其他任務的上下文；DeusData/codebase-memory-mcp 則作為閘道後面第一個示範性的高價值內部 server（全公司程式碼索引），示範『內部資產只經閘道存取、程式碼零外流』的標準做法。定位差異：P046 只做安裝前的單點掃描評分，P045 只做程式碼記憶這一個 server，P041 做的是接上更多 SaaS 的連接器閘道；本案把三者疊成企業 IT 真正要買的東西——一個有註冊表、有評分、有權限、有紀錄、能撤銷的中央管制點。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/illiahaidar-mcptrustchecker/">illiahaidar/mcptrustchecker</a></h3>
+<p class="summary">Security scanner for MCP (Model Context Protocol) servers — reads the real published npm/PyPI source, not just metadata, to catch tool poisoning, prompt injection, toxic flows &amp; supply-chain risk. Offline, deterministic A–F Trust Score, SARIF + CI gates.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 180</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-servers/">modelcontextprotocol/servers</a></h3>
+<p class="summary">Model Context Protocol Servers</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge change">✦ Curated</span>    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 89,671</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 24,045</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/deusdata-codebase-memory-mcp/">DeusData/codebase-memory-mcp</a></h3>
+<p class="summary">High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span><span class="badge target">Cursor</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 39,429</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/rath-team-openrath/">Rath-Team/OpenRath</a></h3>
+<p class="summary">An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">OpenAI</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,097</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

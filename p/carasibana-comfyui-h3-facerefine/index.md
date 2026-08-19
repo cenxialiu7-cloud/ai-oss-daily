@@ -2,9 +2,9 @@
 
 使用MiniMax H3技術提升小臉清晰度的AI工具。
 
-**為何上榜**：近期新建立，已獲 237★
+**為何上榜**：近一日新增 8★（現 245★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：237
+**Stars**：245
 **原始連結**：https://github.com/Carasibana/ComfyUI-H3-FaceRefine

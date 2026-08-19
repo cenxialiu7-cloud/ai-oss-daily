@@ -4,5 +4,5 @@ Find · Leverage · Optimize · Win — an evidence-led SEO playbook for the AI-
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：73
+**Stars**：75
 **Source**：https://github.com/AgriciDaniel/flow
