@@ -4,5 +4,5 @@ Open agentic prompt-expansion harness for image and video generation, bridging p
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：71
+**Stars**：73
 **Source**：https://github.com/WayneJin0918/Omni-Rewriter

@@ -831,7 +831,6 @@ _每日存檔 · 2026-07-26_
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/echo-team-joy-future-academy-jd-echo-memory/) — 具有記憶功能的簡單基線影片世界模型。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wantongc-journal-adapt-writing-skill/) — 根據期刊文章學習寫作規範並修改手稿以匹配特定格式。
-- [cruisewagner2220/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cruisewagner2220-qwen-image-edit-rapid-aio-loras-experimental-neo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
 - [cosmicstack-labs/mercury-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicstack-labs-mercury-agent/) — 具靈魂驅動的AI代理，支援多渠道訪問和令牌預算。
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pineforge-4pass-pineforge-engine/) — 確定性 PineScript v6 回測執行時，與 TradingView 對比驗證。

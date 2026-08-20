@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
+<updated>2026-08-20T08:00:00+00:00</updated>
 <entry>
-<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文本的模型。</summary>
-</entry>
-<entry>
-<title>whichmen/dxl-commerce-agent</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
-<summary>使用大模型驅動的完整電商客服自動化系統。</summary>
-</entry>
-<entry>
-<title>Guinevereyes/gdpr-compliant-social-media-scheduler</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guinevereyes-gdpr-compliant-social-media-scheduler/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guinevereyes-gdpr-compliant-social-media-scheduler/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
-<summary>符合GDPR規定的多平臺社交媒體自動發文工具。</summary>
-</entry>
-<entry>
-<title>nexu-io/open-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
-<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
-</entry>
-<entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
-</entry>
-<entry>
-<title>Qwen/Qwen3.8-27B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</id>
-<updated>2026-08-19T08:00:00+00:00</updated>
+<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
 <summary>將影像和文字轉換為文字的模型。</summary>
+</entry>
+<entry>
+<title>ornith-ai/Ornith-1.5-35B-A3B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
+<summary>基於轉換器的文本生成模型。</summary>
+</entry>
+<entry>
+<title>flaqai/backlink_skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
+<summary>提交網址到免費網站以獲取更多回鏈，增加流量。</summary>
+</entry>
+<entry>
+<title>holaboss-ai/holaOS</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
+<summary>本地優先的超級工作代理，快速學習並記住工作上下文。</summary>
+</entry>
+<entry>
+<title>StarTrail-org/PixelRAG</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
+<summary>基於畫素的搜尋引擎，支援多模態資料。</summary>
+</entry>
+<entry>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
+<updated>2026-08-20T08:00:00+00:00</updated>
+<summary>將文字轉換成音樂的模型。</summary>
 </entry>
 </feed>

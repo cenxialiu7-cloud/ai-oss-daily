@@ -4,5 +4,5 @@ The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,995
+**Stars**：4,200
 **Source**：https://github.com/internet-court/internet-court-skill

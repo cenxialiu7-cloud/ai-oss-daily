@@ -4,5 +4,5 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,031
+**Stars**：9,065
 **Source**：https://github.com/omnigent-ai/omnigent

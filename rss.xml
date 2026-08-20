@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>19 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>20 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文本的模型。</description>
-</item>
-<item>
-<title>whichmen/dxl-commerce-agent</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
-<description>使用大模型驅動的完整電商客服自動化系統。</description>
-</item>
-<item>
-<title>Guinevereyes/gdpr-compliant-social-media-scheduler</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guinevereyes-gdpr-compliant-social-media-scheduler/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guinevereyes-gdpr-compliant-social-media-scheduler/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
-<description>符合GDPR規定的多平臺社交媒體自動發文工具。</description>
-</item>
-<item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
-</item>
-<item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
-</item>
-<item>
-<title>Qwen/Qwen3.8-27B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</guid>
-<pubDate>19 Aug 2026 08:00:00 +0000</pubDate>
+<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
 <description>將影像和文字轉換為文字的模型。</description>
+</item>
+<item>
+<title>ornith-ai/Ornith-1.5-35B-A3B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的文本生成模型。</description>
+</item>
+<item>
+<title>flaqai/backlink_skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
+<description>提交網址到免費網站以獲取更多回鏈，增加流量。</description>
+</item>
+<item>
+<title>holaboss-ai/holaOS</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
+<description>本地優先的超級工作代理，快速學習並記住工作上下文。</description>
+</item>
+<item>
+<title>StarTrail-org/PixelRAG</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於畫素的搜尋引擎，支援多模態資料。</description>
+</item>
+<item>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
+<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成音樂的模型。</description>
 </item>
 </channel>
 </rss>

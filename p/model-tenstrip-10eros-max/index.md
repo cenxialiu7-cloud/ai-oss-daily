@@ -2,7 +2,7 @@
 
 將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。
 
-**為何上榜**：HF trending 164 · 265 likes
+**為何上榜**：HF trending 176 · 283 likes
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
