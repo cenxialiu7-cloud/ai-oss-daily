@@ -4,5 +4,5 @@ A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：45
+**Stars**：98
 **Source**：https://github.com/zorost/AI-Engineering-Lab

@@ -4,5 +4,5 @@ ktx is an executable context layer for data and analytics agents 🐙 Allow Clau
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,548
+**Stars**：1,549
 **Source**：https://github.com/Kaelio/ktx

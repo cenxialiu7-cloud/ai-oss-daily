@@ -4,5 +4,5 @@ Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：313
+**Stars**：367
 **Source**：https://github.com/ibrahimqureshae/mdflux

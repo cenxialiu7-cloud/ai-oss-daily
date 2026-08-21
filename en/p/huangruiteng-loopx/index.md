@@ -4,5 +4,5 @@ Long-horizon agent control plane for durable, governed work across Codex, Claude
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,959
+**Stars**：4,980
 **Source**：https://github.com/huangruiteng/loopx

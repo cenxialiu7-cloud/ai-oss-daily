@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>20 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>21 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字的模型。</description>
+<title>peculiar-ragdoll/Qwen-Sharp-Chat-Templates</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>ornith-ai/Ornith-1.5-35B-A3B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-35b-a3b/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於轉換器的文本生成模型。</description>
+<title>openbmb/Ultra-FineWeb-L1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>flaqai/backlink_skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>提交網址到免費網站以獲取更多回鏈，增加流量。</description>
+<title>amisima/LTX-2.3-10Eros_I2V</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>holaboss-ai/holaOS</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>本地優先的超級工作代理，快速學習並記住工作上下文。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>StarTrail-org/PixelRAG</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於畫素的搜尋引擎，支援多模態資料。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
-<pubDate>20 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換成音樂的模型。</description>
+<title>Lightricks/LTX-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
+<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的擴散模型。</description>
 </item>
 </channel>
 </rss>

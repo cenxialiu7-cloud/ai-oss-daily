@@ -4,5 +4,5 @@ Automatisierter Export & Konsolidierung von PayPal-Transaktionen für Online-Hä
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：31
+**Stars**：34
 **Source**：https://github.com/digistoremaster/online-business-skalierung-tools

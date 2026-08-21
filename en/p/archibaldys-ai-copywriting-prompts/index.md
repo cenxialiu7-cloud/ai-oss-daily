@@ -4,5 +4,5 @@ Battle-tested AI prompts and workflows for social media copywriting, long-form a
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：30
+**Stars**：34
 **Source**：https://github.com/Archibaldys/ai-copywriting-prompts
