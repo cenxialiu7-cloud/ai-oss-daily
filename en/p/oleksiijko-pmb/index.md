@@ -4,5 +4,5 @@ Local-first persistent memory for AI coding agents (Claude Code, Cursor, Codex) 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：292
+**Stars**：294
 **Source**：https://github.com/oleksiijko/pmb

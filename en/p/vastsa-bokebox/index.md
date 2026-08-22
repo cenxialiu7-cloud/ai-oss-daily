@@ -4,5 +4,5 @@ BokeBox: multi-source private AI podcast studio — videos/links/articles/notes 
 
 **Commercial license**：Commercial OK — 可商用，但修改該元件本身須開源(動態連結通常可)
 
-**Stars**：82
+**Stars**：83
 **Source**：https://github.com/vastsa/BokeBox

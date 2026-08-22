@@ -4,5 +4,5 @@ OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：47
+**Stars**：54
 **Source**：https://github.com/whichmen/dxl-commerce-agent

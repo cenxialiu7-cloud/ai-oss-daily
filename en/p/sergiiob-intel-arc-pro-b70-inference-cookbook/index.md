@@ -4,5 +4,5 @@ Open recipes, engine patches, and benchmark harnesses for LLM inference on Intel
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：57
+**Stars**：61
 **Source**：https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook

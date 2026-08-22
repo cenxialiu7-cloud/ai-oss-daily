@@ -4,5 +4,5 @@ A curated collection and automation engine for Indie Hackers to build, remix, an
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：33
+**Stars**：39
 **Source**：https://github.com/Nathanielyseterday/automated-digital-product-generator

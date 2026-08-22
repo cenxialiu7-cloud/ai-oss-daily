@@ -1364,7 +1364,6 @@ _每日存檔 · 2026-08-21_
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heymrun-heym/) — 自託管的 AI 工作流自動化平臺，具備視覺畫布、代理和監控功能。
 - [guanyang/open-agent-hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-open-agent-hub/) — 輕量級CLI工具，管理AI程式設計助手的能力。
 - [mvanhorn/cli-printing-press](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mvanhorn-cli-printing-press/) — 將API轉換為強大的CLI工具，專門設計給AI代理程式使用。
-- [epoko77-ai/im-not-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/epoko77-ai-im-not-ai/) — 檢測並修正韓文 AI 文本的人性化技能。
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [milisp/codexia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milisp-codexia/) — Codex CLI 和 Claude Code 的代理工作站，具備任務排程、git 工作樹和遠端控制功能。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。

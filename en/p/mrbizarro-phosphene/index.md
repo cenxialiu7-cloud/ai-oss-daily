@@ -4,5 +4,5 @@ Run MiniMax Hailuo H3 and LTX-2.5 video generation locally on a Mac. Joint audio
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：168
+**Stars**：171
 **Source**：https://github.com/mrbizarro/Phosphene

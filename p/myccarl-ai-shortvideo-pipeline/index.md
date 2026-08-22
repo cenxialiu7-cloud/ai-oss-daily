@@ -2,9 +2,9 @@
 
 使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。
 
-**為何上榜**：近一日新增 4★（現 552★）
+**為何上榜**：近一日新增 3★（現 555★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：552
+**Stars**：555
 **原始連結**：https://github.com/myccarl/ai-shortVideo-pipeline

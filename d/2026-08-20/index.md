@@ -1337,7 +1337,6 @@ _每日存檔 · 2026-08-20_
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thu-ml-causal-forcing/) — 高品質即時互動式影片生成的因果強迫自動回歸擴散模型程式碼庫。
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [nvidia/SPEED-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-speed-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [epoko77-ai/im-not-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/epoko77-ai-im-not-ai/) — 檢測並修正韓文 AI 文本的人性化技能。
 - [Open-Curiosity/gini-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-curiosity-gini-agent/) — 一個能記住和學習的代理程式。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
 - [0xNyk/awesome-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnyk-awesome-hermes-agent/) — 整理 Hermes Agent 的技能、工具和資源清單。

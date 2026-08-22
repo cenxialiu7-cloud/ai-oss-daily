@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-08-21 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-08-22 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-08-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-22/)
 - [2026-08-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-21/)
 - [2026-08-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-20/)
 - [2026-08-19](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-19/)
@@ -26,15 +27,14 @@
 - [2026-08-11](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-11/)
 - [2026-08-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-10/)
 - [2026-08-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-09/)
-- [2026-08-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-08/)
 
 ## 今日精選 Today's picks
-- [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/)
-- [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/)
-- [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/)
-- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/)
+- [LBH-123-AI/Minimax_h3_latent_Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/)
+- [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/)
+- [hugging-apps/sensenova-sensenova-u1-5-8b-mot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/)
+- [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/)
+- [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/)
+- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -89,3 +89,4 @@
 - [AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P050/)
 - [版權乾淨的 AI 配樂音效庫：短影音與 Podcast 創作者一鍵取得可商用的背景音樂、音效與片頭視覺](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P051/)
 - [🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P052/)
+- [AI 聯盟評測站群工廠：自動選品 → 多語評測長文 → 外鏈養站 → 佣金與斷鏈追蹤，一個人維運數十個聯盟收入站](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P053/)

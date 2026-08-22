@@ -4,5 +4,5 @@ Der Leitfaden für Quiz-Funnels im Affiliate Marketing. Wie Sie im DACH-Raum kal
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：33
+**Stars**：39
 **Source**：https://github.com/Sebastianmaxter/dach-affiliate-quiz-funne

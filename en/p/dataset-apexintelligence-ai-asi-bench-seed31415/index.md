@@ -1,6 +1,6 @@
 # Apexintelligence-AI/ASI-Bench-seed31415
 
-· language:en, license:apache-2.0, size_categories:n<1K
+· task_categories:other, language:en, license:apache-2.0
 
 **Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>21 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>22 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>peculiar-ragdoll/Qwen-Sharp-Chat-Templates</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）</description>
+<title>LBH-123-AI/Minimax_h3_latent_Upscaler</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>openbmb/Ultra-FineWeb-L1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>cclank/lanshu-create-ai-presenter-video</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>從指令碼和授權影像生成驗證的AI主播影片。</description>
 </item>
 <item>
-<title>amisima/LTX-2.3-10Eros_I2V</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）</description>
+<title>hugging-apps/sensenova-sensenova-u1-5-8b-mot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>nexu-io/open-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>Lightricks/LTX-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
-<pubDate>21 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的擴散模型。</description>
+<title>Qwen/Qwen3.8-27B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</guid>
+<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文字的模型。</description>
 </item>
 </channel>
 </rss>

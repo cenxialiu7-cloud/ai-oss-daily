@@ -52,3 +52,4 @@
 - [AI 程式碼治理稽核台：團隊導入 AI coding agent 後，誰改了什麼、哪段是 agent 寫的、風險在哪，一次講清楚](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P050/) — 掛在既有 Git 流程旁邊，記錄每一次 AI agent 的改動來源與提示脈絡，再自動跑審查，產出可交付稽核長官／客戶的『AI 產出程式碼』風險報告。
 - [版權乾淨的 AI 配樂音效庫：短影音與 Podcast 創作者一鍵取得可商用的背景音樂、音效與片頭視覺](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P051/) — 用全可商用授權的開源模型量產背景音樂、音效與旁白，附上一份寫得出來的商用授權證明，解決創作者最怕的『影片被下架／被抽分潤』。
 - [🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P052/) — 企業導入 Claude／Cursor／Codex 之後，員工各自亂裝 MCP server 就是新的影子 IT：這套自架閘道讓 IT 先掃描評分、再上架到內部註冊表，所有 AI 工具呼叫都經過同一道…
+- [AI 聯盟評測站群工廠：自動選品 → 多語評測長文 → 外鏈養站 → 佣金與斷鏈追蹤，一個人維運數十個聯盟收入站](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P053/) — 把聯盟行銷最耗人力的四件苦工（找可推的產品、寫出真的會被搜到的評測、建外部連結、追每個連結還有沒有在賺錢）串成一條自動化流水線，讓內容站從『寫爽的部落格』變成有佣金數字可看的資產。

@@ -2,9 +2,9 @@
 
 BuildPage USA無程式碼落地頁生成器的評測和指南。
 
-**為何上榜**：近一日新增 4★（現 33★）
+**為何上榜**：近一日新增 6★（現 39★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：33
+**Stars**：39
 **原始連結**：https://github.com/Anastasiamaster/buildpage-usa-review-and-guide

@@ -4,5 +4,5 @@ A comprehensive guide and toolset for generating high-converting 3D mockups. Per
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：34
+**Stars**：40
 **Source**：https://github.com/digistoremaster/clickdesigns-review-and-templates

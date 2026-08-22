@@ -4,5 +4,5 @@ A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：72
+**Stars**：75
 **Source**：https://github.com/nowork-studio/awesome-ai-startups

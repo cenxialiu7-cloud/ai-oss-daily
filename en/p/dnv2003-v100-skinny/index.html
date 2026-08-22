@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>dnv2003/v100-skinny — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="Hand-written NVFP4 W4A16 CUDA kernels and chain-MTP speculative serving — Qwen3.6-27B at up to 366 tok/s on four Tesla V100s, hardware with no FP4 support">
+<meta name="description" content="Hand-written NVFP4 W4A16 CUDA kernels for Volta">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dnv2003-v100-skinny/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="dnv2003/v100-skinny — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="Hand-written NVFP4 W4A16 CUDA kernels and chain-MTP speculative serving — Qwen3.6-27B at up to 366 tok/s on four Tesla V100s, hardware with no FP4 support">
+<meta property="og:description" content="Hand-written NVFP4 W4A16 CUDA kernels for Volta">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="dnv2003/v100-skinny — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="Hand-written NVFP4 W4A16 CUDA kernels and chain-MTP speculative serving — Qwen3.6-27B at up to 366 tok/s on four Tesla V100s, hardware with no FP4 support">
+<meta name="twitter:description" content="Hand-written NVFP4 W4A16 CUDA kernels for Volta">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "dnv2003/v100-skinny", "description": "Hand-written NVFP4 W4A16 CUDA kernels and chain-MTP speculative serving — Qwen3.6-27B at up to 366 tok/s on four Tesla V100s, hardware with no FP4 support", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/dnv2003/v100-skinny", "license": "NOASSERTION", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 71, "bestRating": "5", "worstRating": "1"}, "keywords": "cuda, cuda-kernels, fp4, gemm, gpu, inference-engine, int4, llm-inference, llm-serving, nvfp4"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "dnv2003/v100-skinny", "description": "Hand-written NVFP4 W4A16 CUDA kernels for Volta", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/dnv2003/v100-skinny", "license": "NOASSERTION", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 81, "bestRating": "5", "worstRating": "1"}, "keywords": "cuda, cuda-kernels, fp4, gemm, gpu, inference-engine, int4, llm-inference, llm-serving, nvfp4"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ Inference / Serving", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "dnv2003/v100-skinny", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/inference/">⚡ Inference / Serving</a>  </p>
   <h1>dnv2003/v100-skinny</h1>
-<p class="detail-lead">Hand-written NVFP4 W4A16 CUDA kernels and chain-MTP speculative serving — Qwen3.6-27B at up to 366 tok/s on four Tesla V100s, hardware with no FP4 support</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">Hand-written NVFP4 W4A16 CUDA kernels for Volta</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-unknown">License unclear</span>
-<span class="badge stars">★ 71</span><span class="badge">Python</span>  </div>
+<span class="badge stars">★ 81</span><span class="badge">Python</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/dnv2003/v100-skinny" rel="noopener" target="_blank">↗ Source</a>
   </div>

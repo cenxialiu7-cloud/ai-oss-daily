@@ -1310,7 +1310,6 @@ _每日存檔 · 2026-08-19_
 - [massgen/MassGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/massgen-massgen/) — 開源多代理擴充套件系統，自動協調前沿模型和代理以產生高質量結果。
 - [Ontos-AI/knowhere](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ontos-ai-knowhere/) — 提取、解析並輸出結構化資料供AI代理使用。
 - [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/purpledoubled-locally-uncensored/) — 本地AI桌面應用程式，支援多種模型，提供聊天、代理模式等功能。
-- [epoko77-ai/im-not-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/epoko77-ai-im-not-ai/) — 檢測並修正韓文 AI 文本的人性化技能。
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
 - [soniqo/speech-swift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-swift/) — 適用於 Apple 裝置的 AI 語音工具包，支援語音識別、文字轉語音等功能。

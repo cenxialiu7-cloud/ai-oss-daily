@@ -2,9 +2,9 @@
 
 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 
-**為何上榜**：近一日新增 1★（現 487★）
+**為何上榜**：近一日新增 4★（現 491★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：487
+**Stars**：491
 **原始連結**：https://github.com/Jaycheng1103/chatgpt-video-editing-skills

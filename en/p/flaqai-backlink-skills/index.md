@@ -4,5 +4,5 @@ Awesome skills for submitting url to free websites. Get more backlinks for your 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：469
+**Stars**：508
 **Source**：https://github.com/flaqai/backlink_skills
