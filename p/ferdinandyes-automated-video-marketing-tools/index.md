@@ -2,9 +2,9 @@
 
 自動生成TikTok和推廣影片的AI工具。
 
-**為何上榜**：近一日新增 5★（現 39★）
+**為何上榜**：近一日新增 5★（現 44★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：39
+**Stars**：44
 **原始連結**：https://github.com/Ferdinandyes/automated-video-marketing-tools

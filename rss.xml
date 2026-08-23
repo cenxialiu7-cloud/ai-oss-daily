@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>22 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>23 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>LBH-123-AI/Minimax_h3_latent_Upscaler</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>AI 相關專案（依標籤自動歸類，詳細看下方原文）</description>
+<title>empero-ai/Qwen3.8-9B-Distill-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwen3-8-9b-distill-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwen3-8-9b-distill-gguf/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>Qwen3.8-9B-Distill-GGUF 是一個經過精簡的文本生成模型，支援 gguf 格式和量化。</description>
 </item>
 <item>
-<title>cclank/lanshu-create-ai-presenter-video</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>從指令碼和授權影像生成驗證的AI主播影片。</description>
+<title>ant-research/4DAnyone</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>4DAnyone 是一個從單目影片生成四維動畫的工具。</description>
 </item>
 <item>
-<title>hugging-apps/sensenova-sensenova-u1-5-8b-mot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>nari-labs/nari-qwen3-tts</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nari-labs-nari-qwen3-tts/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nari-labs-nari-qwen3-tts/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>nari-qwen3-tts 是一個超快速的語音生成系統，支援每秒 10 次請求。</description>
 </item>
 <item>
-<title>nexu-io/open-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</description>
+<title>holaboss-ai/holaOS</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>本地優先的超級工作代理，快速學習並記住工作上下文。</description>
 </item>
 <item>
-<title>ayghri/i-have-adhd</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
+<title>RyanCodrai/turbovec</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。</description>
 </item>
 <item>
-<title>Qwen/Qwen3.8-27B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/</guid>
-<pubDate>22 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字的模型。</description>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
+<pubDate>23 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成音樂的模型。</description>
 </item>
 </channel>
 </rss>

@@ -1,8 +1,8 @@
 # juanjuandog/FinSight-AI
 
-AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.
+AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,027
+**Stars**：1,028
 **Source**：https://github.com/juanjuandog/FinSight-AI

@@ -4,5 +4,5 @@ Open-Source AI research workbench with scientific agents for reproducible resear
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,892
+**Stars**：2,901
 **Source**：https://github.com/aipoch/open-science
