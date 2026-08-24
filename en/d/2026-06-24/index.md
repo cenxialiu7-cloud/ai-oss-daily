@@ -6,7 +6,6 @@ _Daily archive · 2026-06-24_
 
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Open Framework for Building Agents
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-colbert-tool-selection/) — · docker, region:us
@@ -16,6 +15,7 @@ _Daily archive · 2026-06-24_
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-oh-story-claudecode/) — 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fict…
+- [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-makora-ai-triton-gpu-latency/) — · task_categories:text-generation, language:en, license:apache-2.0
 
 ## 🚀 Climbing
 
@@ -112,7 +112,6 @@ _Daily archive · 2026-06-24_
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huuyfytryr-jigarrzz/) — · docker, region:us
 - [build-small-hackathon/small-talk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-small-talk/) — · gradio, reachy_mini, livekit
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-colbert-350m/) — sentence-similarity · PyLate, safetensors, lfm2
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-registration/) — · gradio, region:us
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-encoder-free-vlm/) — · docker, research-article-template, research paper
@@ -231,7 +230,6 @@ _Daily archive · 2026-06-24_
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-molmo-motion-1m/) — · task_categories:other, language:en, license:other
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-local-ai-image-generator/) — A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GG…
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aletheiaresearch-glm-5-2-agent/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — Best GPT Image 2 OpenAi Prompts & Tools Guide 2026
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

@@ -143,7 +143,6 @@ _Daily archive · 2026-07-07_
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openonerec-explorer-llm-rec-competition/) — · region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-lfm2-webgpu-kernels/) — · static, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joelniklaus-harness-optimization/) — · docker, research-article-template, research paper
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-registration/) — · gradio, region:us
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
@@ -300,7 +299,6 @@ _Daily archive · 2026-07-07_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [QuantiaAI/helm-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-helm-agents/) — 多智能体 LLM 股票/加密交易决策台 —— 13 位 AI 分析师研究、辩论、风控压测,收敛出可追溯、可实时观看的交易决策。 | Multi-agent LLM trading desk: 13 AI analyst…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us

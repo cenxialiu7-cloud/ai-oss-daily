@@ -449,7 +449,6 @@ _每日存檔 · 2026-08-12_
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/) — 純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -554,7 +553,6 @@ _每日存檔 · 2026-08-12_
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-dronefreak-exdark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cliffsector21-fooocus/) — 使用 Stable Diffusion 技術的桌面 AI 影像生成器。
 - [google/asimov_agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-asimov-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI 數位人頭像資源彙整（HeyGen／D-ID 類）。

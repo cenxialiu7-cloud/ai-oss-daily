@@ -476,7 +476,6 @@ _每日存檔 · 2026-08-21_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-prompt-routing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -671,7 +670,6 @@ _每日存檔 · 2026-08-21_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-online-business-skalierung-tools/) — 自動化匯出與合併PayPal交易記錄，適用於德語區線上商家。
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。

@@ -432,7 +432,6 @@ _Daily archive · 2026-08-10_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/veedstudio-open-edit/) — Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
@@ -526,7 +525,6 @@ _Daily archive · 2026-08-10_
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-makora-ai-triton-gpu-latency/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-alpamayo2-super/) — robotics · safetensors, alpamayo2_super, alpamayo
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lathanfreeapp-solana-sniper-bot/) — pumpfun copy trading bot pumpfun sniper bot pumpswap copy trading bot pumpswap sniper bot raydium copy tradin…
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/faizalimam990-startup-builder-pro/) — AI-powered skill that turns product ideas or existing repositories into secure, tested, production-ready SaaS…

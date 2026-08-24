@@ -149,7 +149,6 @@ _Daily archive · 2026-07-08_
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huuyfytryr-jigarrzz/) — · docker, region:us
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-lfm2-webgpu-kernels/) — · static, region:us
 - [deepreinforce-ai/Ornith-1.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-deepreinforce-ai-ornith-1-0-9b/) — · gradio, region:us
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
@@ -300,7 +299,6 @@ _Daily archive · 2026-07-08_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hirokawaguchi-open-genai/) — デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aletheiaresearch-glm-5-2-agent/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-grid-pilot/) — 超越交易所原生网格机器人：用程序模拟盯盘交易员——动态改单不挂死、追踪建仓避免顶部接盘、Maker 优先省手续费、分层算法单止损、多段价格区间自适应。兼容 Binance / OKX / Gate.io，内置 12 种…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

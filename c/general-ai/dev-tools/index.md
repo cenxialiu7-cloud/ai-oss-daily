@@ -3,24 +3,25 @@
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cinderholm-wan2-2-i2v-v3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/sensenova-sensenova-u1-5-8b-mot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [hugging-apps/4danyone-multiview-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-4danyone-multiview-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-thornmaze-reel-lab/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-spotsound-temporal-grounding/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-pid-image-upscaler/) — PiD 圖像放大線上示範（含 MCP server）。
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-lingbot-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-vibevoice-asr-bitnet-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-midashenglm-gen/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-society-ethics-annotated-encyclical/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jimmycarter/krea2-turbo-bbox-canvas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jimmycarter-krea2-turbo-bbox-canvas/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lightricks-ltx-2-5/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-ardy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-prompt-routing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [GenAI4ELab/papercli-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-genai4elab-papercli-papers/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-unise-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-firered-tts3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -33,25 +34,25 @@
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skill-recorder/) — 使用GitHub Copilot CLI記錄並重建工作會話的桌面應用程式。
 - [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qsardor-claude-sonnet-opus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roman1111111-claude-opus-4-6-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [worldwonderer/drama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-drama-skills/) — AI 短劇創作套件，涵蓋從指令碼到獨立審查的全流程。
+- [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-claude-mythos-distilled-25k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snflkd-fluent-korean/) — 讓Claude Code生成流暢的韓文。
+- [worldwonderer/drama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-drama-skills/) — AI 短劇創作套件，涵蓋從指令碼到獨立審查的全流程。
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-not-lain-background-removal/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raymondhou0917-speak-human-tw/) — 將繁體中文 AI 文本改寫成人類易懂的語言，修正中國用語及標點符號。
+- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snflkd-fluent-korean/) — 讓Claude Code生成流暢的韓文。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raymondhou0917-speak-human-tw/) — 將繁體中文 AI 文本改寫成人類易懂的語言，修正中國用語及標點符號。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pliny-the-prompter-obliteratus/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadevin-ilab-conjure/) — 用於GPT-image-2的AI圖片生成工作臺，支援Codex回應和OpenAPI接入。
-- [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
+- [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/texasbedouin-vibe-check/) — 幫助初學者從模糊的想法到具體的計劃，再到實際開發的工具。
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alistaitsacle-free-llm-api-keys/) — 提供 GPT-5.5、Claude 等免費 AI API 金鑰，每日更新多次，無需信用卡。
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thysrael-horizon/) — 利用 AI 建立個人新聞摘要系統，每日提供英語和中文簡報。

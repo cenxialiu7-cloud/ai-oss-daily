@@ -438,7 +438,6 @@ _每日存檔 · 2026-08-11_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -540,7 +539,6 @@ _每日存檔 · 2026-08-11_
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [TOPDEV99999/AI-Knowledge-Management-Platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/topdev99999-ai-knowledge-management-platform/) — 利用大型語言模型自動提取實體並進行結構化資料分析的知識管理平臺。
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-dronefreak-exdark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cliffsector21-fooocus/) — 使用 Stable Diffusion 技術的桌面 AI 影像生成器。

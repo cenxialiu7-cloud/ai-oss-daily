@@ -418,7 +418,6 @@ _每日存檔 · 2026-08-06_
 - [google/asimov_agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-asimov-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yucrazing1-clothtransformer-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -469,7 +468,6 @@ _每日存檔 · 2026-08-06_
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-animtex-aimocap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。

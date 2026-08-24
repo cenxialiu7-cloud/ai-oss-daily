@@ -115,7 +115,6 @@ _每日存檔 · 2026-06-29_
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
 - [Qwen/AgentWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-agentworldbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-aimeebingmouqu-protectbirds/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitrobot-hiw-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-lfm2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -252,7 +251,6 @@ _每日存檔 · 2026-06-29_
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/) — 跨交易所BTC套利機器人，具備Telegram通知和Flask監控儀錶板。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-portable-diffusion/) — 行動式 AI 影像生成工具，支援多平臺離線執行。
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/) — Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -320,7 +320,6 @@ _每日存檔 · 2026-07-23_
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-zonos2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-dukaan-saathi/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-actava-chi-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-stanford-vision-lab-gpic/) — 史丹佛 GPIC 視覺生成圖像資料集（MIT 授權）。
 - [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-ifstruct-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cha007-pornflux-i2v-6e9et/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -368,7 +367,6 @@ _每日存檔 · 2026-07-23_
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yatin-superintelligence-digital-hospital-environment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

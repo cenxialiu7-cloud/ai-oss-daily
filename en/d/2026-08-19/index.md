@@ -470,7 +470,6 @@ _Daily archive · 2026-08-19_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsline-openchatcut/) — Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skill…
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
@@ -634,7 +633,6 @@ _Daily archive · 2026-08-19_
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
 - [sarvamai/indic-diarbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarvamai-indic-diarbench/) — · task_categories:automatic-speech-recognition, task_categories:audio-to-audio, language:as
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [Kritt-ai/open-kritt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kritt-ai-open-kritt/) — Orchestrate AI agents to find real vulnerabilities in code.
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI

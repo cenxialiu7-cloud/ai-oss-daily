@@ -2,14 +2,14 @@
 
 - [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — text-generation · llama.cpp, gguf, uncensored
-- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3/) — image-text-to-video · minimax-h3, diffusers, safetensors
 - [huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/) — image-text-to-text · transformers, gguf, abliterated
-- [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
+- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3/) — image-text-to-video · minimax-h3, diffusers, safetensors
 - [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-0731/) — text-generation · transformers, safetensors, deepseek_v4
-- [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
+- [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
+- [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
@@ -36,6 +36,7 @@
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
+- [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -45,18 +46,17 @@
 - [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aliestaha-fable-traces/) — text-generation · transformers, safetensors, qwen3
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
-- [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-memory-leaderboard-leaderboard/) — · static, leaderboard, benchmark
+- [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
+- [LBH-123-AI/Minimax_h3_latent_Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lbh-123-ai-minimax-h3-latent-upscaler/) — · region:us
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
 - [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/) — image-text-to-text · hermes, gguf, uncensored
-- [LBH-123-AI/Minimax_h3_latent_Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lbh-123-ai-minimax-h3-latent-upscaler/) — · region:us
+- [ReverseFaceSearch/Reverse-Face-Search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-reversefacesearch-reverse-face-search/) — · static, region:us
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
-- [TenStrip/10Eros-Max](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tenstrip-10eros-max/) — image-text-to-video · text-to-video, image-text-to-video, image-to-video
+- [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
-- [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image

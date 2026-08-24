@@ -180,7 +180,6 @@ _每日存檔 · 2026-07-10_
 - [Syn4D/Syn4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-syn4d-syn4d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-servicenow-ai-eva-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/MiniCPM5-1B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-minicpm5-1b-demo/) — 面壁 MiniCPM5-1B 端側小模型線上示範。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [julien-c/synthtraces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-julien-c-synthtraces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -324,7 +323,6 @@ _每日存檔 · 2026-07-10_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [onism1767-creator/potato](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onism1767-creator-potato/) — 測量品牌在網頁搜尋結果中的提及頻率和引用次數。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

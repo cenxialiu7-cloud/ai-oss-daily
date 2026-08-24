@@ -476,7 +476,6 @@ _Daily archive · 2026-08-21_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pireel-pireel/) — The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-prompt-routing/) — · docker, region:us
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
@@ -671,7 +670,6 @@ _Daily archive · 2026-08-21_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
 - [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-online-business-skalierung-tools/) — Automatisierter Export & Konsolidierung von PayPal-Transaktionen für Online-Händler im DACH-Raum. Multi-Accou…
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blizaine-maestro/) — An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short …
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us

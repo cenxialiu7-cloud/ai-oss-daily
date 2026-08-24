@@ -461,7 +461,6 @@ _Daily archive · 2026-08-14_
 - [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vox-director/) — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Clo…
@@ -583,7 +582,6 @@ _Daily archive · 2026-08-14_
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:tr
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axisegretdefeat-kling-ai-master/) — Kling AI Master

@@ -357,7 +357,6 @@ _Daily archive · 2026-07-27_
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-davydenkogr-after/) — · language:en, license:apache-2.0, arxiv:2606.23127
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
 - [witcherderivia/TeleStyleV2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-witcherderivia-telestylev2/) — · gradio, region:us
@@ -376,7 +375,6 @@ _Daily archive · 2026-07-27_
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alinebm17-trade-backtesting-engine/) — Trade backtesting engine for DCA (Dollar Cost Averaging) and Grid trading strategies with technical indicator…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnikodev-robinhood-ai-dev-sniper/) — 🏹 RobinHood — AI Dev Sniper: Go sniper & trading panel for Robinhood Chain (Arbitrum-Orbit L2, id 4663). Boun…
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cmrobot-motiondecode/) — · region:us

@@ -147,7 +147,6 @@ _每日存檔 · 2026-07-05_
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitrobot-hiw-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-optimization/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ginigen-ai-metacognition-leaderboard-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tencent-hy-embodied-0-5-vla-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/) — LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。
@@ -288,7 +287,6 @@ _每日存檔 · 2026-07-05_
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

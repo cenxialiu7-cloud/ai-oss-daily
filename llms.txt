@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-08-23 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-08-24 09:06 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-08-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-24/)
 - [2026-08-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-23/)
 - [2026-08-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-22/)
 - [2026-08-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-21/)
@@ -26,15 +27,14 @@
 - [2026-08-13](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-13/)
 - [2026-08-12](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-12/)
 - [2026-08-11](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-11/)
-- [2026-08-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-10/)
 
 ## 今日精選 Today's picks
-- [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwen3-8-9b-distill-gguf/)
-- [ant-research/4DAnyone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/)
-- [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nari-labs-nari-qwen3-tts/)
-- [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/)
-- [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/)
-- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/)
+- [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-qwen3-8-27b-dflash2-gguf/)
+- [sensenova/SenseNova-U1.5-8B-MoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-u1-5-8b-mot/)
+- [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duty1g-x64dbg-mcp-server/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

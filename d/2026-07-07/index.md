@@ -143,7 +143,6 @@ _每日存檔 · 2026-07-07_
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-lfm2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-optimization/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-openmythos/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -300,7 +299,6 @@ _每日存檔 · 2026-07-07_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [QuantiaAI/helm-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/) — 多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

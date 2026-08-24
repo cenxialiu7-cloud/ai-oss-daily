@@ -128,7 +128,6 @@ _每日存檔 · 2026-07-04_
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — 模型推理／部署引擎，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-ifstruct-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
@@ -288,7 +287,6 @@ _每日存檔 · 2026-07-04_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [macrodata/WGO-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-macrodata-wgo-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。

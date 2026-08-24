@@ -6,7 +6,6 @@ _每日存檔 · 2026-06-24_
 
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/) — Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-colbert-tool-selection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-06-24_
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-wikiprofile/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-oh-story-claudecode/) — 網文寫作技能包，涵蓋掃榜、拆文、去 AI 味道等全流程。
+- [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-makora-ai-triton-gpu-latency/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -112,7 +112,6 @@ _每日存檔 · 2026-06-24_
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-telnyx-telnyx-code-examples/) — Telnyx AI 通訊基礎設施的生產級程式碼範例，涵蓋語音、簡訊和 IoT API。
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huuyfytryr-jigarrzz/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/small-talk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-small-talk/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-colbert-350m/) — 用於句子相似性分析的深度學習模型。
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -231,7 +230,6 @@ _每日存檔 · 2026-06-24_
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-molmo-motion-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-local-ai-image-generator/) — Windows 系統上的離線 AI 影像生成器，支援 Stable Diffusion。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aletheiaresearch-glm-5-2-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — GPT影像生成的最佳提示和工具指南。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

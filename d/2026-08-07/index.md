@@ -421,7 +421,6 @@ _每日存檔 · 2026-08-07_
 - [joeseesun/qiaomu-cut-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/) — 智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -484,7 +483,6 @@ _每日存檔 · 2026-08-07_
 - [zhifeixie/StreamAudio-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-streamaudio-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-antirez-deepseek-v4-gguf/) — 基於 GGUF 格式的深度搜尋文本生成模型。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [OStudi/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ostudi-short-video-generator-ai/) — 將YouTube影片轉換為短影片的開源工具，具備高亮檢測、字幕和翻譯功能。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artefactory-ledger-market-sentiment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

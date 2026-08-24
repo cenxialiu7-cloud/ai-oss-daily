@@ -228,7 +228,6 @@ _每日存檔 · 2026-07-13_
 - [kepeng/MeasL-Bench-V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-kepeng-measl-bench-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-fable-5-boeing-747/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/) — 面壁 UltraData 監督微調(SFT)資料集（文字生成／問答）。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — NayanaOCR：印度語系 OCR 語料庫。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-higgs-audio-v3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -313,7 +312,6 @@ _每日存檔 · 2026-07-13_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-reasoning-summaries-61k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

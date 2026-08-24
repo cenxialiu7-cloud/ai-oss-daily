@@ -409,7 +409,6 @@ _Daily archive · 2026-08-05_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [google/asimov_agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-asimov-agentic/) — · license:cc-by-4.0, size_categories:n<1K, format:parquet
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-gemma-avatar/) — · docker, region:us
@@ -453,7 +452,6 @@ _Daily archive · 2026-08-05_
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts

@@ -394,7 +394,6 @@ _每日存檔 · 2026-08-01_
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
@@ -422,7 +421,6 @@ _每日存檔 · 2026-08-01_
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-local-ai-image-generator/) — Windows 系統上的離線 AI 影像生成器，支援 Stable Diffusion。
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

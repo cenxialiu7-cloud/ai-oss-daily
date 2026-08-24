@@ -392,7 +392,6 @@ _每日存檔 · 2026-07-31_
 - [inclusionAI/OpenAoE-2000h](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-openaoe-2000h/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
@@ -407,7 +406,6 @@ _每日存檔 · 2026-07-31_
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mig-nju-omnivideo-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tahoebio-emeraldbay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [katipally/openlive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/) — 開源的在地端語音與視覺層AI代理框架，支援本地語音迴圈處理。
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。
 - [schema-harness/arc-agi-3-schema-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-schema-harness-arc-agi-3-schema-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -9,13 +9,13 @@ _Daily archive · 2026-06-13_
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [qualialabsAI/SmoothConv](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qualialabsai-smoothconv/) — · language:zh, license:cc-by-nc-4.0, arxiv:0000.00000
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tahoebio-emeraldbay/) — · license:cc-by-4.0, size_categories:1M<n<10M, format:parquet
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-stabledaw/) — ARCHIVED USE theDAW at https://github.com/gantasmo/theDAW - Browser-based AI audio DAW for Stable Audio 3 wit…
 - [AdamBien/lightmetal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adambien-lightmetal/) — Apple Silicon mlx with Zero Dependency Java
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-hands-on-modern-rl/) — 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and adv…
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughyau-qiushi-skill/) — 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the…
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
+- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
 
 ## 🚀 Climbing
 
@@ -177,7 +177,6 @@ _Daily archive · 2026-06-13_
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us

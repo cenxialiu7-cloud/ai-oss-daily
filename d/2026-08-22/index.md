@@ -488,7 +488,6 @@ _每日存檔 · 2026-08-22_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-minimax-h3-reference-4-step-lora/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -688,7 +687,6 @@ _每日存檔 · 2026-08-22_
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-neoteaiembodied-openneodata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [amitshekhariitbhu/llm-inference-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-llm-inference-engineering/) — 學習大型語言模型推理工程的步驟指南。
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gclef-cmu-multtipop/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tidedeliverer-make-com-enhancer/) — 為 Make.com 增強自動化功能的工具。

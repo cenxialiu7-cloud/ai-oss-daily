@@ -149,7 +149,6 @@ _每日存檔 · 2026-07-08_
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huuyfytryr-jigarrzz/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-lfm2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [deepreinforce-ai/Ornith-1.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-deepreinforce-ai-ornith-1-0-9b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
@@ -300,7 +299,6 @@ _每日存檔 · 2026-07-08_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AletheiaResearch/GLM-5.2-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aletheiaresearch-glm-5-2-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

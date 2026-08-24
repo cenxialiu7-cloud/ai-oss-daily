@@ -224,7 +224,6 @@ _Daily archive · 2026-06-23_
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-molmo-motion-1m/) — · task_categories:other, language:en, license:other
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ajibawa-2023-shell-code-large/) — · task_categories:text-generation, language:en, license:mit
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/startrail-org-pixelrag/) — The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

@@ -488,7 +488,6 @@ _Daily archive · 2026-08-22_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-minimax-h3-reference-4-step-lora/) — · gradio, video, image-to-video
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
@@ -688,7 +687,6 @@ _Daily archive · 2026-08-22_
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-neoteaiembodied-openneodata/) — · task_categories:robotics, language:en, license:cc-by-nc-sa-4.0
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [amitshekhariitbhu/llm-inference-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-llm-inference-engineering/) — Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM…
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gclef-cmu-multtipop/) — · task_categories:audio-to-audio, license:cc-by-4.0, size_categories:n<1K
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tidedeliverer-make-com-enhancer/) — Make.com Enhancer
@@ -1304,7 +1302,7 @@ _Daily archive · 2026-08-22_
 - [can4hou6joeng4/boss-agent-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/can4hou6joeng4-boss-agent-cli/) — 🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; lo…
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [gi-dellav/zerostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gi-dellav-zerostack/) — Lightweight coding agent written in Rust, optimized for memory footprint and performance
-- [aa0101181514/tw-legal-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aa0101181514-tw-legal-rag/) — 台灣判決語意檢索 MCP server + CLI（公開原始碼 source-available）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Taiwan legal judgment retriev…
+- [aa0101181514/tw-legal-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aa0101181514-tw-legal-rag/) — 台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/Ch…
 - [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Locally fine-tuned Russian RAG models: document splitter, query expansion, retrieval embedder. Teacher distil…
 - [mlabonne/harmful_behaviors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlabonne-harmful-behaviors/) — · language:en, size_categories:n<1K, format:parquet
 - [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/universal-tool-calling-protocol-code-mode/) — 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.

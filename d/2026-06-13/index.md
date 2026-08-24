@@ -9,13 +9,13 @@ _每日存檔 · 2026-06-13_
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [qualialabsAI/SmoothConv](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qualialabsai-smoothconv/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tahoebio-emeraldbay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
 - [AdamBien/lightmetal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adambien-lightmetal/) — 在Apple Silicon上執行的零依賴Java框架。
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-hands-on-modern-rl/) — 從基本RL概念到LLM對齊的手動實踐教程。
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughyau-qiushi-skill/) — 求是Skill：從唯物辯證法中提取方法論，用於AI代理。
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/henrywen98-claude-vpn-skill/) — 使用Claude Code AI的一鍵部署自建VPN工具。
+- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -177,7 +177,6 @@ _每日存檔 · 2026-06-13_
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

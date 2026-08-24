@@ -52,7 +52,6 @@ _每日存檔 · 2026-06-25_
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
@@ -237,7 +236,6 @@ _每日存檔 · 2026-06-25_
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

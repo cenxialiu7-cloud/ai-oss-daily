@@ -336,7 +336,6 @@ _Daily archive · 2026-07-25_
 - [Kwai-Klear/GoLongRL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kwai-klear-golongrl/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — · gradio, region:us
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-llm-cinema/) — · gradio, build-small-hackathon, thousand-token-wood
 - [GD-ML/TransitLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gd-ml-transitlm/) — · task_categories:text-generation, language:zh, license:cc-by-nc-4.0
 - [BoJack/MMAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bojack-mmae/) — · task_categories:audio-to-audio, size_categories:1K<n<10K, format:audiofolder
@@ -376,7 +375,6 @@ _Daily archive · 2026-07-25_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning

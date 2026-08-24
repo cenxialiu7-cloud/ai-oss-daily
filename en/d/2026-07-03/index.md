@@ -93,7 +93,6 @@ _Daily archive · 2026-07-03_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-silx-ai-quasar-preview/) — text-generation · transformers, safetensors, quasar_long
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
@@ -286,7 +285,6 @@ _Daily archive · 2026-07-03_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skillopt/) — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

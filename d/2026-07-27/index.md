@@ -357,7 +357,6 @@ _每日存檔 · 2026-07-27_
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-causallm-kingfall-roleplay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-davydenkogr-after/) — Hugging Face 資料集，關鍵字：基準測試、agent（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openclaw-clawhub-security-signals/) — OpenClaw skill 安全訊號資料集（skill 供應鏈安全分類）。
 - [witcherderivia/TeleStyleV2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-witcherderivia-telestylev2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -376,7 +375,6 @@ _每日存檔 · 2026-07-27_
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnikodev-robinhood-ai-dev-sniper/) — 專為Robinhood Chain設計的AI交易狙擊工具。
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cmrobot-motiondecode/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

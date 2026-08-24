@@ -302,7 +302,6 @@ _每日存檔 · 2026-07-22_
 - [Syn4D/Syn4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-syn4d-syn4d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-k-intelligence-ksafe-mm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Daankular/Sulphur](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-daankular-sulphur/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-colbert-tool-selection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
@@ -357,7 +356,6 @@ _每日存檔 · 2026-07-22_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OStudi/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ostudi-short-video-generator-ai/) — 將YouTube影片轉換為短影片的開源工具，具備高亮檢測、字幕和翻譯功能。
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -237,7 +237,6 @@ _Daily archive · 2026-07-17_
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500/) — · language:en, license:cc-by-4.0, region:us
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-krea2-lora-trainer/) — · gradio, region:us
 - [CohereLabs/command-a-plus-05-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-command-a-plus-05-2026/) — · gradio, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [build-small-hackathon/prize-ledger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-prize-ledger/) — · static, region:us
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-encoder-free-vlm/) — · docker, research-article-template, research paper
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
@@ -339,7 +338,6 @@ _Daily archive · 2026-07-17_
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/orkas-ai-orkas-videostudio/) — Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the tim…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [YeJe-cpu/talk-to-fengge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yeje-cpu-talk-to-fengge/) — Talk to 峰哥 — 克隆任何人的声音和性格，实时语音对话，工程延迟 < 1 秒 | Clone anyone's voice & personality for real-time conversation. <…
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

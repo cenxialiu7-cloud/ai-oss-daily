@@ -463,7 +463,6 @@ _每日存檔 · 2026-08-16_
 - [NanoNets/Graft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanonets-graft/) — 增強程式碼代理工具，提供上下文理解功能。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -599,7 +598,6 @@ _每日存檔 · 2026-08-16_
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-osworld-v2-tasks/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-opus-4-7-distilled/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AxiomicLabs/Arithmark-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-axiomiclabs-arithmark-3-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-vclab-polyu-ggt-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。

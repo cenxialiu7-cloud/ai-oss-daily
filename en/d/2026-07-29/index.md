@@ -373,9 +373,7 @@ _Daily archive · 2026-07-29_
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-obsxrver-wan22-i2v-omni-lora/) — · gradio, region:us
 - [inclusionAI/OpenAoE-2000h](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-openaoe-2000h/) — · language:zh, language:en, license:other
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [PLUS-WAVE/InfiniSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-plus-wave-infinisplat/) — · gradio, region:us
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yucrazing1-clothtransformer-dataset/) — · task_categories:other, language:en, license:cc-by-4.0

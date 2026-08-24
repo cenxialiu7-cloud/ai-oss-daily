@@ -215,7 +215,6 @@ _每日存檔 · 2026-07-14_
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-krea2-lora-trainer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cmrobot-motiondecode/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-rednote-hilab-dots-tts/) — Hugging Face 示範應用(Space)，關鍵字：語音合成（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Ryiys/media-processor-service](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ryiys-media-processor-service/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/LocateAnything-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-locateanything-3b/) — NVIDIA LocateAnything 3B 視覺定位多模態模型。
 - [ginigen-ai/robocasa-kitchen-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ginigen-ai-robocasa-kitchen-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -328,7 +327,6 @@ _每日存檔 · 2026-07-14_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/) — 交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。

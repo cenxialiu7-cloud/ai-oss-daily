@@ -224,7 +224,6 @@ _Daily archive · 2026-06-21_
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-localduo/) — · gradio, track:backyard, achievement:offgrid
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lcy362-agnes-video-generator/) — Open-source, self-hosted AI video generator — completely free. Text to multi-scene video with narration, subt…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us

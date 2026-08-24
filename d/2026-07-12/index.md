@@ -187,7 +187,6 @@ _每日存檔 · 2026-07-12_
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hidream-ai-hidream-o1-image-dev/) — HiDream O1 文生圖線上示範。
 - [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-vietnam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Syn4D/Syn4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-syn4d-syn4d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-supertone-supertonic-3/) — Hugging Face 示範應用(Space)，關鍵字：語音合成（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-claim-ready/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -321,7 +320,6 @@ _每日存檔 · 2026-07-12_
 - [reunios2024/cortex-sentinel-trading-nexus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reunios2024-cortex-sentinel-trading-nexus/) — 自調節多代理 AI 股票交易系統，融合八種訊號源。
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dream-xr-mt5-post-trade-insight-reporter/) — 自動化外匯訊號交易平臺，從 Telegram 到 MT5 EA 的策略轉換。
 - [mobilesitebytim/Forex-Trend-Dashboard-Engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mobilesitebytim-forex-trend-dashboard-engine/) — 機構趨勢分類器及多資產態勢儀錶板引擎。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youcefbibo53-propguard-trailing-equity-armor/) — 提供自動化交易策略，保護資金管理者的風險。
 - [bipbopcompany-droid/Risk-Nexus-Command](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bipbopcompany-droid-risk-nexus-command/) — 多帳戶風險控制系統，具備全球資金保護功能。
 - [peridotfoundation/MT5-Directional-Flow-Dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/peridotfoundation-mt5-directional-flow-dashboard/) — 即時提供外匯和 CFD 交易的趨勢方向訊號。

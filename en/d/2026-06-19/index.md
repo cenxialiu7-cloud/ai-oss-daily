@@ -215,7 +215,6 @@ _Daily archive · 2026-06-19_
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-localduo/) — · gradio, track:backyard, achievement:offgrid
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [mirror29/inalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirror29-inalpha/) — 🦊 Open-source professional quant agent framework. Agents pick the factors working now to time entries, write …
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

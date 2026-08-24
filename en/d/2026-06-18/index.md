@@ -202,7 +202,6 @@ _Daily archive · 2026-06-18_
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gantasmo-thedaw/) — Full-featured DAW, DJ, and VJ app interoperable w/Ableton, Reaper, Resolume & more. Stable Audio 3, Magenta R…
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts

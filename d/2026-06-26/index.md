@@ -117,7 +117,6 @@ _每日存檔 · 2026-06-26_
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-colbert-350m/) — 用於句子相似性分析的深度學習模型。
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [Qwen/AgentWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-agentworldbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huuyfytryr-jigarrzz/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -247,7 +246,6 @@ _每日存檔 · 2026-06-26_
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-wikiprofile/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

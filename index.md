@@ -1,13 +1,13 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-08-23 09:05 CST_
+_最後更新: 2026-08-24 09:06 CST_
 
+- [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server 是一個 HTTP 外掛，讓 AI 助手可以控制 x64dbg 進行二進位分析。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
-- [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [NanoNets/Graft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanonets-graft/) — 增強程式碼代理工具，提供上下文理解功能。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
+- [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — 提供模型上下文協議的伺服器。
-- [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
@@ -23,18 +23,18 @@ _最後更新: 2026-08-23 09:05 CST_
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
+- [benbenbang/libitofin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/benbenbang-libitofin/) — 高效率量化金融庫，適用於價格評估、風險管理和數值工具。
 - [laurensa453/polymarket-btc-5m-hedge-ladder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laurensa453-polymarket-btc-5m-hedge-ladder/) — 一個基於 Polymarket 的比特幣 5 分鐘交易機器人，採用梯度提升策略。
 - [penicephalic43/polymarket-weather-latency-gated-copy-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/penicephalic43-polymarket-weather-latency-gated-copy-bot/) — 開源Polymarket天氣市場複製機器人，支援多錢包映象交易。
-- [DexCrancer/solana-copytrading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dexcrancer-solana-copytrading-bot/) — 一個高效率的Solana複製交易機器人，監控目標錢包並即時複製交易。
 - [flaqai/backlink_skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/) — 提交網址到免費網站以獲取更多回鏈，增加流量。
 - [Yuzzyuk/marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuzzyuk-marketing-os/) — 在Claude中模擬整個行銷部門的技能。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
 - [aigclink/geolook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aigclink-geolook/) — 開源 GEO 實施工具，涵蓋狀態分析、診斷等。
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
 - [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/) — 將影像和文字轉換為文字的模型。
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
-- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/) — 將影像和文字轉換為文字的模型。
-- [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。
+- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/) — 深度文本生成模型，適用於各種對話和創作場景。
+- [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。

@@ -228,7 +228,6 @@ _Daily archive · 2026-07-13_
 - [kepeng/MeasL-Bench-V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kepeng-measl-bench-v1/) — · task_categories:visual-question-answering, task_categories:image-to-text, language:en
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-fable-5-boeing-747/) — · static, region:us
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — · task_categories:image-to-text, task_categories:visual-question-answering, task_categories:image-text-to-text
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/orkas-ai-orkas-videostudio/) — Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the tim…
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-higgs-audio-v3-tts/) — · gradio, region:us
@@ -313,7 +312,6 @@ _Daily archive · 2026-07-13_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-reasoning-summaries-61k/) — · task_categories:summarization, task_categories:text-generation, language:en
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning

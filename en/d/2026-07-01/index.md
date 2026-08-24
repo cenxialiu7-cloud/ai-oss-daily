@@ -156,7 +156,6 @@ _Daily archive · 2026-07-01_
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-embedding-350m/) — sentence-similarity · sentence-transformers, safetensors, lfm2
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zzwater-viitorvoice/) — · gradio, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-servicenow-ai-eva-bench/) — · task_categories:text-generation, task_categories:other, language:en
 - [openbmb/MiniCPM5-1B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-minicpm5-1b-demo/) — · gradio, region:us
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
@@ -273,7 +272,6 @@ _Daily archive · 2026-07-01_
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prathoshap-vagdhenu-data/) — · task_categories:text-to-speech, language:sa, license:cc-by-4.0
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myccarl-ai-shortvideo-pipeline/) — End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model f…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-bernini/) — Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner …

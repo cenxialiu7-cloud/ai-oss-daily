@@ -460,7 +460,6 @@ _每日存檔 · 2026-08-15_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -590,7 +589,6 @@ _每日存檔 · 2026-08-15_
 - [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-sft-2605/) — 面壁 UltraData 監督微調(SFT)資料集（文字生成／問答）。
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bananamind-bananamind-base-bench-1-1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhongzhi1228-recursive-task-synthesis/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ianncity-glm-5-2-finance-80000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-osworld-v2-tasks/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

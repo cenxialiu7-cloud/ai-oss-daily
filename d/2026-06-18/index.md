@@ -202,7 +202,6 @@ _每日存檔 · 2026-06-18_
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openclaw-clawhub-security-signals/) — OpenClaw skill 安全訊號資料集（skill 供應鏈安全分類）。
 - [ByteDance Lance（原生統一多模態模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-lance/) — 字節跳動研究院的 3B 啟用參數原生統一多模態模型(圖像理解與生成)。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aidigestorg-ai-village/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。

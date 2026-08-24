@@ -461,7 +461,6 @@ _每日存檔 · 2026-08-14_
 - [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
@@ -583,7 +582,6 @@ _每日存檔 · 2026-08-14_
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alienkevin-swe-zero-12m-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-precisionaiinc-agristress-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axisegretdefeat-kling-ai-master/) — Kling AI主體模型，將文字轉換為影像。

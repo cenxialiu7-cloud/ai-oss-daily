@@ -451,7 +451,6 @@ _Daily archive · 2026-08-13_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fareedkhan-dev-kimi-k3-in-c/) — A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS,…
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
@@ -568,7 +567,6 @@ _Daily archive · 2026-08-13_
 - [eight-acres-lab/skillplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eight-acres-lab-skillplus/) — A compilable skill package standard for reliable content-generation agents.
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/on-page-ai-geo-seo-superapp/) — Free macOS workspace for SEO and GEO agencies
 - [MaterialZone/ai-avatars-synthesia-heygen-d-id](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/materialzone-ai-avatars-synthesia-heygen-d-id/) — AI Avatars — heygen, d-id, ai avatar, ai video avatar.
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tidedeliverer-make-com-enhancer/) — Make.com Enhancer
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K

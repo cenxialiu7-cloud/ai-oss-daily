@@ -432,7 +432,6 @@ _Daily archive · 2026-08-09_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
 - [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-acvlab-abot-world-interactive/) — · gradio, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-smolagents-hf-realtime-voice/) — · docker, region:us
@@ -514,7 +513,6 @@ _Daily archive · 2026-08-09_
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tidedeliverer-make-com-enhancer/) — Make.com Enhancer
 - [ByteDance/TableVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bytedance-tableverse/) — · task_categories:robotics, license:cc-by-4.0, arxiv:2607.21017
 - [hotdogs/uka-fable-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hotdogs-uka-fable-reasoning/) — · language:en, license:agpl-3.0, size_categories:10K<n<100K
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/khakhasshi-llm-quant-factory/) — Auditable multi-agent A-share factor research, knowledge base, long-only backtesting, AutoCombine and QuantCo…

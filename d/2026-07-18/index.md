@@ -244,7 +244,6 @@ _每日存檔 · 2026-07-18_
 - [build-small-hackathon/prize-ledger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-prize-ledger/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-encoder-free-vlm/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ByteDance-Seed/EdgeBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bytedance-seed-edgebench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-my-pi-agent/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-amphora-researchmath-14k/) — ResearchMath 數學研究問答資料集（14k 筆）。
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -344,7 +343,6 @@ _每日存檔 · 2026-07-18_
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [YeJe-cpu/talk-to-fengge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-talk-to-fengge/) — 克隆任何人聲音和個性進行即時對話的AI系統。

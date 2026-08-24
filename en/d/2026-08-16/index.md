@@ -463,7 +463,6 @@ _Daily archive · 2026-08-16_
 - [NanoNets/Graft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanonets-graft/) — Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual underst…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-gemma-avatar/) — · docker, region:us
@@ -599,7 +598,6 @@ _Daily archive · 2026-08-16_
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-osworld-v2-tasks/) — · license:apache-2.0, size_categories:n<1K, format:json
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [AxiomicLabs/Arithmark-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-axiomiclabs-arithmark-3-0/) — · task_categories:question-answering, language:en, license:apache-2.0
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…

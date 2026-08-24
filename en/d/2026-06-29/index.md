@@ -115,7 +115,6 @@ _Daily archive · 2026-06-29_
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/) — A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute a…
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-diffusion-14b/) — text-generation · transformers, safetensors, nvidia
 - [Qwen/AgentWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-agentworldbench/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-aimeebingmouqu-protectbirds/) — · docker, region:us
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500/) — · language:en, license:cc-by-4.0, region:us
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-lfm2-webgpu-kernels/) — · static, region:us
@@ -252,7 +251,6 @@ _Daily archive · 2026-06-29_
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beijingcao-binance-deribit-btc/) — Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask …
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-portable-diffusion/) — [Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video

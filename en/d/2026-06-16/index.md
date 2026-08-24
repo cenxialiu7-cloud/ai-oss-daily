@@ -189,7 +189,6 @@ _Daily archive · 2026-06-16_
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
 - [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — GPT-Image-2 API and Prompts
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [modelstudioai/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelstudioai-cli/) — Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and w…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents

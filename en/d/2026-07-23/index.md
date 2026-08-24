@@ -320,7 +320,6 @@ _Daily archive · 2026-07-23_
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-zonos2/) — · gradio, region:us
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stanford-vision-lab-gpic/) — · language:en, license:mit, arxiv:2605.30341
 - [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-ifstruct-v1-0/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cha007-pornflux-i2v-6e9et/) — · static, deepsite-v4, region:us
@@ -368,7 +367,6 @@ _Daily archive · 2026-07-23_
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yatin-superintelligence-digital-hospital-environment/) — · task_categories:text-generation, task_categories:question-answering, task_categories:reinforcement-learning

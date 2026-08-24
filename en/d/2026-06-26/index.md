@@ -117,7 +117,6 @@ _Daily archive · 2026-06-26_
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ale2348-trading-bot/) — A TypeScript versioned Polymarket Trading Bot for **Polymarket 5-minute crypto Up/Down** markets: **BTC, ETH,…
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-colbert-350m/) — sentence-similarity · PyLate, safetensors, lfm2
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-registration/) — · gradio, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [Qwen/AgentWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-agentworldbench/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huuyfytryr-jigarrzz/) — · docker, region:us
@@ -247,7 +246,6 @@ _Daily archive · 2026-06-26_
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lathanfreeapp-solana-sniper-bot/) — pumpfun copy trading bot pumpfun sniper bot pumpswap copy trading bot pumpswap sniper bot raydium copy tradin…
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us

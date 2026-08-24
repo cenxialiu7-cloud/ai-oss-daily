@@ -224,7 +224,6 @@ _每日存檔 · 2026-06-23_
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-molmo-motion-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ajibawa-2023-shell-code-large/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aidigestorg-ai-village/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/) — 基於畫素的搜尋引擎，支援多模態資料。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

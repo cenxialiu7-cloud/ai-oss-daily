@@ -229,7 +229,6 @@ _每日存檔 · 2026-07-15_
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-krea2-lora-trainer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/her](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-her/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/Voices-in-the-Wild-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-voices-in-the-wild-2m/) — 野外語音 2M 語音辨識資料集（中英）。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reasoncore-open-spatial-reasoning/) — 開放空間推理基準資料集（CC-BY）。
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitrobot-hiw-500-lerobot/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cmrobot-motiondecode/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -334,7 +333,6 @@ _每日存檔 · 2026-07-15_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

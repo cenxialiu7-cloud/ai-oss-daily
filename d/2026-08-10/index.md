@@ -432,7 +432,6 @@ _每日存檔 · 2026-08-10_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/veedstudio-open-edit/) — 一個使用 AI 代理的影片編輯工具，可自訂字幕和轉錄。
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -526,7 +525,6 @@ _每日存檔 · 2026-08-10_
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-makora-ai-triton-gpu-latency/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-alpamayo2-super/) — NVIDIA的自主車輛機器人模型。
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。

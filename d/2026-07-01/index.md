@@ -156,7 +156,6 @@ _每日存檔 · 2026-07-01_
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/) — LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zzwater-viitorvoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-servicenow-ai-eva-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/MiniCPM5-1B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-minicpm5-1b-demo/) — 面壁 MiniCPM5-1B 端側小模型線上示範。
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -273,7 +272,6 @@ _每日存檔 · 2026-07-01_
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prathoshap-vagdhenu-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/) — 使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-bernini/) — 字節 Bernini：結合多模態 LLM 的統一影片生成與編輯框架。

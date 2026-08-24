@@ -131,7 +131,6 @@ _每日存檔 · 2026-06-30_
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [Ryiys/media-processor-service](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ryiys-media-processor-service/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tencent-hy-embodied-0-5-vla-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/) — LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
@@ -254,7 +253,6 @@ _每日存檔 · 2026-06-30_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vibe-creating-skill/) — 開源 AI 動畫提示技能，將想法轉換為文字到影片的提示。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-bernini/) — 字節 Bernini：結合多模態 LLM 的統一影片生成與編輯框架。
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lichamnesia-awesome-ad-video-prompts/) — AI廣告影片的提示工程師資源庫，適用於Seedance 2.0等平臺。

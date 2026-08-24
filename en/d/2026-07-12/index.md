@@ -187,7 +187,6 @@ _Daily archive · 2026-07-12_
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hidream-ai-hidream-o1-image-dev/) — · gradio, region:us
 - [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-vietnam/) — · task_categories:text-generation, language:vi, license:cc-by-4.0
 - [Syn4D/Syn4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-syn4d-syn4d/) — · license:cc-by-4.0, arxiv:2605.05207, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacebio-carbon-demo/) — · docker, region:us
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-supertone-supertonic-3/) — · static, speech-synthesis, text-to-speech
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-claim-ready/) — · gradio, build-small-hackathon, document-ai
@@ -321,7 +320,6 @@ _Daily archive · 2026-07-12_
 - [reunios2024/cortex-sentinel-trading-nexus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reunios2024-cortex-sentinel-trading-nexus/) — Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dream-xr-mt5-post-trade-insight-reporter/) — AutoTrade Forex Signals: Telegram to MT5 EA 2026 Strategy
 - [mobilesitebytim/Forex-Trend-Dashboard-Engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mobilesitebytim-forex-trend-dashboard-engine/) — 2026 MT5 Gateway: Institutional Trend Classifier & Multi-Asset Regime Dashboard
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youcefbibo53-propguard-trailing-equity-armor/) — Top Prop Firm Drawdown Protector EA 2026: FTMO & MyForexFunds Risk Manager
 - [bipbopcompany-droid/Risk-Nexus-Command](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bipbopcompany-droid-risk-nexus-command/) — Prop Matrix Engine 2026: Multi-Account MT5 Risk Control with Global Drawdown Guard & Kill-Switch
 - [peridotfoundation/MT5-Directional-Flow-Dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/peridotfoundation-mt5-directional-flow-dashboard/) — MT5 Live Trend Direction Signal Hub 2026 – Real-Time Forex & CFD Alerts

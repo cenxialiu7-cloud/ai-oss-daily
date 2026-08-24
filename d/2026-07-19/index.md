@@ -258,7 +258,6 @@ _每日存檔 · 2026-07-19_
 - [nvidia/Nemotron-Personas-El-Salvador](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-el-salvador/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ideogram-ai-ideogram4/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/certificate-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tickflow-stock-panel/) — 基於 TickFlow 的 A 股量化工作臺，提供選股、監控及回測功能。
 - [AlexWortega/same-data-different-losses](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/quantum-bench-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-quantum-bench-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/kirana-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-kirana-saathi/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -340,7 +339,6 @@ _每日存檔 · 2026-07-19_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — Wan 2.2 文生影片線上示範（含 MCP）。
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-quiximath-1b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhiqix-pum-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/) — 用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

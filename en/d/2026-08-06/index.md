@@ -418,7 +418,6 @@ _Daily archive · 2026-08-06_
 - [google/asimov_agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-asimov-agentic/) — · license:cc-by-4.0, size_categories:n<1K, format:parquet
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bigfacing-goku-2m/) — · task_categories:text-to-video, task_categories:video-to-video, language:en
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-gemma-avatar/) — · docker, region:us
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yucrazing1-clothtransformer-dataset/) — · task_categories:other, language:en, license:cc-by-4.0
@@ -469,7 +468,6 @@ _Daily archive · 2026-08-06_
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-cut-director/) — ChatCut TalkDirector reads talking-head scripts and directs motion graphics, generated visuals, speaker compo…
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook

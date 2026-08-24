@@ -159,7 +159,6 @@ _Daily archive · 2026-07-09_
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
-- [shy3130/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tickflow-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非Tick…
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0
 - [deepreinforce-ai/Ornith-1.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-deepreinforce-ai-ornith-1-0-9b/) — · gradio, region:us
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-embedding-350m/) — sentence-similarity · sentence-transformers, safetensors, lfm2
@@ -310,7 +309,6 @@ _Daily archive · 2026-07-09_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [zhiqix/PUM-MATH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhiqix-pum-math/) — · task_categories:text-generation, task_categories:text-classification, language:en
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hirokawaguchi-open-genai/) — デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像…
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
