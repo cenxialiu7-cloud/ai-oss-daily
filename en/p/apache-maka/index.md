@@ -4,5 +4,5 @@ Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, to
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,356
+**Stars**：2,907
 **Source**：https://github.com/apache/maka

@@ -4,5 +4,5 @@ Share the awesome skills for SEO Writing. All the skills are developed by Flaq A
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：70
+**Stars**：71
 **Source**：https://github.com/flaqai/Awesome_SEO_Writing_Skill
