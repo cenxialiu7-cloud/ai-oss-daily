@@ -2,9 +2,9 @@
 
 德語區的自動化流量漏斗，提高轉換率和ROI。
 
-**為何上榜**：近一日新增 3★（現 51★）
+**為何上榜**：近一日新增 2★（現 53★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：51
+**Stars**：53
 **原始連結**：https://github.com/Ferdinandyes/performance-marketing-deutschland

@@ -4,5 +4,5 @@ Rebuild the object in a reference image as a code-only, procedural, quality-gate
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,407
+**Stars**：13,770
 **Source**：https://github.com/img2threejs/img2threejs

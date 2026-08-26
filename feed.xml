@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
+<updated>2026-08-26T08:00:00+00:00</updated>
 <entry>
-<title>MirroS-Lab/HarnessEval-W</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirros-lab-harnesseval-w/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirros-lab-harnesseval-w/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>用機器人評估視覺世界的效能。</summary>
+<title>alibaba-pai/MiniMax-H3-Fun-Controlnet-Union</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>將文字轉換為影片的AI模型，支援控制網格和影片生成。</summary>
 </entry>
 <entry>
-<title>ralksta/ComfyUI-Photoshoot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ralksta-comfyui-photoshoot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ralksta-comfyui-photoshoot/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>建立一致的角色，拍攝不同姿勢和角度的照片。</summary>
+<title>Lynote/free-ai-image-detector</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>FINAL-Bench/leadboard</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-leadboard/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-leadboard/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）</summary>
+<title>dayona/Morphix-Studio-Client</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>nexu-io/open-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。</summary>
+<title>truefoundry/trueforge</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>用於將大型語言模型轉換為工作的代理程式執行環境。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>virgiliojr94/book-to-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>將技術書籍轉換為可學習、參考和使用的 AI 技能。</summary>
 </entry>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-25T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>MiniMaxAI/MiniMax-Music3</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
+<updated>2026-08-26T08:00:00+00:00</updated>
+<summary>將文字轉換成音樂的模型。</summary>
 </entry>
 </feed>

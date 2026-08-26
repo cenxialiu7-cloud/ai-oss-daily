@@ -2,7 +2,7 @@
 
 基於 LLaMA.cpp 的 Qwen3.8-27B 模型，支援 GGUF 和 DFlash2 格式。
 
-**為何上榜**：HF trending 114 · 118 likes · 44,685 下載
+**為何上榜**：HF trending 100 · 121 likes · 48,851 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 
