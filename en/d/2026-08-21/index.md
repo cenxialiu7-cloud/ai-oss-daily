@@ -29,7 +29,6 @@ _Daily archive · 2026-08-21_
 ## Full Board
 
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
@@ -200,7 +199,6 @@ _Daily archive · 2026-08-21_
 - [KyleHessling1/Qwopus3.6-27B-Fusion-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kylehessling1-qwopus3-6-27b-fusion-gguf/) — text-generation · gguf, merge, task-vector
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · mlx, safetensors, qwen3_5_moe
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
@@ -720,7 +718,7 @@ _Daily archive · 2026-08-21_
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, size_categories:n<1K, format:parquet
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Expre…
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — · gradio, mcp-server, region:us
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-bonsai-image-demo/) — · docker, region:us
@@ -1069,7 +1067,7 @@ _Daily archive · 2026-08-21_
 - [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mathllms-mathvision/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:visual-question-answer…
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-guide/) — · docker, research-article-template, rl-environments
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-114k/) — · license:apache-2.0, size_categories:100K<n<1M, format:parquet
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/builderz-labs-mission-control/) — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and go…
@@ -1092,7 +1090,7 @@ _Daily archive · 2026-08-21_
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/florianbruniaux-claude-code-ultimate-guide/) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and product…
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-aris-in-ai-offer/) — Bilingual (中文+EN) ML / LLM / diffusion / agent interview cheat sheets for AI 秋招 — generated by ARIS /intervie…
 - [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cyyself-opentihui/) — on-device LLM for iOS with keyboard shortcuts

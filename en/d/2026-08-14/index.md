@@ -12,7 +12,7 @@ _Daily archive · 2026-08-14_
 - [open-video-ai/open-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-video-ai-open-video/) — Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [congchuanling-dot/Cohort](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/congchuanling-dot-cohort/) — Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context gover…
 - [titanwings/colleague-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/titanwings-colleague-skill/) — 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome …
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
@@ -112,7 +112,6 @@ _Daily archive · 2026-08-14_
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -535,7 +534,7 @@ _Daily archive · 2026-08-14_
 - [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-manusagents-gpt-5-5-gemini-3-1-pro-grok-4-claude-fable-5-mythos-5-qwen-3-7-max-and-more-distillation-dataset/) — · task_categories:text-generation, task_categories:other, language:en
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an …
@@ -935,7 +934,7 @@ _Daily archive · 2026-08-14_
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
 - [Orchestra-Research/AI-Research-SKILLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/orchestra-research-ai-research-skills/) — Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills …
 - [Deuz-AI/Deuz-SDK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deuz-ai-deuz-sdk/) — Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RA…
@@ -1007,7 +1006,7 @@ _Daily archive · 2026-08-14_
 - [Rohit-Dnath/RAMen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohit-dnath-ramen/) — RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector sear…
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fspecii-ace-step-ui/) — 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, loc…
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlabonne-open-perfectblend/) — · license:apache-2.0, arxiv:2409.20370, region:us
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [SakanaAI/AI-CUDA-Engineer-Archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sakanaai-ai-cuda-engineer-archive/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-hermes-function-calling-v1/) — · task_categories:text-generation, task_categories:question-answering, task_categories:feature-extraction

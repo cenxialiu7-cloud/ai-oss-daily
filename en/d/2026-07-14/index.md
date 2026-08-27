@@ -814,7 +814,7 @@ _Daily archive · 2026-07-14_
 - [addyosmani/agentic-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agentic-seo/) — Agentic SEO / Agentic Engine Optimization (AEO) tools
 - [every-app/open-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/every-app-open-seo/) — Open source alternative to Semrush and Ahrefs
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [mirkobozzetto/flowflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkobozzetto-flowflow/) — Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [Monet-AI-Editor/Monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/monet-ai-editor-monet/) — Edit Videos and Design Images with Claude code or Codex

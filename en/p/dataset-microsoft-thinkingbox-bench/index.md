@@ -1,0 +1,8 @@
+# microsoft/ThinkingBox-Bench
+
+· task_categories:reinforcement-learning, language:en, license:cdla-permissive-2.0
+
+**Commercial license**：License unclear — 未知授權代碼 cdla-permissive-2.0 — 請人工確認商用條款
+
+**Stars**：0
+**Source**：https://huggingface.co/datasets/microsoft/ThinkingBox-Bench

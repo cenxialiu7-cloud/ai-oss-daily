@@ -30,7 +30,6 @@ _Daily archive · 2026-08-22_
 
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
@@ -203,7 +202,6 @@ _Daily archive · 2026-08-22_
 - [KyleHessling1/Qwopus3.6-27B-Fusion-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kylehessling1-qwopus3-6-27b-fusion-gguf/) — text-generation · gguf, merge, task-vector
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · mlx, safetensors, qwen3_5_moe
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
@@ -741,7 +739,7 @@ _Daily archive · 2026-08-22_
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [linoyts/smart-character-swap-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-smart-character-swap-flux2-klein/) — · gradio, region:us
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/calesthio-generative-media-skills/) — Research-backed agent skills and tools for premium image, video, audio, voice, and generative media productio…
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [vastsa/BokeBox](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vastsa-bokebox/) — BokeBox: multi-source private AI podcast studio — videos/links/articles/notes → spoken episodes. Custom perso…
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/) — Hand-written NVFP4 W4A16 CUDA kernels for Volta
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
@@ -1091,7 +1089,7 @@ _Daily archive · 2026-08-22_
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-paddlepaddle-real5-omnidocbench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-text
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zlab-princeton-i1/) — Code release for "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models"
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [austin-starks/Public-Portfolio-Challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/austin-starks-public-portfolio-challenge/) — 4 AI agents. One runbook. Real $25K, live and verifiable. Currently +22.85%.
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fspecii-ace-step-ui/) — 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, loc…
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlabonne-open-perfectblend/) — · license:apache-2.0, arxiv:2409.20370, region:us
@@ -1109,7 +1107,7 @@ _Daily archive · 2026-08-22_
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/florianbruniaux-claude-code-ultimate-guide/) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and product…
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…

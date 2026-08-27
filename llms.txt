@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-08-26 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-08-27 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-08-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-27/)
 - [2026-08-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-26/)
 - [2026-08-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-25/)
 - [2026-08-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-24/)
@@ -26,15 +27,14 @@
 - [2026-08-16](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-16/)
 - [2026-08-15](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-15/)
 - [2026-08-14](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-14/)
-- [2026-08-13](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-13/)
 
 ## 今日精選 Today's picks
-- [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/)
-- [Lynote/free-ai-image-detector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/)
-- [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/)
-- [truefoundry/trueforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/)
-- [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/)
-- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/)
+- [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/)
+- [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/)
+- [thomsonreuters/Thomson-1.0-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -90,3 +90,4 @@
 - [版權乾淨的 AI 配樂音效庫：短影音與 Podcast 創作者一鍵取得可商用的背景音樂、音效與片頭視覺](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P051/)
 - [🧩 企業 MCP 治理閘道：內部 MCP 註冊表＋供應鏈安全評分＋統一權限稽核，一次管住全公司 AI 工具接口 🧩超級組合](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P052/)
 - [AI 聯盟評測站群工廠：自動選品 → 多語評測長文 → 外鏈養站 → 佣金與斷鏈追蹤，一個人維運數十個聯盟收入站](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P053/)
+- [本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P054/)

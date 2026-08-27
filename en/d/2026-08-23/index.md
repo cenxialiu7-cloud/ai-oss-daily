@@ -29,7 +29,6 @@ _Daily archive · 2026-08-23_
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
@@ -202,7 +201,6 @@ _Daily archive · 2026-08-23_
 - [KyleHessling1/Qwopus3.6-27B-Fusion-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kylehessling1-qwopus3-6-27b-fusion-gguf/) — text-generation · gguf, merge, task-vector
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · mlx, safetensors, qwen3_5_moe
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
@@ -747,7 +745,7 @@ _Daily archive · 2026-08-23_
 - [linoyts/smart-character-swap-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-smart-character-swap-flux2-klein/) — · gradio, region:us
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ali-hey-0-audio-ai-field-guide/) — A mental-model-first field guide to Audio AI — from raw waveforms to production voice systems. Covers ASR, TT…
 - [Greninja9257/LabLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greninja9257-labllm/) — A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, an…
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/) — Hand-written NVFP4 W4A16 CUDA kernels for Volta
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - [scholarweave/arxiv-latex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scholarweave-arxiv-latex/) — · task_categories:text-generation, task_categories:feature-extraction, language:en
@@ -1108,13 +1106,13 @@ _Daily archive · 2026-08-23_
 - [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mergisi-awesome-openclaw-agents/) — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-idavidrein-gpqa/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [austin-starks/Public-Portfolio-Challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/austin-starks-public-portfolio-challenge/) — 4 AI agents. One runbook. Real $25K, live and verifiable. Currently +22.85%.
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/florianbruniaux-claude-code-ultimate-guide/) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and product…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.

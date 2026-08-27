@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化 — AI OSS Daily</title>
+<meta name="description" content="中小企業最貴的重複人力，全卡在那些沒有 API、也不會有 API 的舊系統上；與其等廠商開接口，不如讓一個本機 AI agent 看著螢幕把流程跑完，帳號密碼與資料完全不離開公司電腦。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P054/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P054/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P054/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P054/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P054/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化 — AI OSS Daily">
+<meta property="og:description" content="中小企業最貴的重複人力，全卡在那些沒有 API、也不會有 API 的舊系統上；與其等廠商開接口，不如讓一個本機 AI agent 看著螢幕把流程跑完，帳號密碼與資料完全不離開公司電腦。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P054/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化 — AI OSS Daily">
+<meta name="twitter:description" content="中小企業最貴的重複人力，全卡在那些沒有 API、也不會有 API 的舊系統上；與其等廠商開接口，不如讓一個本機 AI agent 看著螢幕把流程跑完，帳號密碼與資料完全不離開公司電腦。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化", "description": "中小企業最貴的重複人力，全卡在那些沒有 API、也不會有 API 的舊系統上；與其等廠商開接口，不如讓一個本機 AI agent 看著螢幕把流程跑完，帳號密碼與資料完全不離開公司電腦。", "datePublished": "2026-08-26T08:00:00+00:00", "dateModified": "2026-08-26T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-08-26/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P054/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P054</p>
+  <h1>本機桌面 RPA 代理（Mac App）：讓 AI 直接操作沒有 API 的老系統，把 ERP／報稅／後台對帳流程自動化</h1>
+  <p class="detail-lead">中小企業最貴的重複人力，全卡在那些沒有 API、也不會有 API 的舊系統上；與其等廠商開接口，不如讓一個本機 AI agent 看著螢幕把流程跑完，帳號密碼與資料完全不離開公司電腦。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: high</span>
+    <span class="badge">估 4–6 週做出能跑版本：單一真實流程的端到端 demo（例如某電商後台每日對帳）約 2 週，錄製轉 YAML 與重播引擎約 1.5 週，排程器＋稽核日誌＋失敗告警約 1 週，MCP 封裝與自然語言編修約 0.5–1 週。難點有四：一是脆弱性——舊系統一改版，畫面錨點就失效，必須做視覺容錯（多重錨點、模糊比對）與『找不到就停下來問人』的自我保護，寧可停也不能點錯；二是憑證與二階段驗證——密碼要進系統鑰匙圈而非明文設定檔，OTP 環節目前只能設計成人工介入或走硬體金鑰，不該硬幹；三是不可逆操作的風險控制——沒有回滾機制的動作（送出申報、轉帳）一律強制人工確認，這條不能為了自動化率讓步；四是 macOS 權限——螢幕錄製與輔助使用權限的引導流程要做得夠傻瓜，否則第一次啟動就會流失大半使用者，另外 App 若要上架需處理沙盒限制，較可行的路線是官網直售並自行公證。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①Mac App 買斷（主力）：單機版一次付清，主打『本機執行、資料零外流、不上雲』，鎖定會計事務所、電商營運、進出口貿易這類每天要在舊後台重複點擊的角色，買斷價位對照一位工讀生一週工資即可成立；②團隊版／自架 SaaS 月費：多台機器排程、流程版本管理、執行稽核日誌與截圖佐證、失敗告警，按『同時運行的流程數』或座席分級收月費，稽核日誌與合規報表列為付費牆功能，因為這正是事務所與需要內控的公司願意付錢的部分；③流程包與導入服務：把常見流程（電商後台每日對帳、金流平台報表匯出、電子發票開立與作廢查核、ERP 進銷存過帳）做成現成流程包，單包販售或訂閱更新，另收一次性導入客製費＋年度維護；④網頁端廣告與聯盟：教學站的『無 API 系統自動化』長尾文章掛 Adsterra／Monetag，文中自然導購自架所需的主機／NAS／備援方案走主機商聯盟連結，開源版本頁面放 Ko-fi 收贊助。全案不涉及任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>分四層，關鍵設計是『能走 API 就走 API，能走 DOM 就走 DOM，最後才用像素』。執行層：congchuanling-dot/Cohort 是本機代理執行時，負責螢幕擷取、滑鼠鍵盤操作與視窗切換，把『看螢幕／點這裡／輸入這串』暴露成工具；它是唯一能碰到桌面應用（ERP 用戶端、報稅軟體、老舊 Java/VB 介面）的一層。網頁層：凡是流程跑在瀏覽器裡的環節，一律優先交給 ChromeDevTools/chrome-devtools-mcp，因為它走 DOM 與 CDP 協定，選取元素比對像素座標穩定一個量級，換了螢幕解析度或視窗大小也不會崩；只有網頁層真的抓不到（Canvas 畫的表格、嵌入式舊控件）才退回 Cohort 的像素操作。編排層：HKUDS/nanobot 當工作流引擎，把『登入 → 選日期區間 → 匯出報表 → 下載檔案 → 比對前一日餘額 → 產出差異表』拆成可單獨重跑的步驟，每步定義成功條件與重試策略，失敗時只重跑失敗的那一段而不是整條流程重來。混合接口層：oomol-lab/open-connector 處理有正規 API 的環節（雲端硬碟存放檔案、會計 SaaS 寫入、通知發送與 OAuth 認證保管），讓一條流程可以前半段靠螢幕操作把資料從舊系統挖出來、後半段用乾淨的 API 寫進新系統。封裝層：modelcontextprotocol/python-sdk 把上述全部打包成單一本機 MCP server，Claude Desktop／Cursor 掛上去之後，使用者可以用一句自然語言觸發或編修流程，而不必學任何 RPA 腳本語法。錄製與重播：使用者手動操作一次，系統同步記錄操作序列、視窗標題、元素選擇器與畫面錨點截圖，產出人類可讀的 YAML 流程檔，之後由本機排程器定時執行，每一步都留截圖與時間戳做為稽核佐證。安全設計：所有『不可逆操作』（送出申報、確認付款、刪除資料）預設插入人工確認關卡，agent 只能停在按鈕前面等人點頭。與現有企劃的區隔：P041 解決的是『有 API 的 SaaS 怎麼統一接上 agent』，P031 是瀏覽器端的網站品質走查，兩者都碰不到桌面應用；本案的核心價值正是那批永遠不會開 API 的內部與在地系統。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/congchuanling-dot-cohort/">congchuanling-dot/Cohort</a></h3>
+<p class="summary">Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context governance,   and verifiable memory.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 122</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/">ChromeDevTools/chrome-devtools-mcp</a></h3>
+<p class="summary">Chrome DevTools for coding agents</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 49,761</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/hkuds-nanobot/">HKUDS/nanobot</a></h3>
+<p class="summary">Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">OpenAI</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 47,427</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/oomol-lab-open-connector/">oomol-lab/open-connector</a></h3>
+<p class="summary">Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 5,320</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 24,130</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

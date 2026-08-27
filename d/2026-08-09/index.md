@@ -5,7 +5,6 @@ _每日存檔 · 2026-08-09_
 ## 🆕 新上榜
 
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/) — 將影像和文字轉換為文本的模型，支援對話式生成。
 - [GravityVerseYield47/flux-ai-works](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gravityverseyield47-flux-ai-works/) — 提供從影像生成影片的功能。
 - [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/astropuzzo-comfyui-minimax-h3-image-studio/) — 實驗性AI編輯工具，用於MiniMax H3的影像轉換和編輯。
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-08-09_
 - [tutti-os/tutti](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tutti-os-tutti/) — 讓使用者和AI代理合作建立專案。
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-bleckhert-uncensored-image-to-video-alchemist/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jidouqie/redbeacon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jidouqie-redbeacon/) — 小紅書運營的數字員工，自動化選題、文案等工作。
+- [ansvisor/ansvisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ansvisor-ansvisor/) — 追蹤ChatGPT等平臺上的AI可見度和競爭對手的開放式平臺。
 
 ## 🚀 Star 竄升
 
@@ -189,7 +189,6 @@ _每日存檔 · 2026-08-09_
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-obsxrver-wan22-i2v-omni-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fdtn-ai-antares-1b/) — 一個用於生成文本的安全性強大的模型，具備檢測漏洞的能力。
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — 使用混合專家技術的文本生成模型，支援量化。
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/) — 將影像和文字轉換為文本的模型，支援對話式生成。
 - [MiniCPM5-1B（端側小鋼炮）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-1b/) — 面壁智能 MiniCPM 系列 1B 小模型，主打端側高效能。
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-encoder-350m/) — 用於填充掩碼的大型語義模型，支援雙向掩碼語言建模。
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1-nvfp4/) — 一個適用於對話生成的文本生成模型，具有高度自訂化的能力。

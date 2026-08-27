@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>26 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>27 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>alibaba-pai/MiniMax-H3-Fun-Controlnet-Union</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為影片的AI模型，支援控制網格和影片生成。</description>
+<title>Qwen/Qwen3.8-Flash-Next</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的影像文字轉文字模型，支援對話。</description>
 </item>
 <item>
-<title>Lynote/free-ai-image-detector</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>zai-org/GLM-5.3-Flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的文本生成模型，支援中文和英文。</description>
 </item>
 <item>
-<title>dayona/Morphix-Studio-Client</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>thomsonreuters/Thomson-1.0-Small</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的影像文字轉文字模型，支援對話。</description>
 </item>
 <item>
-<title>truefoundry/trueforge</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>用於將大型語言模型轉換為工作的代理程式執行環境。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>virgiliojr94/book-to-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>將技術書籍轉換為可學習、參考和使用的 AI 技能。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</guid>
-<pubDate>26 Aug 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換成音樂的模型。</description>
+<title>Lightricks/LTX-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
+<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的擴散模型。</description>
 </item>
 </channel>
 </rss>

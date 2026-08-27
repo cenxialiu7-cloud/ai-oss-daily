@@ -30,7 +30,6 @@ _Daily archive · 2026-08-18_
 
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
@@ -197,7 +196,6 @@ _Daily archive · 2026-08-18_
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · mlx, safetensors, qwen3_5_moe
 - [TenStrip/10Eros-Max](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tenstrip-10eros-max/) — image-text-to-video · text-to-video, image-text-to-video, image-to-video
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
@@ -679,7 +677,7 @@ _Daily archive · 2026-08-18_
 - [codeparrot/github-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codeparrot-github-code/) — · task_categories:text-generation, task_ids:language-modeling, language_creators:crowdsourced
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/calesthio-generative-media-skills/) — Research-backed agent skills and tools for premium image, video, audio, voice, and generative media productio…
 - [v-modal/vmodal_sdk_android](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/v-modal-vmodal-sdk-android/) — Video Search SDK for Android Kotlin. Integrate in any video app
-- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Everything is Transparent.
+- [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-krafton-raon-opentts-pool/) — · task_categories:text-to-speech, language:en, license:other
 - [EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gemini-omni-guide-api-and-prompt/) — Curated Gemini Omni prompts, API guide, and video examples — video generation, editing, camera control, style…
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, size_categories:n<1K, format:parquet
@@ -1006,7 +1004,7 @@ _Daily archive · 2026-08-18_
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-waxalnlp/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language_creators:creator_1
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
@@ -1057,7 +1055,7 @@ _Daily archive · 2026-08-18_
 - [ASLP-lab/WSC-Train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-wsc-train/) — · license:apache-2.0, arxiv:2509.18004, region:us
 - [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mergisi-awesome-openclaw-agents/) — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/withkynam-vibecode-pro-max-kit/) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real bui…
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script

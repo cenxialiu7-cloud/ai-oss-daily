@@ -150,7 +150,6 @@ _每日存檔 · 2026-08-10_
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/) — 一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/) — 影片去背及物件移除工具，適用於後期製作。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/) — 將影像和文字轉換為文本的模型，支援對話式生成。
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jedisct1-mimo-v2-5-coder-q2/) — MiMo V2.5 程式碼模型的 Q2 量化版（llama.cpp）。
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/) — 經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。

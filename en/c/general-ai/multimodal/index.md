@@ -1,6 +1,7 @@
 # 👁️ Multimodal / VLM
 
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
+- [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-flash-next/) — image-text-to-text · transformers, safetensors, qwen4_exp
+- [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-3-flash/) — text-generation · transformers, safetensors, glm5_next
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
@@ -8,13 +9,12 @@
 - [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-vl/) — image-text-to-text · transformers, safetensors, mage_vl
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [sensenova/SenseNova-U1.5-8B-MoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sensenova-sensenova-u1-5-8b-mot/) — any-to-any · transformers, safetensors, neo_chat
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
+- [sensenova/SenseNova-U1.5-8B-MoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sensenova-sensenova-u1-5-8b-mot/) — any-to-any · transformers, safetensors, neo_chat
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [XYZAILab/XYZ-Aquila-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xyzailab-xyz-aquila-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-dots-studio-dots3-note-prev/) — image-text-to-text · transformers, safetensors, dots3_note
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kai-os-grug-12b/) — text-generation · transformers, safetensors, gemma4_unified
@@ -24,10 +24,11 @@
 - [CohereLabs/North-Micro-Vision-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-micro-vision-instruct/) — image-text-to-text · transformers, safetensors, cohere_compass
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
+- [thomsonreuters/Thomson-1.0-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thomsonreuters-thomson-1-0-small/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ath-maas-ovisocr2/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baseten-glm-5-2-vision-nvfp4/) — image-text-to-text · sglang, safetensors, glm5v
 - [KRAFTON/A.X-K2-Raon-Speech-21B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-krafton-a-x-k2-raon-speech-21b-a3b/) — any-to-any · transformers, safetensors, raon
+- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [PaddlePaddle/HPD-Parsing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-hpd-parsing/) — image-text-to-text · transformers, safetensors, internvl_chat
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-z-image-6b-pixel-space/) — · gradio, region:us
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-claim-ready/) — · gradio, build-small-hackathon, document-ai
@@ -47,16 +48,17 @@
 - [5CD-AI/Viet-Handwriting-OCR-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-5cd-ai-viet-handwriting-ocr-v2/) — · task_categories:image-to-text, language:vi, size_categories:10K<n<100K
 - [mayafree/Model-Genome-Korea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mayafree-model-genome-korea/) — · static, korean-llm, korean-ai
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
-- [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-patronusai-figmatrace/) — · task_categories:image-text-to-text, language:en, license:cc-by-4.0
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-31b-it/) — image-text-to-text · transformers, safetensors, gemma4
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonshotai-perceptionbench/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [google/gemma4_vision_token_budget](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-google-gemma4-vision-token-budget/) — · static, region:us
 - [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sensenova-sensenova-vision-corpus-50m/) — · task_categories:any-to-any, language:en, license:cc-by-nc-4.0
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
+- [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-patronusai-figmatrace/) — · task_categories:image-text-to-text, language:en, license:cc-by-4.0
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
 - [DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-claude-4-6-highiq-thinking-heretic-uncensored/) — image-text-to-text · transformers, safetensors, qwen3_5
-- [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-chartgalaxy-chartgalaxy/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
+- [embodied-analysis/FinanceGym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-embodied-analysis-financegym/) — · task_categories:image-text-to-text, license:apache-2.0, size_categories:1K<n<10K
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
+- [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-chartgalaxy-chartgalaxy/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mathllms-mathvision/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:visual-question-answer…
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…

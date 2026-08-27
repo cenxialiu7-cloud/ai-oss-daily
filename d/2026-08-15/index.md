@@ -4,7 +4,6 @@ _每日存檔 · 2026-08-15_
 
 ## 🆕 新上榜
 
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/) — 將影像和文字轉換為文字的模型。
 - [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dots-studio-dots3-note-prev/) — 將影像和文字轉換為文本的多模態生成模型。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-08-15_
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [ffroliva/gflow-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ffroliva-gflow-cli/) — 從命令列驅動Google Flow，支援批次處理和程式碼代理。
 
 ## 🚀 Star 竄升
 
@@ -31,7 +31,6 @@ _每日存檔 · 2026-08-15_
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/) — 將影像轉換為影片的模型，支援差分擴散和影像到影片技術。
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/) — 將文字轉換成音樂的模型。
-- [Qwen/Qwen3.8-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-27b/) — 將影像和文字轉換為文字的模型。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
@@ -193,7 +192,6 @@ _每日存檔 · 2026-08-15_
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — NVIDIA開發的語音聊天模型，支援多種語言和研究論文。
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — 一款基於gguf格式的文本生成模型，適用於長上下文推理。
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — 使用混合專家技術的文本生成模型，支援量化。
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-endless-frontier-bigbang-v1/) — 將影像和文字轉換為文本的模型，支援對話式生成。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。

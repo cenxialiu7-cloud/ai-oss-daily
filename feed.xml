@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
+<updated>2026-08-27T08:00:00+00:00</updated>
 <entry>
-<title>alibaba-pai/MiniMax-H3-Fun-Controlnet-Union</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>將文字轉換為影片的AI模型，支援控制網格和影片生成。</summary>
+<title>Qwen/Qwen3.8-Flash-Next</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>基於轉換器的影像文字轉文字模型，支援對話。</summary>
 </entry>
 <entry>
-<title>Lynote/free-ai-image-detector</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-image-detector/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>zai-org/GLM-5.3-Flash</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>基於轉換器的文本生成模型，支援中文和英文。</summary>
 </entry>
 <entry>
-<title>dayona/Morphix-Studio-Client</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>thomsonreuters/Thomson-1.0-Small</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>基於轉換器的影像文字轉文字模型，支援對話。</summary>
 </entry>
 <entry>
-<title>truefoundry/trueforge</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>用於將大型語言模型轉換為工作的代理程式執行環境。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>virgiliojr94/book-to-skill</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>將技術書籍轉換為可學習、參考和使用的 AI 技能。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>MiniMaxAI/MiniMax-Music3</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/</id>
-<updated>2026-08-26T08:00:00+00:00</updated>
-<summary>將文字轉換成音樂的模型。</summary>
+<title>Lightricks/LTX-2.5</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</id>
+<updated>2026-08-27T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的擴散模型。</summary>
 </entry>
 </feed>

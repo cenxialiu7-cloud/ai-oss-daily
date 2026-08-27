@@ -5,7 +5,6 @@ _Daily archive · 2026-08-09_
 ## 🆕 New
 
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [GravityVerseYield47/flux-ai-works](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gravityverseyield47-flux-ai-works/) — Flux AI Works
 - [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/astropuzzo-comfyui-minimax-h3-image-studio/) — ComfyUI nodes and tested workflows for MiniMax H3 still-image generation, reference editing, and Qwen detail …
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — · gradio, mcp-server, region:us
@@ -16,6 +15,7 @@ _Daily archive · 2026-08-09_
 - [tutti-os/tutti](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tutti-os-tutti/) — Where people and agents build in tune.
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-bleckhert-uncensored-image-to-video-alchemist/) — · static, deepsite-v3, region:us
 - [jidouqie/redbeacon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jidouqie-redbeacon/) — RedBeacon｜开源 Skill 与安装入口：连接本机客户端，完成定位、对标、选题、创作、审稿、发布与账号级全流程自动化
+- [ansvisor/ansvisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ansvisor-ansvisor/) — Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, …
 
 ## 🚀 Climbing
 
@@ -189,7 +189,6 @@ _Daily archive · 2026-08-09_
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-obsxrver-wan22-i2v-omni-lora/) — · gradio, region:us
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fdtn-ai-antares-1b/) — text-generation · transformers, safetensors, granitemoehybrid
 - [EschaLabs/Qwen3.6-35B-A3B-Escha-W2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eschalabs-qwen3-6-35b-a3b-escha-w2/) — text-generation · mlx, safetensors, qwen3_5_moe
-- [endless-frontier/BigBang-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-endless-frontier-bigbang-v1/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
@@ -858,7 +857,7 @@ _Daily archive · 2026-08-09_
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openai-gdpval/) — · size_categories:n<1K, format:parquet, modality:text
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
-- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and re…
+- [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shurikentrade-shuriken-skills/) — Agent-consumable integration skills for the Shuriken platform 🥷
 - [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-seo/) — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, G…
 - [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or loc…
@@ -983,7 +982,7 @@ _Daily archive · 2026-08-09_
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Unified Virtual Filesystem For AI Agents
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
-- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家
+- [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、…
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中

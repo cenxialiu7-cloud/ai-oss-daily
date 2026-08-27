@@ -1,11 +1,10 @@
 # 🎬 Media Creation
 
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
-- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
-- [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — text-to-video · videox_fun, controlnet, video-to-video
+- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
@@ -16,6 +15,7 @@
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-magenta-realtime-2/) — text-to-audio · magenta-realtime-2, tflite, text-to-audio
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-image2video/) — image-to-video · cosmos, diffusers, safetensors
+- [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — text-to-video · videox_fun, controlnet, video-to-video
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gazingstars123-anima-2-9b/) — text-to-image · diffusion-single-file, anima, comfyui
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
@@ -49,14 +49,14 @@
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
 - [openai/whisper-large-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-whisper-large-v3/) — automatic-speech-recognition · transformers, pytorch, jax
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
-- [apiframe-ai/seedance-2.0-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apiframe-ai-seedance-2-0-api/) — Seedance 2.0 API — text-to-video and image-to-video examples
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kiabush-persian-text-to-ipa-byt5/) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tune…
 - [ARSreg46/Ai-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arsreg46-ai-image-generator/) — AI Image Generator is a powerful desktop application for creating stunning AI-generated artwork from text pro…
 - [MirroS-Lab/HarnessEval-W](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirros-lab-harnesseval-w/) — HarnessEval-W: Agentifying the Evaluation of Visual Worlds
-- [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-create-ai-presenter-video/) — Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized prese…
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diversant-5714-davinci-26-pro-port/) — Professional color grading, video editing, and visual effects software featuring advanced HDR tools, real-tim…
+- [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-create-ai-presenter-video/) — Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized prese…
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shekmohammedakram-stable-diffusion-2026-free-local/) — Stable Diffusion Free Local - run Stable Diffusion locally for free AI image generation.
 - [ant-research/4DAnyone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ant-research-4danyone/) — [SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+- [mixidifussion/stable-diffusion-web-ui-free](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mixidifussion-stable-diffusion-web-ui-free/) — stable diffusion web ui free comfyui sd webui video git clone github ai art generation image generator local …
