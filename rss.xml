@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>27 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>28 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Qwen/Qwen3.8-Flash-Next</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於轉換器的影像文字轉文字模型，支援對話。</description>
+<title>BreezeBlue/Breeze-TTS-2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>一款基於轉換器的語音合成模型，支援語音克隆和設計。</description>
 </item>
 <item>
-<title>zai-org/GLM-5.3-Flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於轉換器的文本生成模型，支援中文和英文。</description>
+<title>alibaba-pai/MiniMax-H3-Acc-LoRAs</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>將文本轉換為影片的模型，適用於多種影片生成任務。</description>
 </item>
 <item>
-<title>thomsonreuters/Thomson-1.0-Small</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thomsonreuters-thomson-1-0-small/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>基於轉換器的影像文字轉文字模型，支援對話。</description>
+<title>leopard627/fire-your-seo-agency</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>cathrynlavery/diagram-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
 </item>
 <item>
-<title>Lightricks/LTX-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
-<pubDate>27 Aug 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的擴散模型。</description>
+<title>lightx2v/Minimax-h3-Turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
+<pubDate>28 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
 </item>
 </channel>
 </rss>
