@@ -2,19 +2,19 @@
 
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/) — 基於轉換器的文本生成模型，支援中文和英文。
-- [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。
+- [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/) — 將影像和文字轉換為文字的模型。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
-- [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/) — 深度文本生成模型，適用於各種對話和創作場景。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
+- [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/) — 深度文本生成模型，適用於各種對話和創作場景。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
@@ -35,16 +35,17 @@
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — 基於 LLaMA.cpp 的 Qwen3.8-27B 模型，支援 GGUF 和 DFlash2 格式。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
+- [tencent/Hy4-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/) — Hy4-preview 是一個基於 Transformers 的對話生成模型，支援多語種和混合專家系統。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — 基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
+- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-cad-1000-hours/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — 無審核的 Gemma4 模型，支援多模式和程式碼生成。
-- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-cad-1000-hours/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aliestaha-fable-traces/) — 用於生成文本的轉型模型，支援對話和指令式生成。
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — gemma-4-12B 是用於程式碼生成和推理的模型。
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra-router-51m/) — 用於邊緣計算的文本生成模型，可路由和協調多個LLM。
@@ -59,4 +60,3 @@
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/) — 將影像與文本結合生成文本的多模態模型，適用於各種場景。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
-- [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。

@@ -48,7 +48,6 @@ _Daily archive · 2026-07-16_
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — image-to-image · Flux2Klein, Sun, I2I
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/) — text-to-speech · transformers, safetensors, higgs_multimodal_qwen3
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
@@ -59,7 +58,6 @@ _Daily archive · 2026-07-16_
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-misolabs-misotts/) — text-to-speech · pytorch, safetensors, text-to-speech
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — text-to-image · diffusers, safetensors, ternary
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
@@ -204,7 +202,6 @@ _Daily archive · 2026-07-16_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [julien-c/synthtraces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-julien-c-synthtraces/) — · language:en, license:mit, size_categories:1K<n<10K
 - [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-manusagents-gpt-5-5-gemini-3-1-pro-grok-4-claude-fable-5-mythos-5-qwen-3-7-max-and-more-distillation-dataset/) — · task_categories:text-generation, task_categories:other, language:en
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [TuringEnterprises/Open-MM-RL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-turingenterprises-open-mm-rl/) — · task_categories:question-answering, language:en, license:mit
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-psibotai-syndata/) — · language:en, license:cc-by-4.0, size_categories:100K<n<1M
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hidream-ai-hidream-o1-image-dev/) — · gradio, region:us

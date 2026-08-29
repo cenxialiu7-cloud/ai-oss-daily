@@ -37,10 +37,8 @@ _每日存檔 · 2026-07-14_
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
@@ -73,7 +71,6 @@ _每日存檔 · 2026-07-14_
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/) — 用於表格資料分類和回歸的 PyTorch 模型。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — NVIDIA的文本生成模型，適用於PyTorch環境。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。

@@ -14,4 +14,3 @@
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [karnstack/reins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karnstack-reins/) — 控制真實瀏覽器的AI代理工具。
 - [hogan-tech/brand-loom](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/) — 開源行銷技能平臺，支援任何模型執行，無需程式設計。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。

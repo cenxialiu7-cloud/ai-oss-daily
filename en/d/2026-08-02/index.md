@@ -100,7 +100,6 @@ _Daily archive · 2026-08-02_
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
@@ -111,7 +110,6 @@ _Daily archive · 2026-08-02_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -396,7 +394,6 @@ _Daily archive · 2026-08-02_
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prathoshap-vagdhenu-data/) — · task_categories:text-to-speech, language:sa, license:cc-by-4.0
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-unise-speech-enhancement/) — · gradio, mcp-server, region:us
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — · license:mit, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-trust/) — · language:ru, license:odc-by, size_categories:n<1K
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mig-nju-omnivideo-100k/) — · task_categories:video-text-to-text, license:apache-2.0, size_categories:10K<n<100K
@@ -1090,7 +1087,7 @@ _Daily archive · 2026-08-02_
 - [PatterAI/Patter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/patterai-patter/) — Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI ag…
 - [QuixiAI/ultrachat-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-ultrachat-uncensored/) — · license:mit, size_categories:100K<n<1M, format:json
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-futo-org-swipe-futo-org/) — · task_categories:other, language:en, license:mit
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skegdb-skeg/) — A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for hi…
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达

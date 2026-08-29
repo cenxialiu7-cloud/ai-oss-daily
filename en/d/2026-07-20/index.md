@@ -58,7 +58,6 @@ _Daily archive · 2026-07-20_
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -87,7 +86,6 @@ _Daily archive · 2026-07-20_
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-embed-1b-bf16/) — sentence-similarity · sentence-transformers, safetensors, ministral3
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -246,7 +244,6 @@ _Daily archive · 2026-07-20_
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-umutkocasari-faceanything/) — · gradio, face, 4d-reconstruction
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
@@ -1005,7 +1002,7 @@ _Daily archive · 2026-07-20_
 - [pouyahasanamreji/continuum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pouyahasanamreji-continuum/) — Shared memory + orchestration for your coding agents — one MCP server, persistent vector memory, agent regist…
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rocketride-org-rocketride-server/) — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale …
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pengrambo3-tech-zeushammer/) — ZeusHammer - AI Super Agent with Local Brain, Voice Interaction & Three-Tier Memory
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techsquidtv-cliparr/) — Create clips from media on your personal media server
 - [ohdearquant/lattice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ohdearquant-lattice/) — Run, quantize, and fine-tune LLMs on Apple Silicon. Pure Rust, no Python, no CUDA, no ONNX

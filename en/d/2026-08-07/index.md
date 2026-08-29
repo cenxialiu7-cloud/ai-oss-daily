@@ -115,7 +115,6 @@ _Daily archive · 2026-08-07_
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
@@ -126,7 +125,6 @@ _Daily archive · 2026-08-07_
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -471,7 +469,6 @@ _Daily archive · 2026-08-07_
 - [animtex/AIMoCap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-animtex-aimocap/) — · docker, 3d animation, 3d modeling
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-cut-director/) — ChatCut TalkDirector reads talking-head scripts and directs motion graphics, generated visuals, speaker compo…
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/on-page-ai-geo-seo-superapp/) — Free macOS workspace for SEO and GEO agencies
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-ribbi-velocut/) — AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU composi…
@@ -1109,7 +1106,7 @@ _Daily archive · 2026-08-07_
 - [LingyiChen-AI/AIComicBuilder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lingyichen-ai-aicomicbuilder/) — AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character d…
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
 - [aivisionslab-studios/rx580-local-ai-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aivisionslab-studios-rx580-local-ai-guide/) — Complete guide to running local AI on AMD RX 580 8GB via Vulkan — llama.cpp, Ollama, OpenWebUI, Stable Diffus…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-learn-harness-engineering/) — Harness engineering beginner tutorial, from 0 to 1
 - [EKKOLearnAI/hermes-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ekkolearnai-hermes-studio/) — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 - [NirDiamant/Agent_Memory_Techniques](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nirdiamant-agent-memory-techniques/) — Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge …

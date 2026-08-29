@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>鏈上聰明錢研究台（本機自架）：追蹤 Solana 高勝率錢包，把「誰在買什麼」變成可回測、可告警的研究訊號 — AI 開源日報</title>
+<meta name="description" content="鏈上所有交易都是公開的，但九成散戶只會在群組裡聽人喊單；這套工具把「找出長期真的有賺的錢包 → 統計它們的進出場特徵 → 回測跟隨這批錢包的歷史績效 → 即時告警」做成一條可驗證的研究流水線，只做研究與告警、不代客下單，決定永遠留給人。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P055/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P055/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P055/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P055/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P055/index.md" title="純文字（Markdown）版">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 開源日報">
+<meta property="og:title" content="鏈上聰明錢研究台（本機自架）：追蹤 Solana 高勝率錢包，把「誰在買什麼」變成可回測、可告警的研究訊號 — AI 開源日報">
+<meta property="og:description" content="鏈上所有交易都是公開的，但九成散戶只會在群組裡聽人喊單；這套工具把「找出長期真的有賺的錢包 → 統計它們的進出場特徵 → 回測跟隨這批錢包的歷史績效 → 即時告警」做成一條可驗證的研究流水線，只做研究與告警、不代客下單，決定永遠留給人。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P055/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="鏈上聰明錢研究台（本機自架）：追蹤 Solana 高勝率錢包，把「誰在買什麼」變成可回測、可告警的研究訊號 — AI 開源日報">
+<meta name="twitter:description" content="鏈上所有交易都是公開的，但九成散戶只會在群組裡聽人喊單；這套工具把「找出長期真的有賺的錢包 → 統計它們的進出場特徵 → 回測跟隨這批錢包的歷史績效 → 即時告警」做成一條可驗證的研究流水線，只做研究與告警、不代客下單，決定永遠留給人。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "鏈上聰明錢研究台（本機自架）：追蹤 Solana 高勝率錢包，把「誰在買什麼」變成可回測、可告警的研究訊號", "description": "鏈上所有交易都是公開的，但九成散戶只會在群組裡聽人喊單；這套工具把「找出長期真的有賺的錢包 → 統計它們的進出場特徵 → 回測跟隨這批錢包的歷史績效 → 即時告警」做成一條可驗證的研究流水線，只做研究與告警、不代客下單，決定永遠留給人。", "datePublished": "2026-08-28T08:00:00+00:00", "dateModified": "2026-08-28T08:00:00+00:00", "inLanguage": "zh-Hant", "author": {"@type": "Organization", "name": "AI 開源日報"}, "publisher": {"@type": "Organization", "name": "AI 開源日報"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-28/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/"><span class="dot">●</span> AI 開源日報</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/">首頁</a><a href="/ai-oss-daily/c/mcp/">🔌 MCP 伺服器</a><a href="/ai-oss-daily/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/c/media-creation/">🎬 影音製作</a><a href="/ai-oss-daily/c/fintech-invest/">💰 投資理財</a><a href="/ai-oss-daily/c/make-money/">🚀 賺錢方法</a><a href="/ai-oss-daily/c/general-ai/">🧱 AI 基礎堆疊</a><a href="/ai-oss-daily/changes/">每日變化</a><a href="/ai-oss-daily/proposals/">AI 組合企劃</a><a href="/ai-oss-daily/newsletter/">精選存檔</a><a href="/ai-oss-daily/about/">關於</a>      <a class="lang-switch" href="/ai-oss-daily/en/proposals/P055/">English</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/">回首頁</a> /
+    <a href="/ai-oss-daily/proposals/">AI 組合企劃</a> / P055</p>
+  <h1>鏈上聰明錢研究台（本機自架）：追蹤 Solana 高勝率錢包，把「誰在買什麼」變成可回測、可告警的研究訊號</h1>
+  <p class="detail-lead">鏈上所有交易都是公開的，但九成散戶只會在群組裡聽人喊單；這套工具把「找出長期真的有賺的錢包 → 統計它們的進出場特徵 → 回測跟隨這批錢包的歷史績效 → 即時告警」做成一條可驗證的研究流水線，只做研究與告警、不代客下單，決定永遠留給人。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">難度: medium</span>
+    <span class="badge">估 3–5 週做出能跑版本：錢包訂閱與交易解碼管線約 1.5 週（最花時間的是各家 DEX 與路由合約的指令解析差異），錢包績效統計與去極值排名約 1 週，規則引擎加告警推播約 0.5 週，K 線標記圖與回測報告約 1 週，MCP 封裝約 0.5 週。難點有四：一是資料品質——同一筆換幣可能經過多層路由與閃電貸包裝，解析不乾淨會把成本價算錯，必須逐一比對已知交易做驗證；二是 RPC 成本與速率限制——免費節點根本撐不住連續訂閱數百個錢包，架構上要設計本機快取與增量回補，並讓使用者自帶付費節點金鑰；三是倖存者偏差——排行榜天生只看得到活下來的錢包，回測必須採用時點快照（在每個歷史時點只用當時可得的資訊重新排名），否則績效會嚴重高估，這是最容易做錯也最致命的一點；四是定位紀律——市面同類專案幾乎都往自動跟單走，本案必須從第一行程式碼就守住『唯讀、不簽章、不下單』的界線，這既是法遵考量，也是與那些機器人專案的差異化來源。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>怎麼變現</h2><p>①Mac App 買斷（主力）：本機執行、自帶 RPC 設定，主打『你的錢包觀察名單與策略參數不上任何人的伺服器』，鎖定已經在鏈上交易但苦於沒有量化工具的個人玩家，買斷價位比照一套市面訂閱制追蹤工具三到四個月費用；②自架 SaaS 月費：依『同時追蹤的錢包數量 × 告警通道數』分級，Pro 級解鎖錢包績效歸因報告、群體共識偵測（多個高勝率錢包同時進場同一標的）、以及可下載的回測卷宗，這類報表型功能是專業使用者最願意付費的部分；③基礎設施聯盟：鏈上追蹤極度依賴高品質 RPC 節點與資料 API，教學文件內自然導購節點服務商與自架用 VPS／主機方案走主機商聯盟連結，另可接交易所／DEX 聚合器的公開推薦計畫；④網頁端廣告與贊助：『如何判讀鏈上錢包績效』『為什麼多數跟單機器人會虧損』這類長尾教學內容掛 Adsterra／Monetag，開源社群版頁面放 Ko-fi 收贊助。全案不涉及任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>運作方式</h2><p>整條流水線分五層，核心設計原則是『把跟單機器人拆開，只留下它的資料管線與訊號判定，丟掉自動下單那一段』。資料層：DexCrancer/solana-copytrading-bot 原本的用途是監控目標錢包並即時複製交易，本案只取用它最有價值的部分——錢包訂閱與交易解析引擎，也就是如何用 WebSocket 訂閱鏈上帳戶變動、如何把一筆原始 Solana 交易解碼成『某錢包在某時間、以某價格、買進某代幣多少數量』的結構化紀錄，並把這層改寫成純唯讀的資料收集器，完全移除簽章與送出交易的程式路徑。指標層：alkhudarigroupuae/PumpFun-Trainer_V1 提供的是新幣發行平台的價格監控與代幣生命週期追蹤能力，本案用它補齊『這個代幣什麼時候發行、流動性池多大、持倉集中度多高、有沒有貔貅合約特徵』這批基本面欄位，讓後續的錢包績效統計不會被那些純粹靠拉盤詐騙賺一次的錢包污染。訊號層：lathanFreeApp/solana-sniper-bot 內含的入場條件判定邏輯（流動性門檻、持有人數門檻、滑點與交易稅估算、黑名單過濾）被抽出來當成可組態的規則引擎，使用者可以自由組合『當觀察名單中三個以上的高勝率錢包在十分鐘內買進同一代幣，且該代幣流動性大於某門檻、合約已棄權鑄造權』這類複合條件，規則命中時只做一件事——推播告警並產出一份佐證報告。視覺化層：sher1096/klinepic-agent-api-examples 負責把每一筆告警渲染成帶標記的 K 線圖，圖上直接標出各個追蹤錢包的進出場點位、當下流動性與後續價格走勢，讓使用者能一眼判讀而不必自己去區塊瀏覽器對帳；同一套渲染也用於月度績效回顧圖表。介面層：modelcontextprotocol/python-sdk 把錢包查詢、績效統計、規則回測、圖表生成全部封裝成本機 MCP server，接上 Claude Desktop 之後，使用者可以直接問『把我的觀察名單過去九十天勝率排序，並排除持倉時間短於五分鐘的交易』或『回測：只跟隨勝率前五名錢包、單筆固定金額、持有二十四小時，過去一季的報酬分佈長什麼樣』，由模型組裝查詢並解讀結果。錢包篩選方法論是整套系統真正的護城河：不能只看單筆倍數，必須用勝率、盈虧比、最大回撤、交易頻率穩定度、以及『扣掉最賺那一筆之後還剩多少』的去極值檢定來聯合排名，並強制要求最少樣本數與最短觀察期，才能濾掉靠運氣或靠內線發行自買自賣製造假績效的錢包。安全與定位：系統不持有任何私鑰、不連接使用者錢包、不具備送出交易的程式碼路徑，輸出一律是報告與告警；所有回測結果均標註不含滑點極端情境與 MEV 搶跑的估計誤差，並在介面固定顯示風險揭露。與現有企劃的區隔：P003、P010、P034、P048 全部在傳統股票與 ETF 領域，P038 是 MT5 外匯期貨的風控儀表板，P042 處理的是新聞事件對照預測市場賠率的錯價——現有五十四案中沒有任何一案觸及鏈上錢包行為分析這個資料源。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>用到的開源零件</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/p/dexcrancer-solana-copytrading-bot/">DexCrancer/solana-copytrading-bot</a></h3>
+<p class="summary">一個高效率的Solana複製交易機器人，監控目標錢包並即時複製交易。</p><p class="why">▸ 近一日新增 14★（現 358★）</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 358</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/alkhudarigroupuae-pumpfun-trainer-v1/">alkhudarigroupuae/PumpFun-Trainer_V1</a></h3>
+<p class="summary">Solana幣交易的自動化工具，具備狙擊、價格監控等功能。</p><p class="why">▸ 近期新建立，已獲 121★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 121</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/">lathanFreeApp/solana-sniper-bot</a></h3>
+<p class="summary">用於Solana等平臺的自動交易機器人，支援複製交易。</p><p class="why">▸ 近期新建立，已獲 94★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-unknown">授權未明</span>
+<span class="badge stars">★ 94</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/">sher1096/klinepic-agent-api-examples</a></h3>
+<p class="summary">提供加密貨幣交易後的K線圖生成工具及範例。</p><p class="why">▸ 近期新建立，已獲 20★</p>  <div class="cardmeta">
+    <span class="badge domain">💰 投資理財</span>
+    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 20</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。</p><p class="why">▸ 近一日新增 11★（現 24,148★）</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP 伺服器</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ 權威收錄</span>    <span class="badge lic-ok">✓ 可商用</span>
+<span class="badge stars">★ 24,148</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">廣告</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">贊助連結 →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI 開源日報</strong><br>
+        <span style="color:var(--fg-faint)">去噪・抗洗榜・附「為何上榜」與商用授權判讀。</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ 請我喝杯咖啡</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/about/">關於</a> ·
+        <a href="/ai-oss-daily/changes/">每日變化</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">本站含聯盟連結；點擊不影響你的價格，會給作者一點回饋。</p>
+  </div>
+</footer></body>
+</html>

@@ -11,6 +11,6 @@
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
+- [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。

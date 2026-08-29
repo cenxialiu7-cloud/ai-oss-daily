@@ -60,7 +60,6 @@ _Daily archive · 2026-07-18_
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
@@ -74,7 +73,6 @@ _Daily archive · 2026-07-18_
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ath-maas-ovisocr2/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-tabfm-1-0-0-pytorch/) — tabular-classification · tabfm, safetensors, tabular
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -231,7 +229,6 @@ _Daily archive · 2026-07-18_
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-reasoncore-open-spatial-reasoning/) — · task_categories:multiple-choice, language:en, license:cc-by-4.0
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500-lerobot/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-facebook-vggt-omega/) — · gradio, region:us
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nineninesix-gepard/) — · gradio, region:us
@@ -994,7 +991,7 @@ _Daily archive · 2026-07-18_
 - [QuixiAI/ultrachat-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-ultrachat-uncensored/) — · license:mit, size_categories:100K<n<1M, format:json
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-futo-org-swipe-futo-org/) — · task_categories:other, language:en, license:mit
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/znyupup-ai-video-editing-skill/) — AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whispe…
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jenniferzhao0531-iclr2026-guide-cn/) — 不想啃 5000+ 全文？我已经替你和 LLM 啃完了 — ICLR 2026 全景中文导读

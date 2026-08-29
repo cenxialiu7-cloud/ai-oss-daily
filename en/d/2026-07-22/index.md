@@ -63,7 +63,6 @@ _Daily archive · 2026-07-22_
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -110,7 +109,6 @@ _Daily archive · 2026-07-22_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
@@ -254,7 +252,6 @@ _Daily archive · 2026-07-22_
 - [CohereLabs/command-a-plus-05-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-command-a-plus-05-2026/) — · gradio, region:us
 - [build-small-hackathon/prize-ledger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-prize-ledger/) — · static, region:us
 - [HuggingFaceM4/encoder-free-vlm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-encoder-free-vlm/) — · docker, research-article-template, research paper
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
@@ -1017,7 +1014,7 @@ _Daily archive · 2026-07-22_
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-crypto-arbitrage/) — Crypto arbitrage trading bot that detects triangular and cross-exchange opportunities, executes trades automa…
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayoubnabil-aiondb/) — PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.
 - [Saganaki22/ComfyUI-OmniVoice-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-omnivoice-tts/) — OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [oliviazzzu/minimal-embodiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oliviazzzu-minimal-embodiment/) — A minimal hardware-software architecture giving large language models a closed-loop physical embodiment with …
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beever-ai-beever-atlas/) — Your First LLM-Wiki Conversation Knowledge Base
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…

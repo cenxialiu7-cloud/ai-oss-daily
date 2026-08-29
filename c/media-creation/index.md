@@ -8,7 +8,6 @@
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/) — 基於Krea-2-Turbo的風格參考模型，用於文字轉影像。
-- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/) — 將文字轉換成音樂的模型。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/) — 將文字轉換成語音的模型，支援自訂聲音。
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
@@ -16,21 +15,22 @@
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — 將文字轉換為影片的AI模型，支援控制網格和影片生成。
+- [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/) — 一款基於轉換器的語音合成模型，支援語音克隆和設計。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gazingstars123-anima-2-9b/) — Anime風格的影像生成模型，支援文字轉圖片。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — 用 Flux2Klein 模型調整影像中的光照方向。
+- [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/) — 將文字轉換成音樂的模型。
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
+- [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/) — 將文本轉換為影片的模型，適用於多種影片生成任務。
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/) — NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/) — 將文本轉換為影片的MiniMax-H3模型。
-- [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/) — 一款基於轉換器的語音合成模型，支援語音克隆和設計。
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/) — 基於LORA技術的文字轉影像模型，用於生成影像。
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/) — 將影像轉換為動畫的模型，支援音樂生成舞蹈動作。
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
-- [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/) — 將文本轉換為影片的模型，適用於多種影片生成任務。
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
@@ -54,9 +54,9 @@
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kiabush-persian-text-to-ipa-byt5/) — 使用 ByT5 模型將波斯文轉換為國際音標。
 - [ARSreg46/Ai-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arsreg46-ai-image-generator/) — 從文字提示生成 AI 圖片的桌面應用程式，整合多個繪畫 API。
+- [jub0t/WolfCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-wolfcut/) — WolfCut 是一個免費且開源的 CapCut 替代品，適用於 PC。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
-- [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/) — 從指令碼和授權影像生成驗證的AI主播影片。
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
+- [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/) — 從指令碼和授權影像生成驗證的AI主播影片。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shekmohammedakram-stable-diffusion-2026-free-local/) — 免費本地執行的穩定擴散模型，適用於AI影像生成。
-- [Saganaki22/ComfyUI-Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-breeze-tts-2/) — ComfyUI的Breeze TTS 2節點，支援雙語語音克隆和設計。

@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：900
+**Stars**：904
 **Source**：https://github.com/Raymondhou0917/speak-human-tw

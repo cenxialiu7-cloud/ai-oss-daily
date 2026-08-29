@@ -118,7 +118,6 @@ _每日存檔 · 2026-08-08_
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — 一款去識別化的 GLM 模型，支援文本生成。
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-fastcontext-1-0-4b-sft/) — 微軟的快速上下文模型，適用於對話式 AI 和語料庫探索。
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-m3/) — 將影像與文本結合生成文本的多模態模型，適用於各種場景。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/) — 基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。
@@ -127,7 +126,6 @@ _每日存檔 · 2026-08-08_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/) — 使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。
@@ -482,7 +480,6 @@ _每日存檔 · 2026-08-08_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

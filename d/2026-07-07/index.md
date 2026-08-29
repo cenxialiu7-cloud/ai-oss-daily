@@ -5,7 +5,6 @@ _每日存檔 · 2026-07-07_
 ## 🆕 新上榜
 
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [OStudi/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ostudi-short-video-generator-ai/) — 將YouTube影片轉換為短影片的開源工具，具備高亮檢測、字幕和翻譯功能。
 - [taisly/agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taisly-agent/) — 用於在多個平臺發布影片的代理工具套件。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-07-07_
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loganbooker-sesquilsr/) — 支援SDXL等模型的任意比例上取樣器，包含ComfyUI節點和預訓練權重。
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vigozhao-ai-visual-prompt-cookbook/) — AI影像生成的可重用JSON提示模板集合，每日更新。
+- [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rath-team-openrath/) — 開源、類似PyTorch的工作流程執行時環境，適用於多代理和多會話。
 
 ## 🚀 Star 竄升
 
@@ -32,7 +32,6 @@ _每日存檔 · 2026-07-07_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
@@ -48,7 +47,6 @@ _每日存檔 · 2026-07-07_
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/) — 百度 NAVA 文字／圖像生成影片模型（TI2V）。

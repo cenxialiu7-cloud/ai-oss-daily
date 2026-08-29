@@ -105,7 +105,6 @@ _Daily archive · 2026-07-31_
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
@@ -115,7 +114,6 @@ _Daily archive · 2026-07-31_
 - [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · transformers, safetensors, inkling_mm_model
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -368,7 +366,6 @@ _Daily archive · 2026-07-31_
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-davydenkogr-after/) — · language:en, license:apache-2.0, arxiv:2606.23127
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Open-source, local-first video editor where creators and AI agents edit the same real timeline.
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [iannuttall/seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/iannuttall-seo/) — The only SEO skill your agent needs. 70+ SEO audit tools through a local CLI and MCP server, using your own c…
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
@@ -1079,7 +1076,7 @@ _Daily archive · 2026-07-31_
 - [onvoyage-ai/gtm-engineer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onvoyage-ai-gtm-engineer-skills/) — Claude Code skill for improving website AEO (AI Engine Optimization) and GEO (Generative Engine Optimization)…
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anyshift-io-sre-skills/) — Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)
 - [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kimsungwhee-apple-docs-mcp/) — MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Object…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [QuixiAI/ultrachat-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-ultrachat-uncensored/) — · license:mit, size_categories:100K<n<1M, format:json
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-futo-org-swipe-futo-org/) — · task_categories:other, language:en, license:mit
 - [wq19901103wq/wechat-mac-rpa](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wq19901103wq-wechat-mac-rpa/) — 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 | Visual RPA for WeChat

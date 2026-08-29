@@ -4,7 +4,6 @@ _每日存檔 · 2026-06-17_
 
 ## 🆕 新上榜
 
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-06-17_
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aidigestorg-ai-village/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-trace-commons-agent-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 
 ## 🚀 Star 竄升
 
@@ -47,7 +47,6 @@ _每日存檔 · 2026-06-17_
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/) — 百度 NAVA 文字／圖像生成影片模型（TI2V）。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — 基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。

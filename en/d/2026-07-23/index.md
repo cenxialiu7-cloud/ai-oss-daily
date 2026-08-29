@@ -62,7 +62,6 @@ _Daily archive · 2026-07-23_
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1/) — text-generation · transformers, safetensors, laguna
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
@@ -111,7 +110,6 @@ _Daily archive · 2026-07-23_
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-27b-mlx-1bit/) — text-generation · mlx, safetensors, qwen3_5
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
@@ -300,7 +298,6 @@ _Daily archive · 2026-07-23_
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-axiomiclabs-open-slm-leaderboard/) — · static, region:us
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
 - [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alkhudarigroupuae-pumpfun-trainer-v1/) — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, mul…
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [HKUSTAudio/ISCSLP2026-CoT-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hkustaudio-iscslp2026-cot-tts/) — · region:us
@@ -1020,7 +1017,7 @@ _Daily archive · 2026-07-23_
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-futo-org-swipe-futo-org/) — · task_categories:other, language:en, license:mit
 - [Ritiksuman07/quant-whisper](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ritiksuman07-quant-whisper/) — A hedge fund on your local machine. Terminal-native algo trading engine in Go with local LLM inference (Ollam…
 - [amitshekhariitbhu/llm-internals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-llm-internals/) — Learn LLM internals step by step - from tokenization to attention to inference optimization.
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnyk-council-of-high-intelligence/) — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman,…
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devnen-qwen3-6-windows-server/) — One-click Qwen3.6-27B inference on Windows. 158 tok/s on RTX 5090, 72 tok/s on RTX 3090. Native, no WSL, no D…

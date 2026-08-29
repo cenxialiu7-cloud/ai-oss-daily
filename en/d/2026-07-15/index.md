@@ -38,7 +38,6 @@ _Daily archive · 2026-07-15_
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-magenta-realtime-2/) — text-to-audio · magenta-realtime-2, tflite, text-to-audio
@@ -46,7 +45,6 @@ _Daily archive · 2026-07-15_
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — image-to-image · Flux2Klein, Sun, I2I
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/) — text-to-speech · transformers, safetensors, higgs_multimodal_qwen3
@@ -154,7 +152,6 @@ _Daily archive · 2026-07-15_
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-cs2-10k/) — · task_categories:other, license:cc-by-nc-4.0, size_categories:100K<n<1M
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-neuronpedia-jacobian-lens/) — · jacobian_lens, license:mit, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/calesthio-generative-media-skills/) — Research-backed agent skills and tools for premium image, video, audio, voice, and generative media productio…
 - [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sensenova-sensenova-vision-corpus-50m/) — · task_categories:any-to-any, language:en, license:cc-by-nc-4.0
 - [kyutai/rocket-science](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kyutai-rocket-science/) — · task_categories:other, language:en, license:cc-by-nc-sa-4.0

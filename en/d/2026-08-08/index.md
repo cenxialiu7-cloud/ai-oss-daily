@@ -118,7 +118,6 @@ _Daily archive · 2026-08-08_
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
@@ -127,7 +126,6 @@ _Daily archive · 2026-08-08_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-comfy/) — · region:us
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
@@ -482,7 +480,6 @@ _Daily archive · 2026-08-08_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-ribbi-velocut/) — AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU composi…
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/on-page-ai-geo-seo-superapp/) — Free macOS workspace for SEO and GEO agencies
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1126,7 +1123,7 @@ _Daily archive · 2026-08-08_
 - [Syngnat/GoNavi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syngnat-gonavi/) — High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库…
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/valuecell-ai-clawx/) — ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orch…
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timescale-pg-aiguide/) — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better Pos…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saurabhv749-supertonic3-voice-clone/) — Train voice styles for Supertone/supertonic-3 model.
 - [kitaki-Ciallo/etf-national-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kitaki-ciallo-etf-national-tracker/) — 📊 追踪国家队（汇金/社保）持仓 ETF 的份额变化与十大持有人动态，基于 Flask + PostgreSQL + ECharts 构建的量化看板
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nduckmink-arkon/) — Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts,…

@@ -65,7 +65,6 @@ _Daily archive · 2026-07-25_
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Open-source, local-first video editor where creators and AI agents edit the same real timeline.
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
@@ -119,7 +118,6 @@ _Daily archive · 2026-07-25_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -316,7 +314,6 @@ _Daily archive · 2026-07-25_
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-tencentarc-pixal3d/) — · gradio, region:us
 - [Daankular/Sulphur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-daankular-sulphur/) — · gradio, region:us
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-colbert-tool-selection/) — · docker, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
 - [rl-llm-wiki/rl-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rl-llm-wiki-rl-wiki/) — · static, region:us
 - [carpedkm/CustoMDiT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-carpedkm-customdit/) — · task_categories:text-to-video, license:cc-by-4.0, size_categories:1M<n<10M
@@ -1043,7 +1040,7 @@ _Daily archive · 2026-07-25_
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lhh737-knowledgebase-rag-llm-system/) — 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-crypto-arbitrage/) — Crypto arbitrage trading bot that detects triangular and cross-exchange opportunities, executes trades automa…
 - [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevinnft-ai-agent-skills/) — 191 attribution-first agent skills for Hermes Agent, Claude Code, Cursor — one installer, 28 categories, sear…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0share/) — A 股、期货、期权数据本地化管道：Tushare Pro 拉取 → Parquet 分区存储 → DuckDB 本地查询，支持增量同步与定时调度
 - [Monet-AI-Editor/Monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/monet-ai-editor-monet/) — Edit Videos and Design Images with Claude code or Codex
 - [vwww-droid/Mira](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vwww-droid-mira/) — Mobile runtime detection workbench for AI (iOS and Android)

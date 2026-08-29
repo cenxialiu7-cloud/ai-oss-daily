@@ -64,7 +64,6 @@ _Daily archive · 2026-07-24_
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
@@ -115,7 +114,6 @@ _Daily archive · 2026-07-24_
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-edge/) — · cosmos, diffusers, safetensors
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pireel-pireel/) — The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
@@ -330,7 +328,6 @@ _Daily archive · 2026-07-24_
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cha007-pornflux-i2v-6e9et/) — · static, deepsite-v4, region:us
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Open-source, local-first video editor where creators and AI agents edit the same real timeline.
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nineninesix-gepard/) — · gradio, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [Kwai-Klear/GoLongRL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-kwai-klear-golongrl/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — · gradio, region:us
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
@@ -1018,7 +1015,7 @@ _Daily archive · 2026-07-24_
 - [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dongxinsuperman-ai-phone/) — iOS / Android / HarmonyOS 三端真机 + 三端虚拟机 AI 自动化中台 · 自然语言驱动纯视觉执行，开箱即用的设备调度、多设备并发与报告回传
 - [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vectorpeak-llm-wiki/) — A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training…
 - [kemalai/FreeCrawl-SEO-Tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kemalai-freecrawl-seo-tool/) — A high-performance website crawler built for serious SEO audits. Targets 1M+ URLs on a single machine, with a…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kimsungwhee-apple-docs-mcp/) — MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Object…
 - [AgriciDaniel/flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-flow/) — Find · Leverage · Optimize · Win — an evidence-led SEO playbook for the AI-search era. 72 docs · 42 AI prompt…
 - [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevinnft-ai-agent-skills/) — 191 attribution-first agent skills for Hermes Agent, Claude Code, Cursor — one installer, 28 categories, sear…

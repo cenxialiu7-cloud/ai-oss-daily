@@ -58,7 +58,6 @@ _每日存檔 · 2026-07-20_
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — 即時語音識別系統，支援多語言。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
@@ -87,7 +86,6 @@ _每日存檔 · 2026-07-20_
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — 基於轉換器的影像文字轉文字模型，支援GGUF格式和視覺功能。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — 無審核的 Gemma4 模型，支援多模式和程式碼生成。
@@ -246,7 +244,6 @@ _每日存檔 · 2026-07-20_
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-my-pi-agent/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-amphora-researchmath-14k/) — ResearchMath 數學研究問答資料集（14k 筆）。
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-umutkocasari-faceanything/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-misotts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-openmythos/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

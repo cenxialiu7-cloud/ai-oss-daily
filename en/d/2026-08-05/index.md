@@ -92,7 +92,6 @@ _Daily archive · 2026-08-05_
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
@@ -125,7 +124,6 @@ _Daily archive · 2026-08-05_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -441,7 +439,6 @@ _Daily archive · 2026-08-05_
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-infatoshi-kernelbench-hard-traces/) — · license:mit, size_categories:n<1K, format:json
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-ribbi-velocut/) — AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU composi…
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-libercoders-claw-anything/) — · language:en, language:zh, license:apache-2.0
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trace-commons-agent-traces/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-reasoning-summaries-61k/) — · task_categories:summarization, task_categories:text-generation, language:en
 - [google/gemma4_vision_token_budget](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-google-gemma4-vision-token-budget/) — · static, region:us
@@ -1109,7 +1106,7 @@ _Daily archive · 2026-08-05_
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datagouv-datagouv-mcp/) — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and ana…
 - [0xSteph/pentest-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsteph-pentest-ai/) — Open-source AI pentester that proves every finding. Machine oracles re-run each exploit; verified bugs ship a…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vibheksoni-stealth-browser-mcp/) — The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect…
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opensensenova-sensenova-skills/) — Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sbhooley-ainativelang/) — AINL helps turn AI from "a smart conversation" into "a structured worker." It is designed for teams building …

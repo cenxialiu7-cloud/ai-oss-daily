@@ -3,7 +3,6 @@
 Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
 
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/) — text-to-speech · transformers, safetensors, higgs_multimodal_qwen3
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
@@ -14,3 +13,4 @@ Auto-updated daily around 09:00 and pushed straight to your Telegram — free, n
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-image2video/) — image-to-video · cosmos, diffusers, safetensors
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
+- [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr

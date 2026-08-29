@@ -14,4 +14,3 @@
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [karnstack/reins](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/karnstack-reins/) — Take the reins of your real browser
 - [hogan-tech/brand-loom](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hogan-tech-brand-loom/) — Open-source marketing skills that run on any model — with a hosted brand-memory engine. No coding agent requi…
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa

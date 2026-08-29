@@ -1,8 +1,8 @@
 # 🔌 MCP 伺服器
 
 - [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server 是一個 HTTP 外掛，讓 AI 助手可以控制 x64dbg 進行二進位分析。
-- [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
+- [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。
 - [trailhq/Graft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailhq-graft/) — 加速Claude Code等程式設計代理，使其更快、更便宜且具上下文理解能力。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
@@ -29,33 +29,33 @@
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/florianbruniaux-claude-code-ultimate-guide/) — Claude Code 的全面指南，涵蓋從初學者到高階使用者的所有內容。
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
-- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tabularisdb-tabularis/) — 開源資料庫客戶端，支援 PostgreSQL、MySQL/MariaDB 和 SQLite。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archestra-ai-archestra/) — 一個具有防護措施、MCP 註冊和閘道器的企業 AI 平臺。
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — 即時加密貨幣與股票篩選工具，內建 Claude 桌面整合。
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tabularisdb-tabularis/) — 開源資料庫客戶端，支援 PostgreSQL、MySQL/MariaDB 和 SQLite。
-- [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — 基於 Ghidra 的 AI 功能反向工程工具集。
+- [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
 - [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davepoon-buildwithclaude/) — 一個單一中心，用於查詢擴充套件 Claude Code 和其他平臺的技能和外掛。
 - [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。
+- [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — 基於 Ghidra 的 AI 功能反向工程工具集。
 - [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-md2wechat-skill/) — 將 Markdown 檔案轉換並發布到微信公眾號的 CLI 工具。
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
 - [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — 開源 Kubernetes 介面，提供拓撲、事件時間軸和服務流量等視覺化。
 - [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mukul975-cve-mcp-server/) — 為Claude提供21個API的安全情報工具集，涵蓋多種安全標準和資料來源。
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wesammustafa-claude-code-everything-you-need-to-know/) — Claude Code 指南，涵蓋設定、提示工程等內容。
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openosint-openosint/) — 結合16種工具的AI驅動情報收集代理程式，支援Claude、GPT-4等模型。
-- [zhizhuodemao/js-reverse-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhizhuodemao-js-reverse-mcp/) — AI Agent 為主的 JS 逆向 MCP Server，提供 Chrome 除錯等功能。
 - [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jamubc-gemini-mcp-tool/) — 讓 AI 助手與 Google Gemini CLI 互動的 MCP 伺服器。
 - [jgravelle/jcodemunch-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jgravelle-jcodemunch-mcp/) — 利用樹形結構解析 GitHub 程式碼，大幅降低 AI 程式碼探索的成本。
+- [zhizhuodemao/js-reverse-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhizhuodemao-js-reverse-mcp/) — AI Agent 為主的 JS 逆向 MCP Server，提供 Chrome 除錯等功能。
 - [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisryugj-korean-law-mcp/) — 韓國法律 API 轉換為 17 個 MCP 工具，支援法條查詢和引用驗證。
 - [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — 全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openosint-openosint/) — 結合16種工具的AI驅動情報收集代理程式，支援Claude、GPT-4等模型。
 - [0xMassi/webclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xmassi-webclaw/) — 快速本地化的 LLM 網頁內容提取工具，支援 CLI 和 REST API。
 - [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-paperbanana/) — 自動化學術圖表生成工具，擴充套件至簡報生成等新領域。
 - [Devin-AXIS/iPolloWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devin-axis-ipollowork/) — 下一代Codex和Claude Code替代品，本地部署的代理工作空間。
-- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-agency-orchestrator/) — 多AI角色協作平臺，零程式碼即可快速生成完整計劃，支援10種LLM供應商。
 - [tractorjuice/arc-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tractorjuice-arc-kit/) — Arc-Kit 是一個企業架構治理工具，用於管理 AI 輔助編碼的策略和交付。
 - [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — Context+ 是一個高精度的MCP伺服器，結合了RAG、AST等技術。
+- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-agency-orchestrator/) — 多AI角色協作平臺，零程式碼即可快速生成完整計劃，支援10種LLM供應商。
 - [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alpic-ai-skybridge/) — 適用於 MCP 和 ChatGPT 應用的全棧 TypeScript 框架。
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — PostgreSQL 技能和文件的 Claude 外掛，幫助生成更好的 PostgreSQL 程式碼。
 - [Syngnat/GoNavi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syngnat-gonavi/) — 高效能多資料來源資料庫客戶端，支援 AI 和 MCP，體積僅約 30MB。

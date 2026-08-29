@@ -4,5 +4,5 @@ Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：8,087
+**Stars**：8,173
 **Source**：https://github.com/Agents365-ai/drawio-skill

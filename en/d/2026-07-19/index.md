@@ -57,7 +57,6 @@ _Daily archive · 2026-07-19_
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -75,7 +74,6 @@ _Daily archive · 2026-07-19_
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — text-generation · safetensors, diffusion_gemma, nvidia
 - [open-gigaai/Giga-World-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-open-gigaai-giga-world-1/) — · diffusers, safetensors, license:apache-2.0
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
@@ -236,7 +234,6 @@ _Daily archive · 2026-07-19_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
 - [scholarweave/arxiv-latex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scholarweave-arxiv-latex/) — · task_categories:text-generation, task_categories:feature-extraction, language:en
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500/) — · language:en, license:cc-by-4.0, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-krea2-lora-trainer/) — · gradio, region:us
 - [CohereLabs/command-a-plus-05-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-command-a-plus-05-2026/) — · gradio, region:us
 - [build-small-hackathon/prize-ledger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-prize-ledger/) — · static, region:us
@@ -993,7 +990,7 @@ _Daily archive · 2026-07-19_
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnyk-council-of-high-intelligence/) — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman,…
 - [AgriciDaniel/claude-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-blog/) — Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized f…
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lhh737-knowledgebase-rag-llm-system/) — 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [PurpleDoubleD/locally-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/purpledoubled-locally-uncensored/) — Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs…
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techsquidtv-cliparr/) — Create clips from media on your personal media server
 - [graykode/abtop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/graykode-abtop/) — Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate l…

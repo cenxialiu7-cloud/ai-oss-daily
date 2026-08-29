@@ -5,7 +5,6 @@ _Daily archive · 2026-07-07_
 ## 🆕 New
 
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [OStudi/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ostudi-short-video-generator-ai/) — Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, su…
 - [taisly/agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/taisly-agent/) — Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and…
@@ -16,6 +15,7 @@ _Daily archive · 2026-07-07_
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-grid-pilot/) — 超越交易所原生网格机器人：用程序模拟盯盘交易员——动态改单不挂死、追踪建仓避免顶部接盘、Maker 优先省手续费、分层算法单止损、多段价格区间自适应。兼容 Binance / OKX / Gate.io，内置 12 种…
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loganbooker-sesquilsr/) — Arbitrary scale latent upscaler for SDXL, Flux, Flux2, and Wan 2.1/Anima/Qwen Image. Supports fractional scal…
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vigozhao-ai-visual-prompt-cookbook/) — 118+ plug-and-play JSON style packs for Nano Banana Pro, GPT Image & Midjourney. Copy one JSON, get a style. …
+- [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rath-team-openrath/) — An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.
 
 ## 🚀 Climbing
 
@@ -32,7 +32,6 @@ _Daily archive · 2026-07-07_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
@@ -48,7 +47,6 @@ _Daily archive · 2026-07-07_
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-nano-v1/) — text-to-speech · pytorch, text-to-speech, tts
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-misolabs-misotts/) — text-to-speech · pytorch, safetensors, text-to-speech
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — text-to-image · diffusers, safetensors, ternary
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video

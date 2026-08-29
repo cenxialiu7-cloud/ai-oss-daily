@@ -5,7 +5,6 @@ _每日存檔 · 2026-07-13_
 ## 🆕 新上榜
 
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [FINAL-Bench/VKUE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-vkue/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travisun-opptrix/) — 大模型驅動的投研助手，支援因子篩選、回測等功能。
 - [Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-manusagents-gpt-5-5-gemini-3-1-pro-grok-4-claude-fable-5-mythos-5-qwen-3-7-max-and-more-distillation-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -36,7 +35,6 @@ _每日存檔 · 2026-07-13_
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
@@ -49,7 +47,6 @@ _每日存檔 · 2026-07-13_
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
@@ -157,7 +154,6 @@ _每日存檔 · 2026-07-13_
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-ifstruct-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Robbyant/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robbyant-lingbot-video/) — 一種基於混合專家的影片預訓練方法，適用於具身智慧。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shekmohammedakram-stable-diffusion-2026-free-local/) — 免費本地執行的穩定擴散模型，適用於AI影像生成。

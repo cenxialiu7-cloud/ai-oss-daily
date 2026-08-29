@@ -127,7 +127,6 @@ _Daily archive · 2026-08-09_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -142,7 +141,6 @@ _Daily archive · 2026-08-09_
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-vl-realtime/) — video-text-to-text · transformers, safetensors, moss_vl
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-experimental/) — · region:us
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-razzzhf-realism-engine-ideogram-4/) — · license:unknown, region:us
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-10eros/) — · gradio, region:us
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — text-generation · transformers, safetensors, nemotron_labs_audex
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
@@ -484,7 +482,6 @@ _Daily archive · 2026-08-09_
 - [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/img2threejs-img2threejs/) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js m…
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-ribbi-velocut/) — AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU composi…
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
@@ -1138,7 +1135,7 @@ _Daily archive · 2026-08-09_
 - [PolyX-Research/Robust-U1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-robust-u1/) — 🚀🚀🚀 [ICML 2026] Official Implementation of Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Rob…
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kangarooking-cangjie-skill/) — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 - [yuji-hatakeyama/opencode-gpt-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuji-hatakeyama-opencode-gpt-imagegen/) — OpenCode plugin: image generation via your ChatGPT subscription or OpenAI API
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
 - [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kklimuk-docx-cli/) — CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity.
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG

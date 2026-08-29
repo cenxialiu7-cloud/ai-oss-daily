@@ -132,12 +132,10 @@ _Daily archive · 2026-08-12_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
@@ -532,7 +530,6 @@ _Daily archive · 2026-08-12_
 - [hotdogs/uka-fable-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hotdogs-uka-fable-reasoning/) — · language:en, license:agpl-3.0, size_categories:10K<n<100K
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-cut-director/) — ChatCut TalkDirector reads talking-head scripts and directs motion graphics, generated visuals, speaker compo…
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-makora-ai-triton-gpu-latency/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, size_categories:n<1K, format:parquet
@@ -1154,7 +1151,7 @@ _Daily archive · 2026-08-12_
 - [perplexity-ai/draco](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-perplexity-ai-draco/) — · language:en, license:mit, size_categories:n<1K
 - [LingyiChen-AI/AIComicBuilder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lingyichen-ai-aicomicbuilder/) — AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character d…
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evanbacon-serve-sim/) — The `npx serve` of Apple Simulators.
 - [Syngnat/GoNavi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syngnat-gonavi/) — High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库…
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-learn-harness-engineering/) — Harness engineering beginner tutorial, from 0 to 1

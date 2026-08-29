@@ -127,7 +127,6 @@ _每日存檔 · 2026-08-09_
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/) — 使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-soundeffect-v2-0/) — 將文本轉換為音訊的擴散模型，適用於聲音效果和語音合成。
@@ -142,7 +141,6 @@ _每日存檔 · 2026-08-09_
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/) — 即時影片文字轉換工具，支援即時流媒體和影片理解。
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — NVIDIA開發的文本生成模型，具備推理能力。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
@@ -484,7 +482,6 @@ _每日存檔 · 2026-08-09_
 - [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/) — 將參考影像轉換成高品質的 Three.js 動畫模型。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-gaming-500-hours/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

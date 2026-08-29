@@ -135,7 +135,6 @@ _每日存檔 · 2026-08-23_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/) — 基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。
@@ -143,7 +142,6 @@ _每日存檔 · 2026-08-23_
 - [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-2.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/) — 基於transformers框架的文字生成模型。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-tae/) — Apache 2.0授權的MiniMax-H3相關專案。
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/) — 使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。
@@ -690,7 +688,6 @@ _每日存檔 · 2026-08-23_
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gclef-cmu-multtipop/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erduo1998-cell-erduo-broll-loop-engineering/) — 自動路由 HyperFrames 和 Remotion 的雙後端 B-roll 代理技能，整合 Shotcraft 鏡頭卡。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hithink-tech-financial-api/) — 同花順官方A股資料服務，適用於AI Agent、量化研究等。
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tidedeliverer-make-com-enhancer/) — 為 Make.com 增強自動化功能的工具。
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zlab-princeton-i1-captions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

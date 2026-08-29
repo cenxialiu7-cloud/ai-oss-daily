@@ -60,7 +60,6 @@ _Daily archive · 2026-07-21_
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -103,7 +102,6 @@ _Daily archive · 2026-07-21_
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [MiniMaxAI/MiniMax-M3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-m3/) — image-text-to-text · transformers, safetensors, minimax_m3_vl
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
@@ -282,7 +280,6 @@ _Daily archive · 2026-07-21_
 - [liumindmind/Neko_Audio-80K_Short](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liumindmind-neko-audio-80k-short/) — · size_categories:10K<n<100K, format:json, modality:audio
 - [FINAL-Bench/Aether-7B-5Attn-checkpoints](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-aether-7b-5attn-checkpoints/) — · language:en, language:ko, license:apache-2.0
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-photoroom-prx-pixel/) — · gradio, region:us
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-qwen3-7-max-pi-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-jawbreaker/) — · gradio, track:backyard, sponsor:openbmb
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lukadev13-liminal-dreamcore-1k/) — · license:mit, modality:image, region:us
@@ -1013,7 +1010,7 @@ _Daily archive · 2026-07-21_
 - [Windy3f3f3f3f/how-claude-code-works](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/windy3f3f3f3f-how-claude-code-works/) — Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude…
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zarazhangrui-personalized-podcast/) — Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and…
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rocketride-org-rocketride-server/) — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale …
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thetacursed-illustrious-noobai-style-explorer/) — Illustrious & NoobAI Style Explorer - A fast, visual reference library for 16,000+ artist styles, optimized f…

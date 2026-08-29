@@ -2,9 +2,9 @@
 
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
-- [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/) — 深度文本生成模型，適用於各種對話和創作場景。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
+- [deepseek-ai/DeepSeek-V4-Flash-0731](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-0731/) — 深度文本生成模型，適用於各種對話和創作場景。
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/) — 用於表格資料分類和回歸的 PyTorch 模型。
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — NVIDIA的文本生成模型，適用於PyTorch環境。
@@ -12,6 +12,7 @@
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — NVIDIA 的量化模型，用於文本生成和影像擴散。
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-2-0/) — 長尾貓 2.0，用於生成文本的 AI 模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
+- [tencent/Hy4-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/) — Hy4-preview 是一個基於 Transformers 的對話生成模型，支援多語種和混合專家系統。
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
@@ -19,21 +20,19 @@
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra-router-51m/) — 用於邊緣計算的文本生成模型，可路由和協調多個LLM。
 - [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
 - [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akahsizrr-fuse-1-lite/) — 輕量版文本生成模型，支援專家混合系統。
 - [LiquidAI/LFM2.5-2.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-2-6b/) — 基於transformers框架的文字生成模型。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/) — 使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。
 - [silx-ai/Quasar-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-silx-ai-quasar-preview/) — 基於變換器的文本生成模型，提供預覽功能。
 - [jlnsrk/GLM-5.2-colibri-int4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jlnsrk-glm-5-2-colibri-int4/) — 大型語言模型／權重（依標籤自動歸類，詳細看下方原文）
 - [OpenMOSS-Team/MOSS-VL-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-vl-realtime/) — 即時影片文字轉換工具，支援即時流媒體和影片理解。
 - [SyzygyResearch/Mach-1-Additive-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-syzygyresearch-mach-1-additive-35b/) — 大型語言模型／權重（依標籤自動歸類，詳細看下方原文）
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
-- [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/Ling-3.0-tiny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/) — 一個小型的自定義編碼模型。
 - [LGAI-EXAONE/K-EXAONE-2.0-750B-A37B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lgai-exaone-k-exaone-2-0-750b-a37b/) — 大型語言模型，支援多語種文本生成。
 - [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/) — 一個使用 Transformers 的文本生成模型，支援 Mixture of Experts 進行推理。
+- [pipecat-ai/phonellm-alpha-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pipecat-ai-phonellm-alpha-1/) — phonellm-alpha-1 是一個基於 Transformers 的語音生成模型，支援語音代理和混合專家系統。
 - [skt/A.X-K2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-skt-a-x-k2/) — 韓國開發的對話式文本生成模型，支援多種語言。
 - [amd/Instella-MoE-16B-A3B-Think](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-amd-instella-moe-16b-a3b-think/) — 基於AMD Instella技術的文本生成模型，適用於大規模平行計算。
 - [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -41,6 +40,7 @@
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-encoder-350m/) — 用於填充掩碼的大型語義模型，支援雙向掩碼語言建模。
 - [Motif-Technologies/Motif-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3/) — 特徵抽取的混合專家模型，用於文本生成。
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
+- [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Soofi-Project/Soofi-S-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/) — 基於轉換器的文本生成模型，專為主權AI設計。
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -78,9 +78,9 @@
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ajibawa-2023-shell-code-large/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/FormalVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-formalverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [JitRoy2024/Qwen_Img_Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jitroy2024-qwen-img-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-makora-ai-triton-gpu-latency/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [JitRoy2024/Qwen_Img_Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jitroy2024-qwen-img-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alienkevin-swe-zero-12m-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -95,8 +95,8 @@
 - [scholarweave/arxiv-latex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-scholarweave-arxiv-latex/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TaoLiveAIGC/TLive-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taoliveaigc-tlive-omni/) — 適用於電商直播的全模態理解模型。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [IlyaGusev/habr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilyagusev-habr/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mikeee-qwen-7b-chat/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -111,8 +111,8 @@
 - [HuggingFaceFW/finephrase](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-finephrase/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tatsu-lab-alpaca/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nousresearch-hermes-function-calling-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-finepdfs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nousresearch-hermes-function-calling-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-badlogicgames-pi-mono/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Trendyol/Trendyol-Cybersecurity-Instruction-Tuning-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-trendyol-trendyol-cybersecurity-instruction-tuning-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -3,18 +3,19 @@
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [hugging-apps/sensenova-sensenova-u1-5-8b-mot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/) — · gradio, mcp-server, region:us
-- [hugging-apps/4danyone-multiview-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-4danyone-multiview-demo/) — · gradio, mcp-server, region:us
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
-- [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
+- [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
+- [hugging-apps/4danyone-multiview-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-4danyone-multiview-demo/) — · gradio, mcp-server, region:us
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-lingbot-video/) — · gradio, mcp-server, region:us
-- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
-- [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
-- [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-midashenglm-gen/) — · gradio, mcp-server, region:us
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-firered-tts3/) — · gradio, mcp-server, region:us
+- [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
+- [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-midashenglm-gen/) — · gradio, mcp-server, region:us
+- [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [jimmycarter/krea2-turbo-bbox-canvas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jimmycarter-krea2-turbo-bbox-canvas/) — · gradio, mcp-server, region:us
+- [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-breezeblue-breeze-tts-2-demo/) — · gradio, mcp-server, region:us
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cisco-ai-stupase-speech-enhancement/) — · gradio, mcp-server, region:us
 - [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — · gradio, mcp-server, region:us
@@ -32,14 +33,14 @@
 - [kulkas2pintu/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan555/) — · gradio, mcp-server, region:us
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [hugging-apps/bs-roformer-leap-audio-separator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bs-roformer-leap-audio-separator/) — · gradio, mcp-server, region:us
-- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
+- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an …
 - [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qsardor-claude-sonnet-opus/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
-- [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dacnay816y62-hub-photo-revival/) — Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
+- [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dacnay816y62-hub-photo-revival/) — Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.
 - [zenstory-ai/drama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zenstory-ai-drama-skills/) — AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Cl…
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-not-lain-background-removal/) — · gradio, mcp-server, region:us

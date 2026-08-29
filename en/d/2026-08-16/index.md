@@ -128,12 +128,10 @@ _Daily archive · 2026-08-16_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-minimax-h3-realism-people-lora/) — image-text-to-video · minimax-h3, lora, safetensors
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
@@ -581,7 +579,6 @@ _Daily archive · 2026-08-16_
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axisegretdefeat-kling-ai-master/) — Kling AI Master
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-ribbi-velocut/) — AI-native, local-first video editor by Ribbi — runs entirely in the browser. Rust/WASM engine, WebGPU composi…
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
@@ -1181,7 +1178,7 @@ _Daily archive · 2026-08-16_
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/santanderai-linear-adapter-trainer/) — Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries (RAG).
 - [LingyiChen-AI/AIComicBuilder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lingyichen-ai-aicomicbuilder/) — AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character d…
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-learn-harness-engineering/) — Harness engineering beginner tutorial, from 0 to 1
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/valuecell-ai-clawx/) — ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orch…
 - [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/soniqo-speech-studio/) — Open-source desktop voice-cloning studio for creators — clone a voice, script lines with emotion markers, syn…

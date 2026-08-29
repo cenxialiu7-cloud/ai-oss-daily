@@ -95,7 +95,6 @@ _Daily archive · 2026-07-28_
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -113,7 +112,6 @@ _Daily archive · 2026-07-28_
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fdtn-ai-antares-1b/) — text-generation · transformers, safetensors, granitemoehybrid
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
@@ -347,7 +345,6 @@ _Daily archive · 2026-07-28_
 - [utkucoban/NanoMaestro-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-utkucoban-nanomaestro-realtime/) — · static, region:us
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — · gradio, region:us
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openvivo-vins-120k/) — · task_categories:image-text-to-image, language:en, license:apache-2.0
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
 - [gemma-challenge/gemma-interactions-view](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gemma-challenge-gemma-interactions-view/) — · static, region:us
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
@@ -1061,7 +1058,7 @@ _Daily archive · 2026-07-28_
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lhh737-knowledgebase-rag-llm-system/) — 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-crypto-arbitrage/) — Crypto arbitrage trading bot that detects triangular and cross-exchange opportunities, executes trades automa…
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joshua-zyy-academic-paper-writer/) — 面向 CS / AI / ML 领域的证据驱动、分节推进的论文写作 Agent Skill。
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [mirkobozzetto/flowflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkobozzetto-flowflow/) — Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coord…

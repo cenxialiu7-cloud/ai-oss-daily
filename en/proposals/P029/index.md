@@ -14,4 +14,3 @@
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/holaboss-ai-holaos/) — Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ inte…
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited-ocr
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa

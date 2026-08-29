@@ -62,7 +62,6 @@ _每日存檔 · 2026-07-23_
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/) — Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — 一款基於gguf格式的文本生成模型，適用於長上下文推理。
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — 即時語音識別系統，支援多語言。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
@@ -111,7 +110,6 @@ _每日存檔 · 2026-07-23_
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/) — 一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nationaldesignstudio-rampart/) — 使用 BERT 和 ONNX 的機器學習模型，用於分類和保護個人隱私資訊。
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
@@ -300,7 +298,6 @@ _每日存檔 · 2026-07-23_
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ovi054-qwen-image-edit-2511-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alkhudarigroupuae-pumpfun-trainer-v1/) — Solana幣交易的自動化工具，具備狙擊、價格監控等功能。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-society-ethics-annotated-encyclical/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HKUSTAudio/ISCSLP2026-CoT-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hkustaudio-iscslp2026-cot-tts/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

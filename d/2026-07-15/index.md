@@ -38,7 +38,6 @@ _每日存檔 · 2026-07-15_
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-2/) — GLM-5.2 是一個支援多語言的文本生成模型，適用於對話和文章創作。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-magenta-realtime-2/) — 文字轉語音模型，適用於即時應用。
@@ -46,7 +45,6 @@ _每日存檔 · 2026-07-15_
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy3/) — 基於Transformers的文字生成模型，適用於對話式應用。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — 用 Flux2Klein 模型調整影像中的光照方向。
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
@@ -154,7 +152,6 @@ _每日存檔 · 2026-07-15_
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-neuronpedia-jacobian-lens/) — 一個用於分析和視覺化神經網路雅可比矩陣的工具。
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kigner-audio-cpp-webui/) — 純 C++ 音訊模型推理引擎，提供語音識別、文字轉語音等多項功能。
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [sensenova/SenseNova-Vision-Corpus-50M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sensenova-sensenova-vision-corpus-50m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kyutai/rocket-science](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-kyutai-rocket-science/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

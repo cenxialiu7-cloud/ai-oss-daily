@@ -130,12 +130,10 @@ _Daily archive · 2026-08-17_
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-minimax-h3-realism-people-lora/) — image-text-to-video · minimax-h3, lora, safetensors
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — image-text-to-text · gguf, qwen3.8, qwen
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
@@ -579,7 +577,6 @@ _Daily archive · 2026-08-17_
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axisegretdefeat-kling-ai-master/) — Kling AI Master
 - [CaptiveDreamer/CaraArchive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-captivedreamer-caraarchive/) — · size_categories:1M<n<10M, format:text, modality:image
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
@@ -1177,7 +1174,7 @@ _Daily archive · 2026-08-17_
 - [Kaelio/ktx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kaelio-ktx/) — ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agen…
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
 - [aqm857886159/Nomi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aqm857886159-nomi/) — Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor d…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-minhxthanh-vietnam-history-1m-vi/) — · task_categories:question-answering, task_categories:text-generation, language:vi
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
 - [perplexity-ai/draco](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-perplexity-ai-draco/) — · language:en, license:mit, size_categories:n<1K

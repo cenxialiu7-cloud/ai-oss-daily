@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
+<updated>2026-08-29T08:00:00+00:00</updated>
 <entry>
-<title>BreezeBlue/Breeze-TTS-2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>一款基於轉換器的語音合成模型，支援語音克隆和設計。</summary>
+<title>tencent/Hy4-preview</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>Hy4-preview 是一個基於 Transformers 的對話生成模型，支援多語種和混合專家系統。</summary>
 </entry>
 <entry>
-<title>alibaba-pai/MiniMax-H3-Acc-LoRAs</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>將文本轉換為影片的模型，適用於多種影片生成任務。</summary>
+<title>pipecat-ai/phonellm-alpha-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pipecat-ai-phonellm-alpha-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pipecat-ai-phonellm-alpha-1/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>phonellm-alpha-1 是一個基於 Transformers 的語音生成模型，支援語音代理和混合專家系統。</summary>
 </entry>
 <entry>
-<title>leopard627/fire-your-seo-agency</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。</summary>
+<title>peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>virgiliojr94/book-to-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>將技術書籍轉換為可學習、參考和使用的 AI 技能。</summary>
 </entry>
 <entry>
-<title>cathrynlavery/diagram-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
+<title>K-Dense-AI/scientific-agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</summary>
 </entry>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-28T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-08-29T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

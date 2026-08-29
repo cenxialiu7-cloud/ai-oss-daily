@@ -10,42 +10,42 @@
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
-- [Accstall/accstall-account-line-parser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/accstall-accstall-account-line-parser/) — 瀏覽器內的帳號解析工具，可分割帳號密碼組合，並匯出CSV或JSON。
-- [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
+- [Emmanuelle88/easy-ai-ebook-writer-kdp-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmanuelle88-easy-ai-ebook-writer-kdp-generator/) — 使用AI在30分鐘內完成自出版電子書的工具。
 - [Cordelia886/affiliate-review-system-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-affiliate-review-system-deutschland/) — 德語區高轉換率聯盟行銷系統，適用於ClickBank和Digistore24。
 - [Cordelia886/affiliate-bonus-manager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-affiliate-bonus-manager/) — 自動化聯盟營銷解決方案，減少手動工作和損失佣金。
 - [Guinevereyes/gdpr-compliant-social-media-scheduler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guinevereyes-gdpr-compliant-social-media-scheduler/) — 符合GDPR規定的多平臺社交媒體自動發文工具。
 - [Cordelia886/whatsapp-ai-marketing-automation-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-whatsapp-ai-marketing-automation-de/) — 德語區WhatsApp、Instagram及Facebook的AI行銷自動化指南。
-- [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
-- [Emmanuelle88/easy-ai-ebook-writer-kdp-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmanuelle88-easy-ai-ebook-writer-kdp-generator/) — 使用AI在30分鐘內完成自出版電子書的工具。
 - [Emmanuelle88/digistore24-affiliate-ki-bewertung](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmanuelle88-digistore24-affiliate-ki-bewertung/) — 基於KI的分析工具，幫助聯盟行銷者找到高轉換率產品。
+- [Accstall/accstall-account-line-parser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/accstall-accstall-account-line-parser/) — 瀏覽器內的帳號解析工具，可分割帳號密碼組合，並匯出CSV或JSON。
 - [Seraphinayes/digistore-marketplace-booste](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seraphinayes-digistore-marketplace-booste/) — 在Digistore24上自動化市場推廣和招募聯盟成員的工具。
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — 德語區WordPress連結隱藏與追蹤實用指南。
+- [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [Anastasiamaster/buildpage-usa-review-and-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anastasiamaster-buildpage-usa-review-and-guide/) — BuildPage USA無程式碼落地頁生成器的評測和指南。
 - [Anastasiamaster/contentqueen-app-erfahrung-review-deutsch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anastasiamaster-contentqueen-app-erfahrung-review-deutsch/) — 德語區的內容生成器，幫助行銷者和創作者解決寫作難題。
 - [Archibaldys/ai-copywriting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archibaldys-ai-copywriting-prompts/) — 適用於社交媒體和長篇文章生成的人工智慧文案提示集。
+- [Montgomery66/massive-passive-ai-blueprint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/montgomery66-massive-passive-ai-blueprint/) — AI自動化策略和系統架構清單，適用於建立數位資產和被動收入流。
 - [Alexandriayes/ki-kreativsuite-bundle-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexandriayes-ki-kreativsuite-bundle-guide/) — 德語區的設計工具指南，提供Canva替代方案，讓設計變得輕鬆。
 - [Ferdinandyes/automated-video-marketing-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-automated-video-marketing-tools/) — 自動生成TikTok和推廣影片的AI工具。
-- [Montgomery66/massive-passive-ai-blueprint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/montgomery66-massive-passive-ai-blueprint/) — AI自動化策略和系統架構清單，適用於建立數位資產和被動收入流。
+- [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
 - [Ferdinandyes/performance-marketing-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-performance-marketing-deutschland/) — 德語區的自動化流量漏斗，提高轉換率和ROI。
 - [Sebastianmaxter/dach-affiliate-quiz-funne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sebastianmaxter-dach-affiliate-quiz-funne/) — 德語區的QUIZ行銷指南，將冷門流量轉變為潛在客戶。
 - [Nathanielyseterday/automated-digital-product-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-automated-digital-product-generator/) — 獨立駭客快速建立和釋出數位產品的自動化引擎。
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-traffic-monetization-toolkit/) — 自動化的數位流量轉換工具，提高廣告效果。
 - [Nathanielyseterday/avatar-speak-pro-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-avatar-speak-pro-download/) — 自動生成AI化身影片，提升TikTok和Shopify的轉換率。
-- [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tnandla-portfolio-os/) — 自託管的團隊運營應用，管理網站專案、憑證、內容、人員和資金。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
+- [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tnandla-portfolio-os/) — 自託管的團隊運營應用，管理網站專案、憑證、內容、人員和資金。
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tidedeliverer-make-com-enhancer/) — 為 Make.com 增強自動化功能的工具。
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-online-business-skalierung-tools/) — 自動化匯出與合併PayPal交易記錄，適用於德語區線上商家。
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
 - [iannuttall/seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iannuttall-seo/) — 提供70多種SEO審核工具，透過本地CLI和MCP伺服器使用自定義爬蟲、Search Console和GA4資料。
-- [EthanYoQ/agent-xiaohongshu-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanyoq-agent-xiaohongshu-workbench/) — 小紅書內容工作臺，整合帳號定位、選題和內容創作流程。
 - [digistoremaster/clickdesigns-review-and-templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-clickdesigns-review-and-templates/) — 生成高轉換率3D模型的綜合指南和工具集，專為ClickBank/Digistore24橋頁最佳化。
+- [EthanYoQ/agent-xiaohongshu-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanyoq-agent-xiaohongshu-workbench/) — 小紅書內容工作臺，整合帳號定位、選題和內容創作流程。
+- [yan-labs/yan-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yan-labs-yan-skills/) — Claude Code 的 SEO 工作流程和 AI 新聞工具。
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [flaqai/Awesome_SEO_Writing_Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-awesome-seo-writing-skill/) — Awesome_SEO_Writing_Skill 分享由 Flaq AI 團隊開發的 SEO 寫作技巧。
-- [yan-labs/yan-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yan-labs-yan-skills/) — Claude Code 的 SEO 工作流程和 AI 新聞工具。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
-- [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/growthack88-growth-marketing-os/) — 開源AI營銷平臺，提供促銷策略、技能和代理程式。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
+- [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/growthack88-growth-marketing-os/) — 開源AI營銷平臺，提供促銷策略、技能和代理程式。
 - [hogan-tech/brand-loom](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hogan-tech-brand-loom/) — 開源行銷技能平臺，支援任何模型執行，無需程式設計。
 - [livecontext-ai/livecontext-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livecontext-ai-livecontext-ce/) — 自建AI自動化平臺，可描述任務並生成工作流程。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。

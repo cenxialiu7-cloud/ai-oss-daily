@@ -131,13 +131,11 @@ _Daily archive · 2026-08-20_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
-- [zai-org/GLM-5.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-2/) — text-generation · transformers, safetensors, glm_moe_dsa
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Akahsizrr/fuse-1-Lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akahsizrr-fuse-1-lite/) — text-generation · transformers, safetensors, fuse3
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [LiquidAI/LFM2.5-2.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-2-6b/) — text-generation · transformers, safetensors, lfm2
-- [tencent/Hy3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy3/) — text-generation · transformers, safetensors, hy_v3
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-tae/) — · license:apache-2.0, region:us
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
@@ -652,7 +650,6 @@ _Daily archive · 2026-08-20_
 - [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [swy2018/Aurora-Audio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/swy2018-aurora-audio-studio/) — Aurora Audio Studio 1.3.0：本地优先的 Windows AI 音频工作台，提供音乐生成、配音与声音克隆、歌声转换、AI 分轨、MIDI 扒谱和视频字幕。
 - [TuolaGe/vertical-talking-head-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tuolage-vertical-talking-head-video/) — A portable workflow for polished 9:16 digital-human talking-head videos.
-- [kigner/audio.cpp-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kigner-audio-cpp-webui/) — audio.cpp with a full-task WebUI - pure C++ audio-model inference engine powered by ggml. TTS, ASR/STT, VAD, …
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-firered-image-edit-stripped/) — · gradio, image-generation, image-to-image
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [PhaseConquer/stable-diffusion-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phaseconquer-stable-diffusion-flow/) — Stable Diffusion Flow
@@ -1226,7 +1223,7 @@ _Daily archive · 2026-08-20_
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5…
 - [7WaySecurity/ai_osint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/7waysecurity-ai-osint/) — 🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed…
-- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions, captur…
+- [rebelytics/one-skill-to-rule-them-all](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rebelytics-one-skill-to-rule-them-all/) — The meta-skill that builds and improves all your skills, including itself. Watches your work sessions (autono…
 - [Devin-AXIS/iPolloWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devin-axis-ipollowork/) — Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent worksp…
 - [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alpic-ai-skybridge/) — Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platf…
 - [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/forloopcodes-contextplus/) — Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who dema…
