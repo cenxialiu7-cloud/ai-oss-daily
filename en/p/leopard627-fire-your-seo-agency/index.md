@@ -4,5 +4,5 @@ Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：327
+**Stars**：343
 **Source**：https://github.com/leopard627/fire-your-seo-agency

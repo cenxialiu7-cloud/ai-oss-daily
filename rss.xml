@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>29 Aug 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>30 Aug 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>tencent/Hy4-preview</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-preview/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>Hy4-preview 是一個基於 Transformers 的對話生成模型，支援多語種和混合專家系統。</description>
+<title>FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>快速生成文字轉影片的AI模型。</description>
 </item>
 <item>
-<title>pipecat-ai/phonellm-alpha-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pipecat-ai-phonellm-alpha-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pipecat-ai-phonellm-alpha-1/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>phonellm-alpha-1 是一個基於 Transformers 的語音生成模型，支援語音代理和混合專家系統。</description>
+<title>orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>未審核的Qwen3.8圖文轉文字模型。</description>
 </item>
 <item>
-<title>peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。</description>
+<title>logic65/Qwen3.8-Whittle-MoE-27B-A17.8B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-logic65-qwen3-8-whittle-moe-27b-a17-8b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-logic65-qwen3-8-whittle-moe-27b-a17-8b/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>Qwen3.8混合專家模型，適用於研究。</description>
 </item>
 <item>
-<title>virgiliojr94/book-to-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>將技術書籍轉換為可學習、參考和使用的 AI 技能。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>K-Dense-AI/scientific-agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>29 Aug 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>Lightricks/LTX-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
+<pubDate>30 Aug 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的擴散模型。</description>
 </item>
 </channel>
 </rss>

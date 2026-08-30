@@ -2,9 +2,9 @@
 
 在NVIDIA DGX Spark上執行DeepSeek和Qwen，支援即時模型庫。
 
-**為何上榜**：近期新建立，已獲 42★
+**為何上榜**：近一日新增 29★（現 71★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：42
+**Stars**：71
 **原始連結**：https://github.com/zorost/sparkduet
