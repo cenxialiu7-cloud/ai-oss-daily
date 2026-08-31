@@ -4,5 +4,5 @@ Real Magic Robot 3.0 (PREMIUM) — Vollautomatisches MetaTrader 4/5 Trading-Syst
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：67
+**Stars**：71
 **Source**：https://github.com/digistoremaster/real-magic-robot-trading-system
