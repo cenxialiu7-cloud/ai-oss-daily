@@ -4,5 +4,5 @@ A magical tool that changes how you use Agents. Install once — every Agent aut
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：189
+**Stars**：192
 **Source**：https://github.com/activeing123/mcptoon

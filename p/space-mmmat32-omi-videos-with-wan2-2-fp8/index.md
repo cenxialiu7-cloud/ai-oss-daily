@@ -1,8 +1,8 @@
 # mmmat32/Omi-videos-with_wan2.2-fp8
 
-Hugging Face 示範應用(Space)，關鍵字：文生影片、擴散模型（依標籤自動歸類，詳細看下方原文）
+Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 19 · 41 likes
+**為何上榜**：HF trending 17 · 41 likes
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 

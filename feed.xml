@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
+<updated>2026-09-01T08:00:00+00:00</updated>
 <entry>
-<title>XiaoDuoYa/codex-with-chatgpt</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>使用 ChatGPT 當作規劃大腦，同時利用 Codex 進行具體操作。</summary>
+<title>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>影像文字轉文字模型，支援深度學習框架。</summary>
 </entry>
 <entry>
-<title>DavidAU/Qwen3.8-27B-Cold-Fable-Fusion-GAIN-V1.1-732-Heretic-Uncensored-stage1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-cold-fable-fusion-gain-v1-1-732-heretic-uncensored-stage1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-cold-fable-fusion-gain-v1-1-732-heretic-uncensored-stage1/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文字的模型，支援冷融合。</summary>
+<title>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>文本生成模型，採用混合精度量化技術。</summary>
 </entry>
 <entry>
-<title>makralabs/makra</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makralabs-makra/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makralabs-makra/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>Makra 是一個介於網路和 AI 代理之間的記憶層，提供即時結構化資料。</summary>
+<title>incoai/GLM-5.3-Flash-DFlash2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>文本生成模型，採用快速解碼技術。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>K-Dense-AI/scientific-agent-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</summary>
 </entry>
 <entry>
-<title>cathrynlavery/diagram-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
+<title>virgiliojr94/book-to-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>將技術書籍轉換為可學習、參考和使用的 AI 技能。</summary>
 </entry>
 <entry>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</id>
-<updated>2026-08-31T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</summary>
+<title>Qwen/Qwen3.8-Flash-Next</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</id>
+<updated>2026-09-01T08:00:00+00:00</updated>
+<summary>基於轉換器的影像文字轉文字模型，支援對話。</summary>
 </entry>
 </feed>

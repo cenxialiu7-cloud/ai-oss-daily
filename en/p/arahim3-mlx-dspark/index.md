@@ -4,5 +4,5 @@ Up to 4× faster LLM decoding on Apple Silicon, lossless. Native MLX port of Dee
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：624
+**Stars**：628
 **Source**：https://github.com/ARahim3/mlx-dspark

@@ -4,5 +4,5 @@ Chrome DevTools for coding agents
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：50,217
+**Stars**：50,292
 **Source**：https://github.com/ChromeDevTools/chrome-devtools-mcp
