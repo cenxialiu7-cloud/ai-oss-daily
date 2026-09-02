@@ -4,5 +4,5 @@ Open-source SEO + GEO skills for Claude — keyword research, rank tracking, sit
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：190
+**Stars**：255
 **Source**：https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills

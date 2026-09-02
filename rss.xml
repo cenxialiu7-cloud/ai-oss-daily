@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>01 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>02 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>影像文字轉文字模型，支援深度學習框架。</description>
+<title>google/timesfm-3.0-pytorch</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>Google 的 timesfm 模型，用於時間序列預測。</description>
 </item>
 <item>
-<title>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>文本生成模型，採用混合精度量化技術。</description>
+<title>productdevbook/cizgile</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>一個無依賴的 URL 標籤引擎，支援多種編碼和轉換。</description>
 </item>
 <item>
-<title>incoai/GLM-5.3-Flash-DFlash2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>文本生成模型，採用快速解碼技術。</description>
+<title>ZJU-REAL/Easel</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</description>
 </item>
 <item>
-<title>K-Dense-AI/scientific-agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>virgiliojr94/book-to-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>將技術書籍轉換為可學習、參考和使用的 AI 技能。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>Qwen/Qwen3.8-Flash-Next</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</guid>
-<pubDate>01 Sep 2026 08:00:00 +0000</pubDate>
-<description>基於轉換器的影像文字轉文字模型，支援對話。</description>
+<title>microsoft/Mage-Flow</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
+<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
+<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
 </item>
 </channel>
 </rss>

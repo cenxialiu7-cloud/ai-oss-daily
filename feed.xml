@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
+<updated>2026-09-02T08:00:00+00:00</updated>
 <entry>
-<title>deepseek-ai/DeepSeek-V4-Flash-Vision-Exp</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>影像文字轉文字模型，支援深度學習框架。</summary>
+<title>google/timesfm-3.0-pytorch</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>Google 的 timesfm 模型，用於時間序列預測。</summary>
 </entry>
 <entry>
-<title>ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>文本生成模型，採用混合精度量化技術。</summary>
+<title>productdevbook/cizgile</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>一個無依賴的 URL 標籤引擎，支援多種編碼和轉換。</summary>
 </entry>
 <entry>
-<title>incoai/GLM-5.3-Flash-DFlash2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>文本生成模型，採用快速解碼技術。</summary>
+<title>ZJU-REAL/Easel</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</summary>
 </entry>
 <entry>
-<title>K-Dense-AI/scientific-agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>virgiliojr94/book-to-skill</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>將技術書籍轉換為可學習、參考和使用的 AI 技能。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>Qwen/Qwen3.8-Flash-Next</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/</id>
-<updated>2026-09-01T08:00:00+00:00</updated>
-<summary>基於轉換器的影像文字轉文字模型，支援對話。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-09-02T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

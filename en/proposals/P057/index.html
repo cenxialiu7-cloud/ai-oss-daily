@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集 — AI OSS Daily</title>
+<meta name="description" content="巴西社群把七十個國家級公開 API 包成一台 MCP 伺服器、拿下一千六百顆星，證明「單一國家的公開資料 MCP」是被驗證過的需求；本案把同一套做法搬到台灣，讓開發者與企業的 AI agent 一行設定就能查政府開放資料、公司登記、標案、法規、氣象與地政，不必各自去接十幾個機關格式不一的舊式 API。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P057/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P057/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P057/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P057/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P057/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集 — AI OSS Daily">
+<meta property="og:description" content="巴西社群把七十個國家級公開 API 包成一台 MCP 伺服器、拿下一千六百顆星，證明「單一國家的公開資料 MCP」是被驗證過的需求；本案把同一套做法搬到台灣，讓開發者與企業的 AI agent 一行設定就能查政府開放資料、公司登記、標案、法規、氣象與地政，不必各自去接十幾個機關格式不一的舊式 API。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P057/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集 — AI OSS Daily">
+<meta name="twitter:description" content="巴西社群把七十個國家級公開 API 包成一台 MCP 伺服器、拿下一千六百顆星，證明「單一國家的公開資料 MCP」是被驗證過的需求；本案把同一套做法搬到台灣，讓開發者與企業的 AI agent 一行設定就能查政府開放資料、公司登記、標案、法規、氣象與地政，不必各自去接十幾個機關格式不一的舊式 API。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集", "description": "巴西社群把七十個國家級公開 API 包成一台 MCP 伺服器、拿下一千六百顆星，證明「單一國家的公開資料 MCP」是被驗證過的需求；本案把同一套做法搬到台灣，讓開發者與企業的 AI agent 一行設定就能查政府開放資料、公司登記、標案、法規、氣象與地政，不必各自去接十幾個機關格式不一的舊式 API。", "datePublished": "2026-09-01T08:00:00+00:00", "dateModified": "2026-09-01T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-09-01/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P057/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P057</p>
+  <h1>台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集</h1>
+  <p class="detail-lead">巴西社群把七十個國家級公開 API 包成一台 MCP 伺服器、拿下一千六百顆星，證明「單一國家的公開資料 MCP」是被驗證過的需求；本案把同一套做法搬到台灣，讓開發者與企業的 AI agent 一行設定就能查政府開放資料、公司登記、標案、法規、氣象與地政，不必各自去接十幾個機關格式不一的舊式 API。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: medium</span>
+    <span class="badge">估 4–6 週做出能跑版本：照著 mcp-brasil 的架構立起伺服器骨架與工具命名規範約 0.5 週，第一批三到四個資料域（公司登記、標案、法規、氣象）的擷取與正規化管線約 2 週（這段最耗時且無法加速，每個機關的欄位與分頁都要個別處理），本地快照與快取熔斷層約 0.5 週，工具分層揭露與發現機制約 0.5 週，繁中查詢改寫與代碼字典約 1 週，計費配額與稽核日誌約 0.5 週。難點有四：一是資料源不穩定——機關 API 沒有服務水準保證、端點與欄位會在沒有公告的情況下更動，必須把『每日對照上游結構、變更即告警』做成產品的常設機制，這也正是續約訂閱的價值所在；二是授權條款必須逐一確認——政府資料開放授權條款一般允許商業利用但要求標示來源，然而部分機關與加值服務另有規定，商業轉售前必須逐個資料源檢視條款並保留出處標示，這是本案唯一的法律風險點，實際商業化前建議取得正式法律意見，本文件不構成法律建議；三是資料正確性責任邊界——公開資料本身可能過時或有誤，產品必須在回覆中明確標示擷取時間與來源機關，並在條款中界定不對資料內容本身背書；四是工具數量與模型選對率的拉扯——工具愈多覆蓋率愈好但模型選錯的機率也愈高，分層揭露的設計必須從第一天就做進去，事後再補會動到整個工具介面。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①託管版 SaaS 月費為主力：依『每月呼叫次數 × 可用資料域數量 × 併發上限』分三級，免費層開放少量常用查詢做導流與口碑，專業層解鎖全部資料域與較高配額，企業層加上專屬配額保證、查詢稽核日誌與資料快照留存——對受監理的產業來說，「這筆答案是幾點幾分從哪個機關版本取得的」本身就是付費理由。②企業自架買斷授權：金融、保險、地政代書、會計事務所這類資料不外流的客戶，賣可自架的買斷版加年度更新訂閱，更新訂閱的實質內容是替客戶追各機關 API 的欄位異動與端點搬遷，這是最穩定的續約理由；自架必然要主機，安裝文件內導購 VPS 與雲端主機方案走主機商聯盟連結。③垂直資料包加購：把標案與採購、公司登記與董監事、不動產實價與地籍、法規與判解、氣象與災防各自做成獨立加購包，主產品收基礎月費、資料包按包計價，讓業務有向上銷售的空間。④開發者內容站廣告與贊助：『台灣政府 API 怎麼接』『各機關資料授權條款怎麼看』這類教學長尾內容自成一個開發者內容站，網頁端掛 Adsterra／Monetag 賺廣告費並替主產品導流，開源社群版的說明頁放 Ko-fi 收贊助。全案不涉及任何 VPN 類聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>系統分成六層，核心洞察是：政府與公用 API 的難處從來不在技術，而在『每個機關的欄位命名、代碼表、分頁方式、錯誤格式全都不一樣，而且沒有人幫你維護』，所以真正的產品價值是那層正規化與長期維護，不是包一層 HTTP。藍圖層：github:Mcp-Brasil/mcp-brasil 是本案最重要的參考實作，它已經替七十個巴西公開 API 解決過同一批問題——工具要怎麼命名才讓模型選得對、參數要不要先做正規化、查無資料與服務掛掉要回什麼、快取放在哪一層、以及七十個工具塞進同一台伺服器時要怎麼分組，本案直接沿用它驗證過的組織方式與錯誤處理慣例，把資料源整批換成台灣機關，省下的是至少數週的架構試錯。協定層：github:modelcontextprotocol/python-sdk 實作伺服器本體，github:modelcontextprotocol/servers 官方參考庫則提供資源與提示的標準寫法，特別是把『資料字典』做成 MCP resource 而非工具，讓 agent 能先讀懂欄位語意再決定要呼叫哪個查詢，這個細節對政府資料尤其關鍵，因為機關欄位常是無文件的代碼。資料層：把來源分成四類分批接入——第一類是政府資料開放平台上的結構化資料集，量最大但格式最雜，需要一支排程器定期抓取、轉成統一結構後落地成本地快照；第二類是有正式 API 與金鑰的服務，例如氣象、地政與部分財政資料，需處理金鑰輪替與流量限制；第三類是只有網頁或 CSV 下載的資料，例如部分標案與公告，需做定期抓取與版本比對；第四類是需申請帳號的加值服務，走企業層再開放。每一筆資料都必須記錄來源機關、擷取時間、原始網址與授權條款，回覆給 agent 時一律附上來源欄位，這既是產品的可信度來源，也是政府資料開放授權條款要求標示出處的合規要求。發現層：github:activeing123/mcptoon 是工具發現 CLI，本案用來解決『工具數量爆炸』這個一定會遇到的問題——當伺服器有上百個查詢工具，把工具清單全塞進 agent 的上下文會同時吃掉成本與準確率，正確做法是分層揭露：預設只曝露少數幾個高階入口工具（例如『查公司』『查標案』『查法規』），由發現機制在執行期依查詢意圖動態載入該領域的細部工具，讓上下文維持精簡。語意層：hf:model:zai-org/GLM-5.3-Flash 負責兩件事，一是把使用者的口語查詢改寫成正確的欄位條件（『去年北市有做過資訊系統標案的公司』要能轉成機關代碼、年度區間與標的分類的組合條件），二是把機關回傳的代碼與縮寫翻成看得懂的繁中說明；選這個模型的理由是中英雙語穩且是輕量快速版本，這層每次查詢都會經過、必須便宜。快取與配額層：政府 API 普遍沒有服務水準保證、離峰時段也可能整段無回應，所以所有查詢一律先讀本地快照、快照過期才回源，並替每個資料源設定退避重試與熔斷，讓上游掛掉時產品仍能回覆『這是三小時前的版本』而不是直接失敗——對 agent 來說，一個帶時間戳的舊答案遠優於一個錯誤。與現有企劃的區隔：P041 自架連接器閘道處理的是 SaaS 商業服務的 OAuth 授權與金鑰保管，賣的是省連接器月費；P052 企業 MCP 治理閘道賣的是內部註冊表與供應鏈安全評分；P046 賣的是安裝前的信任掃描；P039 與 P035 消費的是新聞與 OSINT 公開情報。本案賣的既不是授權管理也不是治理與情報，而是『在地公開資料的覆蓋率與欄位語意維護』，是一份需要長期人工照顧的資料資產，與上述四案在元件與價值主張上皆不重疊，且可作為 P035 企業盡職調查的上游資料源互補。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/mcp-brasil-mcp-brasil/">Mcp-Brasil/mcp-brasil</a></h3>
+<p class="summary">MCP Server para 70 APIs públicas brasileiras</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 1,643</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 24,179</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-servers/">modelcontextprotocol/servers</a></h3>
+<p class="summary">Model Context Protocol Servers</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge change">✦ Curated</span>    <span class="badge lic-unknown">License unclear</span>
+<span class="badge stars">★ 90,007</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/activeing123-mcptoon/">activeing123/mcptoon</a></h3>
+<p class="summary">A magical tool that changes how you use Agents. Install once — every Agent automatically discovers and uses all your MCP tools, and saves your tokens along the way.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 192</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/model-zai-org-glm-5-3-flash/">zai-org/GLM-5.3-Flash</a></h3>
+<p class="summary">image-text-to-text · transformers, safetensors, glm5_next</p>  <div class="cardmeta">
+    <span class="badge domain">🧱 AI Foundation Stack</span>
+    <span class="badge lic-unknown">License unclear</span>
+  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>
