@@ -4,5 +4,5 @@ Open-source multi-agent AI desktop client — build and command your AI agent te
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,616
+**Stars**：1,650
 **Source**：https://github.com/Orkas-AI/Orkas

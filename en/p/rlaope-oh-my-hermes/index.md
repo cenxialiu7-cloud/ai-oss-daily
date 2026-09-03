@@ -1,0 +1,8 @@
+# rlaope/oh-my-hermes
+
+The coding harness, a long-term memory system, optimzied subagents and auto model-routing packages for Hermes Agent ⚚
+
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：1,327
+**Source**：https://github.com/rlaope/oh-my-hermes

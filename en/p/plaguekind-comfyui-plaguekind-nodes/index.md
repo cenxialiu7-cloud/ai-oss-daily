@@ -4,5 +4,5 @@ ComfyUI custom nodes providing unified image and mask resizing with support for 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：151
+**Stars**：152
 **Source**：https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes

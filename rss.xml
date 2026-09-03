@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>02 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>03 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>google/timesfm-3.0-pytorch</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>Google 的 timesfm 模型，用於時間序列預測。</description>
+<title>XHToken/Spark-X2.5-4B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xhtoken-spark-x2-5-4b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xhtoken-spark-x2-5-4b/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>Spark-X2.5-4B 是一個基於轉換器模型的對話生成工具。</description>
 </item>
 <item>
-<title>productdevbook/cizgile</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>一個無依賴的 URL 標籤引擎，支援多種編碼和轉換。</description>
+<title>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>Qwen3.8-27B-TURBO 是一個影像文字轉文字的模型。</description>
 </item>
 <item>
-<title>ZJU-REAL/Easel</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</description>
+<title>AgriciDaniel/keywordpro</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>blader/humanizer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>去除文本中的 AI 記號，使其更自然。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>02 Sep 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>lightx2v/Minimax-h3-Turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
+<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
 </item>
 </channel>
 </rss>
