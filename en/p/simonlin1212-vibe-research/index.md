@@ -4,5 +4,5 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,310
+**Stars**：2,335
 **Source**：https://github.com/simonlin1212/Vibe-Research

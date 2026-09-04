@@ -4,25 +4,25 @@
 - [hugging-apps/sensenova-sensenova-u1-5-8b-mot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/) — · gradio, mcp-server, region:us
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-breezeblue-breeze-tts-2-demo/) — · gradio, mcp-server, region:us
+- [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
-- [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-lingbot-video/) — · gradio, mcp-server, region:us
 - [hugging-apps/4danyone-multiview-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-4danyone-multiview-demo/) — · gradio, mcp-server, region:us
 - [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
 - [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-midashenglm-gen/) — · gradio, mcp-server, region:us
+- [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — · gradio, mcp-server, region:us
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [jimmycarter/krea2-turbo-bbox-canvas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jimmycarter-krea2-turbo-bbox-canvas/) — · gradio, mcp-server, region:us
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cisco-ai-stupase-speech-enhancement/) — · gradio, mcp-server, region:us
-- [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — · gradio, mcp-server, region:us
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-yijunwang2-krea2-outpaint/) — · gradio, mcp-server, region:us
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-ardy/) — · gradio, mcp-server, region:us
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-prompt-routing/) — · docker, region:us
+- [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-fireredaudio-tts-demo/) — · gradio, mcp-server, region:us
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krafton-ax-k2-raon-speech-demo/) — · gradio, mcp-server, region:us
 - [GenAI4ELab/papercli-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-genai4elab-papercli-papers/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
-- [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-fireredaudio-tts-demo/) — · gradio, mcp-server, region:us
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-unise-speech-enhancement/) — · gradio, mcp-server, region:us
@@ -59,12 +59,12 @@
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-clickygpt-nsfw-z-image-turbo/) — · gradio, region:us
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/texasbedouin-vibe-check/) — By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then …
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natebjones-projects-ob1/) — Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
+- [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/texasbedouin-vibe-check/) — By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then …
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dwgx-windsurfapi/) — Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, …
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt

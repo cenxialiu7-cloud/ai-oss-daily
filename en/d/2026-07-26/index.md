@@ -501,7 +501,7 @@ _Daily archive · 2026-07-26_
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-uncensored-local-studio/) — Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Tex…
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [estebanstifli/LocalText2Voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/estebanstifli-localtext2voice/) — A complete local production workflow for clean narration, structured learning content, and podcast-ready audio
 - [XiaomiMiMo/MiMo-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xiaomimimo-mimo-code/) — MiMo Code: Where Models and Agents Co-Evolve
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
@@ -744,7 +744,7 @@ _Daily archive · 2026-07-26_
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simchowitzlabpublic-nano-world-model/) — A Minimalist, Batteries-included Repository for Advancing World Model Science.
 - [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuinfla-repo-explainer/) — Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ to…
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remo…
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…

@@ -653,7 +653,7 @@ _Daily archive · 2026-08-13_
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [linoyts/smart-character-swap-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-smart-character-swap-flux2-klein/) — · gradio, region:us
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tatsu-lab-alpaca/) — · task_categories:text-generation, language:en, license:cc-by-nc-4.0
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-bleckhert-uncensored-image-to-video-alchemist/) — · static, deepsite-v3, region:us
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
@@ -873,7 +873,7 @@ _Daily archive · 2026-08-13_
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pacifio-atlas/) — Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - [Saganaki22/Moss_TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-moss-tts-comfyui/) — ComfyUI nodes for MOSS-TTS-Local-Transformer-v1.5 , a 48 kHz stereo local Transformer TTS model with direct g…
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ to…
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remo…
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-khazix-skills/) — 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Cl…
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexlex47-game-art-prompt-kit/) — Reusable prompt profiles for game art, pixel spritesheets, character concepts, and 2D environments.
 - [Aliu-AiRobot/ESEILANE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliu-airobot-eseilane/) — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelli…

@@ -9,7 +9,7 @@ _Daily archive · 2026-07-21_
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsline-openchatcut/) — Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skill…
 - [FINAL-Bench/Aether-Sovereign-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-aether-sovereign-ai/) — · docker, sovereign-ai, open-source-llm
 - [FINAL-Bench/Aether-7B-5Attn-checkpoints](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-aether-7b-5attn-checkpoints/) — · language:en, language:ko, license:apache-2.0
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saivineeth147-lora-speedrun/) — Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt fo…
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayghri-i-have-adhd/) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [zeraix/zeraix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeraix-zeraix/) — Open-source local AI workspace — advancing on-device inference.
@@ -324,7 +324,7 @@ _Daily archive · 2026-07-21_
 - [utkucoban/NanoMaestro-Realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-utkucoban-nanomaestro-realtime/) — · static, region:us
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — · gradio, region:us
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openvivo-vins-120k/) — · task_categories:image-text-to-image, language:en, license:apache-2.0
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [gemma-challenge/gemma-interactions-view](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gemma-challenge-gemma-interactions-view/) — · static, region:us
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-davydenkogr-after/) — · language:en, license:apache-2.0, arxiv:2606.23127
@@ -704,7 +704,7 @@ _Daily archive · 2026-07-21_
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thclaws-thclaws/) — Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider,…
 - [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Locally fine-tuned Russian RAG models: document splitter, query expansion, retrieval embedder. Teacher distil…
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-yao-open-prompts/) — Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyda…
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ to…
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remo…
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/) — 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…

@@ -4,5 +4,5 @@ Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of th
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：246
+**Stars**：279
 **Source**：https://github.com/carloslfu/slotstream

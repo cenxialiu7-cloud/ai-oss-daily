@@ -2,7 +2,7 @@
 
 Hy4-preview 是一個基於 Transformers 的對話生成模型，支援多語種和混合專家系統。
 
-**為何上榜**：HF trending 391 · 399 likes · 3,516 下載
+**為何上榜**：HF trending 403 · 412 likes · 4,449 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

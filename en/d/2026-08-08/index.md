@@ -613,7 +613,7 @@ _Daily archive · 2026-08-08_
 - [mobilesitebytim/Forex-Trend-Dashboard-Engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mobilesitebytim-forex-trend-dashboard-engine/) — 2026 MT5 Gateway: Institutional Trend Classifier & Multi-Asset Regime Dashboard
 - [Syed-Imran88/MT5-Exposure-Mesh-Analyzer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syed-imran88-mt5-exposure-mesh-analyzer/) — Best Multi-Asset Correlation Heatmap & Risk Matrix for MetaTrader 2026
 - [Nguyen-Phu-Cuong/Matrix-Confluence-Scorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nguyen-phu-cuong-matrix-confluence-scorer/) — 2026 Pro-Level Multi-Timeframe Confluence Matrix for MT5: Liquidity Sweeps & Institutional Signals
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [Wendy-Bay/PropFirm-Tracker-Elite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wendy-bay-propfirm-tracker-elite/) — Best Proprietary MT4/MT5 Prop Fund Manager 2026 for Multi-Phase Challenge Tracking
 - [majoudeh/Portfolio-Pulse-Blogger-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/majoudeh-portfolio-pulse-blogger-templates/) — Best Portfolio Blogger Templates 2026 For Professional Websites
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youcefbibo53-propguard-trailing-equity-armor/) — Top Prop Firm Drawdown Protector EA 2026: FTMO & MyForexFunds Risk Manager
@@ -828,7 +828,7 @@ _Daily archive · 2026-08-08_
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-netflix-vera-layered-video-dataset/) — · task_categories:text-to-video, license:apache-2.0, size_categories:10K<n<100K
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ottermind-nubase/) — 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, …
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ to…
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remo…
 - [londonstrategicedge/lse-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/londonstrategicedge-lse-data/) — Live and historical market data for: Stocks, FX, crypto, commodities, indices and ETFs over WebSocket and RES…
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.

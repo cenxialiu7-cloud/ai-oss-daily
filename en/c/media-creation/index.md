@@ -1,12 +1,13 @@
 # 🎬 Media Creation
 
-- [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
+- [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-breezeblue-breeze-tts-2/) — text-to-speech · transformers, safetensors, breeze
-- [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · fastvideo, diffusers, safetensors
+- [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
+- [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openvdn-vdn-minimax-h3/) — text-to-video · diffusers, safetensors, text-to-video
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
@@ -59,4 +60,3 @@
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diversant-5714-davinci-26-pro-port/) — Professional color grading, video editing, and visual effects software featuring advanced HDR tools, real-tim…
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
-- [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shekmohammedakram-stable-diffusion-2026-free-local/) — Stable Diffusion Free Local - run Stable Diffusion locally for free AI image generation.

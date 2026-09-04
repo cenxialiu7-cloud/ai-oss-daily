@@ -1,8 +1,8 @@
 # rlaope/oh-my-hermes
 
-The coding harness, a long-term memory system, optimzied subagents and auto model-routing packages for Hermes Agent ⚚
+Just install once. The engineering intelligence, a long-term memory system, optimized coding packages, only plugin for Hermes Agent ⚚
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,327
+**Stars**：1,358
 **Source**：https://github.com/rlaope/oh-my-hermes

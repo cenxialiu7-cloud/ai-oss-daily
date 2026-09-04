@@ -452,7 +452,7 @@ _Daily archive · 2026-07-22_
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vybenetwork-solana-swap-api/) — Solana Swap API & Router
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
-- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。
+- [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ftshare-lab-ftshare-mcp/) — FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ducklelabs-duckle/) — Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB.…
@@ -710,7 +710,7 @@ _Daily archive · 2026-07-22_
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [kitaki-Ciallo/etf-national-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kitaki-ciallo-etf-national-tracker/) — 📊 追踪国家队（汇金/社保）持仓 ETF 的份额变化与十大持有人动态，基于 Flask + PostgreSQL + ECharts 构建的量化看板
-- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ to…
+- [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP + Meta Ads MCP + GA4 in one server for Claude, ChatGPT, Cursor & n8n — 250+ tools, hosted remo…
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A library of agent skills for CAD, CAE and CAM
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…

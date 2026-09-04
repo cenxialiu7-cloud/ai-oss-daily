@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>03 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>04 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>XHToken/Spark-X2.5-4B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xhtoken-spark-x2-5-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xhtoken-spark-x2-5-4b/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>Spark-X2.5-4B 是一個基於轉換器模型的對話生成工具。</description>
+<title>OpenVDN/vdn-minimax-h3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>文字轉動畫模型，使用MiniMax-H3架構。</description>
 </item>
 <item>
-<title>DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>Qwen3.8-27B-TURBO 是一個影像文字轉文字的模型。</description>
+<title>zhu1090093659/dsh-trading</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-dsh-trading/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-dsh-trading/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>基於DeepSeek Harness的跨市場交易終端，支援加密貨幣等多市場交易。</description>
 </item>
 <item>
-<title>AgriciDaniel/keywordpro</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。</description>
+<title>agentpit-io/hunter-community</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>開源私人金融AI團隊，提供自託管多智慧體系統。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>K-Dense-AI/scientific-agent-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</description>
 </item>
 <item>
-<title>blader/humanizer</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>去除文本中的 AI 記號，使其更自然。</description>
+<title>deeplethe/utopia</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。</description>
 </item>
 <item>
-<title>lightx2v/Minimax-h3-Turbo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/</guid>
-<pubDate>03 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援差分擴散和影像到影片技術。</description>
+<title>Lightricks/LTX-2.5</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
+<pubDate>04 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的擴散模型。</description>
 </item>
 </channel>
 </rss>
