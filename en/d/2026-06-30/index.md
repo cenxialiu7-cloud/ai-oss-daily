@@ -69,7 +69,6 @@ _Daily archive · 2026-06-30_
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-krea-2/) — · comfyui, license:other, region:us
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
@@ -468,7 +467,7 @@ _Daily archive · 2026-06-30_
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kdan-pdf-kdan-pdf-mcp/) — Connect Claude and ChatGPT to KDAN PDF — upload, edit, compress, protect, redact, and compare PDFs in chat.
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jegly-box/) — The most advanced, fully offline client-side AI suite on Android today.
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [retlehs/quien](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/retlehs-quien/) — A better whois and domain intelligence toolkit
@@ -537,7 +536,7 @@ _Daily archive · 2026-06-30_
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [gameworkerkim/vibe-investing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gameworkerkim-vibe-investing/) — AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and …
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us
 - [gaosu0715-lgtm/Evolutionary-Alpha-Miner](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — Family-aware evolutionary alpha mining with LLM-guided symbolic hybridization.
 - [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nidhinjs-prompt-master/) — A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context …

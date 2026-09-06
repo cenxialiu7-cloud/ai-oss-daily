@@ -11,6 +11,6 @@
 ## Open-source parts
 
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvk-llm-wiki/) — LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, so…
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/) — The official Python SDK for Model Context Protocol servers and clients

@@ -92,7 +92,6 @@ _Daily archive · 2026-07-23_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -195,7 +194,7 @@ _Daily archive · 2026-07-23_
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-embedding-350m/) — sentence-similarity · sentence-transformers, safetensors, lfm2
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ginigen-ai-metacognition-leaderboard-space/) — · docker, region:us
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
@@ -626,7 +625,7 @@ _Daily archive · 2026-07-23_
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [jnMetaCode/ai-shortfilm-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-ai-shortfilm-prompts/) — Claude Code Skill that turns any idea into a cinematic, model-ready video prompt — Sora · Kling · Veo · Seeda…
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
@@ -898,7 +897,7 @@ _Daily archive · 2026-07-23_
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sergebulaev-linkedin-skills/) — Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft c…
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-system/) — A complete collection of RAG interview questions, answers (603 questions & 52 RAG types), system design scena…
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ogulcancelik-herdr/) — agent multiplexer that lives in your terminal.
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egalano-build-a-skill/) — Interactive Skill that walks you through Anthropic's "Complete Guide to Building Skills for Claude" — ship a …
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailofbits-skills/) — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows

@@ -78,7 +78,6 @@ _Daily archive · 2026-07-13_
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -145,7 +144,7 @@ _Daily archive · 2026-07-13_
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-colbert-350m/) — sentence-similarity · PyLate, safetensors, lfm2
 - [ByteDance-Seed/EdgeBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bytedance-seed-edgebench/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-aimeebingmouqu-protectbirds/) — · docker, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-registration/) — · gradio, region:us
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — Stable Diffusion WebUI Portable with model pack, ControlNet, LoRA library, and extensions—full local AI art s…
@@ -587,7 +586,7 @@ _Daily archive · 2026-07-13_
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [EvoLinkAI/gpt-image-2-gen-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-gpt-image-2-gen-skill/) — GPT Image 2 AI image generation skill for OpenClaw, Claude Code, OpenCode, and Cursor - one command install
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [mirror29/inalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirror29-inalpha/) — 🦊 Open-source professional quant agent framework. Agents pick the factors working now to time entries, write …
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
@@ -769,7 +768,7 @@ _Daily archive · 2026-07-13_
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [shootthesound/comfyui-ReferenceLatentPlus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-comfyui-referencelatentplus/) — Improved ReferenceLatent for ComfyUI — per-image strength, timestep gating, MediaPipe auto-masks, 1-4 image i…
 - [nvk/llm-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvk-llm-wiki/) — LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, so…
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents
 - [dramaclaw/dramaclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dramaclaw-dramaclaw/) — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, o…

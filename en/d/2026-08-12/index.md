@@ -107,7 +107,6 @@ _Daily archive · 2026-08-12_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -402,7 +401,7 @@ _Daily archive · 2026-08-12_
 - [GD-ML/TransitLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gd-ml-transitlm/) — · task_categories:text-generation, language:zh, license:cc-by-nc-4.0
 - [BoJack/MMAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bojack-mmae/) — · task_categories:audio-to-audio, size_categories:1K<n<10K, format:audiofolder
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-101-slides/) — · static, rl-environment, region:us
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
 - [unstonio/pixelgpt-24x24-20k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-unstonio-pixelgpt-24x24-20k/) — · task_categories:text-to-image, task_categories:image-to-image, language:en
@@ -714,7 +713,7 @@ _Daily archive · 2026-08-12_
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Open Framework for Building Agents
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — · task_categories:translation, language:en, language:kha
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
-- [simonlin1212/a-stock-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-a-stock-data/) — A股全栈数据工具包 · 十一层架构 · 54端点 · 19数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 11 layers, 54 …
+- [simonlin1212/a-stock-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-a-stock-data/) — A股全栈数据工具包 · 十二层架构 · 60端点 · 22数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 12 layers, 60 …
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flowelement-ai-m-flow/) — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 - [wladimiravila/esp32s3-distributed-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wladimiravila-esp32s3-distributed-ai/) — Distributed 56M-parameter LLM inference across 3 ESP32-S3 boards via ESP-NOW , Split-PLE + KV cache, fully of…
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
@@ -773,7 +772,7 @@ _Daily archive · 2026-08-12_
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/calesthio-openmontage/) — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn y…
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — · task_categories:text-to-video, language:en, language:zh
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [XiangchenYin/Holo-World](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xiangchenyin-holo-world/) — Unified Camera, Object and Weather Control for Video World Model
 - [IlyaGusev/habr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilyagusev-habr/) — · task_categories:text-generation, language:ru, language:en
@@ -1047,7 +1046,7 @@ _Daily archive · 2026-08-12_
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simchowitzlabpublic-nano-world-model/) — A Minimalist, Batteries-included Repository for Advancing World Model Science.
 - [yaojingang/GEOFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geoflow/) — Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, …
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/botagi-agmind-ml/) — Locally fine-tuned Russian RAG models: document splitter, query expansion, retrieval embedder. Teacher distil…
 - [gi-dellav/zerostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gi-dellav-zerostack/) — Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-ns-ntk/) — Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary …

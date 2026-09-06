@@ -69,7 +69,6 @@ _Daily archive · 2026-07-01_
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
@@ -494,7 +493,7 @@ _Daily archive · 2026-07-01_
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/santanderai-linear-adapter-trainer/) — Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries (RAG).
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughfenghen-dimcut/) — DimCut is a novel editing interaction design that folds the 1D timeline into multiple rows, integrating text,…
 - [hwdsl2/self-hosted-ai-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hwdsl2-self-hosted-ai-stack/) — Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLiv…
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
@@ -572,7 +571,7 @@ _Daily archive · 2026-07-01_
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
 - [gameworkerkim/vibe-investing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gameworkerkim-vibe-investing/) — AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and …
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/facebookresearch-vlm3/) — Official implementation of paper "VLM³: Vision Language Models Are Native 3D Learners".
 - [SteliyanH/kadr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/steliyanh-kadr/) — Declarative video composition for Apple platforms — compose, transform, and export with a result-builder DSL …

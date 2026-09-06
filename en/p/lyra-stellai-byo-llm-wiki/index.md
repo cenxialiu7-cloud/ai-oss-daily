@@ -4,5 +4,5 @@ Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：276
+**Stars**：278
 **Source**：https://github.com/Lyra-stellAI/BYO-LLM-WIKI

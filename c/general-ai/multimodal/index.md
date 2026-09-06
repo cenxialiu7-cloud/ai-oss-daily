@@ -1,8 +1,8 @@
 # 👁️ 多模態／VLM
 
+- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/) — 基於轉換器的文本生成模型，支援中文和英文。
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
@@ -19,8 +19,8 @@
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dots-studio-dots3-note-prev/) — 將影像和文字轉換為文本的多模態生成模型。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/) — 經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。
-- [multimodalart/h3-acceleration-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-h3-acceleration-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/) — 將影像和文字轉換為純文本的對話式模型。
+- [multimodalart/h3-acceleration-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-h3-acceleration-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-6/) — 面壁 MiniCPM-V 多模態模型（看圖對話）。
 - [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/) — 一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。
 - [sensenova/SenseNova-U1.5-8B-MoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-u1-5-8b-mot/) — SenseNova-U1.5-8B-MoT 是一個多模態模型，支援文本到文本、影像生成和編輯。
@@ -32,8 +32,8 @@
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/) — 將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
 - [KRAFTON/A.X-K2-Raon-Speech-21B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-a-x-k2-raon-speech-21b-a3b/) — 基於transformers框架的多模態語音處理模型。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [PaddlePaddle/HPD-Parsing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-hpd-parsing/) — 圖文轉文字模型，支援特徵抽取。
+- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-claim-ready/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

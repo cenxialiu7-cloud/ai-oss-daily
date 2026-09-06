@@ -92,7 +92,6 @@ _Daily archive · 2026-08-04_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-6-27b-coder-mtp-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -280,7 +279,7 @@ _Daily archive · 2026-08-04_
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-umutkocasari-faceanything/) — · gradio, face, 4d-reconstruction
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
@@ -600,7 +599,7 @@ _Daily archive · 2026-08-04_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-uncensored-local-studio/) — Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Tex…
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
-- [simonlin1212/a-stock-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-a-stock-data/) — A股全栈数据工具包 · 十一层架构 · 54端点 · 19数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 11 layers, 54 …
+- [simonlin1212/a-stock-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-a-stock-data/) — A股全栈数据工具包 · 十二层架构 · 60端点 · 22数据源 · 零鉴权 | Full-stack China A-share data toolkit for AI agents — 12 layers, 60 …
 - [CyberSunil/LLMVault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cybersunil-llmvault/) — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Securit…
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omnigent-ai-omnigent/) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, a…
@@ -692,7 +691,7 @@ _Daily archive · 2026-08-04_
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inkeep-open-knowledge/) — Beautiful, AI-native markdown IDE and LLM wiki
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-m3st3rj4k3l-flux-2-klein-multi-lora/) — · gradio, mcp-server, region:us
-- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For yo…
+- [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Drop your tokens. Ultrawork. Done.
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [XiangchenYin/Holo-World](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xiangchenyin-holo-world/) — Unified Camera, Object and Weather Control for Video World Model
@@ -976,7 +975,7 @@ _Daily archive · 2026-08-04_
 - [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 在 ComfyUI 里获得 WebUI 式提示词体验：中文翻译、Tag 自动补全、LoRA 管理、提示词市场和高级模块接入。
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one lo…
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Intelligence for AI systems.
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evanbacon-serve-sim/) — The `npx serve` of Apple Simulators.
 - [wickra-lib/wickra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wickra-lib-wickra/) — Streaming-first technical indicators with a Rust core: native Python, Node.js and WebAssembly bindings plus a…
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailofbits-skills/) — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows

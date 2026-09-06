@@ -1,10 +1,10 @@
 # 📚 RAG／檢索／向量庫
 
-- [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
+- [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
-- [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
+- [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rl-llm-wiki-knowledge-base/) — Hugging Face 資料集，關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qdrant-fineweb-10b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -28,8 +28,8 @@
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/futureuniant-workshadow/) — 本地優先的桌面工作日誌應用，支援富文本記錄和語義檢索。
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
-- [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
 - [CortexReach/memory-lancedb-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cortexreach-memory-lancedb-pro/) — 增強版 LanceDB 記憶外掛，適用於 OpenClaw 的混合檢索。
+- [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
 - [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/botagi-agmind-ml/) — 本地微調RAG模型，支援俄文上下文分割。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
 - [matthiasnordwig/pdf-struct-chunker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthiasnordwig-pdf-struct-chunker/) — 無需大模型的PDF結構化切片工具，保留檔案結構。
@@ -42,12 +42,12 @@
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
 - [syndicalt/llmff](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syndicalt-llmff/) — llmff 提供可檢視的大型語言模型推理管道，支援離線執行和生成 JSONL 記錄。
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/santanderai-linear-adapter-trainer/) — 使用 triplet loss 訓練線性嵌入介面卡以對齊檢索嵌入。
-- [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tmasjc-deka-oss/) — 將人類直覺與語義空間對齊的工具。
 - [heider-x/vela](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heider-x-vela/) — AI驅動的創意寫作IDE，本地LLM和隱私優先。
-- [aa0101181514/tw-legal-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa0101181514-tw-legal-rag/) — 臺灣判決語意檢索系統，支援自帶LLM。
+- [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tmasjc-deka-oss/) — 將人類直覺與語義空間對齊的工具。
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
-- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
+- [aa0101181514/tw-legal-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa0101181514-tw-legal-rag/) — 臺灣判決語意檢索系統，支援自帶LLM。
 - [likeslines-maker/VectorRAG.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/likeslines-maker-vectorrag-net/) — .NET 向量資料庫，適用於語義搜尋和增強生成。
+- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-gao-leanctx/) — 用 Python SDK 壓縮提示語，減少 LLM 應用的代幣費用。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
 - [CodeAbra/iai-personal-memory-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeabra-iai-personal-memory-engine/) — 為 AI 程式設計助手提供加密記憶服務，支援多種 MCP 客戶端。
@@ -59,9 +59,9 @@
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lyonzin-knowledge-rag/) — 從 Claude Code 搜尋檔案，提供混合搜尋和重排序功能，本地執行無伺服器。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
-- [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infino-ai-infino/) — 基於物件儲存的快速全文檢索引擎，支援向量和SQL查詢。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
 - [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
+- [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infino-ai-infino/) — 基於物件儲存的快速全文檢索引擎，支援向量和SQL查詢。
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skegdb-skeg/) — 多租戶向量資料庫，專注於極低記憶體使用效率。
 - [marswangyang/personal-ai-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marswangyang-personal-ai-memory/) — 個人AI記憶外掛，自動捕捉並整理ChatGPT等對話至私人知識圖譜。
 - [MicroClub-USTHB/mAIcro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microclub-usthb-maicro/) — 為社群和組織設計的開源 AI 基礎設施，理解結構化資料並回答問題。

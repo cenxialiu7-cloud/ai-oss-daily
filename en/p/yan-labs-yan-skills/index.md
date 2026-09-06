@@ -4,5 +4,5 @@ Yan's agent skills collection — Google Trends SEO workflows, AI news, autopilo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：172
+**Stars**：176
 **Source**：https://github.com/yan-labs/yan-skills

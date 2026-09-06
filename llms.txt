@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-09-05 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-09-06 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-09-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-06/)
 - [2026-09-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-05/)
 - [2026-09-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-04/)
 - [2026-09-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-03/)
@@ -26,15 +27,14 @@
 - [2026-08-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-26/)
 - [2026-08-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-25/)
 - [2026-08-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-24/)
-- [2026-08-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-23/)
 
 ## 今日精選 Today's picks
-- [IFM/K2-Horizon-MoVA-36B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/)
-- [Junchao-cs/SolarWM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junchao-cs-solarwm/)
-- [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
-- [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/)
+- [Jackrong/Qwopus3.8-27B-Flash-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-8-27b-flash-gguf/)
+- [MATLOWAI/minimax-h3-fused-turbo-int8-convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-matlowai-minimax-h3-fused-turbo-int8-convrot/)
+- [Razshy/Wiggle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/razshy-wiggle/)
+- [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/)
+- [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/)
+- [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

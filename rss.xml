@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>05 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>06 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>IFM/K2-Horizon-MoVA-36B-A4B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>K2-Horizon-MoVA-36B-A4B 是一個大型文本生成模型。</description>
+<title>Jackrong/Qwopus3.8-27B-Flash-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-8-27b-flash-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jackrong-qwopus3-8-27b-flash-gguf/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文字的模型，支援轉換器、GGUF 和 llama.cpp。</description>
 </item>
 <item>
-<title>Junchao-cs/SolarWM</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junchao-cs-solarwm/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junchao-cs-solarwm/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>SolarWM 是一個用於長期影片世界模型的開放資料和可擴充套件訓練平臺。</description>
+<title>MATLOWAI/minimax-h3-fused-turbo-int8-convrot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-matlowai-minimax-h3-fused-turbo-int8-convrot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-matlowai-minimax-h3-fused-turbo-int8-convrot/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為影片的模型，支援 minimax-h3 和 comfyui。</description>
 </item>
 <item>
-<title>zouhar/last-translation-benchmark</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>Razshy/Wiggle</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/razshy-wiggle/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/razshy-wiggle/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>一個用於執行程式碼的沙盒環境。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>blader/humanizer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>去除文本中的 AI 記號，使其更自然。</description>
 </item>
 <item>
-<title>BreezeBlue/Breeze-TTS-2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</guid>
-<pubDate>05 Sep 2026 08:00:00 +0000</pubDate>
-<description>一款基於轉換器的語音合成模型，支援語音克隆和設計。</description>
+<title>microsoft/Mage-Flow</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
+<pubDate>06 Sep 2026 08:00:00 +0000</pubDate>
+<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
 </item>
 </channel>
 </rss>
