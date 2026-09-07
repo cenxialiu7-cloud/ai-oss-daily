@@ -4,5 +4,5 @@ A股全栈数据工具包 · 十二层架构 · 60端点 · 22数据源 · 零�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,620
+**Stars**：9,652
 **Source**：https://github.com/simonlin1212/a-stock-data

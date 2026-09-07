@@ -1,8 +1,8 @@
-# OStudi/short-video-generator-AI
+# pierrenade/short-video-generator-AI
 
 Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,228
-**Source**：https://github.com/OStudi/short-video-generator-AI
+**Stars**：865
+**Source**：https://github.com/pierrenade/short-video-generator-AI

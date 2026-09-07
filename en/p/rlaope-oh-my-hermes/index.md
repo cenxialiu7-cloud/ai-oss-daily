@@ -1,8 +1,8 @@
 # rlaope/oh-my-hermes
 
-Just install once. The coding intelligence, a long-term memory system, optimized workflow packages, only plugin for Hermes Agent ⚚
+All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,499
+**Stars**：1,521
 **Source**：https://github.com/rlaope/oh-my-hermes
