@@ -157,7 +157,6 @@ _Daily archive · 2026-07-31_
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baseten-glm-5-2-vision-nvfp4/) — image-text-to-text · sglang, safetensors, glm5v
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [webml-community/bonsai-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-bonsai-webgpu-kernels/) — · static, region:us
 - [XYZAILab/XYZ-Aquila-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xyzailab-xyz-aquila-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
@@ -332,7 +331,6 @@ _Daily archive · 2026-07-31_
 - [carpedkm/CustoMDiT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-carpedkm-customdit/) — · task_categories:text-to-video, license:cc-by-4.0, size_categories:1M<n<10M
 - [bcbl190626/SpanishBCBL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bcbl190626-spanishbcbl/) — · task_categories:other, language:es, license:cc-by-nc-4.0
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
-- [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-zonos2/) — · gradio, region:us
 - [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-simple-world-lab-hifi-umi-2k/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
@@ -482,7 +480,6 @@ _Daily archive · 2026-07-31_
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-firered-image-edit-stripped/) — · gradio, image-generation, image-to-image
 - [AxiomicLabs/Arithmark-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-axiomiclabs-arithmark-3-0/) — · task_categories:question-answering, language:en, license:apache-2.0
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bananamind-bananamind-base-bench-1-1/) — · task_categories:text-generation, task_categories:multiple-choice, language:en
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ianncity-glm-5-2-finance-80000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-osworld-v2-tasks/) — · license:apache-2.0, size_categories:n<1K, format:json
@@ -825,7 +822,6 @@ _Daily archive · 2026-07-31_
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/graphify-labs-graphify/) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphi…
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aden-hive-hive/) — Multi-Agent Harness for Production AI
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0x4m4-hexstrike-ai/) — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomous…
 - [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
@@ -915,7 +911,7 @@ _Daily archive · 2026-07-31_
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arcreel-arcreel/) — AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Age…
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evanbacon-serve-sim/) — The `npx serve` of Apple Simulators.
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star…
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentcloud-tencentdb-agent-memory/) — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,…

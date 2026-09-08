@@ -56,7 +56,6 @@ _Daily archive · 2026-06-09_
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beijingcao-binance-deribit-btc/) — Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask …
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
@@ -66,7 +65,6 @@ _Daily archive · 2026-06-09_
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ideogram-ai-ideogram4/) — · gradio, region:us
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors
@@ -229,7 +227,7 @@ _Daily archive · 2026-06-09_
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughfenghen-dimcut/) — DimCut is a novel editing interaction design that folds the 1D timeline into multiple rows, integrating text,…
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thaolst-tara-bot/) — Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
@@ -470,7 +468,6 @@ _Daily archive · 2026-06-09_
 - [tirth8205/code-review-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tirth8205-code-review-graph/) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding to…
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendemon-pilipili-autovideo/) — 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ashutosh0x-rust-finance/) — A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-zvec/) — A lightweight, lightning-fast, in-process vector database
 - [Orchestra-Research/AI-Research-SKILLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/orchestra-research-ai-research-skills/) — Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills …

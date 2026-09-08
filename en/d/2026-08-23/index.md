@@ -211,7 +211,6 @@ _Daily archive · 2026-08-23_
 - [victor/Qwen3.8-27B-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-qwen3-8-27b-free-endpoint/) — · static, region:us
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · modality:video, region:us, cad
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
@@ -419,7 +418,6 @@ _Daily archive · 2026-08-23_
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-kroma-krea2-lora-demo/) — · gradio, mcp-server, region:us
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
-- [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-zonos2/) — · gradio, region:us
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -642,7 +640,6 @@ _Daily archive · 2026-08-23_
 - [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
 - [hassancs91/claude-youtube-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hassancs91-claude-youtube-editor/) — Record the talking head, Claude Code does the rest: the cut, the visuals, the voice, the sound effects, the t…
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bananamind-bananamind-base-bench-1-1/) — · task_categories:text-generation, task_categories:multiple-choice, language:en
 - [lzs0594/dreamy-motion-editorial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lzs0594-dreamy-motion-editorial/) — 高级朦胧梦幻动态视觉 Skill：把随手拍照片转化为电影感图生图提示词。Dreamy motion editorial prompts from casual photos.
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ianncity-glm-5-2-finance-80000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
@@ -1024,7 +1021,6 @@ _Daily archive · 2026-08-23_
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nidhinjs-prompt-master/) — A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context …
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aden-hive-hive/) — Multi-Agent Harness for Production AI
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0x4m4-hexstrike-ai/) — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomous…
@@ -1382,7 +1378,7 @@ _Daily archive · 2026-08-23_
 - [golutra/golutra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/golutra-golutra/) — Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Code…
 - [LucasHJin/vit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lucashjin-vit/) — Git for video editing.
 - [dadbodgeoff/drift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dadbodgeoff-drift/) — Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP serve…
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [lidge-jun/ima2-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lidge-jun-ima2-gen/) — Local-first visual generation runtime and studio for people and coding agents, with reproducible image and vi…
 - [xuanyustudio/LocalMiniDrama](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xuanyustudio-localminidrama/) — 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI s…
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hughyau-qiushi-skill/) — 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the…

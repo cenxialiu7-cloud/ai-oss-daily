@@ -223,7 +223,6 @@ _Daily archive · 2026-08-29_
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
@@ -441,7 +440,6 @@ _Daily archive · 2026-08-29_
 - [bcbl190626/SpanishBCBL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bcbl190626-spanishbcbl/) — · task_categories:other, language:es, license:cc-by-nc-4.0
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-kroma-krea2-lora-demo/) — · gradio, mcp-server, region:us
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
-- [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-zonos2/) — · gradio, region:us
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-minimax-h3-reference-4-step-lora/) — · gradio, video, image-to-video
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
@@ -677,7 +675,6 @@ _Daily archive · 2026-08-29_
 - [flatkey-ai/flatkey-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flatkey-ai-flatkey-cli/) — Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.
 - [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spielewoy-autoprompt-skill/) — Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bananamind-bananamind-base-bench-1-1/) — · task_categories:text-generation, task_categories:multiple-choice, language:en
 - [pengpengyi92/dsh-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pengpengyi92-dsh-quant/) — "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS "
@@ -841,7 +838,7 @@ _Daily archive · 2026-08-29_
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flowelement-ai-m-flow/) — A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.
 - [ciddwd/overlay-translator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ciddwd-overlay-translator/) — 无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root…
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
-- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents …
+- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAP…
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/koukyosyumei-h5i-db/) — An agent-native workspace for quantitative research: an in-terminal notebook, a high-performance time-series …
@@ -1079,7 +1076,6 @@ _Daily archive · 2026-08-29_
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aden-hive-hive/) — Multi-Agent Harness for Production AI
 - [perso-ai/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perso-ai-perso-dubbing-plugin/) — AI video auto-dubbing plugin for coding agents — translate & dub videos into multiple languages via the Perso…
@@ -1533,7 +1529,7 @@ _Daily archive · 2026-08-29_
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zilliztech-memsearch/) — A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and M…
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrischen667788-wind-comic/) — Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic story…
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wantongc-journal-adapt-writing-skill/) — Learn any journal's writing conventions from its published papers, then revise your manuscript to match — sec…
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [akii-technologies-ltd/akii-seo-ai-search-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akii-technologies-ltd-akii-seo-ai-search-optimizer/) — Free Claude Code plugin for SEO, AEO, and GEO. Audit sites, optimize content, generate schema, and track AI v…
 - [Harahan/RTDMD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/harahan-rtdmd/) — [arXiv 2026] This is the official PyTorch implementation of "RTDMD: Reinforcing Few-step Generators via Rewar…
 - [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/classic298-open-webui-plugins/) — A curated collection of Open WebUI plugins - tools, skills, filters, pipes, actions and events that extend yo…

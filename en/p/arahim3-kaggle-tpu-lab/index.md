@@ -4,5 +4,5 @@ Qwen3.8-27B (bf16) on a free Kaggle TPU: OpenAI-compatible endpoint, 262k contex
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：117
+**Stars**：148
 **Source**：https://github.com/ARahim3/kaggle-tpu-lab

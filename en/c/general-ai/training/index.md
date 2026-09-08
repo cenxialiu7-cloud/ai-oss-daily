@@ -3,6 +3,7 @@
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
+- [Viggle/Viggle-Animate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-viggle-animate/) — video-to-video · diffusers, safetensors, video-editing
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — text-generation · transformers, safetensors, nemotron_labs_audex
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/) — video-to-video · clean-plate, object-removal, ltx-video
@@ -26,7 +27,6 @@
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — · gradio, mcp-server, region:us
 - [nvidia/Nemotron-SFT-SWE-v3.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-sft-swe-v3-5/) — · license:cc-by-4.0, size_categories:1K<n<10K, format:json
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-mms-300m/) — · transformers, pytorch, wav2vec2
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
@@ -51,8 +51,8 @@
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
 - [arkorlab/arkor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arkorlab-arkor/) — The Best TypeScript framework for fine-tuning
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hlpun-train-in-silence/) — The first Task-Aware MCP server and automated VRAM calculator for LLM fine-tuning. Instantly snipe the cheape…
-- [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matthewk78-rose/) — 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradi…
+- [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
 - [sapientinc/data_io](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-data-io/) — Data pipeline for HRM-Text pretraining
 - [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shlokchorge-fine-tuning-qwen2vl/) — Fine-tuned Qwen2-VL-7B for LaTeX OCR using LoRA and Unsloth on the LaTeX OCR dataset. Built augmentation pipe…
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.

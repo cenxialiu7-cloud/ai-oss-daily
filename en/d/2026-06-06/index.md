@@ -48,7 +48,6 @@ _Daily archive · 2026-06-06_
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
@@ -61,7 +60,6 @@ _Daily archive · 2026-06-06_
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-bernini/) — Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner …
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-video/) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s wit…
@@ -426,7 +424,6 @@ _Daily archive · 2026-06-06_
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mme-benchmarks-video-mme-v2/) — Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
 - [markus-global/markus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/markus-global-markus/) — Not another agent framework — an operating system for AI workforces. Autonomous agents coordinate, remember a…
 - [cft0808/edict](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cft0808-edict/) — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, mode…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [Cynthiazxy123/SAMA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cynthiazxy123-sama/) — Official inference code for SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided V…
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hainrixz-claude-banana/) — AI agent that turns your rough ideas into perfect image generation prompts. 7-component formula, 70+ creative…
 - [czg1225/DMax](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/czg1225-dmax/) — DMax: Aggressive Parallel Decoding for dLLMs

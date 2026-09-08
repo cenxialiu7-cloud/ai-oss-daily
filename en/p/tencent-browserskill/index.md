@@ -4,5 +4,5 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,801
+**Stars**：1,846
 **Source**：https://github.com/Tencent/BrowserSkill

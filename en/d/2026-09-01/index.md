@@ -229,7 +229,6 @@ _Daily archive · 2026-09-01_
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fdtn-ai-antares-1b/) — text-generation · transformers, safetensors, granitemoehybrid
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
@@ -683,7 +682,6 @@ _Daily archive · 2026-09-01_
 - [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, an…
 - [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pyang5166-gbro-collage-broll/) — 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bananamind-bananamind-base-bench-1-1/) — · task_categories:text-generation, task_categories:multiple-choice, language:en
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ianncity-glm-5-2-finance-80000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
@@ -766,7 +764,6 @@ _Daily archive · 2026-09-01_
 - [digistoremaster/real-magic-robot-trading-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-real-magic-robot-trading-system/) — Real Magic Robot 3.0 (PREMIUM) — Vollautomatisches MetaTrader 4/5 Trading-System (EA) für Forex & Gold. Adapt…
 - [PolinniZhong/omi-read-aloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polinnizhong-omi-read-aloud/) — A lightweight macOS menu bar companion that reads copied conversation text and AI responses from Codex, Kimi …
 - [v-modal/vmodal_sdk_android](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/v-modal-vmodal-sdk-android/) — Video Search SDK for Android Kotlin. Integrate in any video app
-- [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [digistoremaster/awesome-seo-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-awesome-seo-tools/) — A curated guide and automated toolkit for keyword rank tracking, SERP analysis, and webmaster traffic optimiz…
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an …
 - [DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-claude-4-6-highiq-thinking-heretic-uncensored/) — image-text-to-text · transformers, safetensors, qwen3_5
@@ -1068,7 +1065,7 @@ _Daily archive · 2026-09-01_
 - [Saganaki22/Higgs-Audio-v3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-audio-v3-studio/) — Windows / Linux desktop app built with Rust/Tauri for local Higgs Audio v3 TTS inference + local dev api thro…
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-chartgalaxy-chartgalaxy/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xpzouying-xiaohongshu-mcp/) — MCP for xiaohongshu.com
-- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents …
+- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAP…
 - [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eigent-ai-eigent/) — Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [scouttyg/writekin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/scouttyg-writekin/) — Writing that's kin to yours
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -1110,7 +1107,6 @@ _Daily archive · 2026-09-01_
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aden-hive-hive/) — Multi-Agent Harness for Production AI
 - [benbenbang/libitofin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/benbenbang-libitofin/) — High-performance quantitative finance library in Rust: pricing, risk, and numerical tools built for speed and…
@@ -1625,7 +1621,7 @@ _Daily archive · 2026-09-01_
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wantongc-journal-adapt-writing-skill/) — Learn any journal's writing conventions from its published papers, then revise your manuscript to match — sec…
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuga-hashimoto-openclaw-assistant/) — OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [hao-ai-lab/JetSpec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hao-ai-lab-jetspec/) — JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Causal Parallel Tree Drafting
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [umutcaned/turkreason](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-umutcaned-turkreason/) — · task_categories:question-answering, task_categories:multiple-choice, task_ids:multiple-choice-qa
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kldhsh123-afterglow/) — 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。

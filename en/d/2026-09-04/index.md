@@ -232,7 +232,6 @@ _Daily archive · 2026-09-04_
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fdtn-ai-antares-1b/) — text-generation · transformers, safetensors, granitemoehybrid
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-danny-lynote-humanizer-lite/) — · static, text-humanizer, writing-assistant
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
-- [openbmb/MiniCPM5-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-1b/) — text-generation · transformers, safetensors, llama
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
@@ -679,7 +678,6 @@ _Daily archive · 2026-09-04_
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tornikegomareli-talkify/) — Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 - [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
-- [openbmb/UltraData-SFT-2605](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-sft-2605/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mkamranr-reelforge/) — Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platfo…
 - [BananaMind/BananaMind-Base-Bench-1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bananamind-bananamind-base-bench-1-1/) — · task_categories:text-generation, task_categories:multiple-choice, language:en
 - [adambenhassen/minimax-music-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adambenhassen-minimax-music-ui/) — Suno-style web UI for a self-hosted MiniMax-Music3 inference server
@@ -723,7 +721,6 @@ _Daily archive · 2026-09-04_
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wang2122-sprix-sage-router/) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware r…
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geohub/) — GEOHub: open, evidence-bounded GEO and SEO agent skills for AI Search, with research-grounded discovery, diag…
-- [dream2589632147/Dream-wan2-2-fp8da-aoti-preview-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dream2589632147-dream-wan2-2-fp8da-aoti-preview-2/) — · gradio, mcp-server, region:us
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cmrobot-motiondecode/) — · region:us
@@ -1061,7 +1058,6 @@ _Daily archive · 2026-09-04_
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
 - [malcolmrey/browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-malcolmrey-browser/) — · static, region:us
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…
-- [Qwen/WebWorldData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-webworlddata/) — · task_categories:text-generation, language:en, language:zh
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aden-hive-hive/) — Multi-Agent Harness for Production AI
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0x4m4-hexstrike-ai/) — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomous…
@@ -1180,7 +1176,7 @@ _Daily archive · 2026-09-04_
 - [malcolmrey/various](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-malcolmrey-various/) — · license:wtfpl, size_categories:n<1K, format:imagefolder
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helasaoudi-llm-inspector/) — The htop for LLM inference see exactly where every GB of VRAM goes and get measured quantization savings.
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lcy362-agnes-video-generator/) — Open-source, self-hosted AI video generator — completely free. Text to multi-scene video with narration, subt…
-- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents …
+- [SenteLabsAI/OpenExecutive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sentelabsai-openexecutive/) — AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAP…
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/virgiliojr94-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [estebanstifli/LocalText2Voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/estebanstifli-localtext2voice/) — A complete local production workflow for clean narration, structured learning content, and podcast-ready audio
@@ -1776,7 +1772,7 @@ _Daily archive · 2026-09-04_
 - [CodeBySonu95/VoxSherpa-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codebysonu95-voxsherpa-tts/) — 🎙️ VoxSherpa TTS Offline Neural Text-to-Speech Engine for Android ⚡ Sherpa-ONNX powered 🔊 Natural voice synth…
 - [Mexes1978/comfyui-comfysketch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mexes1978-comfyui-comfysketch/) — ComfySketch — Sketching Node for ComfyUI
 - [Agions/panel-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agions-panel-flow/) — AI驱动的视频脚本创作平台 - 将小说、剧本或提示词转化为专业级视频内容
-- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — Visual knowledge bank for understanding large language models, with 180 concept cards from tokenization to de…
+- [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-llm-flashcards/) — 211 free visual cards about large language models, from tokenization to deployment. Full collection: 376 card…
 - [brontoguana/krasis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brontoguana-krasis/) — Krasis is a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM lim…
 - [Kaelio/ktx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kaelio-ktx/) — ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agen…
 - [Kaden-Schutt/hipfire](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kaden-schutt-hipfire/) — RDNA-native LLM inference engine in Rust.

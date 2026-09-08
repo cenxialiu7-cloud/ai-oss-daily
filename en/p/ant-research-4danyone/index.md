@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,200
+**Stars**：1,227
 **Source**：https://github.com/ant-research/4DAnyone

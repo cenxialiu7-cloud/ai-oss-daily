@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>07 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>08 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>microsoft/VibeVoice-ASR-Streaming-7B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-streaming-7b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-streaming-7b/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>用於即時語音轉文字的自動語音辨識模型。</description>
+<title>openbmb/MiniCPM5-2B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>MiniCPM5-2B 是一個長上下文支援的文本生成模型，適用於工具呼叫等應用。</description>
 </item>
 <item>
-<title>WarmBloodAban/Minimax-h3_Singularity</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的AI模型。</description>
+<title>Viggle/Viggle-Animate</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>Viggle-Animate 是一個用於影片轉換和角色替換的工具。</description>
 </item>
 <item>
-<title>dealignai/GLM-5.3-CYBERSECURITY-FP8</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dealignai-glm-5-3-cybersecurity-fp8/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dealignai-glm-5-3-cybersecurity-fp8/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>專門用於網路安全的文本生成模型。</description>
+<title>alvinunreal/awesome-submitlist</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>awesome-submitlist 是一個整理好的提交清單，包含300多個目錄，適合創業者提交。</description>
 </item>
 <item>
-<title>K-Dense-AI/scientific-agent-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>deeplethe/utopia</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>Lightricks/LTX-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
-<pubDate>07 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的擴散模型。</description>
+<title>OpenVDN/vdn-minimax-h3</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</guid>
+<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
+<description>文字轉動畫模型，使用MiniMax-H3架構。</description>
 </item>
 </channel>
 </rss>
