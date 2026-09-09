@@ -4,5 +4,5 @@ Free, open-source alternative to Microsoft Office with built-in AI agents — Wo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,867
+**Stars**：6,150
 **Source**：https://github.com/genspark-ai/genoffice

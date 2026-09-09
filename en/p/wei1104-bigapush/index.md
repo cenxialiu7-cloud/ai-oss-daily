@@ -4,5 +4,5 @@ A股量化选股 + 每日自动推送系统，15种策略选股 + 买入建议�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：21
+**Stars**：22
 **Source**：https://github.com/wei1104/bigApush

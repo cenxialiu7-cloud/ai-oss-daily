@@ -1,6 +1,6 @@
 # activeing123/mcptoon
 
-Zero-dep CLI: one MCP config synced to every agent. A 255-tool listing costs 581 tokens, not 71,929 - schemas never enter context.
+Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and unifies the MCP tools of every agent on your machine, shares tool instances globally, and slashes context-window token overhead.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>08 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>09 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>openbmb/MiniCPM5-2B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>MiniCPM5-2B 是一個長上下文支援的文本生成模型，適用於工具呼叫等應用。</description>
+<title>phasefield-audio/Irodori-TTS-v4.1-Anime</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-phasefield-audio-irodori-tts-v4-1-anime/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-phasefield-audio-irodori-tts-v4-1-anime/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>一款基於 Irodori-TTS-v4.1-Small 的 Anime 風格文字轉語音模型。</description>
 </item>
 <item>
-<title>Viggle/Viggle-Animate</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>Viggle-Animate 是一個用於影片轉換和角色替換的工具。</description>
+<title>openbmb/MiniCPM5-2B-Demo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-minicpm5-2b-demo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-minicpm5-2b-demo/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>alvinunreal/awesome-submitlist</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>awesome-submitlist 是一個整理好的提交清單，包含300多個目錄，適合創業者提交。</description>
+<title>hugging-apps/h3-world-action-demo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>blader/humanizer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>去除文本中的 AI 記號，使其更自然。</description>
 </item>
 <item>
-<title>OpenVDN/vdn-minimax-h3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/</guid>
-<pubDate>08 Sep 2026 08:00:00 +0000</pubDate>
-<description>文字轉動畫模型，使用MiniMax-H3架構。</description>
+<title>BreezeBlue/Breeze-TTS-2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/</guid>
+<pubDate>09 Sep 2026 08:00:00 +0000</pubDate>
+<description>一款基於轉換器的語音合成模型，支援語音克隆和設計。</description>
 </item>
 </channel>
 </rss>

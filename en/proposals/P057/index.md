@@ -13,5 +13,5 @@
 - [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcp-brasil-mcp-brasil/) — MCP Server para 70 APIs públicas brasileiras
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/) — The official Python SDK for Model Context Protocol servers and clients
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
-- [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeing123-mcptoon/) — Zero-dep CLI: one MCP config synced to every agent. A 255-tool listing costs 581 tokens, not 71,929 - schemas…
+- [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeing123-mcptoon/) — Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating …
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-3-flash/) — image-text-to-text · transformers, safetensors, glm5_next

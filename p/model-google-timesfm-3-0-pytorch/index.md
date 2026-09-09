@@ -2,7 +2,7 @@
 
 Google 的 timesfm 模型，用於時間序列預測。
 
-**為何上榜**：HF trending 463 · 574 likes · 271,713 下載
+**為何上榜**：HF trending 371 · 634 likes · 444,052 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
