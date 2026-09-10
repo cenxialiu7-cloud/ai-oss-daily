@@ -1,6 +1,6 @@
 # activeing123/mcptoon
 
-Mcptoon is the native decoupling layer for Model Context Protocol (MCP) tools. It fixes tool listings eating tokens and every AI agent re-configuring tools: zero config out of the box, auto-scans and unifies the MCP tools of every agent on your machine, shares tool instances globally, and slashes context-window token overhead.
+MCP tool lists eat 71,929 tokens at 255 tools — more than half a 128K window before you ask anything. mcptoon reads the same tools back at 581 (-99.2%, measured). 128KB CLI, zero deps. Compute your own: activeing123.github.io/mcptoon/tools/token-tax
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

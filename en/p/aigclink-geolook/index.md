@@ -4,5 +4,5 @@ Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：681
+**Stars**：683
 **Source**：https://github.com/aigclink/geolook

@@ -2,9 +2,9 @@
 
 提供組織在採用 Model Context Protocol (MCP) 時的實用治理框架。
 
-**為何上榜**：近期新建立，已獲 70★
+**為何上榜**：近一日新增 7★（現 77★）
 
 **商用授權**：可商用 — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：70
+**Stars**：77
 **原始連結**：https://github.com/OWASP/OWASP-MCP-Governance-and-Risk-Project

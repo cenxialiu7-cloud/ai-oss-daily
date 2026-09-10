@@ -4,5 +4,5 @@ MoE expert offload for low-VRAM GPUs — run 100B+ MoE models (DeepSeek, Qwen, M
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：139
+**Stars**：142
 **Source**：https://github.com/yalun753/moe-l2
