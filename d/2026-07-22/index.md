@@ -800,7 +800,6 @@ _每日存檔 · 2026-07-22_
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-superpowers-zh/) — Claude Code等AI程式設計工具的中文增強版和技能。
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 圖像節點＋ComfyUI 的 LoRA 訓練。
 - [quien（網域情報工具）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/retlehs-quien/) — 更好用的 whois 與網域情報工具包（Go，1,032★）。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [EKKOLearnAI/hermes-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ekkolearnai-hermes-studio/) — hermes-studio 是 Hermes Agent 的網頁控制台，提供多平臺聊天、任務管理等功能。
 - [xbtlin/ai-berkshire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/) — 基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。

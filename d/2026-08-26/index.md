@@ -531,7 +531,6 @@ _每日存檔 · 2026-08-26_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xcslys99/FootageFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xcslys99-footageflow/) — 跨平臺的影片搜尋和下載工具。
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seesee75-commits-comfyui-minimaxh3-director/) — 用於 ComfyUI 中 MiniMax H3 的時間軸編輯器，支援故事板提示和動態預覽。
@@ -1089,7 +1088,6 @@ _每日存檔 · 2026-08-26_
 - [begin0808/VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/begin0808-voxcpm2/) — 基於VoxCPM2模型的離線語音合成與複製桌面工作站。
 - [ByteDance Lance（原生統一多模態模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-lance/) — 字節跳動研究院的 3B 啟用參數原生統一多模態模型(圖像理解與生成)。
 - [Adamant-im/adamant-payment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adamant-im-adamant-payment/) — 支援加密貨幣支付、訂閱和軟體許可管理的一站式平臺。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [SauravP97/ai-engineering-primer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sauravp97-ai-engineering-primer/) — 學習代理AI、深度學習等技術的指南。
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

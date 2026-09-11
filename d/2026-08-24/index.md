@@ -519,7 +519,6 @@ _每日存檔 · 2026-08-24_
 - [nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-rl-agentic-terminal-pivot-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1075,7 +1074,6 @@ _每日存檔 · 2026-08-24_
 - [louisedesadeleer/b-roll-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/louisedesadeleer-b-roll-finder/) — 根據指令碼自動搜尋和插入背景影片片段的工具。
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenCPIL/prima.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opencpil-prima-cpp/) — 在日常家用裝置上快速執行大型語言模型的框架。
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-114k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

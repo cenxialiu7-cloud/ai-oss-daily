@@ -1,13 +1,13 @@
 # 👁️ 多模態／VLM
 
+- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
+- [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/) — 基於轉換器的文本生成模型，支援中文和英文。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
-- [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/) — 將影像和文字轉換為文本的多模態模型，適用於視覺語言任務。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
@@ -31,9 +31,9 @@
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/) — 將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
 - [KRAFTON/A.X-K2-Raon-Speech-21B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-a-x-k2-raon-speech-21b-a3b/) — 基於transformers框架的多模態語音處理模型。
-- [multimodalart/h3-acceleration-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-h3-acceleration-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/HPD-Parsing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-hpd-parsing/) — 圖文轉文字模型，支援特徵抽取。
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
+- [multimodalart/h3-acceleration-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-h3-acceleration-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
 - [build-small-hackathon/claim-ready](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-claim-ready/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -65,7 +65,6 @@
 - [picbreeder-vlm/picbreeder-vlm-archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-picbreeder-vlm-picbreeder-vlm-archive/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-chartgalaxy-chartgalaxy/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uv-scripts-ocr/) — Hugging Face 資料集，關鍵字：OCR（依標籤自動歸類，詳細看下方原文）
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diegosouzapw-omniroute/) — 免費 AI 閘道器，連線多個程式碼生成器和編輯器，節省大量流量。
 - [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

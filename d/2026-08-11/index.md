@@ -343,7 +343,6 @@ _每日存檔 · 2026-08-11_
 - [someone-in-the-world/FireRed-Experimental-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-someone-in-the-world-firered-experimental-turbo/) — FireRed 圖生圖實驗版線上示範。
 - [liumindmind/Neko_Audio-80K_Short](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-photoroom-prx-pixel/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-audio8-audio8-tts-preview-0-6b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -943,7 +942,6 @@ _每日存檔 · 2026-08-11_
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
 - [alirezarezvani/gaios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-gaios/) — 開源 AI 作業系統藍圖，將任何代理轉換為個人第二大腦。
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [zhu1090093659/deepseek-pp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-deepseek-pp/) — DeepSeek瀏覽器擴充功能，提供AI代理工作空間和自動化工具。
 - [microsoft/intelligent-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-intelligent-terminal/) — 帶有內建代理功能的Windows終端機模擬器。

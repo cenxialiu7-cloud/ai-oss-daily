@@ -87,7 +87,6 @@ _Daily archive · 2026-09-02_
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-glm-5-2-nvfp4/) — text-generation · Model Optimizer, safetensors, glm_moe_dsa
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — image-text-to-text · transformers, safetensors, deepseek_v4
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — image-text-to-text · gguf, qwen3.8, qwen
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
@@ -141,7 +140,7 @@ _Daily archive · 2026-09-02_
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
-- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · modality:video, region:us, cad
+- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · license:cc-by-4.0, modality:video, region:us
 - [pollen-robotics/microduck-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pollen-robotics-microduck-simulator/) — · docker, region:us
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
@@ -542,7 +541,6 @@ _Daily archive · 2026-09-02_
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-local-ai-image-generator/) — A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GG…
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonshotai-perceptionbench/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-seedofevil-pro-realism-edit-studio/) — · gradio, region:us
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
 - [wxDai/joyai-video-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-wxdai-joyai-video-edit/) — · gradio, region:us
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
@@ -1094,7 +1092,6 @@ _Daily archive · 2026-09-02_
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
 - [AbhishekBarali/SpeakoFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhishekbarali-speakoflow/) — Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI …
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/) — Chrome DevTools for coding agents
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mathllms-mathvision/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:visual-question-answer…
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — · gradio, region:us
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-guide/) — · docker, research-article-template, rl-environments
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-114k/) — · license:apache-2.0, size_categories:100K<n<1M, format:parquet
@@ -1235,7 +1232,7 @@ _Daily archive · 2026-09-02_
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundot-omlx/) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b…
 - [Narcooo/inkos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/narcooo-inkos/) — Story Creation AI Agent for novel, scripts, interactive games, and IP content
-- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。
+- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: O…
 - [jnMetaCode/agency-agents-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-agents-zh/) — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创…
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jdevalk-specification-website/) — Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-skillspector/) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt inje…
@@ -1505,7 +1502,7 @@ _Daily archive · 2026-09-02_
 - [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmsresearch-paperbanana/) — Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, dia…
 - [Spirizeon/agentic-aeo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spirizeon-agentic-aeo-skills/) — An LLM-first AEO analysis skillset for Antigravity, Codex, Claude, Gemini, OpenCode, etc. with 6 specialized …
 - [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thedecipherist-claude-code-mastery/) — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
-- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5…
+- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 276 CN + 184 EN + 5…
 - [tractorjuice/arc-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tractorjuice-arc-kit/) — The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI cod…
 - [Observal/Observal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/observal-observal/) — Observal is a local registry and analytics platform for your AI components. Setup Observal, define the scope …
 - [AtomicBot-ai/atomic-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomicbot-ai-atomic-agent/) — Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs private…
@@ -1592,7 +1589,7 @@ _Daily archive · 2026-09-02_
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuga-hashimoto-openclaw-assistant/) — OpenClaw voice assistant app for Android - Wake word activation & system assistant integration
 - [wanyichen06/LLMInternSkill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanyichen06-llminternskill/) — LLMInternSkill: LLM internship resume and job-search Codex Skill for resume polish, JD tailoring, evidence gu…
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
-- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grad…
+- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operat…
 - [umutcaned/turkreason](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-umutcaned-turkreason/) — · task_categories:question-answering, task_categories:multiple-choice, task_ids:multiple-choice-qa
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuji-labs-nopua/) — 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill t…
 - [hao-ai-lab/JetSpec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hao-ai-lab-jetspec/) — JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Causal Parallel Tree Drafting

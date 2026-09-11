@@ -679,7 +679,6 @@ _每日存檔 · 2026-07-01_
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-llm-gpu-lab/) — 在單一GPU上進行大型語言模型全流程實驗。
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
 - [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vibheksoni-stealth-browser-mcp/) — 能繞過反機器人系統的瀏覽器自動化工具，AI 可生成網路-hooks 和完美克隆 UI。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [guoguo-tju/agent_java_offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guoguo-tju-agent-java-offer/) — 公開的 Java 後端 / AI 代理 / 系統設計 / 面試複習資料庫。
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/znyupup-ai-video-editing-skill/) — AI自動化Vlog剪輯技能，輸入原始影片，獲得成品。
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/) — 新一代平行代理開發環境，可在桌面和移動裝置上執行。

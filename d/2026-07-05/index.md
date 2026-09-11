@@ -694,7 +694,6 @@ _每日存檔 · 2026-07-05_
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
 - [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-ace-step-studio/) — 行動式 AI 歌曲生成器，可製作完整歌曲和音樂影片，離線執行。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品的Claude技能，用於生成海外銷售公司研究報告。
 - [yuanzhongqiao/printfilm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuanzhongqiao-printfilm/) — AI 短劇生成平臺，用於動畫和影片製作。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。

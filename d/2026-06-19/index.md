@@ -588,7 +588,6 @@ _每日存檔 · 2026-06-19_
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — 透過瀏覽器繪製Gemini圖形，支援MCP協議和開放爪機器人。
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miasyster-quantgpt/) — Agent 驅動的 alpha 工廠：LLM 自主設計、回測並提交因子到 WorldQuant。
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zjunlp-sciatlas/) — 自動化科學研究的大規模知識圖譜。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。

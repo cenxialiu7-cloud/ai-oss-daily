@@ -560,7 +560,6 @@ _每日存檔 · 2026-06-17_
 - [axnoller32/AntiDetect-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axnoller32-antidetect-26/) — （灰色工具）多開瀏覽器指紋防偵測＋免費代理＋AI — 用途敏感，請謹慎。
 - [ebringelvissanchez/Image-AI-Generator-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebringelvissanchez-image-ai-generator-2026/) — 強大的桌面應用程式，快速生成高品質藝術作品和渲染圖。
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexpospekhov-searchstack-aeo/) — 開源搜尋技術堆疊，監控 Google、ChatGPT 等平臺上的能見度。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Affitor/affiliate-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/affitor-affiliate-skills/) — 50 個聯盟行銷 agent skill：研究熱門內容、寫有數據根據的貼文。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。

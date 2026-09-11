@@ -4,7 +4,6 @@ _每日存檔 · 2026-09-01_
 
 ## 🆕 新上榜
 
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
 - [incoai/GLM-5.3-Flash-DFlash2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-glm-5-3-flash-dflash2/) — 文本生成模型，採用快速解碼技術。
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryze-ai-adgent-open-seo-mcp-skills/) — 開源 SEO 工具，支援關鍵字研究和排名追蹤。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-09-01_
 - [kindlychemi/Limit-Order-Tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kindlychemi-limit-order-tracker/) — 合約互動歷史追蹤工具，用於檢視和分析智慧合約。
 - [humongousissu/Arbitrage-Scanner-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/humongousissu-arbitrage-scanner-desktop/) — 用於追蹤區塊鏈網路費用和交易成本的桌面小工具。
 - [waryenemy/ETH-Gas-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/waryenemy-eth-gas-optimizer/) — 用於解析ENS名稱和地址的桌面工具。
+- [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deadsoot-token-gains-reporter/) — 用於生成加密貨幣稅務報告的桌面工具。
 
 ## 🚀 Star 竄升
 
@@ -96,7 +96,6 @@ _每日存檔 · 2026-09-01_
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
 - [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/) — 將文字轉換為影片的模型，支援gguf格式。
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/) — 用於表格資料分類和回歸的 PyTorch 模型。
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cinderholm-wan2-2-i2v-v3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwen3-8-9b-distill-gguf/) — Qwen3.8-9B-Distill-GGUF 是一個經過精簡的文本生成模型，支援 gguf 格式和量化。
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — 基於GGUF格式的圖文轉文字模型，具備未審查和異端特點。
@@ -557,7 +556,6 @@ _每日存檔 · 2026-09-01_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/) — 快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1159,7 +1157,6 @@ _每日存檔 · 2026-09-01_
 - [geekjourneyx/hyperframes-motion-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-hyperframes-motion-director/) — 用於中文市場的 HyperFrames 動畫影片生產工具。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [google/mantis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-mantis/) — 模組化安全審查工具包，讓AI編碼代理自主查詢、重現並修復漏洞。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lmsys-lmsys-chat-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

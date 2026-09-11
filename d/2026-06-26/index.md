@@ -629,7 +629,6 @@ _每日存檔 · 2026-06-26_
 - [corticalstack/awesome-foundry-nextgen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/corticalstack-awesome-foundry-nextgen/) — Microsoft Foundry 的實戰實驗室，涵蓋 Azure 平臺即服務 (PaaS) 的企業 AI 系統。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [Kyros-494/kyros-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyros-494-kyros-ai/) — 為 AI 代理提供安全持久記憶系統，支援三種記憶型別。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AtomicBot-ai/Atomic-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomicbot-ai-atomic-chat/) — 本地 AI 聊天應用，支援在個人電腦上執行開放權重 LLM。
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mnfst-awesome-free-llm-apis/) — 永久免費的大語言模型API列表。
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinreal-awesome-opensource-ai/) — 整理最佳開源 AI 專案、模型、工具和基礎設施清單。

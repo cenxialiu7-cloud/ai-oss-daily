@@ -4,5 +4,5 @@ https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scala
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,914
+**Stars**：9,929
 **Source**：https://github.com/StarTrail-org/PixelRAG

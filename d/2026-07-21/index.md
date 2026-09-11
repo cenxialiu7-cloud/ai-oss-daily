@@ -794,7 +794,6 @@ _每日存檔 · 2026-07-21_
 - [EKKOLearnAI/hermes-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ekkolearnai-hermes-studio/) — hermes-studio 是 Hermes Agent 的網頁控制台，提供多平臺聊天、任務管理等功能。
 - [xbtlin/ai-berkshire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xbtlin-ai-berkshire/) — 基於 Claude Code 的價值投資研究框架，融合四位大師的方法論。
 - [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — 基於 Elixir 的單二進位LLM代理執行時，提供聊天介面和多供應商路由等功能。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uv-scripts-ocr/) — Hugging Face 資料集，關鍵字：OCR（依標籤自動歸類，詳細看下方原文）

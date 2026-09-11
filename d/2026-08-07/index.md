@@ -334,7 +334,6 @@ _每日存檔 · 2026-08-07_
 - [someone-in-the-world/FireRed-Experimental-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-someone-in-the-world-firered-experimental-turbo/) — FireRed 圖生圖實驗版線上示範。
 - [liumindmind/Neko_Audio-80K_Short](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liumindmind-neko-audio-80k-short/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-photoroom-prx-pixel/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lukadev13-liminal-dreamcore-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -915,7 +914,6 @@ _每日存檔 · 2026-08-07_
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-idavidrein-gpqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenyuchiou-awesome-agentic-ai-zh/) — 中文 AI Agent 學習地圖，涵蓋從 LLM 基礎到多代理系統的資源。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/freestylefly-awesome-gpt-image-2/) — 工業級提示詞引擎與模板庫，涵蓋470多個案例和20多種模板。
 - [RightNow-AI/AutoMegaKernel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-automegakernel/) — AutoMegaKernel 是一個自調優的 CUDA 巨核編譯器，適用於大型語言模型解碼。
 - [Jsoned/autowealth-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsoned-autowealth-ai/) — 多代理機器人投資分析引擎，提供加密貨幣和財務分析。

@@ -3,7 +3,8 @@
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
-- [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
+- [ProjectDXAI/continuous-record-llm-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/) — 記錄和分析LLM交易代理在生產環境中的行為。
+- [zhuyifang/tonghuasun-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyifang-tonghuasun-agent/) — 提供A股即時行情和交易能力的AI外掛。
 - [distinctshov/Chain-Transaction-Logger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distinctshov-chain-transaction-logger/) — 加密貨幣交易日誌工具，用於檢視和過濾交易資料。
 - [soreprofit/Smart-Contract-Reader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soreprofit-smart-contract-reader/) — 多 RPC 管理器，用於診斷區塊鏈端點。
 - [handychorus/Wallet-Txn-Exporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/handychorus-wallet-txn-exporter/) — 穩定幣投資組合追蹤工具，用於追蹤數位資產。
@@ -13,50 +14,49 @@
 - [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deadsoot-token-gains-reporter/) — 用於生成加密貨幣稅務報告的桌面工具。
 - [laurensa453/polymarket-btc-5m-hedge-ladder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laurensa453-polymarket-btc-5m-hedge-ladder/) — 一個基於 Polymarket 的比特幣 5 分鐘交易機器人，採用梯度提升策略。
 - [penicephalic43/polymarket-weather-latency-gated-copy-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/penicephalic43-polymarket-weather-latency-gated-copy-bot/) — 開源Polymarket天氣市場複製機器人，支援多錢包映象交易。
-- [DexCrancer/solana-copytrading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dexcrancer-solana-copytrading-bot/) — 一個高效率的Solana複製交易機器人，監控目標錢包並即時複製交易。
 - [fidetolabs/qanat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fidetolabs-qanat/) — 用於構建和回測交易策略的工作流引擎。
+- [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyky2347-alta/) — ALTA 是一個自動化研究工具，用於發現機會和進行市場研究。
+- [DexCrancer/solana-copytrading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dexcrancer-solana-copytrading-bot/) — 一個高效率的Solana複製交易機器人，監控目標錢包並即時複製交易。
 - [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alkhudarigroupuae-pumpfun-trainer-v1/) — Solana幣交易的自動化工具，具備狙擊、價格監控等功能。
 - [robinhood-ape/robinhood-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robinhood-ape-robinhood-sniper-bot/) — 在 Robinhood Chain 上自動監控、購買和出售 NOXA 樂透代幣的交易機器人。
-- [zhu1090093659/dsh-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-dsh-trading/) — 基於DeepSeek Harness的跨市場交易終端，支援加密貨幣等多市場交易。
-- [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyky2347-alta/) — ALTA 是一個自動化研究工具，用於發現機會和進行市場研究。
+- [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [555cute/r20-quantum-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/555cute-r20-quantum-trader/) — 自動化量化交易終端，支援多資產型別。
+- [zhu1090093659/dsh-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-dsh-trading/) — 基於DeepSeek Harness的跨市場交易終端，支援加密貨幣等多市場交易。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muratmula-ai-robinhood-chain/) — ai-robinhood-chain 是一個基於 Discord 和 Telegram 的自動化加密貨幣交易生態系統。
+- [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
 - [PillCrew/claimchain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pillcrew-claimchain/) — 驗證 AI 代理的區塊鏈宣告是否真實。
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
-- [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
+- [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
+- [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jinghao-leon-dsh-alpha-desk/) — Alpha Desk 是一個將代理會話轉換為合規投資桌面的技能包。
 - [iceleen/Polymarket-BTC-5m-15m-1h-AI-Model-Trading-Bot-LightGBM-XGBoost-Prediction-Market-CLOB-Crypto-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iceleen-polymarket-btc-5m-15m-1h-ai-model-trading-bot-lightgbm-xgboost-prediction-market-clob-crypto-bot/) — 使用 LightGBM/XGBoost 預測比特幣走勢的自動交易機器。
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — 四萌 Pancake 隱藏交易機器人，適用於 BSC 和 BNB 交易。
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronesfe-polymarket-automated-trading-bot/) — Polymarket 預測市場自動交易機器人，支援 4 種策略、可選 AI。
-- [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jinghao-leon-dsh-alpha-desk/) — Alpha Desk 是一個將代理會話轉換為合規投資桌面的技能包。
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnikodev-robinhood-ai-dev-sniper/) — 專為Robinhood Chain設計的AI交易狙擊工具。
+- [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
 - [Sebastianmaxter/ai-profit-sniper-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sebastianmaxter-ai-profit-sniper-strategy/) — ai-profit-sniper-strategy 是一個 24/7 自動化市場分析和技術訊號警報系統。
+- [pengpengyi92/dsh-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengpengyi92-dsh-quant/) — Dsh-Quant 是一個集成了多種功能的量化交易外掛。
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [Kalshi AI 交易機器人](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bestpracticai-kalshi-ai-trading-bot/) — Kalshi 預測市場的演算法自動交易機器人。
-- [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
-- [pengpengyi92/dsh-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengpengyi92-dsh-quant/) — Dsh-Quant 是一個集成了多種功能的量化交易外掛。
+- [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。
 - [digistoremaster/metatrader-to-ibkr-tws-api-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-metatrader-to-ibkr-tws-api-bridge/) — MetaTrader 4/5 與 Interactive Brokers 之間的高頻交易複製與訂單橋接工具。
 - [digistoremaster/real-magic-robot-trading-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-real-magic-robot-trading-system/) — 自動化MetaTrader 4/5交易系統，適用於外匯和黃金交易。
 - [TradingAgents Studio（可視化多智能體交易研究）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjhccc-tradingagents-studio/) — 可視化的多 agent LLM 交易研究平台 —— 看得到 agent 怎麼想、怎麼辯論、怎麼決策。
 - [rootSunc/ashare-lake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rootsunc-ashare-lake/) — 提供全面的量化資料，涵蓋A股行情、大宗期貨、基本面等多種金融資訊。
-- [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。
+- [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tick-stock-panel/) — TSP 是一個自託管的量化工作臺，支援選股、監控和回測。
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/) — 透過強型態 GP 和 GFlowNet 搜尋進行公式化 alpha 礦採。
-- [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pvinh-quant-kairos-v2/) — 一個基於 Python 的開源量化研究框架，支援加密貨幣期貨交易策略的研究和驗證。
-- [foeed/FvgGold-EA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/foeed-fvggold-ea/) — MetaTrader 5的黃金期貨自動交易顧問。
-- [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — 用於PolyMarket套利交易的Python機器人。
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
+- [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pvinh-quant-kairos-v2/) — 一個基於 Python 的開源量化研究框架，支援加密貨幣期貨交易策略的研究和驗證。
+- [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。
+- [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。
+- [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — 用於PolyMarket套利交易的Python機器人。
+- [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reikwei-gu-piao-yu-ce/) — 股票預測專案，使用FastAPI和量化金融技術。
 - [FrancoisRost1/mini-bloomberg-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/francoisrost1-mini-bloomberg-terminal/) — Streamlit 打造的整合投研終端，串接 10 個獨立金融引擎。
-- [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。
-- [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tick-stock-panel/) — TSP 是一個自託管的量化工作臺，支援選股、監控和回測。
-- [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。
-- [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/) — 港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。
-- [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
-- [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
+- [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hithink-tech-financial-api/) — 同花順官方A股資料服務，適用於AI Agent、量化研究等。
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
-- [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
-- [ArturSepp/TrendFollowingSystems](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artursepp-trendfollowingsystems/) — Python 實現的趨勢跟隨系統，提供量化研究和實踐的閉式形式分析。
+- [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/) — 港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。
+- [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
 - [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ftshare-lab-ftshare-mcp/) — 金融資料與投資工作流程的MCP工具。
-- [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
-- [FloorCommander/MultiCharts-Advanced-Backtesting-Premium](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/floorcommander-multicharts-advanced-backtesting-premium/) — 提供完整版本策略開發與回測功能的量化交易平臺。
+- [ArturSepp/TrendFollowingSystems](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artursepp-trendfollowingsystems/) — Python 實現的趨勢跟隨系統，提供量化研究和實踐的閉式形式分析。
+- [FlipZ3ro/robinhood-lp-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flipz3ro-robinhood-lp-bot/) — 一個自動化流動性提供者機器人，可在Robinhood Chain上自動化流動性管理。

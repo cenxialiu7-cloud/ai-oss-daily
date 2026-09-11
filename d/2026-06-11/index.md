@@ -520,7 +520,6 @@ _每日存檔 · 2026-06-11_
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [Houseofmvps/ultraship](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-ultraship/) — Claude Code 外掛，提供 39 個技能、33 個工具和 11 個代理程式，適用於工作流程。
 - [YicunAI/Pnlclaw-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yicunai-pnlclaw-community/) — 本機優先的加密與預測市場量化引擎。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ThetaCursed/ComfyUI-HiresFix-Ultra-AllInOne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-comfyui-hiresfix-ultra-allinone/) — 專業的 ComfyUI 高解析度修正工具，整合模型和潛在上昇。
 - [cft0808/edict](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cft0808-edict/) — 三省六部制多代理系統，包含九種專業 AI 代理、即時儀錶板及完整審計軌跡。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。

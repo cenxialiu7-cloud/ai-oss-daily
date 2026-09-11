@@ -510,7 +510,6 @@ _每日存檔 · 2026-06-10_
 - [cft0808/edict](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cft0808-edict/) — 三省六部制多代理系統，包含九種專業 AI 代理、即時儀錶板及完整審計軌跡。
 - [Cynthiazxy123/SAMA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cynthiazxy123-sama/) — 基於因子化語義錨定和運動對齊的指令引導影片編輯模型推論程式碼。
 - [onvoyage-ai/gtm-engineer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onvoyage-ai-gtm-engineer-skills/) — 改善網站 AEO／GEO（AI/生成式引擎優化）的 Claude Code skill。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [daniel-c-silva/SynthPons](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daniel-c-silva-synthpons/) — 根據音符或和絃生成旋律和和絃進行的即時播放器。
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hainrixz-claude-banana/) — 將粗略想法轉換為完美影像生成提示的 AI 代理，具備多種創意技術。
 - [jaylfc/taOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaylfc-taos/) — 自建 AI 代理系統，適用於消費者硬體如 Mac Mini 或 Raspberry Pi。

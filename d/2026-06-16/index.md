@@ -547,7 +547,6 @@ _每日存檔 · 2026-06-16_
 - [tsensei/OpenReels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsensei-openreels/) — 開源 AI 管道，將任何主題轉換為可發布的 YouTube 或 Instagram 短片。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — 產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [gudaochangsheng/RefAlign](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gudaochangsheng-refalign/) — 使用 PyTorch 實現 RefAlign，一種將參考文本轉換為影片的控制生成模型。

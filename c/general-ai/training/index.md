@@ -41,19 +41,19 @@
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Specific-Labs/Scaffold-CoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-specific-labs-scaffold-cot/) — Hugging Face 資料集，關鍵字：推理（依標籤自動歸類，詳細看下方原文）
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
-- [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-iigroup-x-coder-sft-376k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
-- [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
+- [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-iigroup-x-coder-sft-376k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
-- [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunrainyg-randopt/) — 基於神經厚林理論的黑盒最佳化官方程式碼庫。
-- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
+- [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [THU-BPM/RLCSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thu-bpm-rlcsd/) — 對比自我蒸餾的強化學習框架，適用於大型語言模型。
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-can-i-finetune-this/) — 估計Hugging Face模型是否能在你的本地GPU上微調。
-- [arkorlab/arkor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arkorlab-arkor/) — 用於微調的 TypeScript 框架，支援 GPU 和多種機器學習模型。
+- [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunrainyg-randopt/) — 基於神經厚林理論的黑盒最佳化官方程式碼庫。
+- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
-- [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
-- [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
+- [arkorlab/arkor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arkorlab-arkor/) — 用於微調的 TypeScript 框架，支援 GPU 和多種機器學習模型。
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavegemma/) — 將Gemma 4模型微調為原始人風格的語音。
+- [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
 - [sapientinc/data_io](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-data-io/) — 人力資源管理文本預訓練資料管道
+- [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shlokchorge-fine-tuning-qwen2vl/) — 使用LoRA和Unsloth對Qwen2-VL-7B進行微調，以改善LaTeX OCR效能。
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackohhhh-medllm-finetuning/) — 用於醫學二元分類任務的開箱即用大語言模型微調框架。

@@ -1,6 +1,6 @@
 # JasonColapietro/suede-creator-skills
 
-74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grade, CI gates, AI evals, design systems, conversion copy, Instagram growth, iOS and Android app shipping, creator rights, and consumer refund recovery.
+Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusable workflows for Claude Code and Codex, plus code review, app delivery, and creator tools.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

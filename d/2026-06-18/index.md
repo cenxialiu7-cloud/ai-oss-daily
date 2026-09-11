@@ -573,7 +573,6 @@ _每日存檔 · 2026-06-18_
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zubair-trabzada-ai-marketing-claude/) — Claude Code 的 AI 行銷套件：15 個 skill＋平行子代理稽核網站。
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pku-yuangroup-helios/) — 即時生成長影片的高效擴散模型。
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Affitor/affiliate-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/affitor-affiliate-skills/) — 50 個聯盟行銷 agent skill：研究熱門內容、寫有數據根據的貼文。
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexpospekhov-searchstack-aeo/) — 開源搜尋技術堆疊，監控 Google、ChatGPT 等平臺上的能見度。
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — 將AI轉換成結構化工作者，適用於需要多步驟的團隊工作流程。

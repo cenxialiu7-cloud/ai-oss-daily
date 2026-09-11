@@ -533,7 +533,6 @@ _每日存檔 · 2026-06-15_
 - [gudaochangsheng/RefAlign](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gudaochangsheng-refalign/) — 使用 PyTorch 實現 RefAlign，一種將參考文本轉換為影片的控制生成模型。
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
 - [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — Context+ 是一個高精度的MCP伺服器，結合了RAG、AST等技術。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tirth8205/code-review-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tirth8205-code-review-graph/) — 本地化程式碼智慧圖形，為 AI 程式設計工具提供精確上下文。
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vernonoy-alpha-skills/) — 給 AI coding 助手用的量化因子研究 skill。
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cloakhq-cloakbrowser/) — 隱形 Chromium 瀏覽器，通過所有機器人檢測測試，可替代 Playwright。

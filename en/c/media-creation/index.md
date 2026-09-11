@@ -2,14 +2,14 @@
 
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
-- [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openvdn-vdn-minimax-h3/) — text-to-video · diffusers, safetensors, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
-- [microsoft/VibeVoice-ASR-Streaming-7B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-streaming-7b/) — automatic-speech-recognition · transformers, safetensors, vibevoice
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
-- [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-breezeblue-breeze-tts-2/) — text-to-speech · transformers, safetensors, breeze
+- [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openvdn-vdn-minimax-h3/) — text-to-video · diffusers, safetensors, text-to-video
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
+- [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-breezeblue-breeze-tts-2/) — text-to-speech · transformers, safetensors, breeze
+- [microsoft/VibeVoice-ASR-Streaming-7B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-streaming-7b/) — automatic-speech-recognition · transformers, safetensors, vibevoice
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
@@ -24,13 +24,14 @@
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gazingstars123-anima-2-9b/) — text-to-image · diffusion-single-file, anima, comfyui
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
-- [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — image-to-image · Flux2Klein, Sun, I2I
+- [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-m-a-p-yue2-3b/) — text-to-audio · safetensors, yue2, music-generation
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/) — text-to-speech · transformers, safetensors, higgs_multimodal_qwen3
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nicolab28-clipproj-minimax-h3/) — text-to-video · comfyui, minimax-h3, text-to-video
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — image-to-video · diffusers, safetensors, i2v
+- [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-wan-ai-wan-dancer-14b/) — image-to-video · diffusers, safetensors, i2v
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
@@ -53,10 +54,9 @@
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-micro-v2/) — text-to-speech · text-to-speech, speech-synthesis, local-tts
 - [nyralabs/CrisperWhisper2.0_large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nyralabs-crisperwhisper2-0-large/) — automatic-speech-recognition · crisperwhisper, safetensors, whisper
+- [Tencent-Hunyuan/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencent-hunyuan-auk/) — AuK: An Open-Source Foundational Model for Speech Generation and Editing
 - [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio
 - [jub0t/WolfCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-wolfcut/) — Free & Open-Source CapCut replacement.
 - [openai/whisper-large-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-whisper-large-v3/) — automatic-speech-recognition · transformers, pytorch, jax
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
-- [pierrenade/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pierrenade-short-video-generator-ai/) — Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, su…
-- [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kiabush-persian-text-to-ipa-byt5/) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tune…

@@ -421,7 +421,6 @@ _每日存檔 · 2026-07-29_
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artefactory-ledger-market-sentiment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-wikiprofile/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -846,7 +845,6 @@ _每日存檔 · 2026-07-29_
 - [wickra-lib/wickra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wickra-lib-wickra/) — 基於Rust核心的技術指標流式處理框架，支援多種語言元件，適用於演算法交易。
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-biomysterybench-full/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tmasjc-deka-oss/) — 將人類直覺與語義空間對齊的工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
 - [repoprompt/repoprompt-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoprompt-repoprompt-ce/) — RepoPrompt 社群版：為 AI 程式碼代理提供上下文工程的 macOS 原生應用。
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/echo-team-joy-future-academy-jd-echo-memory/) — 具有記憶功能的簡單基線影片世界模型。

@@ -473,7 +473,6 @@ _每日存檔 · 2026-08-15_
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 - [macrodata/WGO-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-macrodata-wgo-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/OpenAoE-2000h](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-openaoe-2000h/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-molmo-motion-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-local-ai-image-generator/) — Windows 系統上的離線 AI 影像生成器，支援 Stable Diffusion。
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/) — 純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。
@@ -977,7 +976,6 @@ _每日存檔 · 2026-08-15_
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-idavidrein-gpqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autonomous-ai-autonomous-grid/) — 將現有電腦連線成 AI 內網進行推理和訓練。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fredyrivera-dev-claude-converter/) — 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-114k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

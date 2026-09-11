@@ -639,7 +639,6 @@ _每日存檔 · 2026-06-27_
 - [Leonxlnx/agentic-ai-prompt-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-agentic-ai-prompt-research/) — 研究代理AI程式碼助手的工作方式，重建提示模式和協調。
 - [corticalstack/awesome-foundry-nextgen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/corticalstack-awesome-foundry-nextgen/) — Microsoft Foundry 的實戰實驗室，涵蓋 Azure 平臺即服務 (PaaS) 的企業 AI 系統。
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jenniferzhao0531-iclr2026-guide-cn/) — ICLR 2026 全景中文導讀，節省閱讀時間。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Kyros-494/kyros-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyros-494-kyros-ai/) — 為 AI 代理提供安全持久記憶系統，支援三種記憶型別。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — 為安全研究和漏洞檢測設計的 Claude Code 技能集。

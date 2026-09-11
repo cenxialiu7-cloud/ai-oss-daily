@@ -414,7 +414,6 @@ _每日存檔 · 2026-06-03_
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [tinyBigGAMES/VindexLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tinybiggames-vindexllm/) — 純 Delphi 開發的 GPU 加速 LLM 推論引擎，完全在 GPU 上執行。
 - [Agents365-ai/video-podcast-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-video-podcast-maker/) — 自動化 4K 編碼機器人影片播客生成工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jundot-omlx/) — 適用於 Apple Silicon 的 LLM 推論伺服器，支援 macOS 選單欄管理。
 - [okx/agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-trade-kit/) — OKX 官方交易 MCP server — 讓 AI agent 操作現貨/合約/網格機器人。
 - [appautomaton/mlx-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appautomaton-mlx-speech/) — 純 MLX 音訊合成、語音克隆和對話系統，專為 Apple 矽晶片設計。

@@ -644,7 +644,6 @@ _每日存檔 · 2026-06-29_
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [xuliang2024/cutcli-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xuliang2024-cutcli-cookbook/) — 提供 CapCut 與 Jianying 稿件 CLI 操作的手冊、範例及 AI 提示。
 - [Arthur-Ficial/apfel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arthur-ficial-apfel/) — Mac 上免費的 AI 工具，包含 CLI 和 OpenAI 相容伺服器。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
 - [F-R-L/forge-film](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/f-r-l-forge-film/) — 利用關鍵路徑法進行平行 AI 影片生成，提高效率。
 - [wquguru/harness-books](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wquguru-harness-books/) — 兩本關於 Claude Code 和 Codex 的設計哲學書籍，涵蓋約束、查詢迴圈等。

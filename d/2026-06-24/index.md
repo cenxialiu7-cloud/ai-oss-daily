@@ -604,7 +604,6 @@ _每日存檔 · 2026-06-24_
 - [pouyahasanamreji/continuum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pouyahasanamreji-continuum/) — 為程式設計代理提供共享記憶和協調服務。
 - [ferosai/feros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferosai-feros/) — 開源語音代理作業系統，具備低延遲和多語言支援。
 - [iOfficeAI/OfficeCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/) — 專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/filiksyos-gitreverse/) — 將任意程式碼庫逆向工程為原始提示的工具。
 - [ling-0729/KHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ling-0729-khunter/) — 開箱即用的 A 股量化交易系統：資料/選股/擇時/風控/回測一體。
 - [DayadaUP/claude-code-auto-video-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dayadaup-claude-code-auto-video-edit/) — 自動化達芬奇剪輯系統，使用Whisper轉寫文字並生成時間線。

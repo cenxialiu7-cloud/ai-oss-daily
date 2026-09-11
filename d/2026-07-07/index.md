@@ -707,7 +707,6 @@ _每日存檔 · 2026-07-07_
 - [quant-whisper（本機端對沖基金）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ritiksuman07-quant-whisper/) — 「在你本機上的對沖基金」—— 終端機原生的演算法交易工具。
 - [cutebacktests（選擇權回測框架）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cutemarkets-cutebacktests/) — 針對現代選擇權策略的回測框架。
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-multi-agent-open-multi-agent/) — 基於 TypeScript 的多代理系統自動化工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — GPT Image 2 prompt 大全（策展清單）。
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0share/) — A 股本地資料管道：Tushare＋DuckDB＋Parquet，日線/複權增量同步與排程。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。

@@ -451,7 +451,6 @@ _每日存檔 · 2026-06-06_
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [llllllilllll/Kalshi-Trade-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llllllilllll-kalshi-trade-bot/) — 利用 Polymarket 和 Kalshi 預測市場差價進行套利交易的機器人。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dataelement/Clawith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-clawith/) — 您的代理公司，提供多個代理的管理解決方案。
 - [Neutral-Debug/Mexc-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neutral-debug-mexc-trading-bot/) — MEXC 自動交易機器人，採用三種獨立策略，零手續費。
 - [thearnavrustagi/marketmenow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thearnavrustagi-marketmenow/) — 給新創的 agentic 對外行銷自動化。

@@ -528,7 +528,6 @@ _每日存檔 · 2026-06-12_
 - [laboratoiresonore/spellcaster](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laboratoiresonore-spellcaster/) — 無痛、專家級的本地 AI 影像生成工具，免費且有機。
 - [YicunAI/Pnlclaw-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yicunai-pnlclaw-community/) — 本機優先的加密與預測市場量化引擎。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Houseofmvps/ultraship](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-ultraship/) — Claude Code 外掛，提供 39 個技能、33 個工具和 11 個代理程式，適用於工作流程。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [ThetaCursed/ComfyUI-HiresFix-Ultra-AllInOne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-comfyui-hiresfix-ultra-allinone/) — 專業的 ComfyUI 高解析度修正工具，整合模型和潛在上昇。

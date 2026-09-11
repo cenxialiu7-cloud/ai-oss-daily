@@ -319,7 +319,6 @@ _每日存檔 · 2026-08-14_
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-lingbot-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-my-pi-agent/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-amphora-researchmath-14k/) — ResearchMath 數學研究問答資料集（14k 筆）。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-umutkocasari-faceanything/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-misotts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -977,7 +976,6 @@ _每日存檔 · 2026-08-14_
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vigozhao-ai-visual-prompt-cookbook/) — AI影像生成的可重用JSON提示模板集合，每日更新。
 - [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jasoncolapietro-suede-creator-skills/) — 28 個開放原始碼的 Agent 技能，適用於 Claude Code 和 Codex。
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runapi-ai-mcp/) — RunAPI 的模型發現和價格查詢伺服器，提供 LLM 聊天功能。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deanpeters/Product-Manager-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deanpeters-product-manager-skills/) — 基於 AI 代理的產品管理技能框架。
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。
 - [AbuZar-Ansarii/PrivatePixelPrompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abuzar-ansarii-privatepixelprompt/) — 行動式AI工具，可在USB驅動器上離線執行。

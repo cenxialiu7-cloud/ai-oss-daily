@@ -643,7 +643,6 @@ _每日存檔 · 2026-06-28_
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/) — 新一代平行代理開發環境，可在桌面和移動裝置上執行。
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/generative-computing-granite-switch/) — 用於構建 AI 模型的軟體開發工具包。
 - [corticalstack/awesome-foundry-nextgen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/corticalstack-awesome-foundry-nextgen/) — Microsoft Foundry 的實戰實驗室，涵蓋 Azure 平臺即服務 (PaaS) 的企業 AI 系統。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [Leonxlnx/agentic-ai-prompt-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-agentic-ai-prompt-research/) — 研究代理AI程式碼助手的工作方式，重建提示模式和協調。
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoyeai-openclaw-marketing-skills/) — 33 個實戰行銷 skill（OpenClaw agents）。

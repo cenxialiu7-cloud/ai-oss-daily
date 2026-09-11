@@ -588,7 +588,6 @@ _每日存檔 · 2026-06-22_
 - [ZeroLu/awesome-happy-horse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zerolu-awesome-happy-horse/) — Happy Horse 模型的社群整理提示、新聞、評估等資源中心，包含文字轉影片示範。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [kongyiji/face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kongyiji-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/filiksyos-gitreverse/) — 將任意程式碼庫逆向工程為原始提示的工具。
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-sparkvsr/) — 透過稀疏關鍵幀傳播進行互動式影片超解析。
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-awesome-codex-subagents/) — 涵蓋廣泛開發場景的130多種Codex子代理集合。

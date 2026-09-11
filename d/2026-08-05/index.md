@@ -304,7 +304,6 @@ _每日存檔 · 2026-08-05_
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-higgs-audio-v3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [feyninc/pulpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-pulpie/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [MCG-NJU/VideoChat3-LV116k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mcg-nju-videochat3-lv116k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Personas-El-Salvador](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-el-salvador/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ideogram-ai-ideogram4/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Hallzyaoscillator/melodyne-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hallzyaoscillator-melodyne-forge/) — 音樂生成和旋律抽取工具。
@@ -899,7 +898,6 @@ _每日存檔 · 2026-08-05_
 - [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nai-he-fund-analysis-agent/) — 基金資料收集與 AI 分析工具，支援多源資料和風險評估。
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbue-bit-ns-ntk/) — 非穩態神經網路理論，適用於量化金融中的連續分佈變換。
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomflow-ai-molecode/) — Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepakness-google-ai-search-optimization/) — 依 Google 指引做 AI Overviews／AI Mode／SEO 稽核的 agent skill。
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/earthtojake-text-to-cad/) — CAD、機器人和硬體設計代理技能集。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。

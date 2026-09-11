@@ -6,7 +6,6 @@ _每日存檔 · 2026-07-27_
 
 - [unstonio/pixelgpt-24x24-20k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-unstonio-pixelgpt-24x24-20k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuixin8-meiti-ai/) — AI 自媒體內容運營平臺，自動分發至多個社交平臺。
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autonomous-ai-autonomous-grid/) — 將現有電腦連線成 AI 內網進行推理和訓練。
 - [google-antigravity/antigravity-sdk-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-antigravity-antigravity-sdk-python/) — 用於構建使用 Google Antigravity 的 Python AI 代理庫。
@@ -361,7 +360,6 @@ _每日存檔 · 2026-07-27_
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-localduo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio的工作流程指南，包括色彩校正和交付設定。
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — NVIDIA 支援的文本生成轉換器模型。
 - [katipally/openlive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/) — 開源的在地端語音與視覺層AI代理框架，支援本地語音迴圈處理。
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
@@ -835,7 +833,6 @@ _每日存檔 · 2026-07-27_
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evanbacon-serve-sim/) — 用於 Apple 模擬器的無頭伺服器工具，類似 npx serve。
 - [Ontos-AI/knowhere](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ontos-ai-knowhere/) — 提取、解析並輸出結構化資料供AI代理使用。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。

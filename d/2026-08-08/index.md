@@ -359,7 +359,6 @@ _每日存檔 · 2026-08-08_
 - [RekaAI/RekaDaily-10k-raw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-rekadaily-10k-raw/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [carpedkm/CustoMDiT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-carpedkm-customdit/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bcbl190626/SpanishBCBL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-kroma-krea2-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-zonos2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -926,7 +925,6 @@ _每日存檔 · 2026-08-08_
 - [huawei-csl/KVarN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huawei-csl-kvarn/) — 為代理提供原生 vLLM KV-快取量化後端，提升上下文和吞吐量。
 - [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-forkd/) — 用於AI代理的微虛擬機器系統，可在毫秒級快速複製和分支活躍虛擬機器。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenyuchiou-awesome-agentic-ai-zh/) — 中文 AI Agent 學習地圖，涵蓋從 LLM 基礎到多代理系統的資源。
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。

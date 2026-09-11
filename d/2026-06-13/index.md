@@ -524,7 +524,6 @@ _每日存檔 · 2026-06-13_
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [hec-ovi/vllm-awq4-qwen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hec-ovi-vllm-awq4-qwen/) — 基於AMD顯示卡的Qwen 3.6-27B模型，支援視覺和工具呼叫等功能。
 - [H-EmbodVis/HyDRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/h-embodvis-hydra/) — 混合記憶模型，用於動態影片世界的生成。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/natebjones-projects-ob1/) — 開源個人知識管理系統，支援多種AI外掛。

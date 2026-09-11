@@ -699,7 +699,6 @@ _每日存檔 · 2026-07-03_
 - [pengrambo3-tech/ZeusHammer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengrambo3-tech-zeushammer/) — 具備本地腦、語音互動及三層記憶的AI超級代理。
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectifyai-openkb/) — 開放式大型語言模型知識庫。
 - [NVIDIA/NemoClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-nemoclaw/) — 在 NVIDIA OpenShell 中更安全地執行 Hermes 和 OpenClaw 代理程式。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [devnen/qwen3.6-windows-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devnen-qwen3-6-windows-server/) — Windows上的一鍵式Qwen3.6-27B推理部署，無需WSL或Docker。
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techsquidtv-cliparr/) — 從個人媒體伺服器上的媒體建立剪輯。
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stablyai-orca/) — 新一代平行代理開發環境，可在桌面和移動裝置上執行。

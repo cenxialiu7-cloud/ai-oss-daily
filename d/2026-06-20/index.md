@@ -578,7 +578,6 @@ _每日存檔 · 2026-06-20_
 - [repowise-dev/claude-code-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repowise-dev-claude-code-prompts/) — 獨立撰寫的 AI 程式碼代理提示模板，涵蓋系統提示、工具提示等。
 - [LucasHJin/vit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucashjin-vit/) — 影片編輯版本控制系統。
 - [rasbt/mini-coding-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rasbt-mini-coding-agent/) — 簡潔易懂的 Python 程式碼代理實現，解釋核心元件。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [Narcooo/inkos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/narcooo-inkos/) — 自動小說創作 AI 代理，負責寫作、審核和修改。
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — 透過瀏覽器繪製Gemini圖形，支援MCP協議和開放爪機器人。

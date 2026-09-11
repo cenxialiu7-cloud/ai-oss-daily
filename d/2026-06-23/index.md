@@ -594,7 +594,6 @@ _每日存檔 · 2026-06-23_
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。
 - [ZeroLu/awesome-happy-horse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zerolu-awesome-happy-horse/) — Happy Horse 模型的社群整理提示、新聞、評估等資源中心，包含文字轉影片示範。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/filiksyos-gitreverse/) — 將任意程式碼庫逆向工程為原始提示的工具。
 - [kongyiji/face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kongyiji-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。

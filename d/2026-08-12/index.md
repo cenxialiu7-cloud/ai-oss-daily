@@ -329,7 +329,6 @@ _每日存檔 · 2026-08-12_
 - [FINAL-Bench/POCKET-35B-CPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-pocket-35b-cpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-fable-5-boeing-747/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/) — 本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Cognitive-Lab/NayanaOCR_Corpus_2025](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cognitive-lab-nayanaocr-corpus-2025/) — NayanaOCR：印度語系 OCR 語料庫。
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-higgs-audio-v3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [feyninc/pulpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-pulpie/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -953,7 +952,6 @@ _每日存檔 · 2026-08-12_
 - [wangchuxiaoji-oss/doubao2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangchuxiaoji-oss-doubao2api/) — 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-idavidrein-gpqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [opensquilla/opensquilla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensquilla-opensquilla/) — OpenSquilla 是一種節省 Token 的 AI 代理，能在相同預算下提供更高的智慧密度。
 - [Helvesec/rmux](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helvesec-rmux/) — 通用 Rust 多路復用器，適用於 CLI 和 TUI 應用程式。
 - [microsoft/intelligent-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-intelligent-terminal/) — 帶有內建代理功能的Windows終端機模擬器。

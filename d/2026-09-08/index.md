@@ -59,7 +59,6 @@ _每日存檔 · 2026-09-08_
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/) — NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/) — 將文本轉換為影片的MiniMax-H3模型。
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — 影像文字轉文字模型，支援深度學習框架。
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/) — Google 的 timesfm 模型，用於時間序列預測。
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/) — 基於LORA技術的文字轉影像模型，用於生成影像。
@@ -586,7 +585,6 @@ _每日存檔 · 2026-09-08_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1130,7 +1128,6 @@ _每日存檔 · 2026-09-08_
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dream-xr-mt5-post-trade-insight-reporter/) — 自動化外匯訊號交易平臺，從 Telegram 到 MT5 EA 的策略轉換。
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicholascone-agnes-ai-video-suite/) — 最佳開源 AI 影片生成器，將文字轉換為帶旁白和字幕的電影。
 - [22kk12/mengwei-local-leads-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/22kk12-mengwei-local-leads-workbench/) — 一個正在開發中的AI工作臺原型，用於內容生成、影片自動化等。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/) — 去除文本中的 AI 記號，使其更自然。
 - [AbdulWasay13/TradingView-Pipe-Executor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulwasay13-tradingview-pipe-executor/) — 使用 AI 警報和 Webhook 連線的自動化外匯交易機器人。

@@ -777,7 +777,6 @@ _每日存檔 · 2026-07-18_
 - [0xSteph/pentest-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsteph-pentest-ai/) — Offensive-security MCP伺服器，包含205個工具、17種專業代理和60個SPA探測器。
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
 - [gameworkerkim/vibe-investing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gameworkerkim-vibe-investing/) — AI 驅動的 NASDAQ/S&P500/加密投資：LLM 量化工具與多 agent 回測。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [achaljhawar/1rok](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/achaljhawar-1rok/) — 多 LLM 自動交易框架。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-mcp-vybe/) — 公開的Vybe Solana API元資料 registry。

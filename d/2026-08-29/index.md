@@ -538,7 +538,6 @@ _每日存檔 · 2026-08-29_
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
 - [TeichAI/Fable-5-Cursor-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-fable-5-cursor-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/ComfyUI-Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-breeze-tts-2/) — ComfyUI的Breeze TTS 2節點，支援雙語語音克隆和設計。
 - [Cripacx/mediagen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cripacx-mediagen/) — Claude Code 的多模態生成技能，結合 Gemini、OpenAI 和 Kie AI，支援 EU AI Act 內容標記。
@@ -1121,7 +1120,6 @@ _每日存檔 · 2026-08-29_
 - [wuxuedaifu/vllm-chatterbox-stream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuxuedaifu-vllm-chatterbox-stream/) — 相容OpenAI的多語言TTS伺服器，支援即時音訊流、語音克隆及23種語言。
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [dongshuyan/compass-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongshuyan-compass-skills/) — 司南：為AI代理提供個人化的任務總控系統。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [bigmacman1129/solana-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-arbitrage-trading-bot/) — 基於 Rust 的 Solana 套利交易機器人，自動掃描 DEX 價格並執行交易。

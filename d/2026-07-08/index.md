@@ -709,7 +709,6 @@ _每日存檔 · 2026-07-08_
 - [large-performance-model/large-performance-model.github.io](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/large-performance-model-large-performance-model-github-io/) — 基於影片的角色表演模型。
 - [superseo-skills（11 個 SEO 技能）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inhouseseo-superseo-skills/) — 11 個給 Claude 用的 SEO 技能：頁面稽核、外鏈建立、文章撰寫。
 - [Monet-AI-Editor/Monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/monet-ai-editor-monet/) — 使用 Claude code 或 Codex 編輯影片和設計影像的工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — Hermes Agent、Claude Code 和 Cursor 的技能集，涵蓋 28 個類別。
 - [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongxinsuperman-ai-phone/) — 三端真機 AI 自動化中台（手機自動化）。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。

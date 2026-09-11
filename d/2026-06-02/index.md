@@ -382,7 +382,6 @@ _每日存檔 · 2026-06-02_
 - [appautomaton/mlx-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appautomaton-mlx-speech/) — 純 MLX 音訊合成、語音克隆和對話系統，專為 Apple 矽晶片設計。
 - [aitradingbotspro/cryto-trading-ai-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aitradingbotspro-cryto-trading-ai-assistant/) — 手動交易者的 AI 守護：風險監控、策略驗證、情緒控管。
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fspecii-ace-step-ui/) — ACE-Step 1.5 的專業 UI，免費、本地化、無限音樂生成工具。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0xMassi/webclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xmassi-webclaw/) — 快速本地化的 LLM 網頁內容提取工具，支援 CLI 和 REST API。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。

@@ -59,7 +59,6 @@ _Daily archive · 2026-09-08_
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-flash-next/) — image-text-to-text · transformers, safetensors, qwen4_exp
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nicolab28-clipproj-minimax-h3/) — text-to-video · comfyui, minimax-h3, text-to-video
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — image-text-to-text · transformers, safetensors, deepseek_v4
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — image-to-video · diffusers, safetensors, i2v
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-timesfm-3-0-pytorch/) — time-series-forecasting · safetensors, time-series, forecasting
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
@@ -124,7 +123,7 @@ _Daily archive · 2026-09-08_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
-- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · modality:video, region:us, cad
+- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · license:cc-by-4.0, modality:video, region:us
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
@@ -372,7 +371,7 @@ _Daily archive · 2026-09-08_
 - [ginigen-ai/robocasa-kitchen-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ginigen-ai-robocasa-kitchen-leaderboard/) — · docker, region:us
 - [build-small-hackathon/her](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-her/) — · gradio, track:backyard, sponsor:nvidia
 - [zhifeixie/Voices-in-the-Wild-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhifeixie-voices-in-the-wild-2m/) — · task_categories:automatic-speech-recognition, language:en, language:zh
-- [jacokon/fasth3-live](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jacokon-fasth3-live/) — · language:en, license:other, region:us
+- [jacokon/fasth3-live](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jacokon-fasth3-live/) — · language:en, license:other, modality:text
 - [EilamSha/glee-competition-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eilamsha-glee-competition-leaderboard/) — · static, region:us
 - [HuggingFaceM4/hugging-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacem4-hugging-voice/) — · docker, research-article-template, research paper
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-reasoncore-open-spatial-reasoning/) — · task_categories:multiple-choice, language:en, license:cc-by-4.0
@@ -586,7 +585,6 @@ _Daily archive · 2026-09-08_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonshotai-perceptionbench/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — · task_categories:text-generation, language:en, language:zh
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-seedofevil-pro-realism-edit-studio/) — · gradio, region:us
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
@@ -1130,7 +1128,6 @@ _Daily archive · 2026-09-08_
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dream-xr-mt5-post-trade-insight-reporter/) — AutoTrade Forex Signals: Telegram to MT5 EA 2026 Strategy
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nicholascone-agnes-ai-video-suite/) — Best Open Source AI Video Generator 2026: Text to Multi-Scene Movies with Narration & Subtitles
 - [22kk12/mengwei-local-leads-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/22kk12-mengwei-local-leads-workbench/) — Half-developed local leads workbench prototype for AI content, video automation, keyword research, account wa…
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mathllms-mathvision/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:visual-question-answer…
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — · gradio, region:us
 - [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blader-humanizer/) — Agent skill that removes signs of AI-generated writing from text
 - [AbdulWasay13/TradingView-Pipe-Executor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abdulwasay13-tradingview-pipe-executor/) — Automated MT5 Trading Bot with AI Alerts & Webhook Bridge 2026
@@ -1300,7 +1297,7 @@ _Daily archive · 2026-09-08_
 - [xbtlin/ai-berkshire](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xbtlin-ai-berkshire/) — AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value inve…
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
 - [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jamubc-gemini-mcp-tool/) — MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token w…
-- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。
+- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: O…
 - [Light-Heart-Labs/DreamServer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/light-heart-labs-dreamserver/) — Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and…
 - [js-lee-AI/awesome-llm-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/js-lee-ai-awesome-llm-agent-papers/) — A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-…
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vibe-creating-skill/) — Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portab…
@@ -1562,7 +1559,7 @@ _Daily archive · 2026-09-08_
 - [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thedecipherist-claude-code-mastery/) — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
 - [tractorjuice/arc-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tractorjuice-arc-kit/) — The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI cod…
-- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5…
+- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 276 CN + 184 EN + 5…
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
 - [Observal/Observal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/observal-observal/) — Observal is a local registry and analytics platform for your AI components. Setup Observal, define the scope …
 - [AtomicBot-ai/atomic-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomicbot-ai-atomic-agent/) — Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs private…
@@ -1727,7 +1724,7 @@ _Daily archive · 2026-09-08_
 - [zerochocobo/VR-Video-Toolbox-CE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zerochocobo-vr-video-toolbox-ce/) — VR Video Toolbox (CUDA Edition)
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
-- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grad…
+- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operat…
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendemon-pilipili-autovideo/) — 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
 - [YicunAI/Pnlclaw-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yicunai-pnlclaw-community/) — PnLClaw — local-first crypto and prediction market quant engine.
 - [archie0732/healthy-diet-ai-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archie0732-healthy-diet-ai-agent/) — Healthy Diet AI Agent is a Bun + TypeScript backend for nutrition chat, food-image analysis, RAG document ing…

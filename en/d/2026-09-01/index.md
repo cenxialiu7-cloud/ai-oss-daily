@@ -4,7 +4,6 @@ _Daily archive · 2026-09-01_
 
 ## 🆕 New
 
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — image-text-to-text · transformers, safetensors, deepseek_v4
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [incoai/GLM-5.3-Flash-DFlash2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-glm-5-3-flash-dflash2/) — text-generation · transformers, safetensors, qwen3
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryze-ai-adgent-open-seo-mcp-skills/) — Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transp…
@@ -16,6 +15,7 @@ _Daily archive · 2026-09-01_
 - [kindlychemi/Limit-Order-Tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kindlychemi-limit-order-tracker/) — Contract Interaction History — Windows developer utility concept for inspecting smart-contract calls, logs, e…
 - [humongousissu/Arbitrage-Scanner-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/humongousissu-arbitrage-scanner-desktop/) — Gas Price Desktop Widget — Windows desktop concept for tracking blockchain network fees, gas history, and est…
 - [waryenemy/ETH-Gas-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/waryenemy-eth-gas-optimizer/) — ENS Lookup Desktop — Windows ENS lookup concept for resolving names, addresses, and common public resolver re…
+- [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deadsoot-token-gains-reporter/) — Crypto Tax Report Generator — Windows finance utility concept for local crypto accounting, cost-basis, gain/l…
 
 ## 🚀 Climbing
 
@@ -96,7 +96,6 @@ _Daily archive · 2026-09-01_
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
 - [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-realrebelai-minimax-h3-ggufs/) — · gguf, minimax, comfyui
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-tabfm-1-0-0-pytorch/) — tabular-classification · tabfm, safetensors, tabular
-- [deepseek-ai/DeepSeek-V4-Flash-Vision-Exp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-flash-vision-exp/) — image-text-to-text · transformers, safetensors, deepseek_v4
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
 - [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwen3-8-9b-distill-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
@@ -126,7 +125,7 @@ _Daily archive · 2026-09-01_
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
-- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · modality:video, region:us, cad
+- [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · license:cc-by-4.0, modality:video, region:us
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
 - [LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-luffythefox-qwen3-6-35b-a3b-uncensored-genesis-hermes-v7-gguf/) — image-text-to-text · hermes, gguf, uncensored
 - [ReverseFaceSearch/Reverse-Face-Search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-reversefacesearch-reverse-face-search/) — · static, region:us
@@ -557,7 +556,6 @@ _Daily archive · 2026-09-01_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonshotai-perceptionbench/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tornikegomareli-talkify/) — Lightning-fast, free, local first voice dictation for macOS with on-device transcription
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-seedofevil-pro-realism-edit-studio/) — · gradio, region:us
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
@@ -1153,13 +1151,12 @@ _Daily archive · 2026-09-01_
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inkeep-open-knowledge/) — Beautiful, AI-native markdown IDE and LLM wiki
 - [huangruiteng/loopx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huangruiteng-loopx/) — Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
 - [perso-ai/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perso-ai-perso-dubbing-plugin/) — AI video auto-dubbing plugin for coding agents — translate & dub videos into multiple languages via the Perso…
-- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。
+- [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: O…
 - [CUTEPKQ/NEWTON](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cutepkq-newton/) — NEWTON: Agentic Planning for Physically Grounded Video Generation
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-superpowers-zh/) — 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / C…
 - [geekjourneyx/hyperframes-motion-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-hyperframes-motion-director/) — Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and READ…
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
 - [google/mantis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/google-mantis/) — A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reprod…
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mathllms-mathvision/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:visual-question-answer…
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — · gradio, region:us
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-guide/) — · docker, research-article-template, rl-environments
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lmsys-lmsys-chat-1m/) — · size_categories:1M<n<10M, format:parquet, modality:text
@@ -1353,7 +1350,7 @@ _Daily archive · 2026-09-01_
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/walkinglabs-learn-harness-engineering/) — Harness engineering beginner tutorial, from 0 to 1
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/valuecell-ai-clawx/) — ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orch…
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timescale-pg-aiguide/) — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better Pos…
-- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 267 CN + 184 EN + 5…
+- [jnMetaCode/agency-orchestrator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-orchestrator/) — 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 276 CN + 184 EN + 5…
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting coding-agent session files (.jsonl) — Claude Co…
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/) — 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
@@ -1464,7 +1461,7 @@ _Daily archive · 2026-09-01_
 - [A-cat-with-carrots/OnlyShot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/a-cat-with-carrots-onlyshot/) — OnlyShot · 神仙鱼 AI 短剧工业流水线 Claude Skill — 一句话 → 剧本/分镜/分镜图/视频/剪辑 五步 → 可发红果抖音的完整短剧。集成即梦/Seedance，17 失败模式沉淀。
 - [aliang2052/aliang-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliang2052-aliang-skills/) — 阿亮开源的 Skills 合集：短剧成片 / 电商详情图 / 儿童故事 / 有声绘本 / 配音 / 多人播客。一句话触发，AI 走完整 AIGC 流程。
 - [mihaelamj/cupertino](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mihaelamj-cupertino/) — A local Apple Documentation crawler and MCP server. Written in Swift.
-- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — 74 open-source Agent Skills for Claude Code and Codex: AI SEO, AEO and GEO, code review with an A-F ship grad…
+- [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operat…
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natebjones-projects-ob1/) — Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any…
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alvinreal-awesome-opensource-ai/) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
 - [Natfii/UnrealClaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natfii-unrealclaude/) — Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentatio…

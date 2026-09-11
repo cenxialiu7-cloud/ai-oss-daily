@@ -512,7 +512,6 @@ _每日存檔 · 2026-06-09_
 - [wildminder/awesome-ai-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wildminder-awesome-ai-voice/) — 開放原始碼 TTS、語音克隆和音樂生成模型列表。
 - [degausai/wonda](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/degausai-wonda/) — Wonda CLI — 具有 AI 功能的終端內容創作工具。
 - [brandononchain/opentrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brandononchain-opentrade/) — 最強開源 TradingView AI agent：50 工具、15 個模型（Claude/GPT/Gemini）。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

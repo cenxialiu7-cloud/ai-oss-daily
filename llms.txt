@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-09-10 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-09-11 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-09-11](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-11/)
 - [2026-09-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-10/)
 - [2026-09-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-09/)
 - [2026-09-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-08/)
@@ -26,15 +27,14 @@
 - [2026-08-31](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-31/)
 - [2026-08-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-30/)
 - [2026-08-29](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-29/)
-- [2026-08-28](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-08-28/)
 
 ## 今日精選 Today's picks
-- [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/)
-- [nex-agi/Nex-N2.5-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-pro/)
-- [Vincentwei1021/anything2explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-anything2explainer/)
-- [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/)
-- [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/)
-- [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/)
+- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/)
+- [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/)
+- [ProjectDXAI/continuous-record-llm-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -96,3 +96,5 @@
 - [台灣公開資料 MCP 中樞：把政府開放資料與在地公用 API 一次打包成 AI agent 直接可呼叫的工具集](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P057/)
 - [小紅書種草內容中台：關鍵字選題 → 繁中／簡中筆記文案＋封面圖 → 人工確認後發佈與數據回收，一人維運多個帶貨帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P058/)
 - [AI 郵件商機管家：把塞爆的收件匣變成不漏接的跟進清單，每一封往來自動長成這個客戶的長期記憶](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P059/)
+- [產品上線冷啟動引擎：新站新 App 的第一個月，自動鋪滿三百個目錄並算清每個管道真正帶來多少人](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P060/)
+- [本機即時雙語字幕台：直播、線上課與跨國會議一開口就出字幕，聲音全程不離開這台電腦](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P061/)

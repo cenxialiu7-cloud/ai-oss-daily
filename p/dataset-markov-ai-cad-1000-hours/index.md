@@ -2,9 +2,9 @@
 
 Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 77 · 412 likes · 117,089 下載
+**為何上榜**：HF trending 58 · 420 likes · 123,223 下載
 
-**商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**商用授權**：可商用 — 可商用，CC-BY 類需署名
 
 **Stars**：0
 **原始連結**：https://huggingface.co/datasets/markov-ai/cad-1000-hours

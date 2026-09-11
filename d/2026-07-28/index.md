@@ -422,7 +422,6 @@ _每日存檔 · 2026-07-28_
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artefactory-ledger-market-sentiment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-wikiprofile/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [SeedOfEvil/Pro-Realism-Edit-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-seedofevil-pro-realism-edit-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-circlestone-labs-anima/) — ComfyUI 驅動的擴散模型影像生成器。
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/) — 用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。
@@ -838,7 +837,6 @@ _每日存檔 · 2026-07-28_
 - [hao-ai-lab/JetSpec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hao-ai-lab-jetspec/) — 突破預測解碼天花板的高效能大型語言模型推理框架。
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wantongc-journal-adapt-writing-skill/) — 根據期刊文章學習寫作規範並修改手稿以匹配特定格式。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ChypherFish3r/coinbase-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chypherfish3r-coinbase-trading-bot/) — Coinbase 動量策略交易機器人，具備選項利潤轉移功能。
 - [volcengine/SearchCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-searchcli/) — 整合 AI 搜尋和對話系統的命令列工具。
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/echo-team-joy-future-academy-jd-echo-memory/) — 具有記憶功能的簡單基線影片世界模型。

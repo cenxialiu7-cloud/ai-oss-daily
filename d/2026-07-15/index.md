@@ -765,7 +765,6 @@ _每日存檔 · 2026-07-15_
 - [moss-site/moss-trade-bot-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moss-site-moss-trade-bot-skills/) — LLM 交易 agent，把自然語言轉成「趨勢等五大支柱」策略。
 - [zhou343-de/easyup-platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhou343-de-easyup-platform/) — AI 量化交易系統，提供選股、風控和盯盤功能。
 - [bigmacman1129/btc-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-btc-arbitrage-trading-bot/) — 基於Python的加密貨幣套利交易機器人，監控價格差異並自動執行交易。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。

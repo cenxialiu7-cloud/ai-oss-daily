@@ -835,7 +835,6 @@ _每日存檔 · 2026-07-26_
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-less-openless/) — 按住快捷鍵說話，鬆開後即可在任何應用程式中獲得潤色的文字。
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts-server/) — 相容 OpenAI Text-to-Speech API 的 Irodori-TTS 伺服器。
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
-- [MathLLMs/MathVision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mathllms-mathvision/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hwdsl2/self-hosted-ai-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hwdsl2-self-hosted-ai-stack/) — 使用 Docker Compose 部署的完整自託管 AI 堆疊，包含多個 AI 模型和工具。
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kdan-pdf-kdan-pdf-mcp/) — 將 Claude 和 ChatGPT 結合到 KDAN PDF，支援上傳、編輯、壓縮等 PDF 功能。
 - [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kklimuk-docx-cli/) — 讓 AI 代理可以讀取、編輯和評論 .docx 檔案的命令列工具。
