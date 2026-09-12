@@ -4,5 +4,5 @@ Polymarket BTC 5-Minute Trading Bot | Python Automated Prediction Market Strateg
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：22
+**Stars**：23
 **Source**：https://github.com/dearolaf/Polymarket-BTC-5Minutes-Trading-Bot

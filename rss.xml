@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>11 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>12 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>deepseek-ai/DeepSeek-V4.1-Flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字的模型。</description>
+<title>tencent/AuK</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成語音的 AI 模型，支援多種語音合成功能。</description>
 </item>
 <item>
-<title>m-a-p/YuE2-3B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為音樂的模型。</description>
+<title>TokenRhythm/NeoHorse-1-4B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>具備程式碼生成和工具使用能力的文本生成模型。</description>
 </item>
 <item>
-<title>ProjectDXAI/continuous-record-llm-trading-agents</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>記錄和分析LLM交易代理在生產環境中的行為。</description>
+<title>Edge0/Edge0-35B-A3B-preview</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>用於邊緣推論的大型模型，支援高效能運算和資源解除安裝。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>blader/humanizer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>去除文本中的 AI 記號，使其更自然。</description>
 </item>
 <item>
-<title>Lightricks/LTX-2.5</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</guid>
-<pubDate>11 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的擴散模型。</description>
+<title>microsoft/Mage-Flow</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
+<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
+<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
 </item>
 </channel>
 </rss>

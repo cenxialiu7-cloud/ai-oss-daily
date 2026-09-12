@@ -1,8 +1,8 @@
 # zhuixin8/meiti-ai
 
-ALQQ · AI 自媒体内容运营平台｜一次创作，图文/动态/视频 一键分发 20+ 平台（抖音/小红书/B站/快手/视频号/头条/百家号/公众号/知乎/微博等）。AI写文·去AI味·热点选题·定时自动发布·多账号矩阵。完全免费，桌面端+网页端。
+ALQQ · AI 自媒体内容运营平台｜Windows 桌面端 2.1.0 · 本地优先 AI / 图片处理 · 文章、动态、视频多平台分发 · 定时计划 · 多账号管理 · Web / Linux 执行节点。免费使用，自有 AI 密钥可接入；本仓库提供介绍与安装包。
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：35
+**Stars**：36
 **Source**：https://github.com/zhuixin8/meiti-ai

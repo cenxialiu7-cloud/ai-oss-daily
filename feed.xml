@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
+<updated>2026-09-12T08:00:00+00:00</updated>
 <entry>
-<title>deepseek-ai/DeepSeek-V4.1-Flash</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文字的模型。</summary>
+<title>tencent/AuK</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>將文字轉換成語音的 AI 模型，支援多種語音合成功能。</summary>
 </entry>
 <entry>
-<title>m-a-p/YuE2-3B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>將文字轉換為音樂的模型。</summary>
+<title>TokenRhythm/NeoHorse-1-4B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>具備程式碼生成和工具使用能力的文本生成模型。</summary>
 </entry>
 <entry>
-<title>ProjectDXAI/continuous-record-llm-trading-agents</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>記錄和分析LLM交易代理在生產環境中的行為。</summary>
+<title>Edge0/Edge0-35B-A3B-preview</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>用於邊緣推論的大型模型，支援高效能運算和資源解除安裝。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>tt-a1i/archify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>blader/humanizer</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>去除文本中的 AI 記號，使其更自然。</summary>
 </entry>
 <entry>
-<title>Lightricks/LTX-2.5</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/</id>
-<updated>2026-09-11T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的擴散模型。</summary>
+<title>microsoft/Mage-Flow</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
+<updated>2026-09-12T08:00:00+00:00</updated>
+<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

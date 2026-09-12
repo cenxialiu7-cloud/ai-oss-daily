@@ -2,9 +2,9 @@
 
 適用於 Google Ads、Meta Ads 和 GA4 的 MCP 伺服器，支援多種 AI 工具。
 
-**為何上榜**：近一日新增 40★（現 1,704★）
+**為何上榜**：近一日新增 28★（現 1,732★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,704
+**Stars**：1,732
 **原始連結**：https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp
