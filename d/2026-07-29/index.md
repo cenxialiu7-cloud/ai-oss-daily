@@ -1369,7 +1369,6 @@ _每日存檔 · 2026-07-29_
 - [aitradingbotspro/cryto-trading-ai-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aitradingbotspro-cryto-trading-ai-assistant/) — 手動交易者的 AI 守護：風險監控、策略驗證、情緒控管。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
 - [kadoa-org/quant-job-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadoa-org-quant-job-market/) — 量化職場視覺化工具，分析和展示頂尖量化公司的職缺。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Vincentwei1021/kronos-guide-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-kronos-guide-cn/) — A股K線預測中文實戰指南，涵蓋資料獲取、微調教程等。
 - [multivmlabs/aeo.js](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/multivmlabs-aeo-js/) — 幫助網站在ChatGPT等AI搜尋引擎中被發現和索引。
 - [mozi1924/Qwen3-TTS-EasyFinetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mozi1924-qwen3-tts-easyfinetuning/) — Qwen3-TTS的輕鬆微調工具，快速克隆聲音並生成高品質多語種語音合成。

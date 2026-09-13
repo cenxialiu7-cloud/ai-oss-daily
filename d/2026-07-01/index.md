@@ -799,7 +799,6 @@ _每日存檔 · 2026-07-01_
 - [7WaySecurity/ai_osint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/7waysecurity-ai-osint/) — 收集 AI OSINT 資源，用於發現暴露的 LLM 端點和未保護的 AI 代理。
 - [alpic-ai/skybridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alpic-ai-skybridge/) — 適用於 MCP 和 ChatGPT 應用的全棧 TypeScript 框架。
 - [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — Context+ 是一個高精度的MCP伺服器，結合了RAG、AST等技術。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [minhxthanh/Vietnam-History-1M-Vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-minhxthanh-vietnam-history-1m-vi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [perplexity-ai/draco](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-perplexity-ai-draco/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

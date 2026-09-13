@@ -737,7 +737,6 @@ _每日存檔 · 2026-06-29_
 - [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — 開源 Kubernetes 介面，提供拓撲、事件時間軸和服務流量等視覺化。
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — 透過瀏覽器繪製Gemini圖形，支援MCP協議和開放爪機器人。
 - [rohitg00/pro-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-pro-workflow/) — Claude Code 自我修正記憶，支援多個工作樹並行運作。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [moorcheh-ai/memanto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moorcheh-ai-memanto/) — AI 代理程式喜愛的記憶功能。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zubair-trabzada-ai-marketing-claude/) — Claude Code 的 AI 行銷套件：15 個 skill＋平行子代理稽核網站。
 - [jamubc/gemini-mcp-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jamubc-gemini-mcp-tool/) — 讓 AI 助手與 Google Gemini CLI 互動的 MCP 伺服器。

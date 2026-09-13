@@ -865,7 +865,6 @@ _每日存檔 · 2026-07-05_
 - [jaylfc/taOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaylfc-taos/) — 自建 AI 代理系統，適用於消費者硬體如 Mac Mini 或 Raspberry Pi。
 - [QuixiAI/ultrachat-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-quixiai-ultrachat-uncensored/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-futo-org-swipe-futo-org/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thysrael-horizon/) — 利用 AI 建立個人新聞摘要系統，每日提供英語和中文簡報。
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnyk-council-of-high-intelligence/) — 多個 LLM 提供的 AI 角色協助你做出困難決策，進行結構化多輪辯論。

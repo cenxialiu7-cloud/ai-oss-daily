@@ -76,7 +76,6 @@ _每日存檔 · 2026-08-12_
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
-- [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/) — 一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
@@ -1605,7 +1604,6 @@ _每日存檔 · 2026-08-12_
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xortexai-xmem/) — 印度首個開源多模態、多代理長期記憶層，適用於 AI 代理人。
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samuraigpt-seedance-2-generator/) — 開源 Seedance 2.0 影片生成器，提供文字轉影片和多圖參考編輯功能。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbauwow-schwagent/) — 利用 Charles Schwab API 的 AI 自動交易機器人，支援選項策略和量化回測。
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aaryansinha16-ai-trader/) — NSE期權日內交易系統，結合雙重機器學習模型與機構流分析。
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。

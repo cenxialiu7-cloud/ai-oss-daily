@@ -1406,7 +1406,6 @@ _每日存檔 · 2026-07-31_
 - [ramanujammv1988/edge-veda](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ramanujammv1988-edge-veda/) — 適用於Flutter的邊緣AI SDK，支援LLM推理和視覺處理等多種功能。
 - [braedonsaunders/homerun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/braedonsaunders-homerun/) — 開源預測市場交易平臺，支援策略編寫、回測及自動化交易。
 - [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Agions/frame-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agions-frame-forge/) — AI驅動的影片創作工作室，將故事和劇本轉換為專業影片內容。
 - [houtini-ai/houtini-lm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houtini-ai-houtini-lm/) — 節省 Claude Code 代幣的 MCP 伺服器，支援多種 LLM。
 - [leancoderkavy/premiere-pro-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leancoderkavy-premiere-pro-mcp/) — 控制Adobe Premiere Pro的伺服器，透過CEP/ExtendScript進行AI驅動的影片編輯。

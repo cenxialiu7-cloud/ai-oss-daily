@@ -73,7 +73,6 @@ _Daily archive · 2026-08-13_
 - [LiquidAI/LFM2.5-2.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-2-6b/) — text-generation · transformers, safetensors, lfm2
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
-- [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-comfy/) — · region:us
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
@@ -418,7 +417,7 @@ _Daily archive · 2026-08-13_
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-davydenkogr-after/) — · language:en, license:apache-2.0, arxiv:2606.23127
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krafton-ax-k2-raon-speech-demo/) — · gradio, mcp-server, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-deepseek-v4-pro-agent/) — · task_categories:text-generation, language:en, size_categories:1K<n<10K
 - [OpenClaw/clawhub-security-signals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openclaw-clawhub-security-signals/) — · task_categories:text-classification, task_ids:multi-class-classification, language:en
@@ -942,7 +941,7 @@ _Daily archive · 2026-08-13_
 - [kodelyx/flow-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kodelyx-flow-agent/) — ⚡ CLI toolkit for Google Flow — Nano Banana Pro images, Omni Flash videos, MCP v2 & OpenAI API.
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/texasbedouin-vibe-check/) — By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then …
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
-- [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuixin8-meiti-ai/) — ALQQ · AI 自媒体内容运营平台｜Windows 桌面端 2.1.0 · 本地优先 AI / 图片处理 · 文章、动态、视频多平台分发 · 定时计划 · 多账号管理 · Web / Linux 执行节点。免费使用…
+- [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuixin8-meiti-ai/) — ALQQ · AI 自媒体内容运营平台｜Windows 桌面端 2.1.0 · AI 写作与配图 · 多平台发布 · 多账号管理 · 定时计划 · Web / Linux 执行节点。桌面免费下载，AI 服务费用与平台额…
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/autonomous-ai-autonomous-grid/) — Your AI intranet: network the computers you already own for inference and training.
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-waxalnlp/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language_creators:creator_1
@@ -1046,7 +1045,7 @@ _Daily archive · 2026-08-13_
 - [ongridio/ongrid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ongridio-ongrid/) — An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, …
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [yaojingang/GEOFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geoflow/) — Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, …
@@ -1626,7 +1625,6 @@ _Daily archive · 2026-08-13_
 - [cutemarkets/cutemarkets-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cutemarkets-cutemarkets-python/) — Official Python client for the CuteMarkets options market-data API. Sync + async, typed Pydantic models, auto…
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xortexai-xmem/) — Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents.
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samuraigpt-seedance-2-generator/) — Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billin…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sbauwow-schwagent/) — AI-powered algorithmic trading agent for the Charles Schwab API. Python, options strategies (wheel/theta, cov…
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aaryansinha16-ai-trader/) — AI-powered intraday options trading system for NSE F&O. Dual ML models + institutional flow analysis + regime…
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sgaofen-vibe-schooling/) — Get 4.0 GPA without learning

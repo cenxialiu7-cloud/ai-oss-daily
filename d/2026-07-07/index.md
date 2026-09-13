@@ -902,7 +902,6 @@ _每日存檔 · 2026-07-07_
 - [Rezzecup/cex-dex-price-gap-monitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-cex-dex-price-gap-monitor/) — 即時監控中心化和去中心化交易所之間的價格差異，尋找套利機會。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
 - [Sandermage/sndr_core_engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sandermage-sndr-core-engine/) — Qwen3.6 和 Gemma4 的 vLLM 執行時程式覆蓋，支援 NVIDIA Ampere 裝置。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [massgen/MassGen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/massgen-massgen/) — 開源多代理擴充套件系統，自動協調前沿模型和代理以產生高質量結果。
 - [soniqo/speech-swift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-swift/) — 適用於 Apple 裝置的 AI 語音工具包，支援語音識別、文字轉語音等功能。
 - [ibm-research/AssetOpsBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ibm-research-assetopsbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

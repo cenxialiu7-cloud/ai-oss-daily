@@ -82,7 +82,6 @@ _每日存檔 · 2026-08-11_
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
-- [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — 文本生成模型，適用於多種場景。
 - [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/) — 將文字轉換為影片的模型，支援gguf格式。
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-tabfm-1-0-0-pytorch/) — 用於表格資料分類和回歸的 PyTorch 模型。
@@ -1591,7 +1590,6 @@ _每日存檔 · 2026-08-11_
 - [momotech/LinkWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/momotech-linkwork/) — 開源企業 AI 勞動力平台：容器化角色、宣告式 skill、MCP 工具。
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xortexai-xmem/) — 印度首個開源多模態、多代理長期記憶層，適用於 AI 代理人。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbauwow-schwagent/) — 利用 Charles Schwab API 的 AI 自動交易機器人，支援選項策略和量化回測。
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aaryansinha16-ai-trader/) — NSE期權日內交易系統，結合雙重機器學習模型與機構流分析。
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。

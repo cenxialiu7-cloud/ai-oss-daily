@@ -1208,7 +1208,6 @@ _每日存檔 · 2026-07-23_
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katzca-autosocial/) — 用於自動化TikTok、Instagram和YouTube的社交媒體管理儀錶板。
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-repurpose/) — Claude Code內容重用引擎，將單一內容轉化為多個平臺最佳化的帖子。
 - [unohee/OpenSwarm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/unohee-openswarm/) — 自動化 AI 開發團隊協調器，支援 Discord 控制、Linear 整合和認知記憶。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superior-trade-superior-skills/) — 提供超級交易的代理技能和工具模式，用於建立、回測和部署在Hyperliquid上的交易策略。
 - [jmaczan/tiny-vllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jmaczan-tiny-vllm/) — 使用C++和CUDA構建的小型高效能LLM推理引擎。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。

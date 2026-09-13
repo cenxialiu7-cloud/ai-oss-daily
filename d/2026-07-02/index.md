@@ -823,7 +823,6 @@ _每日存檔 · 2026-07-02_
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — PostgreSQL 技能和文件的 Claude 外掛，幫助生成更好的 PostgreSQL 程式碼。
 - [moorcheh-ai/memanto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moorcheh-ai-memanto/) — AI 代理程式喜愛的記憶功能。
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valuecell-ai-clawx/) — 提供圖形介面的OpenClaw AI代理程式，將命令列轉換為桌面體驗。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runanywhereai-rcli/) — 本地裝置上的語音AI助手，無需雲端支援即可查詢檔案。
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evomap-evolver/) — 基於GEP的自我演進引擎，為AI代理提供可審計的演化。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。

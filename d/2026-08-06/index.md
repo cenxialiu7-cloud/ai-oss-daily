@@ -1528,7 +1528,6 @@ _每日存檔 · 2026-08-06_
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [pseudo-longinus/quant-buddy-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pseudo-longinus-quant-buddy-skills/) — 提供A股、港股和美股量化分析功能，包括市場資料查詢與策略回測。
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xortexai-xmem/) — 印度首個開源多模態、多代理長期記憶層，適用於 AI 代理人。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbauwow-schwagent/) — 利用 Charles Schwab API 的 AI 自動交易機器人，支援選項策略和量化回測。
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aaryansinha16-ai-trader/) — NSE期權日內交易系統，結合雙重機器學習模型與機構流分析。
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。

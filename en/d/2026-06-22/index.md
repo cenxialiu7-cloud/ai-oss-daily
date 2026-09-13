@@ -613,7 +613,6 @@ _Daily archive · 2026-06-22_
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjz-p-gemini-skill/) — gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 …
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miasyster-quantgpt/) — Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arcreel-arcreel/) — AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Age…
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
@@ -659,7 +658,7 @@ _Daily archive · 2026-06-22_
 - [RightNow-AI/openfang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rightnow-ai-openfang/) — Open-source Agent Operating System
 - [millionco/expect](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/millionco-expect/) — Expect tests your agent's code in a real browser
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mme-benchmarks-video-mme-v2/) — Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [adam-s/alphadidactic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adam-s-alphadidactic/) — An iteration research agent: searches academic research, applies it to time series data, and probes it to fin…
 - [xixihhhh/clipforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xixihhhh-clipforge/) — ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店…
 - [heygen-com/heygen-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-heygen-cli/) — Create AI videos from the terminal. Official CLI for the HeyGen video generation API.

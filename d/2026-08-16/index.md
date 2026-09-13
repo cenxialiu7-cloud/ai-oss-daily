@@ -154,7 +154,6 @@ _每日存檔 · 2026-08-16_
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
 - [jedisct1/MiMo-V2.5-coder-Q2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jedisct1-mimo-v2-5-coder-q2/) — MiMo V2.5 程式碼模型的 Q2 量化版（llama.cpp）。
-- [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-comfy/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/) — 經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。
 - [openai/whisper-large-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-whisper-large-v3/) — 一個使用 Transformers、PyTorch 和 JAX 的自動語音識別模型。
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-krea-2/) — Krea-2 文字轉影像模型。
@@ -1662,7 +1661,6 @@ _每日存檔 · 2026-08-16_
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xortexai-xmem/) — 印度首個開源多模態、多代理長期記憶層，適用於 AI 代理人。
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samuraigpt-seedance-2-generator/) — 開源 Seedance 2.0 影片生成器，提供文字轉影片和多圖參考編輯功能。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbauwow-schwagent/) — 利用 Charles Schwab API 的 AI 自動交易機器人，支援選項策略和量化回測。
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aaryansinha16-ai-trader/) — NSE期權日內交易系統，結合雙重機器學習模型與機構流分析。
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。

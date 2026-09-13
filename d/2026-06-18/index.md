@@ -569,7 +569,6 @@ _每日存檔 · 2026-06-18_
 - [axnoller32/AntiDetect-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axnoller32-antidetect-26/) — （灰色工具）多開瀏覽器指紋防偵測＋免費代理＋AI — 用途敏感，請謹慎。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zubair-trabzada-ai-marketing-claude/) — Claude Code 的 AI 行銷套件：15 個 skill＋平行子代理稽核網站。
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pku-yuangroup-helios/) — 即時生成長影片的高效擴散模型。
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。

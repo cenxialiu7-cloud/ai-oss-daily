@@ -1118,7 +1118,6 @@ _每日存檔 · 2026-07-18_
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [ENDEVSOLS/LongParser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/endevsols-longparser/) — 隱私優先的檔案智慧引擎，將 PDF 等文件解析為 AI 友好的片段。
 - [yuga-hashimoto/openclaw-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuga-hashimoto-openclaw-assistant/) — 開放式 Claw 語音助理應用程式，支援語音喚醒和系統整合。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [DozaVisuals/doza-assist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozavisuals-doza-assist/) — 從剪輯中學習風格，協助轉換訪談片段為粗略剪輯的AI助手。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。

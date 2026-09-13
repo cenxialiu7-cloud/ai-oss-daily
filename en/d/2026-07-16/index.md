@@ -151,7 +151,7 @@ _Daily archive · 2026-07-16_
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-cs2-10k/) — · task_categories:other, license:cc-by-nc-4.0, size_categories:100K<n<1M
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-neuronpedia-jacobian-lens/) — · jacobian_lens, license:mit, region:us
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-soofi-project-pretraining-tech-report-old/) — · static, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xdof-abc-130k/) — · task_categories:robotics, language:en, license:apache-2.0
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pat-jj-harness-1/) — text-generation · transformers, safetensors, gpt_oss
 - [ByteDance-Seed/EdgeBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bytedance-seed-edgebench/) — · task_categories:text-generation, language:en, license:cc-by-4.0
@@ -845,7 +845,7 @@ _Daily archive · 2026-07-16_
 - [mirkobozzetto/flowflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkobozzetto-flowflow/) — Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/infino-ai-infino/) — Embedded retrieval library built on Parquet. Fast, efficient, and scalable.
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhenye234-talker-t2av/) — ACM MM 2026 Talker-T2AV Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-multi-agent-open-multi-agent/) — TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coord…
 - [vwww-droid/Mira](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vwww-droid-mira/) — Mobile runtime detection workbench for AI (iOS and Android)
 - [NVIDIA/NemoClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-nemoclaw/) — Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with manage…
@@ -1076,7 +1076,6 @@ _Daily archive · 2026-07-16_
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-repurpose/) — Content Repurposing Engine for Claude Code. Turn 1 piece of content into 10+ platform-optimized posts for Twi…
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zgsm-ai-everything-ai-coding/) — 聚合精选编程 AI 扩展资源：MCP Servers、Skills、Rules、Prompts，周更索引 + 一键安装。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/emmimal-context-engine/) — A pure-Python context management layer for LLM systems — retrieval, re-ranking, memory decay, and token-budge…
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eval-sys-mcpmark/) — MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in…

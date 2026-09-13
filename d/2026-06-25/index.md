@@ -668,7 +668,6 @@ _每日存檔 · 2026-06-25_
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — 將AI轉換成結構化工作者，適用於需要多步驟的團隊工作流程。
 - [samber/cc-skills-golang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samber-cc-skills-golang/) — 一套可用於代理技能的Golang程式庫集合。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zubair-trabzada-ai-marketing-claude/) — Claude Code 的 AI 行銷套件：15 個 skill＋平行子代理稽核網站。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — 即時加密貨幣與股票篩選工具，內建 Claude 桌面整合。
 - [Donchitos/Claude-Code-Game-Studios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/donchitos-claude-code-game-studios/) — 將Claude Code轉變為完整的遊戲開發工作室，涵蓋多個AI代理和工作流程技能。

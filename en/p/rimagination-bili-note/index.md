@@ -4,5 +4,5 @@ Extract Bilibili videos into learning-oriented Markdown notes with full subtitle
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：288
+**Stars**：290
 **Source**：https://github.com/Rimagination/bili-note

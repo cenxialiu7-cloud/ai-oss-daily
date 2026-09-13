@@ -991,7 +991,6 @@ _每日存檔 · 2026-07-11_
 - [aiming-lab/MetaClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aiming-lab-metaclaw/) — 與 AI 代理對話，它會學習並進化。
 - [lasthero3819/DeepFakeAI-GUI-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lasthero3819-deepfakeai-gui-2026/) — 一款強大易用的桌面軟體，讓創作者輕鬆製作高真實感的人工智慧影像和影片。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [DozaVisuals/doza-assist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozavisuals-doza-assist/) — 從剪輯中學習風格，協助轉換訪談片段為粗略剪輯的AI助手。
 - [gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gracezhao1997-awesome-video-world-models-with-ar-diffusion/) — AR 擴散模型影片世界模型的精選列表。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。

@@ -4,5 +4,5 @@ Open-source, local-first AI video clipper. Long video in, caption-burned speaker
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：118
+**Stars**：119
 **Source**：https://github.com/artbyjazi/autoclip

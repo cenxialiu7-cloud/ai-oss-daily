@@ -1452,7 +1452,6 @@ _每日存檔 · 2026-08-01_
 - [Epistates/turbomcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/epistates-turbomcp/) — 企業級 Rust 開發的全功能 MCP SDK。
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hainrixz-claude-banana/) — 將粗略想法轉換為完美影像生成提示的 AI 代理，具備多種創意技術。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [momotech/LinkWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/momotech-linkwork/) — 開源企業 AI 勞動力平台：容器化角色、宣告式 skill、MCP 工具。
 - [kadoa-org/quant-job-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadoa-org-quant-job-market/) — 量化職場視覺化工具，分析和展示頂尖量化公司的職缺。
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。

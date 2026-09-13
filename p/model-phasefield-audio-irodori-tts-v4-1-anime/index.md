@@ -2,7 +2,7 @@
 
 一款基於 Irodori-TTS-v4.1-Small 的 Anime 風格文字轉語音模型。
 
-**為何上榜**：HF trending 99 · 104 likes
+**為何上榜**：HF trending 100 · 105 likes
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 

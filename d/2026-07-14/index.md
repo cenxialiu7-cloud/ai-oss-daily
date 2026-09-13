@@ -1035,7 +1035,6 @@ _每日存檔 · 2026-07-14_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [BehemothDream/Adobe-After-Effects](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdream-adobe-after-effects/) — 提供 Adobe After Effects 的相關資源和工具。
 - [foryourhealth111-pixel/Vibe-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/foryourhealth111-pixel-vibe-skills/) — 整合專家級能力的全方位 AI 技能套件，提升任何 AI 代理人的效能。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [TheDecipherist/claude-code-mastery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedecipherist-claude-code-mastery/) — 全面介紹Claude Code的指南，涵蓋技能、伺服器和命令。
 - [Spirizeon/agentic-aeo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spirizeon-agentic-aeo-skills/) — 適用於多種LLM的AEO分析技能集，涵蓋6種專業代理。
 - [Correr-Zhou/OmniShow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/correr-zhou-omnishow/) — OmniShow：字節跳動用於生成人與物互動影片的一體化模型。

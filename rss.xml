@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>12 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>13 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>tencent/AuK</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換成語音的 AI 模型，支援多種語音合成功能。</description>
+<title>Alissonerdx/Minimax-H3-ComfyUI</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>模型訓練／微調工具，關鍵字：LoRA、ComfyUI（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>TokenRhythm/NeoHorse-1-4B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>具備程式碼生成和工具使用能力的文本生成模型。</description>
+<title>Agnes-AI/Agnes-3.0-Flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文字，支援多模態和長上下文。</description>
 </item>
 <item>
-<title>Edge0/Edge0-35B-A3B-preview</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>用於邊緣推論的大型模型，支援高效能運算和資源解除安裝。</description>
+<title>blixvip/MotionClone</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>將參考影片轉換為可編輯的動畫，支援自訂和匯出。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>ayghri/i-have-adhd</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
 </item>
 <item>
-<title>blader/humanizer</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>去除文本中的 AI 記號，使其更自然。</description>
+<title>cathrynlavery/diagram-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
 </item>
 <item>
-<title>microsoft/Mage-Flow</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</guid>
-<pubDate>12 Sep 2026 08:00:00 +0000</pubDate>
-<description>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</description>
+<title>WarmBloodAban/Minimax-h3_Singularity</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</guid>
+<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的AI模型。</description>
 </item>
 </channel>
 </rss>

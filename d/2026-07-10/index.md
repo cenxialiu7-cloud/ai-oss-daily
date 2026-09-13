@@ -960,7 +960,6 @@ _每日存檔 · 2026-07-10_
 - [LucasHJin/vit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucashjin-vit/) — 影片編輯版本控制系統。
 - [Lifecycle-Innovations-Limited/claude-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lifecycle-innovations-limited-claude-ops/) — Claude Code商業運營系統，統一收件匣、自動合併PR等功能。
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-repurpose/) — Claude Code內容重用引擎，將單一內容轉化為多個平臺最佳化的帖子。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [rediumvex/seo-blog-writer-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-seo-blog-writer-claude/) — 將網址、筆記或主題轉換成排名優秀的人類語音部落格文章的 SEO 部落格撰寫工具。
 - [mihaelamj/cupertino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mihaelamj-cupertino/) — 本地 Apple 檔案爬蟲及 MCP 伺服器，以 Swift 語言編寫。
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/natebjones-projects-ob1/) — 開源個人知識管理系統，支援多種AI外掛。

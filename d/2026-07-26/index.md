@@ -1287,7 +1287,6 @@ _每日存檔 · 2026-07-26_
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [indranilbanerjee/digital-marketing-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/indranilbanerjee-digital-marketing-pro/) — 涵蓋 150 種技能的全方位開源 AI 行銷外掛，適用於多平臺。
 - [stefanoviana/deepalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stefanoviana-deepalpha/) — 使用深度神經網路進行加密貨幣交易的自動化機器人，支援多個交易所。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [gleanwork/remote-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gleanwork-remote-mcp-server/) — 安全地將企業上下文與LLM、IDE或代理平臺相連線的遠端MCP伺服器。
 - [Aratako/MioTTS-Inference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-miotts-inference/) — 基於大模型的輕量級快速語音合成伺服器。
 - [Cynthiazxy123/SAMA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cynthiazxy123-sama/) — 基於因子化語義錨定和運動對齊的指令引導影片編輯模型推論程式碼。

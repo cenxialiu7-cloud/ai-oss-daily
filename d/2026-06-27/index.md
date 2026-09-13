@@ -695,7 +695,6 @@ _每日存檔 · 2026-06-27_
 - [zilliztech/mfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-mfs/) — 為AI代理提供統一的上下文管理介面，整合程式碼、檔案和資料庫。
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsanei-darwinia/) — 自我演化的交易 agent 生態：達爾文式選擇汰弱留強。
 - [AtomicBot-ai/Atomic-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomicbot-ai-atomic-chat/) — 本地 AI 聊天應用，支援在個人電腦上執行開放權重 LLM。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbhooley-ainativelang/) — 將AI轉換成結構化工作者，適用於需要多步驟的團隊工作流程。
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zjunlp-sciatlas/) — 自動化科學研究的大規模知識圖譜。
 - [LucasHJin/vit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucashjin-vit/) — 影片編輯版本控制系統。

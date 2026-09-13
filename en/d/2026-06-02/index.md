@@ -287,7 +287,6 @@ _Daily archive · 2026-06-02_
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pku-yuangroup-helios/) — Helios: Real Real-Time Long Video Generation Model
 - [ling-0729/KHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ling-0729-khunter/) — KHunter 是一套开箱即用的A股量化交易系统，集数据管理、策略选股、择时交易、风险控制、回测验证于一体，为个人投资者提供从数据到交易的全流程量化解决方案。
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-auto-claude-code-research-in-sleep/) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model r…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us

@@ -550,7 +550,6 @@ _Daily archive · 2026-06-17_
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miasyster-quantgpt/) — Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/swarmclawai-swarmvault/) — The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Bu…
 - [kevin801221/stock-strategies-only](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevin801221-stock-strategies-only/) — 📈 台股每日自動選股機器人 — 基本面×技術面×歷史回測，Telegram 推播，GitHub Actions 免費自動跑
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pku-yuangroup-helios/) — Helios: Real Real-Time Long Video Generation Model
@@ -632,7 +631,7 @@ _Daily archive · 2026-06-17_
 - [fancyboi999/Loomic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fancyboi999-loomic/) — Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio / Canva AI. Chat-driven imag…
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hainrixz-claude-banana/) — AI agent that turns your rough ideas into perfect image generation prompts. 7-component formula, 70+ creative…
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dynamis-labs-spectralquant/) — SpectralQuant: Calibrated Eigenbasis Rotation and Water-Filled Bit Allocation for KV-Cache Compression
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [brandononchain/opentrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brandononchain-opentrade/) — The most powerful open-source TradingView AI agent. 50 tools, 15 models (Claude, GPT, Gemini, Qwen, DeepSeek,…
 - [daniel-c-silva/SynthPons](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daniel-c-silva-synthpons/) — Melody/Chord-progression generator, takes note/chords as input and plays them in real time.
 - [worldbench/awesome-ai-auto-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-awesome-ai-auto-research/) — 🔥 A Survey on AI Auto-Research

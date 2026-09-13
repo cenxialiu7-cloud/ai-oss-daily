@@ -368,7 +368,6 @@ _Daily archive · 2026-06-06_
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zjunlp-sciatlas/) — A Large-Scale Knowledge Graph for Automated Scientific Research
 - [1756141021/HainTag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/1756141021-haintag/) — AI 绘画 TAG 生成器 · AI Drawing Tag Generator
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/swarmclawai-swarmvault/) — The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Bu…
 - [jnMetaCode/agency-agents-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jnmetacode-agency-agents-zh/) — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创…
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/voltagent-awesome-codex-subagents/) — A collection of 130+ specialized Codex subagents covering a wide range of development use cases.

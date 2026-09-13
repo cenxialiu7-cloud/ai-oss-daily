@@ -2,9 +2,9 @@
 
 AI Agent 為主的 JS 逆向 MCP Server，提供 Chrome 除錯等功能。
 
-**為何上榜**：近一日新增 10★（現 2,722★）
+**為何上榜**：近一日新增 8★（現 2,730★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,722
+**Stars**：2,730
 **原始連結**：https://github.com/zhizhuodemao/js-reverse-mcp

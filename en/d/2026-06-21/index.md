@@ -613,7 +613,6 @@ _Daily archive · 2026-06-21_
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/florianbruniaux-claude-code-ultimate-guide/) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and product…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [kevin801221/stock-strategies-only](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevin801221-stock-strategies-only/) — 📈 台股每日自動選股機器人 — 基本面×技術面×歷史回測，Telegram 推播，GitHub Actions 免費自動跑
@@ -661,7 +660,7 @@ _Daily archive · 2026-06-21_
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ashutosh0x-rust-finance/) — A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 - [moorcheh-ai/memanto](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moorcheh-ai-memanto/) — Memory that AI Agents Love!
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendemon-pilipili-autovideo/) — 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [H-EmbodVis/HyDRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/h-embodvis-hydra/) — Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models
 - [rediumvex/seo-blog-writer-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rediumvex-seo-blog-writer-claude/) — SEO blog writer Claude skill — turn any URL, notes, or topic into a human-sounding blog post that ranks on Go…
 - [deskive/deskive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deskive-deskive/) — Open-source workspace collaboration platform - chat, video calls, projects, files, calendar, notes, AI tools

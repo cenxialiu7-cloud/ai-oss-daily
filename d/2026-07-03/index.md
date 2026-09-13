@@ -841,7 +841,6 @@ _每日存檔 · 2026-07-03_
 - [EvoMap/evolver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evomap-evolver/) — 基於GEP的自我演進引擎，為AI代理提供可審計的演化。
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blockrunai-clawrouter/) — OpenClaw的LLM路由器，支援41+模型，低延遲路由。
 - [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — 官方資料.gov.fr的MCP伺服器，讓AI聊天機器人能直接對話探索法國開放資料平臺。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productfculty-aipm-pm-copilot-by-product-faculty/) — 產品管理員的技能框架，涵蓋12個領域、17種工作流程和8種專業代理。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。

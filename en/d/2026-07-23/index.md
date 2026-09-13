@@ -192,7 +192,7 @@ _Daily archive · 2026-07-23_
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-embedding-350m/) — sentence-similarity · sentence-transformers, safetensors, lfm2
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ginigen-ai-metacognition-leaderboard-space/) — · docker, region:us
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
@@ -896,7 +896,7 @@ _Daily archive · 2026-07-23_
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailofbits-skills/) — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [Donchitos/Claude-Code-Game-Studios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/donchitos-claude-code-game-studios/) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination …
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cintellifusion-multiworld/) — Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [ahammadmejbah/Awesome-Datasets-Hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ahammadmejbah-awesome-datasets-hub/) — A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learn…
 - [zhou343-de/easyup-platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhou343-de-easyup-platform/) — 🦞 AI 量化交易系统 — 37 因子选股 · 8 层风控 · 同花顺数据大屏 · 全自动盯盘
 - [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/infino-ai-infino/) — Embedded retrieval library built on Parquet. Fast, efficient, and scalable.
@@ -1208,7 +1208,6 @@ _Daily archive · 2026-07-23_
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/katzca-autosocial/) — Local social media automation dashboard for TikTok, Instagram, and YouTube.
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-repurpose/) — Content Repurposing Engine for Claude Code. Turn 1 piece of content into 10+ platform-optimized posts for Twi…
 - [unohee/OpenSwarm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/unohee-openswarm/) — OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integrati…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/superior-trade-superior-skills/) — Open agent skills and tool schemas for Superior Trade — build, backtest, and deploy trading strategies on Hyp…
 - [jmaczan/tiny-vllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jmaczan-tiny-vllm/) — Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mme-benchmarks-video-mme-v2/) — Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding

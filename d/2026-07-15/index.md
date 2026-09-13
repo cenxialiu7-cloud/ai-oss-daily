@@ -1060,7 +1060,6 @@ _每日存檔 · 2026-07-15_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-sparkvsr/) — 透過稀疏關鍵幀傳播進行互動式影片超解析。
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [tsensei/OpenReels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsensei-openreels/) — 開源 AI 管道，將任何主題轉換為可發布的 YouTube 或 Instagram 短片。
 - [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — 擴充套件AI聊天體驗的外掛集合。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。

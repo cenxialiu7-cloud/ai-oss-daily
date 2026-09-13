@@ -1340,7 +1340,6 @@ _每日存檔 · 2026-07-28_
 - [guaardvark/guaardvark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guaardvark-guaardvark/) — 自建 AI 工作站，具備自動化螢幕代理程式、多層級神經路由等功能。
 - [AsuraAce/ambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asuraace-ambit/) — 本地優先的桌面應用程式，用於管理AI影像庫。
 - [OthmaneBlial/awesome-openclaw-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmaneblial-awesome-openclaw-examples/) — OpenClaw實用範例集合，包括可執行指令碼和提示。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [kadoa-org/quant-job-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadoa-org-quant-job-market/) — 量化職場視覺化工具，分析和展示頂尖量化公司的職缺。
 - [DozaVisuals/doza-assist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozavisuals-doza-assist/) — 從剪輯中學習風格，協助轉換訪談片段為粗略剪輯的AI助手。
 - [spring-ai-community/spring-ai-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spring-ai-community-spring-ai-playground/) — 安全本地執行層，用於構建和驗證MCP工具。

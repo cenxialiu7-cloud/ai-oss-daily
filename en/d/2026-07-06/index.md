@@ -780,7 +780,7 @@ _Daily archive · 2026-07-06_
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jenniferzhao0531-iclr2026-guide-cn/) — 不想啃 5000+ 全文？我已经替你和 LLM 啃完了 — ICLR 2026 全景中文导读
 - [ohdearquant/lattice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ohdearquant-lattice/) — Run, quantize, and fine-tune LLMs on Apple Silicon. Pure Rust, no Python, no CUDA, no ONNX
 - [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/davepoon-buildwithclaude/) — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend C…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [agentscope-ai/QwenPaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentscope-ai-qwenpaw/) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple ch…
 - [Kyros-494/kyros-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kyros-494-kyros-ai/) — Kyros — The Memory OS for AI Agents Give your AI agents secure, self-correcting, persistent memory in 3 lines…
 - [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kklimuk-docx-cli/) — CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity.
@@ -881,7 +881,6 @@ _Daily archive · 2026-07-06_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zgsm-ai-everything-ai-coding/) — 聚合精选编程 AI 扩展资源：MCP Servers、Skills、Rules、Prompts，周更索引 + 一键安装。
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rocketride-org-rocketride-server/) — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale …
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maemreyo-omnivoice-server/) — OpenAI-compatible HTTP server for OmniVoice text-to-speech
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evan-kolberg-prediction-market-backtesting/) — An extension for Nautilus Trader
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.

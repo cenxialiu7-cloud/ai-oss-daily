@@ -368,7 +368,6 @@ _每日存檔 · 2026-06-06_
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zjunlp-sciatlas/) — 自動化科學研究的大規模知識圖譜。
 - [1756141021/HainTag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/1756141021-haintag/) — AI 繪畫標籤生成器，支援 Danbooru 和 Stable Diffusion。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swarmclawai-swarmvault/) — 本地優先的 LLM 維基，開源知識圖譜建構器和代理記憶體儲存。
 - [jnMetaCode/agency-agents-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-agency-agents-zh/) — 即插即用的AI專家角色，支援多種工具和部門需求。
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-awesome-codex-subagents/) — 涵蓋廣泛開發場景的130多種Codex子代理集合。

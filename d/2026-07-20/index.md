@@ -1140,7 +1140,6 @@ _每日存檔 · 2026-07-20_
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xstongxue-best-prompts/) — 通用高質量 Prompt 合集。
 - [wuyoscar/Internal-Safety-Collapse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-internal-safety-collapse/) — 將大規模語言模型轉化為敏感資料生成器的安全性測試工具。
 - [xixihhhh/clipforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-clipforge/) — 基於影像和文字生成抖音等短影片的開源工具。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。
 - [zhuyansen/agent-skills-hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-agent-skills-hub/) — 開放原始碼 Agent 技能、工具和 MCP 伺服器的發現與比較平臺。
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-repurpose/) — Claude Code內容重用引擎，將單一內容轉化為多個平臺最佳化的帖子。

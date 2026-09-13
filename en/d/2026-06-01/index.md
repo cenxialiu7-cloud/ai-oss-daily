@@ -281,7 +281,6 @@ _Daily archive · 2026-06-01_
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [RunanywhereAI/RCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runanywhereai-rcli/) — Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG
 - [zubair-trabzada/ai-marketing-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zubair-trabzada-ai-marketing-claude/) — AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/generative-computing-granite-switch/) — Granite Switch — Build AI models like you build software
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miasyster-quantgpt/) — Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN

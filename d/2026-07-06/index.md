@@ -881,7 +881,6 @@ _每日存檔 · 2026-07-06_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diegosouzapw-omniroute/) — 免費 AI 閘道器，連線多個程式碼生成器和編輯器，節省大量流量。
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/) — 高效能AI管道引擎，支援多種模型供應商和向量資料庫。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
 - [evan-kolberg/prediction-market-backtesting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evan-kolberg-prediction-market-backtesting/) — Nautilus Trader 的擴充套件工具，用於回測預測市場策略。
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。

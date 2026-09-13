@@ -919,7 +919,6 @@ _每日存檔 · 2026-07-08_
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abhi1693-openclaw-mission-control/) — 管理AI代理、分配任務並協調多代理合作的儀錶板。
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thu-ml-causal-forcing/) — 高品質即時互動式影片生成的因果強迫自動回歸擴散模型程式碼庫。
 - [miscusi-peek/cheatengine-mcp-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miscusi-peek-cheatengine-mcp-bridge/) — 將遊戲逆向工程、指標掃描和記憶體分析自動化，透過自然語言與 Cheat Engine 連線。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [nicobailon/pi-mcp-adapter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicobailon-pi-mcp-adapter/) — 節省令牌的MCP介面卡，專為Pi編碼代理設計。
 - [Finrandojin/alexandria-audiobook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/finrandojin-alexandria-audiobook/) — 使用AI生成多語音有聲書的工具，支援MP3和M4B格式輸出。
 - [microsoft/agent-governance-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-agent-governance-toolkit/) — 微軟AI代理治理工具包，提供政策執行、零信任身分驗證等安全功能。

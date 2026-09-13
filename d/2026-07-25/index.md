@@ -1262,7 +1262,6 @@ _每日存檔 · 2026-07-25_
 - [maemreyo/omnivoice-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maemreyo-omnivoice-server/) — 與OpenAI相容的HTTP伺服器，支援OmniVoice文字轉語音。
 - [marketcalls/vectorbt-backtesting-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marketcalls-vectorbt-backtesting-skills/) — 使用VectorBT進行交易策略回測的代理程式技能。
 - [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [holypolyfoundation/bs-p](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holypolyfoundation-bs-p/) — 高頻交易市場做市商核心引擎，採用 AVX-512 指令集。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [rmbell09-lang/tradesight](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rmbell09-lang-tradesight/) — 自架 AI 交易策略實驗室：模擬盤、隔夜策略錦標賽、15+ 工具。

@@ -4,5 +4,5 @@ The first vision plugin for DeepSeek Harness, and the vision bridge for every te
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,949
+**Stars**：3,956
 **Source**：https://github.com/liustack/modlens

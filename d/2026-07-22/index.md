@@ -1192,7 +1192,6 @@ _每日存檔 · 2026-07-22_
 - [Vincentwei1021/kronos-guide-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-kronos-guide-cn/) — A股K線預測中文實戰指南，涵蓋資料獲取、微調教程等。
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [Neutral-Debug/Mexc-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neutral-debug-mexc-trading-bot/) — MEXC 自動交易機器人，採用三種獨立策略，零手續費。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katzca-autosocial/) — 用於自動化TikTok、Instagram和YouTube的社交媒體管理儀錶板。
 - [unohee/OpenSwarm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/unohee-openswarm/) — 自動化 AI 開發團隊協調器，支援 Discord 控制、Linear 整合和認知記憶。
 - [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superior-trade-superior-skills/) — 提供超級交易的代理技能和工具模式，用於建立、回測和部署在Hyperliquid上的交易策略。

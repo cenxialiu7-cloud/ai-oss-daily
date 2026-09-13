@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
+<updated>2026-09-13T08:00:00+00:00</updated>
 <entry>
-<title>tencent/AuK</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-auk/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>將文字轉換成語音的 AI 模型，支援多種語音合成功能。</summary>
+<title>Alissonerdx/Minimax-H3-ComfyUI</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>模型訓練／微調工具，關鍵字：LoRA、ComfyUI（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>TokenRhythm/NeoHorse-1-4B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>具備程式碼生成和工具使用能力的文本生成模型。</summary>
+<title>Agnes-AI/Agnes-3.0-Flash</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文字，支援多模態和長上下文。</summary>
 </entry>
 <entry>
-<title>Edge0/Edge0-35B-A3B-preview</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>用於邊緣推論的大型模型，支援高效能運算和資源解除安裝。</summary>
+<title>blixvip/MotionClone</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>將參考影片轉換為可編輯的動畫，支援自訂和匯出。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>ayghri/i-have-adhd</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
 </entry>
 <entry>
-<title>blader/humanizer</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>去除文本中的 AI 記號，使其更自然。</summary>
+<title>cathrynlavery/diagram-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
 </entry>
 <entry>
-<title>microsoft/Mage-Flow</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/</id>
-<updated>2026-09-12T08:00:00+00:00</updated>
-<summary>一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。</summary>
+<title>WarmBloodAban/Minimax-h3_Singularity</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</id>
+<updated>2026-09-13T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的AI模型。</summary>
 </entry>
 </feed>

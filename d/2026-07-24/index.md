@@ -1238,7 +1238,6 @@ _每日存檔 · 2026-07-24_
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-repurpose/) — Claude Code內容重用引擎，將單一內容轉化為多個平臺最佳化的帖子。
 - [nicepkg/auto-company](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicepkg-auto-company/) — 完全自動化的人工智慧公司，24/7執行，由14個AI代理人管理，無需人類介入。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [DozaVisuals/doza-assist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozavisuals-doza-assist/) — 從剪輯中學習風格，協助轉換訪談片段為粗略剪輯的AI助手。
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。

@@ -645,7 +645,6 @@ _Daily archive · 2026-06-24_
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [samber/cc-skills-golang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samber-cc-skills-golang/) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
@@ -670,7 +669,7 @@ _Daily archive · 2026-06-24_
 - [agentscope-ai/QwenPaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentscope-ai-qwenpaw/) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple ch…
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 - [Productfculty-aipm/PM-Copilot-by-Product-Faculty](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/productfculty-aipm-pm-copilot-by-product-faculty/) — PM Copilot: 65+ framework-grounded PM skills across 12 domains, 17 command-based workflows, and 8 specialized…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vernonoy-alpha-skills/) — Quantitative factor research skills for AI coding assistants
 - [RightNow-AI/openfang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rightnow-ai-openfang/) — Open-source Agent Operating System
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/markbrezina-ctrl-alt-defeatthemarket/) — An unofficial guide to IMC Prosperity algorithmic trading

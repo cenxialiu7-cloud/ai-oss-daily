@@ -1313,7 +1313,6 @@ _每日存檔 · 2026-07-27_
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [postrv/forgemax](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/postrv-forgemax/) — 將多個伺服器和工具整合為兩個工具的本地沙盒 MCP 閘道器。
 - [adriangrantdotorg/Raycast-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adriangrantdotorg-raycast-skill/) — 適用於Raycast的Agentic技能，提供API整合和更多最佳實踐。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [averma416/consulting-gauntlet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/averma416-consulting-gauntlet/) — 全面的諮詢技能套件，涵蓋多個框架、財務模型和零錯誤率。
 - [Vincentwei1021/kronos-guide-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-kronos-guide-cn/) — A股K線預測中文實戰指南，涵蓋資料獲取、微調教程等。
 - [ryan-yuuu/crypto-trading-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryan-yuuu-crypto-trading-arena/) — 開放原始碼的加密貨幣交易競技場平臺。

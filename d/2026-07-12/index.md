@@ -998,7 +998,6 @@ _每日存檔 · 2026-07-12_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [xixihhhh/clipforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-clipforge/) — 基於影像和文字生成抖音等短影片的開源工具。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [open-gitagent/opengap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-gitagent-opengap/) — opengap 是一個與框架無關的 AI 代理標準。
 - [codefromkarl/ContextAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codefromkarl-contextatlas/) — 用於 AI 程式設計代理的上下文基礎設施，支援混合檢索和專案記憶。
 - [wshobson/maverick-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-maverick-mcp/) — 個人股票分析的MCP伺服器，使用Claude進行財務分析。

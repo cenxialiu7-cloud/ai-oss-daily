@@ -1137,7 +1137,6 @@ _每日存檔 · 2026-07-19_
 - [rediumvex/seo-blog-writer-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-seo-blog-writer-claude/) — 將網址、筆記或主題轉換成排名優秀的人類語音部落格文章的 SEO 部落格撰寫工具。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。
 - [AsuraAce/ambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asuraace-ambit/) — 本地優先的桌面應用程式，用於管理AI影像庫。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zhuyansen/agent-skills-hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-agent-skills-hub/) — 開放原始碼 Agent 技能、工具和 MCP 伺服器的發現與比較平臺。
 - [tsensei/OpenReels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsensei-openreels/) — 開源 AI 管道，將任何主題轉換為可發布的 YouTube 或 Instagram 短片。
 - [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — 官方 Go SDK 實現 Hiero 共識規範。

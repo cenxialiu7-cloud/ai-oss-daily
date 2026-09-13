@@ -76,7 +76,6 @@ _Daily archive · 2026-08-12_
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
-- [Kijai/MiniMax-H3_comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kijai-minimax-h3-comfy/) — · region:us
 - [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/) — image-text-to-text · comfyui, h3, qwen3-vl
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
@@ -395,7 +394,7 @@ _Daily archive · 2026-08-12_
 - [GD-ML/TransitLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gd-ml-transitlm/) — · task_categories:text-generation, language:zh, license:cc-by-nc-4.0
 - [BoJack/MMAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bojack-mmae/) — · task_categories:audio-to-audio, size_categories:1K<n<10K, format:audiofolder
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
-- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
+- [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-101-slides/) — · static, rl-environment, region:us
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
 - [unstonio/pixelgpt-24x24-20k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-unstonio-pixelgpt-24x24-20k/) — · task_categories:text-to-image, task_categories:image-to-image, language:en
@@ -926,7 +925,7 @@ _Daily archive · 2026-08-12_
 - [aliang2052/aliang-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliang2052-aliang-skills/) — 阿亮开源的 Skills 合集：短剧成片 / 电商详情图 / 儿童故事 / 有声绘本 / 配音 / 多人播客。一句话触发，AI 走完整 AIGC 流程。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/autonomous-ai-autonomous-grid/) — Your AI intranet: network the computers you already own for inference and training.
-- [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuixin8-meiti-ai/) — ALQQ · AI 自媒体内容运营平台｜Windows 桌面端 2.1.0 · 本地优先 AI / 图片处理 · 文章、动态、视频多平台分发 · 定时计划 · 多账号管理 · Web / Linux 执行节点。免费使用…
+- [zhuixin8/meiti-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuixin8-meiti-ai/) — ALQQ · AI 自媒体内容运营平台｜Windows 桌面端 2.1.0 · AI 写作与配图 · 多平台发布 · 多账号管理 · 定时计划 · Web / Linux 执行节点。桌面免费下载，AI 服务费用与平台额…
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting coding-agent session files (.jsonl) — Claude Co…
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-waxalnlp/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language_creators:creator_1
 - [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operat…
@@ -1041,7 +1040,7 @@ _Daily archive · 2026-08-12_
 - [gi-dellav/zerostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gi-dellav-zerostack/) — Lightweight coding agent written in Rust, optimized for memory footprint and performance
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbue-bit-ns-ntk/) — Official implementation for the paper: Deep Learning under Continuous Distribution Shift: The Non-Stationary …
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills-codex/) — Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailofbits-skills/) — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [Donchitos/Claude-Code-Game-Studios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/donchitos-claude-code-game-studios/) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination …
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.
@@ -1605,7 +1604,6 @@ _Daily archive · 2026-08-12_
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xlev-v-hyperliquid-trading-bot/) — Automated trading bot for Hyperliquid with three independent strategies — production-grade TypeScript, real-t…
 - [XortexAI/XMem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xortexai-xmem/) — Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents.
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samuraigpt-seedance-2-generator/) — Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billin…
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [sbauwow/schwagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sbauwow-schwagent/) — AI-powered algorithmic trading agent for the Charles Schwab API. Python, options strategies (wheel/theta, cov…
 - [aaryansinha16/AI-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aaryansinha16-ai-trader/) — AI-powered intraday options trading system for NSE F&O. Dual ML models + institutional flow analysis + regime…
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sgaofen-vibe-schooling/) — Get 4.0 GPA without learning

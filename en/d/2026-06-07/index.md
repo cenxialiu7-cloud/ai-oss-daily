@@ -414,7 +414,6 @@ _Daily archive · 2026-06-07_
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [iOfficeAI/OfficeCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/iofficeai-officecli/) — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Ex…
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [VoltAgent/awesome-codex-subagents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/voltagent-awesome-codex-subagents/) — A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [PKU-YuanGroup/Helios](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pku-yuangroup-helios/) — Helios: Real Real-Time Long Video Generation Model
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-world-r1/) — [ICML 2026] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
@@ -566,7 +565,7 @@ _Daily archive · 2026-06-07_
 - [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abdulsamed1-ai-skills-bank/) — AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across va…
 - [AgriciDaniel/claude-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-blog/) — Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized f…
 - [showlab/Kiwi-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/showlab-kiwi-edit/) — A unified and fully open-source framework for instruction-guided and reference-guided video editing using nat…
-- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+- [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理、多平台发布
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.
 - [fikrikarim/volocal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fikrikarim-volocal/) — Fully local voice AI for iOS
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/giancarloerra-socraticode/) — Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP:…

@@ -1099,7 +1099,6 @@ _每日存檔 · 2026-07-17_
 - [zgsm-ai/everything-ai-coding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zgsm-ai-everything-ai-coding/) — 聚合程式設計AI擴充套件資源，定期更新索引和一鍵安裝。
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [agent-next/polymarket-paper-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-polymarket-paper-trader/) — Polymarket 模擬盤（給 AI agent，MCP server＋即時訂單簿）。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [rediumvex/seo-blog-writer-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-seo-blog-writer-claude/) — 將網址、筆記或主題轉換成排名優秀的人類語音部落格文章的 SEO 部落格撰寫工具。
 - [okx/agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-trade-kit/) — OKX 官方交易 MCP server — 讓 AI agent 操作現貨/合約/網格機器人。
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mme-benchmarks-video-mme-v2/) — 面向全面影片理解的評估框架。

@@ -624,7 +624,6 @@ _每日存檔 · 2026-06-23_
 - [samber/cc-skills-golang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samber-cc-skills-golang/) — 一套可用於代理技能的Golang程式庫集合。
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zjunlp-sciatlas/) — 自動化科學研究的大規模知識圖譜。
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wjz-p-gemini-skill/) — 透過瀏覽器繪製Gemini圖形，支援MCP協議和開放爪機器人。
-- [moosl/awsome-gpt-image-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moosl-awsome-gpt-image-2-prompts/) — 整理GPT影像生成的提示和資源列表。
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/genesis1231-eva01/) — 具備自我意識的 AI 實體，支援終端機和 API 操作，內建語音與臉部辨識。
 - [hec-ovi/vllm-awq4-qwen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hec-ovi-vllm-awq4-qwen/) — 基於AMD顯示卡的Qwen 3.6-27B模型，支援視覺和工具呼叫等功能。
