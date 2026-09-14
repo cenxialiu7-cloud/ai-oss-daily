@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>13 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>14 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Alissonerdx/Minimax-H3-ComfyUI</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>模型訓練／微調工具，關鍵字：LoRA、ComfyUI（依標籤自動歸類，詳細看下方原文）</description>
+<title>thesysdev/OUI-1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>一種使用轉換器和擴散模型生成文字的工具。</description>
 </item>
 <item>
-<title>Agnes-AI/Agnes-3.0-Flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字，支援多模態和長上下文。</description>
+<title>RankSpotAI/awesome-geo-tools</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>整理的 GEO 和 AI 能見度工具清單，比較各引擎追蹤、更新頻率、費用等。</description>
 </item>
 <item>
-<title>blixvip/MotionClone</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>將參考影片轉換為可編輯的動畫，支援自訂和匯出。</description>
+<title>Jeanorochka/julia_tradediary_analysis</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>使用 Julia 和 Python 分析交易日誌的工具。</description>
 </item>
 <item>
-<title>ayghri/i-have-adhd</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>幫助程式碼代理生成適合ADHD使用者的清晰答案。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>cathrynlavery/diagram-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>WarmBloodAban/Minimax-h3_Singularity</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</guid>
-<pubDate>13 Sep 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的AI模型。</description>
+<title>m-a-p/YuE2-3B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</guid>
+<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換為音樂的模型。</description>
 </item>
 </channel>
 </rss>

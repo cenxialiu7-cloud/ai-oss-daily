@@ -8,7 +8,7 @@ _Daily archive · 2026-08-16_
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tornikegomareli-talkify/) — Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 - [FINAL-Bench/open-discovery-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-open-discovery-challenge/) — · docker, drug-discovery, leaderboard
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国股票数据基础设施，覆盖行情、研报、资金面、筹码、公告、龙虎榜、ETF/期权、舆情互动、基本面、行业板块、宏观与风险事件等核心数据。42+A股数据集，日更、自托管、MCP 原生，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [FareedKhan-dev/glm-5.2-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fareedkhan-dev-glm-5-2-in-c/) — GLM-5.2, a 744 billion parameter mixture of experts model, in a pure C inference engine: quantized to int4, e…
 - [Adamant-im/adamant-payment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adamant-im-adamant-payment/) — Universal crypto-first platform for payments, subscriptions and software license management
 - [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-guide/) — · docker, research-article-template, rl-environments
@@ -637,7 +637,7 @@ _Daily archive · 2026-08-16_
 - [scholarweave/arxiv-latex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-scholarweave-arxiv-latex/) — · task_categories:text-generation, task_categories:feature-extraction, language:en
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-krafton-raon-opentts-pool/) — · task_categories:text-to-speech, language:en, license:other
 - [EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-gemini-omni-guide-api-and-prompt/) — Curated Gemini Omni prompts, API guide, and video examples — video generation, editing, camera control, style…
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国股票数据基础设施，覆盖行情、研报、资金面、筹码、公告、龙虎榜、ETF/期权、舆情互动、基本面、行业板块、宏观与风险事件等核心数据。42+A股数据集，日更、自托管、MCP 原生，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [agents-last-exam/agents-last-exam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-agents-last-exam-agents-last-exam/) — · language:en, license:cc-by-4.0, size_categories:n<1K
 - [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manavarya09-design-extract/) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP…
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by

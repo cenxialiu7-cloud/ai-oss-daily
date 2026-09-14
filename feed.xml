@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
+<updated>2026-09-14T08:00:00+00:00</updated>
 <entry>
-<title>Alissonerdx/Minimax-H3-ComfyUI</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>模型訓練／微調工具，關鍵字：LoRA、ComfyUI（依標籤自動歸類，詳細看下方原文）</summary>
+<title>thesysdev/OUI-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>一種使用轉換器和擴散模型生成文字的工具。</summary>
 </entry>
 <entry>
-<title>Agnes-AI/Agnes-3.0-Flash</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文字，支援多模態和長上下文。</summary>
+<title>RankSpotAI/awesome-geo-tools</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>整理的 GEO 和 AI 能見度工具清單，比較各引擎追蹤、更新頻率、費用等。</summary>
 </entry>
 <entry>
-<title>blixvip/MotionClone</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>將參考影片轉換為可編輯的動畫，支援自訂和匯出。</summary>
+<title>Jeanorochka/julia_tradediary_analysis</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>使用 Julia 和 Python 分析交易日誌的工具。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>cathrynlavery/diagram-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>WarmBloodAban/Minimax-h3_Singularity</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/</id>
-<updated>2026-09-13T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的AI模型。</summary>
+<title>m-a-p/YuE2-3B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</id>
+<updated>2026-09-14T08:00:00+00:00</updated>
+<summary>將文字轉換為音樂的模型。</summary>
 </entry>
 </feed>

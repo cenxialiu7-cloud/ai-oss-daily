@@ -835,7 +835,6 @@ _每日存檔 · 2026-09-06_
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kwai-kolors-kolors-virtual-try-on/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wordghost1234-agnes-ai-storyboard-studio/) — 自建式開源 AI 影片生成指南。
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fuxicodex-fuxi/) — 在終端機中執行的AI程式設計助手。
-- [digistoremaster/awesome-seo-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-awesome-seo-tools/) — 一個精選的指南和自動化工具，用於關鍵字排名追蹤、搜尋引擎結果頁面分析和網站管理員流量最佳化。
 - [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dacnay816y62-hub-photo-revival/) — 將照片轉換為手繪風格插圖的工具。
 - [WayneJin0918/Omni-Rewriter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/waynejin0918-omni-rewriter/) — 整合多模態生成的AI代理框架，適用於影像和影片。
 - [DUNKINKKD/lotei-qflipper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dunkinkkd-lotei-qflipper/) — 粉色 qFlipper 分支，內建本地 AI 海豚，可聊天、監控螢幕並安裝韌體。

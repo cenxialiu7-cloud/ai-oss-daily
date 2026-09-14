@@ -402,7 +402,6 @@ _Daily archive · 2026-09-13_
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
 - [fffiloni/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fffiloni-scail-2/) — · gradio, region:us
 - [toshas/Marigold-V2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-toshas-marigold-v2/) — · gradio, region:us
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-1000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-morethought-fable-5-1-max-reasoning-filtered-1000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [ucsandman/marketing-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ucsandman-marketing-studio/) — Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asse…
 - [huggingface-projects/rf-detr-realtime-webcam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingface-projects-rf-detr-realtime-webcam/) — · gradio, object-detection, instance-segmentation
 - [microsoft/mage-vl-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-mage-vl-demo/) — · gradio, region:us
@@ -580,7 +579,7 @@ _Daily archive · 2026-09-13_
 - [Apexintelligence-AI/ASI-Bench-seed31415](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-apexintelligence-ai-asi-bench-seed31415/) — · task_categories:other, language:en, license:apache-2.0
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-trust/) — · language:ru, license:odc-by, size_categories:n<1K
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mig-nju-omnivideo-100k/) — · task_categories:video-text-to-text, license:apache-2.0, size_categories:10K<n<100K
-- [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kyky2347-alta/) — Autonomous LLM Trading Asterism — a research-only virtual trading platform with specialized LLM agents, evide…
+- [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kyky2347-alta/) — Autonomous LLM Trading Asterism — a research-only multi-agent trading platform with evidence-first research, …
 - [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-acvlab-abot-world-interactive/) — · gradio, region:us
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tahoebio-emeraldbay/) — · license:cc-by-4.0, size_categories:1M<n<10M, format:parquet
 - [Vincentwei1021/video-talkcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vincentwei1021-video-talkcraft/) — Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos …
@@ -682,7 +681,7 @@ _Daily archive · 2026-09-13_
 - [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [freerollertunnel/Kling-AI-Pro-Unlimited](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freerollertunnel-kling-ai-pro-unlimited/) — Kling AI Pro — generative video AI for text-to-video, image animation and cinematic clips with extended durat…
 - [GravityVerseYield47/flux-ai-works](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gravityverseyield47-flux-ai-works/) — Flux AI Works
-- [datawhalechina/zero-to-sglang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datawhalechina-zero-to-sglang/) — 面向大模型开发者的 SGLang 系统化开源教程：从推理基础与环境搭建开始，逐步学习模型部署、结构化生成、服务开发和性能优化， 结合实战案例带你从 0 到 1 掌握 SGLang，构建高性能 LLM 推理应用
+- [datawhalechina/zero-to-sglang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datawhalechina-zero-to-sglang/) — Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, …
 - [aidigestorg/ai-village](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aidigestorg-ai-village/) — · language:en, license:other, size_categories:1M<n<10M
 - [MirroS-Lab/HarnessEval-W](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirros-lab-harnesseval-w/) — HarnessEval-W: Agentifying the Evaluation of Visual Worlds
 - [ProjectDXAI/continuous-record-llm-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/projectdxai-continuous-record-llm-trading-agents/) — Paper artifacts, figures, aggregate data, and share cards for the DXRG paper: What LLM Trading Agents Actuall…
@@ -895,7 +894,6 @@ _Daily archive · 2026-09-13_
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/veedstudio-open-edit/) — Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
 - [Jintae-Park/ReDesign-Figma909](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jintae-park-redesign-figma909/) — · task_categories:image-to-image, license:cc-by-4.0, size_categories:n<1K
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arnsri33-embedflow/) — Zero downtime embedding upgrades
-- [digistoremaster/awesome-seo-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-awesome-seo-tools/) — A curated guide and automated toolkit for keyword rank tracking, SERP analysis, and webmaster traffic optimiz…
 - [picbreeder-vlm/picbreeder-vlm-archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-picbreeder-vlm-picbreeder-vlm-archive/) — · task_categories:image-to-text, annotations_creators:machine-generated, source_datasets:original
 - [ShawnPana/phone-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shawnpana-phone-harness/) — let your agent control your phone
 - [flatkey-ai/flatkey-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flatkey-ai-flatkey-cli/) — Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.
@@ -1028,7 +1026,7 @@ _Daily archive · 2026-09-13_
 - [armand0e/Fable-5-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-fable-5-chat/) — · task_categories:text-generation, language:en, size_categories:n<1K
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-cut-director/) — ChatCut TalkDirector reads talking-head scripts and directs motion graphics, generated visuals, speaker compo…
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/) — Hand-written NVFP4 W4A16 CUDA kernels for Volta
-- [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tick-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目
+- [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tick-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prism-shadow-penguin-harness/) — 🐧 Harness for RSI. Let AI Build AI. Multi-Agent Auto-Dev Platform. Everything is Transparent.
 - [HimanshuJ16/Algo-Trading-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/himanshuj16-algo-trading-skills/) — 500+ algorithmic-trading skills for AI coding agents in the agentskills.io format. Every skill ships a workin…
 - [Greninja9257/LabLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greninja9257-labllm/) — A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, an…
@@ -1168,7 +1166,7 @@ _Daily archive · 2026-09-13_
 - [zeraix/zeraix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeraix-zeraix/) — Open-source local AI workspace — advancing on-device inference.
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/k-dense-ai-scientific-agent-skills/) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists …
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-paddlepaddle-real5-omnidocbench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-text
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国股票数据基础设施，覆盖行情、研报、资金面、筹码、公告、龙虎榜、ETF/期权、舆情互动、基本面、行业板块、宏观与风险事件等核心数据。42+A股数据集，日更、自托管、MCP 原生，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deusdata-codebase-memory-mcp/) — High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average …
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentfleetkk-riskguard/) — 开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。
 - [ratschlab/TCGA_virtual_spatial_transcriptomics_atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ratschlab-tcga-virtual-spatial-transcriptomics-atlas/) — · language:en, license:cc-by-nc-sa-4.0, size_categories:10K<n<100K

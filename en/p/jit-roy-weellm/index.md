@@ -4,5 +4,5 @@ WeeLLM runs large diffusion models with as little as 4 GB of VRAM, without any q
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：46
+**Stars**：51
 **Source**：https://github.com/Jit-Roy/WeeLLM

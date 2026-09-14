@@ -1,11 +1,12 @@
 # 📊 Eval / Observability / Safety
 
-- [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zouhar-last-translation-benchmark/) — · task_categories:translation, task_categories:text-generation, language:en
 - [FINAL-Bench/leadboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-leadboard/) — · docker, drug-discovery, admet
+- [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zouhar-last-translation-benchmark/) — · task_categories:translation, task_categories:text-generation, language:en
 - [LiquidAI/ifstruct-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-ifstruct-v1-0/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-generation
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
+- [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xinxuxin-keystone-bench/) — A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's…
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omni-scientist-awesome-ai-scientist/) — 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms.

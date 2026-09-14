@@ -4,5 +4,5 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,264
+**Stars**：3,320
 **Source**：https://github.com/Leonxlnx/unlazy

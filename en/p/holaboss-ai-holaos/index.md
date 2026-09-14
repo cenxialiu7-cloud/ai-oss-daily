@@ -4,5 +4,5 @@ Open-source agentic workspace enterprises can make their own. Connect the system
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：11,235
+**Stars**：11,248
 **Source**：https://github.com/holaboss-ai/holaOS
