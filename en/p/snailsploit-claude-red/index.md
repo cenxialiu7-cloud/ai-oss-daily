@@ -4,5 +4,5 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,144
+**Stars**：6,771
 **Source**：https://github.com/SnailSploit/Claude-Red

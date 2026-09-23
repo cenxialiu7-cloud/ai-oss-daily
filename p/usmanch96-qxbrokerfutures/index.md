@@ -2,9 +2,9 @@
 
 為 Quotex 和 QXbroker 提供 AI 動力的 OTC 訊號引擎和預測器。
 
-**為何上榜**：近期新建立，已獲 20★
+**為何上榜**：近一日新增 1★（現 22★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：20
+**Stars**：22
 **原始連結**：https://github.com/usmanch96/QxbrokerFutures

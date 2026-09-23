@@ -6,47 +6,47 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>14 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>23 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>thesysdev/OUI-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
-<description>一種使用轉換器和擴散模型生成文字的工具。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 <item>
-<title>RankSpotAI/awesome-geo-tools</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
-<description>整理的 GEO 和 AI 能見度工具清單，比較各引擎追蹤、更新頻率、費用等。</description>
+<title>multimodalart/jev-decision-index</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/</guid>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Jeanorochka/julia_tradediary_analysis</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
-<description>使用 Julia 和 Python 分析交易日誌的工具。</description>
+<title>Mothersuperior/yue2-hum-to-song</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/</guid>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
 <title>deepseek-ai/deepseek-harness</title>
 <link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
 <description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
 <title>DietrichGebert/ponytail</title>
 <link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
 <description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
 <title>m-a-p/YuE2-3B</title>
 <link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</link>
 <guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</guid>
-<pubDate>14 Sep 2026 08:00:00 +0000</pubDate>
+<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
 <description>將文字轉換為音樂的模型。</description>
 </item>
 </channel>

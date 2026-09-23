@@ -4,5 +4,5 @@ Interactive 3D visualization platform for exploring transformer architectures, t
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：133
+**Stars**：197
 **Source**：https://github.com/Sudharsanselvaraj/Token-Print

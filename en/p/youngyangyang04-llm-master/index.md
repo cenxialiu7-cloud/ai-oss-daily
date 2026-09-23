@@ -1,0 +1,8 @@
+# youngyangyang04/llm-master
+
+大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
+
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：907
+**Source**：https://github.com/youngyangyang04/llm-master

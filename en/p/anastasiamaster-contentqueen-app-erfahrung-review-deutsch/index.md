@@ -1,8 +1,0 @@
-# Anastasiamaster/contentqueen-app-erfahrung-review-deutsch
-
-Contentqueen App im Test: Der ultimative KI-Textgenerator für Marketer & Creators im deutschsprachigen Raum. Schluss mit Schreibblockaden! 🚀
-
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
-
-**Stars**：97
-**Source**：https://github.com/Anastasiamaster/contentqueen-app-erfahrung-review-deutsch

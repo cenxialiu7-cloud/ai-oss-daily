@@ -4,5 +4,5 @@ Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLL
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：111
+**Stars**：144
 **Source**：https://github.com/chadhurley25075-png/pd-bridge

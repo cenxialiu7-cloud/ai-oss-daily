@@ -4,5 +4,5 @@ Open-source AI skills for SEO, AI search visibility, conversion copy, marketing 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：135
+**Stars**：123
 **Source**：https://github.com/JasonColapietro/suede-creator-skills

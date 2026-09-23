@@ -4,5 +4,5 @@ Paper artifacts, figures, aggregate data, and share cards for the DXRG paper: Wh
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：92
+**Stars**：80
 **Source**：https://github.com/ProjectDXAI/continuous-record-llm-trading-agents

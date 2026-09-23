@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>yanun0323/Whallm — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="DeepSeek-V4-Flash-0731 284B inference in ~30 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~20 GB of RAM on any M-series MacBook">
+<meta name="description" content="DeepSeek-V4-Flash-0731 284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on any M-series MacBook">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="yanun0323/Whallm — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="DeepSeek-V4-Flash-0731 284B inference in ~30 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~20 GB of RAM on any M-series MacBook">
+<meta property="og:description" content="DeepSeek-V4-Flash-0731 284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on any M-series MacBook">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="yanun0323/Whallm — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="DeepSeek-V4-Flash-0731 284B inference in ~30 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~20 GB of RAM on any M-series MacBook">
+<meta name="twitter:description" content="DeepSeek-V4-Flash-0731 284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on any M-series MacBook">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "yanun0323/Whallm", "description": "DeepSeek-V4-Flash-0731  284B inference in ~30 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~20 GB of RAM on any M-series MacBook", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/yanun0323/Whallm", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 90, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, deepseek-v4-flash, llm, llm-inference, local-ai, macos, metal, on-device-ai, on-device-llm, swift"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "yanun0323/Whallm", "description": "DeepSeek-V4-Flash-0731  284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on any M-series MacBook", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/yanun0323/Whallm", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 106, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, deepseek-v4-flash, llm, llm-inference, local-ai, macos, metal, on-device-ai, on-device-llm, swift"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ Inference / Serving", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "yanun0323/Whallm", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/inference/">⚡ Inference / Serving</a>  </p>
   <h1>yanun0323/Whallm</h1>
-<p class="detail-lead">DeepSeek-V4-Flash-0731  284B inference in ~30 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~20 GB of RAM on any M-series MacBook</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">DeepSeek-V4-Flash-0731  284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on any M-series MacBook</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-ok">✓ Commercial OK</span>
-<span class="badge stars">★ 90</span><span class="badge">Python</span>  </div>
+<span class="badge stars">★ 106</span><span class="badge">Python</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/yanun0323/Whallm" rel="noopener" target="_blank">↗ Source</a>
   </div>

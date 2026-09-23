@@ -4,5 +4,5 @@ Junk-free, 300+ directories, launch sites, newsletters, communities, subreddits 
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：145
+**Stars**：158
 **Source**：https://github.com/alvinunreal/awesome-submitlist

@@ -4,5 +4,5 @@ A curated list of GEO and AI visibility tools, compared on which AI engines they
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：99
+**Stars**：102
 **Source**：https://github.com/RankSpotAI/awesome-geo-tools
