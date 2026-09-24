@@ -696,7 +696,7 @@ _Daily archive · 2026-08-26_
 - [tencent/workbuddy-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-workbuddy-bench/) — · task_categories:text-generation, language:en, language:zh
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/erduo1998-cell-erduo-broll-loop-engineering/) — SRT 驱动的双后端 B-roll Agent Skill：自动路由 HyperFrames / Remotion，集成 152 张 Shotcraft 镜头卡
-- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — 100% local video dubbing on your desktop — dub videos in your own voice. Private AI dubbing with no cloud, no…
+- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — Open-source alternative to ElevenLabs, HeyGen & Rask AI. Clone a voice, dub your video into another language …
 - [HuggingAI4Engineering/CADGenBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingai4engineering-cadgenbench/) — · docker, leaderboard, modality:3d
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tick-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源

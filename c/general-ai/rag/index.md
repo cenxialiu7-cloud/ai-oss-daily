@@ -31,30 +31,31 @@
 - [CortexReach/memory-lancedb-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cortexreach-memory-lancedb-pro/) — 增強版 LanceDB 記憶外掛，適用於 OpenClaw 的混合檢索。
 - [ibrahimqureshae/mdflux](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ibrahimqureshae-mdflux/) — 將檔案轉換為清潔的Markdown格式。
 - [ZeKaiNie/universal-examprep-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zekainie-universal-examprep-skill/) — 作為 Claude 代理技能，將學習材料轉換為知識庫和測驗題庫。
-- [Rimagination/bili-note](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rimagination-bili-note/) — 從Bilibili影片中提取學習相關的Markdown筆記，包括字幕和評論。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
+- [Rimagination/bili-note](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rimagination-bili-note/) — 從Bilibili影片中提取學習相關的Markdown筆記，包括字幕和評論。
 - [Aliu-AiRobot/ESEILANE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aliu-airobot-eseilane/) — 高效率知識圖譜引擎，適用於 AI、大語言模型和 GraphRAG。
 - [timgordontg/engrim](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timgordontg-engrim/) — engrim 是一個跨模型 episodic 記憶標準，支援多個 AI 模型的上下文管理。
 - [openlake-project/openlake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openlake-project-openlake/) — 高效LLM推理和GPU訓練的高效能儲存引擎。
-- [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
-- [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [ENDEVSOLS/LongParser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/endevsols-longparser/) — 隱私優先的檔案智慧引擎，將 PDF 等文件解析為 AI 友好的片段。
+- [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bohyy-academic-ai-prompt/) — 一套為研究生和學術研究者設計的完整AI提示庫，包含多種工具和模板，節省時間並提高效率。
+- [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [syndicalt/llmff](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syndicalt-llmff/) — llmff 提供可檢視的大型語言模型推理管道，支援離線執行和生成 JSONL 記錄。
 - [matthiasnordwig/pdf-struct-chunker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthiasnordwig-pdf-struct-chunker/) — 無需大模型的PDF結構化切片工具，保留檔案結構。
-- [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。
 - [heider-x/vela](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heider-x-vela/) — AI驅動的創意寫作IDE，本地LLM和隱私優先。
+- [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
+- [opencrawling/opencrawling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opencrawling-opencrawling/) — 開放式資料整合標準的Java和Spring實現，支援現代Java功能。
 - [likeslines-maker/VectorRAG.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/likeslines-maker-vectorrag-net/) — .NET 向量資料庫，適用於語義搜尋和增強生成。
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
-- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/botagi-agmind-ml/) — 本地微調RAG模型，支援俄文上下文分割。
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-gao-leanctx/) — 用 Python SDK 壓縮提示語，減少 LLM 應用的代幣費用。
+- [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/botagi-agmind-ml/) — 本地微調RAG模型，支援俄文上下文分割。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
 - [ather-techie/ai-system-design-interview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-ai-system-design-interview/) — 針對頂尖科技公司的 AI/ML 系統設計面試的準備指南。
-- [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/santanderai-linear-adapter-trainer/) — 使用 triplet loss 訓練線性嵌入介面卡以對齊檢索嵌入。
 - [CodeAbra/iai-personal-memory-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeabra-iai-personal-memory-engine/) — 為 AI 程式設計助手提供加密記憶服務，支援多種 MCP 客戶端。
+- [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/santanderai-linear-adapter-trainer/) — 使用 triplet loss 訓練線性嵌入介面卡以對齊檢索嵌入。
 - [EngramMemory/engram-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/engrammemory-engram-memory/) — 一款高分AI記憶系統，無需依賴大語言模型重排序，免費且節省Token。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。
 - [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tmasjc-deka-oss/) — 將人類直覺與語義空間對齊的工具。

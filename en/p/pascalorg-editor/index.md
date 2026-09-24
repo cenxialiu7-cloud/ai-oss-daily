@@ -4,5 +4,5 @@ Open-source 3D architectural editor with a local CLI, MCP tools, and practical w
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：24,257
+**Stars**：24,275
 **Source**：https://github.com/pascalorg/editor

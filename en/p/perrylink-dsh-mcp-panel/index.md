@@ -4,5 +4,5 @@ MCP management console for the official DeepSeek Harness MCP client: /mcp comman
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：65
+**Stars**：66
 **Source**：https://github.com/PerryLink/dsh-mcp-panel

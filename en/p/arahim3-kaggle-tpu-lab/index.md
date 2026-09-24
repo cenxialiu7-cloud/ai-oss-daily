@@ -4,5 +4,5 @@ Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：512
+**Stars**：520
 **Source**：https://github.com/ARahim3/kaggle-tpu-lab

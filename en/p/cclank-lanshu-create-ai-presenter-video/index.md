@@ -4,5 +4,5 @@ Provider-neutral Codex Skill for producing verified AI presenter videos from a s
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,012
+**Stars**：1,014
 **Source**：https://github.com/cclank/lanshu-create-ai-presenter-video

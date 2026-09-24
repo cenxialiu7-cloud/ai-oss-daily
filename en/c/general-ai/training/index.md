@@ -7,17 +7,18 @@
 - [Alissonerdx/Minimax-H3-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-minimax-h3-comfyui/) — · minimax-h3, lora, video
 - [Edge0/Edge0-35B-A3B-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-edge0-35b-a3b-preview/) — text-generation · mlx, safetensors, qwen3_5_moe
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
-- [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — text-generation · transformers, safetensors, nemotron_labs_audex
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/) — video-to-video · clean-plate, object-removal, ltx-video
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — · video-generation, lora, ic-lora
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-minimax-h3-realism-people-lora/) — image-text-to-video · minimax-h3, lora, safetensors
+- [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — · gradio, mcp-server, region:us
 - [Viggle/Viggle-Animate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-viggle-animate/) — video-to-video · diffusers, safetensors, video-editing
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-ltx-2-3-10eros-i2v/) — · gradio, video, image-to-video
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — · audio, music, yue2
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-conradlocke-krea2-identity-edit/) — · image-editing, lora, comfyui
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-qwen-image-2-1-viggle-turbo/) — · gradio, text-to-image, image-editing
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-soofi-project-pretraining-tech-report-old/) — · static, region:us
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-krea2-lora-trainer/) — · gradio, region:us
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-obsxrver-wan22-i2v-omni-lora/) — · gradio, region:us
@@ -32,6 +33,7 @@
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — · gradio, mcp-server, region:us
 - [nvidia/Nemotron-SFT-SWE-v3.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-sft-swe-v3-5/) — · license:cc-by-4.0, size_categories:1K<n<10K, format:json
 - [Hittler-AI/FLUX.2-Klein-Multi-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hittler-ai-flux-2-klein-multi-lora/) — · gradio, mcp-server, region:us
+- [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — · task_categories:text-generation, language:en, language:zh
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-mms-300m/) — · transformers, pytorch, wav2vec2
@@ -47,18 +49,19 @@
 - [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-iigroup-x-coder-sft-376k/) — · task_categories:text-generation, language:en, license:mit
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
+- [xiaofengShi/MechVQA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xiaofengshi-mechvqa/) — ICML 2026 benchmark and MechVL models for multimodal understanding of mechanical engineering drawings.
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-tracedistill/) — Distill teacher chains-of-thought into a LoRA adapter via a strict boxed-answer format contract + two-phase T…
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
-- [THU-BPM/RLCSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-bpm-rlcsd/) — Source code of paper "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation"
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
+- [THU-BPM/RLCSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-bpm-rlcsd/) — Source code of paper "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation"
 - [LingyiChen-AI/ModelForge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lingyichen-ai-modelforge/) — 面向小团队的一站式 NLP 小模型平台:数据集版本管理 · 训练 · 评估 · 在线部署 · Badcase 闭环,内置大模型 Prompt 盲测评测(人工 + AI 双指标)。
 - [arkorlab/arkor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arkorlab-arkor/) — The Best TypeScript framework for fine-tuning
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hlpun-train-in-silence/) — The first Task-Aware MCP server and automated VRAM calculator for LLM fine-tuning. Instantly snipe the cheape…
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/matthewk78-rose/) — 🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradi…
-- [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gvkhosla-pi-tinker/) — Fine-tune open-source models with Tinker from inside Pi — managed improve loops, data prep, evals, smoke test…
 - [JuliusBrussee/cavegemma](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-cavegemma/) — LoRA fine-tune Gemma 4 31B to speak caveman-mode natively. Style: github.com/JuliusBrussee/caveman
+- [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gvkhosla-pi-tinker/) — Fine-tune open-source models with Tinker from inside Pi — managed improve loops, data prep, evals, smoke test…
 - [sapientinc/data_io](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-data-io/) — Data pipeline for HRM-Text pretraining
 - [shlokchorge/Fine-Tuning-QWEN2vl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shlokchorge-fine-tuning-qwen2vl/) — Fine-tuned Qwen2-VL-7B for LaTeX OCR using LoRA and Unsloth on the LaTeX OCR dataset. Built augmentation pipe…
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.

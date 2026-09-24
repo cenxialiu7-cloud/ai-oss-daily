@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>23 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>24 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
+<title>inclusionAI/Ming-Image-0.1-Design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>自訂的文本轉影像模型，適用於圖形設計和 RGBA 渲染。</description>
 </item>
 <item>
-<title>multimodalart/jev-decision-index</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>模型推理／部署引擎，關鍵字：GGUF量化、ComfyUI（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>Mothersuperior/yue2-hum-to-song</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>AikidoSec/altar-1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>基於 GLM 的文本生成模型，支援多專家系統和量化壓縮。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>alibaba/open-code-review</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>m-a-p/YuE2-3B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/</guid>
-<pubDate>23 Sep 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為音樂的模型。</description>
+<title>Qwen/Qwen-Image-2.1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</guid>
+<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</description>
 </item>
 </channel>
 </rss>

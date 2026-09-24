@@ -2,9 +2,9 @@
 
 Codex Computer Use的開源替代方案，提高可訪問性。
 
-**為何上榜**：近一日新增 19★（現 2,207★）
+**為何上榜**：近一日新增 16★（現 2,223★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,207
+**Stars**：2,223
 **原始連結**：https://github.com/iFurySt/open-codex-computer-use

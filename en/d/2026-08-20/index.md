@@ -599,7 +599,7 @@ _Daily archive · 2026-08-20_
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-precisionaiinc-agristress-500/) — · task_categories:image-segmentation, task_categories:image-classification, license:cc-by-nc-4.0
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/axisegretdefeat-kling-ai-master/) — Kling AI Master
-- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — 100% local video dubbing on your desktop — dub videos in your own voice. Private AI dubbing with no cloud, no…
+- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — Open-source alternative to ElevenLabs, HeyGen & Rask AI. Clone a voice, dub your video into another language …
 - [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joonion-pdf-rag-chatbot/) — · docker, region:us
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/martindelophy-ai-video-editor/) — Open-source, local-first video editor where creators and AI agents edit the same real timeline.

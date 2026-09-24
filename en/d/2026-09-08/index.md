@@ -771,7 +771,7 @@ _Daily archive · 2026-09-08_
 - [agents-last-exam/agents-last-exam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-agents-last-exam-agents-last-exam/) — · language:en, license:cc-by-4.0, size_categories:n<1K
 - [Accstall/accstall-account-line-parser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/accstall-accstall-account-line-parser/) — Browser-only combo-line splitter. Copy columns or export CSV/JSON. Paste is never uploaded.
 - [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qsardor-claude-sonnet-opus/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — 100% local video dubbing on your desktop — dub videos in your own voice. Private AI dubbing with no cloud, no…
+- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — Open-source alternative to ElevenLabs, HeyGen & Rask AI. Clone a voice, dub your video into another language …
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-utopia/) — World's first open-source enterprise world model.
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。

@@ -2,9 +2,9 @@
 
 - [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-openjev/) — 一個使用轉換器的文本分類模型，用於重排和評分。
-- [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-glm-5-3-flash/) — 基於轉換器的文本生成模型，支援中文和英文。
+- [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-8-flash-next/) — 基於轉換器的影像文字轉文字模型，支援對話。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
@@ -16,19 +16,19 @@
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/) — Qwen3.8-27B-TURBO 是一個影像文字轉文字的模型。
-- [Agnes-AI/Agnes-3.0-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/) — 將影像和文字轉換為文字，支援多模態和長上下文。
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Agnes-AI/Agnes-3.0-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-agnes-ai-agnes-3-0-flash/) — 將影像和文字轉換為文字，支援多模態和長上下文。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dots-studio-dots3-note-prev/) — 將影像和文字轉換為文本的多模態生成模型。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/) — 經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。
 - [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/) — 將影像和文字轉換為純文本的對話式模型。
 - [openbmb/MiniCPM-V-4.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-6/) — 面壁 MiniCPM-V 多模態模型（看圖對話）。
-- [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jinaai-jina-ocr-v1/) — 基於轉換器的影像文字轉文字模型，支援多語言和多模態識別。
 - [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/) — 一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。
 - [sensenova/SenseNova-U1.5-8B-MoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-u1-5-8b-mot/) — SenseNova-U1.5-8B-MoT 是一個多模態模型，支援文本到文本、影像生成和編輯。
 - [thesysdev/OUI-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thesysdev-oui-1/) — 一種使用轉換器和擴散模型生成文字的工具。
 - [CohereLabs/North-Micro-Vision-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-micro-vision-instruct/) — 將影像和文字轉換為文本的多模態模型。
+- [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jinaai-jina-ocr-v1/) — 基於轉換器的影像文字轉文字模型，支援多語言和多模態識別。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-wemm-embedding-9b/) — WeMM-Embedding-9B 是一個基於 Transformers 的多模態嵌入模型，支援影像文字轉文字和句子轉換。

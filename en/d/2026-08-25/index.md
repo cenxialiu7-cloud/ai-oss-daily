@@ -681,7 +681,7 @@ _Daily archive · 2026-08-25_
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [Hallzyaoscillator/melodyne-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hallzyaoscillator-melodyne-forge/) — Melodyne Forge
-- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — 100% local video dubbing on your desktop — dub videos in your own voice. Private AI dubbing with no cloud, no…
+- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — Open-source alternative to ElevenLabs, HeyGen & Rask AI. Clone a voice, dub your video into another language …
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tick-stock-panel/) — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源

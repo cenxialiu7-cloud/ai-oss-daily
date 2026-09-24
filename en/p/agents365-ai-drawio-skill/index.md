@@ -4,5 +4,5 @@ Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, Asyn
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,608
+**Stars**：9,640
 **Source**：https://github.com/Agents365-ai/drawio-skill

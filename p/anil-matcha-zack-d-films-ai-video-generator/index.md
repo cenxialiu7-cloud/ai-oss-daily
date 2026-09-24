@@ -2,9 +2,9 @@
 
 自動生成Zack D Films風格的3D動畫短片。
 
-**為何上榜**：近一日新增 1★（現 34★）
+**為何上榜**：近一日新增 3★（現 37★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：34
+**Stars**：37
 **原始連結**：https://github.com/Anil-matcha/zack-d-films-ai-video-generator

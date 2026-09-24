@@ -674,7 +674,7 @@ _Daily archive · 2026-08-24_
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tidedeliverer-make-com-enhancer/) — Make.com Enhancer
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
-- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — 100% local video dubbing on your desktop — dub videos in your own voice. Private AI dubbing with no cloud, no…
+- [stronghamjji/PersoDub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stronghamjji-persodub/) — Open-source alternative to ElevenLabs, HeyGen & Rask AI. Clone a voice, dub your video into another language …
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/erduo1998-cell-erduo-broll-loop-engineering/) — SRT 驱动的双后端 B-roll Agent Skill：自动路由 HyperFrames / Remotion，集成 152 张 Shotcraft 镜头卡
 - [Hallzyaoscillator/melodyne-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hallzyaoscillator-melodyne-forge/) — Melodyne Forge
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
