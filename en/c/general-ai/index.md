@@ -5,40 +5,40 @@
 - [Comfy-Org/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-qwen-image-2-1/) — · diffusion-single-file, comfyui, base_model:Qwen/Qwen-Image-2.1
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-xing4-0-29b-a4b/) — text-generation · transformers, safetensors, xing4_0
 - [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [Altworld/Hemmingway-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-altworld-hemmingway-1/) — text-generation · transformers, safetensors, qwen3_5_text
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
+- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
+- [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-6-distill-qwen-9b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
-- [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tokenrhythm-neohorse-1-4b/) — text-generation · transformers, safetensors, qwen3_5_text
-- [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-6-distill-qwen-9b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
+- [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
 - [zai-org/GLM-5.3-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-glm-5-3-flash/) — image-text-to-text · transformers, safetensors, glm5_next
-- [prism-ml/Ternary-Bonsai-2-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-2-27b-mlx-2bit/) — text-generation · mlx, safetensors, prism_hadamard_qwen35
-- [harshatheg/Qwen-2.5-1B-RLCD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-harshatheg-qwen-2-5-1b-rlcd/) — text-generation · mlx, structured-generation, parallel-decoding
+- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-secemp9-arxiv-complete/) — · task_categories:text-generation, task_categories:text-retrieval, language:en
+- [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — · gguf, quantized, fp8
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [Qwen/Qwen3.8-Flash-Next](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-8-flash-next/) — image-text-to-text · transformers, safetensors, qwen4_exp
-- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-secemp9-arxiv-complete/) — · task_categories:text-generation, task_categories:text-retrieval, language:en
+- [prism-ml/Ternary-Bonsai-2-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-2-27b-mlx-2bit/) — text-generation · mlx, safetensors, prism_hadamard_qwen35
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-glm-5-2-nvfp4/) — text-generation · Model Optimizer, safetensors, glm_moe_dsa
+- [TaichuAI/ZDTaichu5.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-taichuai-zdtaichu5-0-9b/) — image-text-to-text · safetensors, zdtaichu5_0, multimodal
 - [openbmb/MiniCPM5-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-2b/) — text-generation · transformers, safetensors, llama
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — text-generation · llama.cpp, gguf, uncensored
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — image-text-to-text · gguf, qwen3.8, qwen
 - [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-3-ultra-550b-a55b-bf16/) — text-generation · transformers, safetensors, nemotron_h
 - [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-realrebelai-minimax-h3-ggufs/) — · gguf, minimax, comfyui
-- [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — · gguf, quantized, fp8
 - [google/tabfm-1.0.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-tabfm-1-0-0-pytorch/) — tabular-classification · tabfm, safetensors, tabular
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
 - [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwen3-8-9b-distill-gguf/) — text-generation · gguf, llama.cpp, quantized
+- [harshatheg/Qwen-2.5-1B-RLCD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-harshatheg-qwen-2-5-1b-rlcd/) — text-generation · mlx, structured-generation, parallel-decoding
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-embed-1b-bf16/) — sentence-similarity · sentence-transformers, safetensors, ministral3
-- [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [TaichuAI/ZDTaichu5.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-taichuai-zdtaichu5-0-9b/) — image-text-to-text · safetensors, zdtaichu5_0, multimodal
+- [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
 - [openbmb/MiniCPM-RobotManip](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-robotmanip/) — robotics · transformers, safetensors, minicpm_vla
 - [MATLOWAI/minimax-h3-fused-turbo-int8-convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-matlowai-minimax-h3-fused-turbo-int8-convrot/) — image-text-to-video · diffusion-single-file, minimax-h3, comfyui
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — text-generation · safetensors, diffusion_gemma, nvidia
@@ -51,11 +51,11 @@
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
+- [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yandex-aliceai-foundation-80b-a3b-base/) — text-generation · transformers, safetensors, alice_ai
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
-- [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yandex-aliceai-foundation-80b-a3b-base/) — text-generation · transformers, safetensors, alice_ai
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-5-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe

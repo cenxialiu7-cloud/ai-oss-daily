@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>24 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>25 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>inclusionAI/Ming-Image-0.1-Design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>自訂的文本轉影像模型，適用於圖形設計和 RGBA 渲染。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 <item>
-<title>pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>模型推理／部署引擎，關鍵字：GGUF量化、ComfyUI（依標籤自動歸類，詳細看下方原文）</description>
+<title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>文字轉影像模型，適用於影像生成和編輯。</description>
 </item>
 <item>
-<title>AikidoSec/altar-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>基於 GLM 的文本生成模型，支援多專家系統和量化壓縮。</description>
+<title>apple/LensVLM-9B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-lensvlm-9b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-lensvlm-9b/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>影像與文字轉文字模型，適用於長上下文的視覺文本理解。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>hypit-ai/hypit</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>使用 AI 代理程式克隆病毒影片，自動生成多種變體。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>citrolabs/ego-lite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</description>
 </item>
 <item>
-<title>Qwen/Qwen-Image-2.1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</guid>
-<pubDate>24 Sep 2026 08:00:00 +0000</pubDate>
-<description>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</description>
+<title>prism-ml/Ternary-Bonsai-2-27B-gguf</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/</guid>
+<pubDate>25 Sep 2026 08:00:00 +0000</pubDate>
+<description>基於llama.cpp的TERNARY模型，用於文本生成，支援2位元運算。</description>
 </item>
 </channel>
 </rss>

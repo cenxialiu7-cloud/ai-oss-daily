@@ -741,7 +741,6 @@ _每日存檔 · 2026-09-22_
 - [r0b0tlab/deepseek-v4-pro-0813-agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-deepseek-v4-pro-0813-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PolyTutor-Labs/polymarket-strategy-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-labs-polymarket-strategy-handbook/) — 研究驅動的Polymarket策略手冊，涵蓋市場結構和風險管理。
 - [humanplus-ai/humanplus-1000](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-humanplus-ai-humanplus-1000/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ariG23498/flow-matching](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arig23498-flow-matching/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/ComfyUI-AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-auk/) — 使用 ComfyUI 管理模型，生成、編輯和增強語音的工具。
 - [TOPDEV99999/AI-Knowledge-Management-Platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/topdev99999-ai-knowledge-management-platform/) — 利用大型語言模型自動提取實體並進行結構化資料分析的知識管理平臺。

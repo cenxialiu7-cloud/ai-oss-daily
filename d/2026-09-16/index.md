@@ -380,7 +380,6 @@ _每日存檔 · 2026-09-16_
 - [Akuyakufree/Omni-videos-custom-auto_prompt_high-quality](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-akuyakufree-omni-videos-custom-auto-prompt-high-quality/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/her](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-her/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zhifeixie/Voices-in-the-Wild-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhifeixie-voices-in-the-wild-2m/) — 野外語音 2M 語音辨識資料集（中英）。
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EilamSha/glee-competition-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eilamsha-glee-competition-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceM4/hugging-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacem4-hugging-voice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ReasonCore/open-spatial-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reasoncore-open-spatial-reasoning/) — 開放空間推理基準資料集（CC-BY）。

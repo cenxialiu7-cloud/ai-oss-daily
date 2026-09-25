@@ -4,8 +4,8 @@
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
-- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
+- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rl-llm-wiki-knowledge-base/) — Hugging Face 資料集，關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qdrant-fineweb-10b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

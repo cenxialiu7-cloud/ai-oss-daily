@@ -332,7 +332,6 @@ _每日存檔 · 2026-09-20_
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tencent-hy-embodied-0-5-vla-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-Embedding-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-embedding-350m/) — LFM2.5-Embedding-350M 是用於句子相似性分析的轉換器模型，適用於邊緣計算環境。
 - [HuggingEnvs/geoguesser-article](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingenvs-geoguesser-article/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ginigen-ai-metacognition-leaderboard-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-sun-direction-flux2-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

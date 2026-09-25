@@ -392,7 +392,6 @@ _每日存檔 · 2026-09-17_
 - [build-small-hackathon/FamilyLegacy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-familylegacy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google-bert/bert-base-uncased](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-bert-bert-base-uncased/) — Google 的 BERT 模型，用於填詞任務。
 - [owensong/Inflect-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-owensong-inflect-v2/) — Hugging Face 示範應用(Space)，關鍵字：語音合成（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/Qwen3.8-27B-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-qwen3-8-27b-free-endpoint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitrobot-hiw-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

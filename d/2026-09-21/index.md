@@ -518,7 +518,6 @@ _每日存檔 · 2026-09-21_
 - [multimodalart/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-zonos2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-minimax-h3-reference-4-step-lora/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-dukaan-saathi/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-actava-chi-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/minimax-h3-flashgen-4step](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-minimax-h3-flashgen-4step/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/) — 將參考影片轉換為可編輯的動畫，支援自訂和匯出。

@@ -12,8 +12,8 @@
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omni-scientist-awesome-ai-scientist/) — Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gaia-benchmark-gaia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Idavidrein/gpqa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-idavidrein-gpqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gaia-benchmark-gaia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-paddlepaddle-real5-omnidocbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madslorentzen-ai-job-search/) — 基於Claude Code的AI職業申請框架，自動化求職流程。

@@ -4,5 +4,5 @@ Local-first screenshots, annotation, OCR, screen recording and video editing for
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：489
+**Stars**：497
 **Source**：https://github.com/yuxino/kiri

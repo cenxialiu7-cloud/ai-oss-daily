@@ -1,6 +1,6 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-09-24 09:05 CST_
+_最後更新: 2026-09-25 09:15 CST_
 
 - [XiaoDuoYa/codex-with-chatgpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/) — 使用 ChatGPT 當作規劃大腦，同時利用 Codex 進行具體操作。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
@@ -16,25 +16,25 @@ _最後更新: 2026-09-24 09:05 CST_
 - [skyf0xx/gambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyf0xx-gambit/) — 一套AI代理技能，用於清晰思考和決策。
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — 基於 Qwen 的影像生成模型，支援從文本生成影像。
 - [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/) — Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。
+- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/) — 自動語音辨識模型，支援即時語音轉文字。
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/) — 將文字轉換為音樂的模型。
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
-- [netease-youdao/Confucius4-R2T2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-netease-youdao-confucius4-r2t2/) — Confucius4-R2T2 是一個即時低延遲語音識別模型。
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
-- [arimanyus/warrenduffer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arimanyus-warrenduffer/) — 基於 AI 的印度股市盤中交易機器人，提供回測和日內交易重播。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
 - [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
 - [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
+- [gprokaznik4-bit/SolanaSniperBot-OpenSource](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solanasniperbot-opensource/) — SolanaSniperBot-OpenSource 是一個高頻交易的加密貨幣機器人。
 - [jianruntech/geo-score](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jianruntech-geo-score/) — 評估網站在 ChatGPT 中的可見性，快速打分。
-- [sunmughan/meta-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunmughan-meta-automation/) — 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
+- [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryze-ai-adgent-open-seo-mcp-skills/) — 開源 SEO 工具，支援關鍵字研究和排名追蹤。
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
 - [repoboost-hq/github-launch-checklist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoboost-hq-github-launch-checklist/) — 在 GitHub 上釋出前的準備清單，檢查名稱、描述、許可證等。
-- [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryze-ai-adgent-open-seo-mcp-skills/) — 開源 SEO 工具，支援關鍵字研究和排名追蹤。
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
+- [sunmughan/meta-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunmughan-meta-automation/) — 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
 - [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/) — 基於llama.cpp的TERNARY模型，用於文本生成，支援2位元運算。
 - [convaiinnovations/laya](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-convaiinnovations-laya/) — 一個基於轉換器的強化學習代理，用於決策和分類。
 - [Comfy-Org/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-qwen-image-2-1/) — Qwen-Image-2.1 是一個使用 comfyui 的影像生成模型。
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-xing4-0-29b-a4b/) — 使用transformers的Xing4.0模型，適用於對話生成。
 - [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
+- [Altworld/Hemmingway-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-altworld-hemmingway-1/) — 一個基於轉換器的文本生成模型，支援創意寫作和對話。

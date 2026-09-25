@@ -9,13 +9,13 @@ _每日存檔 · 2026-09-14_
 - [Jeanorochka/julia_tradediary_analysis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/) — 使用 Julia 和 Python 分析交易日誌的工具。
 - [saihhold-zhao/polox_ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saihhold-zhao-polox-ai/) — 基於 DeepSeek Harness 的多模態 AI 生成平臺，統一創作和生成。
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zc6503204-collab-stock-strategy-dashboard/) — 本地執行的股票選股、模擬交易與風險控制工作臺。
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/ComfyUI-AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-auk/) — 使用 ComfyUI 管理模型，生成、編輯和增強語音的工具。
 - [Yzw202011/OmniSpace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yzw202011-omnispace/) — 本地優先的 AI 漫畫創作工作站，支援多引擎本地推理。
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
 - [bojieli/ai-infra-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bojieli-ai-infra-book/) — 深入理解 AI 基礎設施的開源書稿，量化分析與系統設計。
 - [usmanch96/QxbrokerFutures](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/usmanch96-qxbrokerfutures/) — 為 Quotex 和 QXbroker 提供 AI 動力的 OTC 訊號引擎和預測器。
 - [LingyunStudio/AgnesStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lingyunstudio-agnesstudio/) — 使用Agnes模型免費生成圖片和影片。
+- [zhuleimed/etf-daily-sync-and-backtest](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuleimed-etf-daily-sync-and-backtest/) — A股ETF動量輪動策略回測框架。
 
 ## 🚀 Star 竄升
 
@@ -384,7 +384,6 @@ _每日存檔 · 2026-09-14_
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zc6503204-collab-stock-strategy-dashboard/) — 本地執行的股票選股、模擬交易與風險控制工作臺。
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-facebook-vggt-omega/) — Meta VGGT 3D 視覺幾何重建示範（HF Space）。
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [laurensa453/polymarket-btc-5m-hedge-ladder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laurensa453-polymarket-btc-5m-hedge-ladder/) — 一個基於 Polymarket 的比特幣 5 分鐘交易機器人，採用梯度提升策略。
 - [build-small-hackathon/FamilyLegacy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-familylegacy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Akuyakufree/Omni-videos-custom-auto_prompt_high-quality](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-akuyakufree-omni-videos-custom-auto-prompt-high-quality/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

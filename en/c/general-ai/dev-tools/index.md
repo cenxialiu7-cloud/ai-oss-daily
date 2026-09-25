@@ -1,8 +1,8 @@
 # 🛠️ AI Dev Tools / MCP / SDK
 
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
-- [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
 - [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
+- [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
@@ -10,11 +10,11 @@
 - [Akuyakufree/Omni-videos-custom-auto_prompt_high-quality](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-akuyakufree-omni-videos-custom-auto-prompt-high-quality/) — · gradio, region:us
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [victor/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-lingbot-video/) — · gradio, mcp-server, region:us
+- [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [hugging-apps/4danyone-multiview-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-4danyone-multiview-demo/) — · gradio, mcp-server, region:us
 - [microsoft/vibevoice-asr-bitnet-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-vibevoice-asr-bitnet-demo/) — · gradio, mcp-server, region:us
 - [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-midashenglm-gen/) — · gradio, mcp-server, region:us
 - [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
-- [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [jimmycarter/krea2-turbo-bbox-canvas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jimmycarter-krea2-turbo-bbox-canvas/) — · gradio, mcp-server, region:us
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cisco-ai-stupase-speech-enhancement/) — · gradio, mcp-server, region:us
@@ -40,8 +40,8 @@
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
-- [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan777/) — · gradio, mcp-server, region:us
 - [hugging-apps/bs-roformer-leap-audio-separator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bs-roformer-leap-audio-separator/) — · gradio, mcp-server, region:us
+- [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan777/) — · gradio, mcp-server, region:us
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qsardor-claude-sonnet-opus/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us

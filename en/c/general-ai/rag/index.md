@@ -4,8 +4,8 @@
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-embed-1b-bf16/) — sentence-similarity · sentence-transformers, safetensors, ministral3
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — image-text-to-text · gguf, llama.cpp, qwen35moe
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
-- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-ai-notes/) — · static, ai-notes, note-taker
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pat-jj-harness-1/) — text-generation · transformers, safetensors, gpt_oss
+- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-ai-notes/) — · static, ai-notes, note-taker
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification

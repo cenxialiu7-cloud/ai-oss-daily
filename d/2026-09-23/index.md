@@ -299,7 +299,6 @@ _每日存檔 · 2026-09-23_
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-colbert-350m/) — 用於句子相似性分析的深度學習模型。
 - [victor/MiniCPM5-2B-WebGPU-Pi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-minicpm5-2b-webgpu-pi/) — Hugging Face 示範應用(Space)，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saravutw/Omni-videos-custom](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-saravutw-omni-videos-custom/) — Hugging Face 示範應用(Space)，關鍵字：文生影片（依標籤自動歸類，詳細看下方原文）
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-memory-leaderboard-leaderboard/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [toshas/Marigold-V2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-toshas-marigold-v2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

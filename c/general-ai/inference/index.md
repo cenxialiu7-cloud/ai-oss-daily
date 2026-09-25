@@ -2,19 +2,19 @@
 
 - [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/) — 基於llama.cpp的TERNARY模型，用於文本生成，支援2位元運算。
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
-- [prism-ml/Ternary-Bonsai-2-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-mlx-2bit/) — 一種使用二進位制壓縮技術的高效能文本生成模型。
+- [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — 模型推理／部署引擎，關鍵字：GGUF量化、ComfyUI（依標籤自動歸類，詳細看下方原文）
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
+- [prism-ml/Ternary-Bonsai-2-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-mlx-2bit/) — 一種使用二進位制壓縮技術的高效能文本生成模型。
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。
 - [realrebelai/MiniMax-H3_GGUFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-realrebelai-minimax-h3-ggufs/) — 將文字轉換為影片的模型，支援gguf格式。
-- [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — 模型推理／部署引擎，關鍵字：GGUF量化、ComfyUI（依標籤自動歸類，詳細看下方原文）
 - [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-empero-ai-qwen3-8-9b-distill-gguf/) — Qwen3.8-9B-Distill-GGUF 是一個經過精簡的文本生成模型，支援 gguf 格式和量化。
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — 基於GGUF格式的圖文轉文字模型，具備未審查和異端特點。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — 基於 LLaMA.cpp 的 Qwen3.8-27B 模型，支援 GGUF 和 DFlash2 格式。
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
-- [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yandex-aliceai-foundation-80b-a3b-base/) — 基於轉換器的文本生成模型，支援專家混合系統和vllm引擎。
+- [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — gemma-4-12B 是用於程式碼生成和推理的模型。
@@ -26,6 +26,7 @@
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
+- [nvidia/Nemotron-3-Diarization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-diarization/) — 語音活動檢測模型，適用於即時講者分離。
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/) — Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。

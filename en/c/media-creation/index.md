@@ -2,18 +2,20 @@
 
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
 - [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1/) — text-to-image · diffusers, safetensors, qwen
+- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-m-a-p-yue2-3b/) — text-to-audio · safetensors, yue2, music-generation
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [netease-youdao/Confucius4-R2T2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-netease-youdao-confucius4-r2t2/) — automatic-speech-recognition · safetensors, qwen3_asr, confucius4
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, lora
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
+- [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inclusionai-ming-image-0-1-design/) — text-to-image · custom, diffusers, safetensors
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
-- [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inclusionai-ming-image-0-1-design/) — text-to-image · custom, diffusers, safetensors
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
 - [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audio8-audio8-tts-preview-0-6b/) — text-to-speech · transformers, safetensors, arktts
@@ -58,5 +60,3 @@
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-micro-v2/) — text-to-speech · text-to-speech, speech-synthesis, local-tts
 - [nyralabs/CrisperWhisper2.0_large](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nyralabs-crisperwhisper2-0-large/) — automatic-speech-recognition · crisperwhisper, safetensors, whisper
-- [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-auk/) — text-to-speech · audio, speech, text-to-speech
-- [OpenMOSS-Team/MOSS-SoundEffect-v2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-soundeffect-v2-0/) — text-to-audio · diffusers, safetensors, text-to-audio

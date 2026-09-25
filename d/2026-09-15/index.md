@@ -402,7 +402,6 @@ _每日存檔 · 2026-09-15_
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-umutkocasari-faceanything/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-misotts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-openmythos/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [fffiloni/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fffiloni-scail-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ucsandman/marketing-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ucsandman-marketing-studio/) — Claude Code驅動的行銷工作室，自動生成產品推廣素材。

@@ -298,7 +298,6 @@ _每日存檔 · 2026-09-24_
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xdof-abc-130k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
-- [MoreThought/Fable-5.1-Max-Reasoning-Filtered-5000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-5000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [PaddlePaddle/HPD-Parsing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-hpd-parsing/) — 圖文轉文字模型，支援特徵抽取。
 - [diversant-5714/DaVinci-26-Pro-Port](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diversant-5714-davinci-26-pro-port/) — 專業的色彩校正、影片編輯和視覺效果軟體，具備高動態範圍工具和即時AI跟蹤。
