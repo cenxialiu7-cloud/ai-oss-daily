@@ -4,5 +4,5 @@ AI API aggregator companion: machine-readable catalog of 300+ models behind one 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：77
+**Stars**：98
 **Source**：https://github.com/apimart-66/ai-api-aggregator

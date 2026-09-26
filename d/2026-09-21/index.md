@@ -377,7 +377,6 @@ _每日存檔 · 2026-09-21_
 - [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nveagle-locateanything-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jiamo509/koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiamo509-koubo/) — 開源JJ口播剪輯技能，供學習使用。
 - [build-small-hackathon/PITCHFIGHT_AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-pitchfight-ai/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [aowang-ai/jev-trade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aowang-ai-jev-trade/) — 在 Hyperliquid 上進行即時 Jev 交易的工具。
 - [t-tech/t-search-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-t-tech-t-search-blog/) — Hugging Face 示範應用(Space)，關鍵字：agent、RAG（依標籤自動歸類，詳細看下方原文）
 - [ngocdang83/tran-vi-teacher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ngocdang83-tran-vi-teacher/) — 中文↔越南文翻譯教學資料集。
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-pid-image-upscaler/) — PiD 圖像放大線上示範（含 MCP server）。
@@ -825,7 +824,6 @@ _每日存檔 · 2026-09-21_
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-coherelabs-cohere-parse/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [bojieli/ai-infra-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bojieli-ai-infra-book/) — 深入理解 AI 基礎設施的開源書稿，量化分析與系統設計。
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [apiframe-ai/seedance-2.0-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apiframe-ai-seedance-2-0-api/) — Seedance 2.0 API 提供文字轉影片和影像轉影片功能。
 - [Nanako0129/sepia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanako0129-sepia/) — Claude程式碼的去AI化寫作技能，適用於小說和專業散文。
 - [liyupi/ai-model-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-model-world/) — 將大模型擬人化並視覺化，展示模型的效能和特點。
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。

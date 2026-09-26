@@ -4,5 +4,5 @@ Audit a GitHub repository before launch - ten readiness checks scored 0-10: name
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：195
+**Stars**：194
 **Source**：https://github.com/repoboost-hq/github-launch-checklist

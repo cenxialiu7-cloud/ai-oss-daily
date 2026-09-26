@@ -2,9 +2,9 @@
 
 video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 
-**為何上榜**：近一日新增 133★（現 9,443★）
+**為何上榜**：近一日新增 123★（現 9,566★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：9,443
+**Stars**：9,566
 **原始連結**：https://github.com/Vincentwei1021/video-shotcraft

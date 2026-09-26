@@ -4,5 +4,5 @@ OpenAI-compatible API migration kit: drop-in /v1/images/generations and chat exa
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：83
+**Stars**：104
 **Source**：https://github.com/apimart-66/openai-compatible-api-migration-kit

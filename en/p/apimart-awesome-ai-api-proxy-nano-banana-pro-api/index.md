@@ -4,5 +4,5 @@ Nano Banana Pro API (gemini-3-pro-image-preview): model id, per-image pricing, a
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：79
+**Stars**：97
 **Source**：https://github.com/apimart-awesome-ai-api-proxy/nano-banana-pro-api

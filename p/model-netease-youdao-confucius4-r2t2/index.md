@@ -2,7 +2,7 @@
 
 Confucius4-R2T2 是一個即時低延遲語音識別模型。
 
-**為何上榜**：HF trending 311 · 391 likes · 4,930 下載
+**為何上榜**：HF trending 315 · 410 likes · 5,827 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

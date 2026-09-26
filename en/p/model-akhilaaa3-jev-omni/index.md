@@ -1,6 +1,6 @@
 # akhilaaa3/Jev-Omni
 
-text-classification · transformers, safetensors, text-classification
+text-classification · transformers, safetensors, gemma4_unified
 
 **Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

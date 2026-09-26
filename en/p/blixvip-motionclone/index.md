@@ -4,5 +4,5 @@ Turn reference videos into editable motion graphics with Codex + ChatGPT. Compar
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：328
+**Stars**：330
 **Source**：https://github.com/blixvip/MotionClone

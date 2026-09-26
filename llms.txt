@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-09-25 09:15 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-09-26 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-09-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-26/)
 - [2026-09-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-25/)
 - [2026-09-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-24/)
 - [2026-09-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-23/)
@@ -26,15 +27,14 @@
 - [2026-09-15](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-15/)
 - [2026-09-14](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-14/)
 - [2026-09-13](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-13/)
-- [2026-09-12](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-12/)
 
 ## 今日精選 Today's picks
-- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/)
-- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/)
-- [apple/LensVLM-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-lensvlm-9b/)
-- [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/)
-- [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/)
-- [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/)
+- [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/)
+- [op7418/guizang-product-video-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-product-video-skill/)
+- [apimart-api-ai-Aggregator/seedance-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -98,3 +98,4 @@
 - [AI 郵件商機管家：把塞爆的收件匣變成不漏接的跟進清單，每一封往來自動長成這個客戶的長期記憶](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P059/)
 - [產品上線冷啟動引擎：新站新 App 的第一個月，自動鋪滿三百個目錄並算清每個管道真正帶來多少人](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P060/)
 - [本機即時雙語字幕台：直播、線上課與跨國會議一開口就出字幕，聲音全程不離開這台電腦](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P061/)
+- [App 上架素材工作室：從暢銷 App 版型生出原生級畫面 → 自動產 App Store／Google Play 截圖與預覽影片，給獨立開發者的一條龍上架包](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P062/)

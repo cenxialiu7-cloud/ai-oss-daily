@@ -1,8 +1,8 @@
 # Human-Agent-Society/reef
 
-Continual learning infra for self-improving agents
+Infrastructure for continually self‑improving agents
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,697
+**Stars**：5,155
 **Source**：https://github.com/Human-Agent-Society/reef

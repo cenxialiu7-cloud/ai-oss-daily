@@ -4,5 +4,5 @@ One zero-dependency CLI for all your MCP tools and agent skills. 99.2% fewer tok
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：205
+**Stars**：204
 **Source**：https://github.com/activeing123/mcptoon

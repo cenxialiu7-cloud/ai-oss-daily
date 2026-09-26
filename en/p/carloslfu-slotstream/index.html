@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX …">
+<meta name="description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carloslfu-slotstream/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX …">
+<meta property="og:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX …">
+<meta name="twitter:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "carloslfu/slotstream", "description": "Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX and Metal: one binary, no Python, Ollama- and OpenAI-compatible APIs.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/carloslfu/slotstream", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 391, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, llm, llm-inference, local-llm, macos, mixture-of-experts, mlx, ollama, qwen, swift"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "carloslfu/slotstream", "description": "Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline. Works with Claude Code, Codex and Ollama or OpenAI clients.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/carloslfu/slotstream", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 397, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, claude-code, inference-engine, llm, llm-inference, local-ai, local-llm, macos, metal, mixture-of-experts"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ Inference / Serving", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "carloslfu/slotstream", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/inference/">⚡ Inference / Serving</a>  </p>
   <h1>carloslfu/slotstream</h1>
-<p class="detail-lead">Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX and Metal: one binary, no Python, Ollama- and OpenAI-compatible APIs.</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline. Works with Claude Code, Codex and Ollama or OpenAI clients.</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-ok">✓ Commercial OK</span>
-<span class="badge stars">★ 391</span><span class="badge">Swift</span>  </div>
+<span class="badge stars">★ 397</span><span class="badge">Swift</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/carloslfu/slotstream" rel="noopener" target="_blank">↗ Source</a>
   </div>
@@ -58,7 +58,7 @@
     <h2>Commercial license</h2>
     <div class="kv"><span class="badge lic-ok">✓ Commercial OK</span><span class="badge">MIT</span></div>
 <p style="color:var(--fg-dim)">可商用，通常只需保留著作權聲明/授權條款</p>  </div>
-  <div class="panel"><h2>Topics</h2><div class="chips" style="margin:0"><span class="chip">apple-silicon</span><span class="chip">llm</span><span class="chip">llm-inference</span><span class="chip">local-llm</span><span class="chip">macos</span><span class="chip">mixture-of-experts</span><span class="chip">mlx</span><span class="chip">ollama</span><span class="chip">qwen</span><span class="chip">swift</span></div></div>
+  <div class="panel"><h2>Topics</h2><div class="chips" style="margin:0"><span class="chip">apple-silicon</span><span class="chip">claude-code</span><span class="chip">inference-engine</span><span class="chip">llm</span><span class="chip">llm-inference</span><span class="chip">local-ai</span><span class="chip">local-llm</span><span class="chip">macos</span><span class="chip">metal</span><span class="chip">mixture-of-experts</span><span class="chip">mlx</span><span class="chip">moe</span></div></div>
 </section>
 
 <div style="display:flex;justify-content:center"><div class="adslot">

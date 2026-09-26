@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
+<updated>2026-09-26T08:00:00+00:00</updated>
 <entry>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
+<title>Contrastive-LM/CLM-v0.1-8B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>對比學習模型，用於文本排名和重排序。</summary>
 </entry>
 <entry>
-<title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>文字轉影像模型，適用於影像生成和編輯。</summary>
+<title>op7418/guizang-product-video-skill</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-product-video-skill/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-product-video-skill/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>用程式碼製作產品更新宣傳片的技能，包含文案、配樂和動作音效。</summary>
 </entry>
 <entry>
-<title>apple/LensVLM-9B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-lensvlm-9b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-lensvlm-9b/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>影像與文字轉文字模型，適用於長上下文的視覺文本理解。</summary>
+<title>apimart-api-ai-Aggregator/seedance-2.5-api</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>按秒計費的AI文本轉影片API，支援cURL和Python範例。</summary>
 </entry>
 <entry>
-<title>hypit-ai/hypit</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>使用 AI 代理程式克隆病毒影片，自動生成多種變體。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>citrolabs/ego-lite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>prism-ml/Ternary-Bonsai-2-27B-gguf</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/</id>
-<updated>2026-09-25T08:00:00+00:00</updated>
-<summary>基於llama.cpp的TERNARY模型，用於文本生成，支援2位元運算。</summary>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
+<updated>2026-09-26T08:00:00+00:00</updated>
+<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
 </entry>
 </feed>
