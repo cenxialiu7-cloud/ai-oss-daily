@@ -2,9 +2,9 @@
 
 Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。
 
-**為何上榜**：近一日新增 2★（現 105★）
+**為何上榜**：近一日新增 1★（現 106★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：105
+**Stars**：106
 **原始連結**：https://github.com/Omni-Scientist/Awesome-AI-Scientist

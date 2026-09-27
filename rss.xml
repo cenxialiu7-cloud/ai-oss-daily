@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>26 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>27 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Contrastive-LM/CLM-v0.1-8B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>對比學習模型，用於文本排名和重排序。</description>
+<title>moondream/parakeet-redux</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>自動語音識別模型，支援蘋果晶片。</description>
 </item>
 <item>
-<title>op7418/guizang-product-video-skill</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-product-video-skill/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-product-video-skill/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>用程式碼製作產品更新宣傳片的技能，包含文案、配樂和動作音效。</description>
+<title>XiaomiMiMo/MiMo-V2.6-RL-oss</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>apimart-api-ai-Aggregator/seedance-2.5-api</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>按秒計費的AI文本轉影片API，支援cURL和Python範例。</description>
+<title>fastino/GLiNER2.5-Decide</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>文本分類模型，用於判斷意圖和情感。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>alibaba/open-code-review</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
 </item>
 <item>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
-<pubDate>26 Sep 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
+<title>Qwen/Qwen-Image-2.1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</guid>
+<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</description>
 </item>
 </channel>
 </rss>

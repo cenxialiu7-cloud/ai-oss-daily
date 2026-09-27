@@ -2,9 +2,9 @@
 
 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
 
-**為何上榜**：1,773★ · 近期活躍
+**為何上榜**：1,772★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,773
+**Stars**：1,772
 **原始連結**：https://github.com/jau123/MeiGen-AI-Design-MCP

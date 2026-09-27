@@ -4,5 +4,5 @@ The models on your disk, put to work. A private desktop app for open models — 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：49
+**Stars**：50
 **Source**：https://github.com/Fangyuan025/Chaty

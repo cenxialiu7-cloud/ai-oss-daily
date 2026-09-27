@@ -1,0 +1,10 @@
+# fastino/GLiNER2.5-Decide
+
+文本分類模型，用於判斷意圖和情感。
+
+**為何上榜**：HF trending 189 · 189 likes · 14,772 下載
+
+**商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
+
+**Stars**：0
+**原始連結**：https://huggingface.co/fastino/GLiNER2.5-Decide
