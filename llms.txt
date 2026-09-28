@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-09-27 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-09-28 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-09-28](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-28/)
 - [2026-09-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-27/)
 - [2026-09-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-26/)
 - [2026-09-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-25/)
@@ -26,15 +27,14 @@
 - [2026-09-17](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-17/)
 - [2026-09-16](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-16/)
 - [2026-09-15](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-15/)
-- [2026-09-14](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-14/)
 
 ## 今日精選 Today's picks
-- [moondream/parakeet-redux](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/)
-- [XiaomiMiMo/MiMo-V2.6-RL-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/)
-- [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/)
-- [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/)
-- [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/)
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/)
+- [SupraLabs/Supra2-IMG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/)
+- [SupersonicLabs/Julia-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/)
+- [lemomo-ai/lemo-opuscar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/)
+- [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/)
+- [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/)
+- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

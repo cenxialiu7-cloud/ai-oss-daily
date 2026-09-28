@@ -852,7 +852,7 @@ _Daily archive · 2026-08-27_
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raymondhou0917-speak-human-tw/) — 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。52个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [dduongtrandai/LA-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dduongtrandai-la-studio/) — LA Studio is a local-first AI audio platform for exploring, downloading, and testing speech-to-text, text-to-…
 - [IlyaGusev/habr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilyagusev-habr/) — · task_categories:text-generation, language:ru, language:en
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-tw-anti-gambling-trader-tw/) — 免費開源的投資反詐、交易統計與自動化交易程式工具：預設 PaperBroker，提供 14 種券商／交易所選項；交易紀錄分析在本機執行。
@@ -928,7 +928,7 @@ _Daily archive · 2026-08-27_
 - [HKUDS/Vibe-Trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-vibe-trading/) — "Vibe-Trading: Your Personal Trading Agent"
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rath-team-openrath/) — An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.
 - [EvoLinkAI/gpt-image-2-gen-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-gpt-image-2-gen-skill/) — GPT Image 2 AI image generation skill for OpenClaw, Claude Code, OpenCode, and Cursor - one command install
-- [js-lee-AI/awesome-llm-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/js-lee-ai-awesome-llm-agent-papers/) — A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-…
+- [js-lee-AI/awesome-llm-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/js-lee-ai-awesome-llm-agent-papers/) — A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-…
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/k-dense-ai-scientific-agent-skills/) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists …

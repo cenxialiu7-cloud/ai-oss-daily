@@ -1,12 +1,12 @@
 # 📚 RAG / Retrieval / Vector DB
 
-- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-secemp9-arxiv-complete/) — · task_categories:text-generation, task_categories:text-retrieval, language:en
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-embed-1b-bf16/) — sentence-similarity · sentence-transformers, safetensors, ministral3
+- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-secemp9-arxiv-complete/) — · task_categories:text-generation, task_categories:text-retrieval, language:en
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — image-text-to-text · gguf, llama.cpp, qwen35moe
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pat-jj-harness-1/) — text-generation · transformers, safetensors, gpt_oss
-- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-ai-notes/) — · static, ai-notes, note-taker
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
+- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-ai-notes/) — · static, ai-notes, note-taker
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification
 - [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-llamaindex-extractbench/) — · benchmark:official, benchmark:eval-yaml, language:en
@@ -24,9 +24,9 @@
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rostamlabs-rostam/) — Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run…
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryancodrai-turbovec/) — A vector index built on TurboQuant, written in Rust with Python bindings
 - [brekkylab/backlot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brekkylab-backlot/) — A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — w…
+- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ombharatiya-ai-engineer-interview-questions/) — Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineer…
 - [ibrahimqureshae/mdflux](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ibrahimqureshae-mdflux/) — Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders…
 - [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-transformers-explained/) — Transformer architecture explained step by step - the full architecture, every attention variant, positional …
-- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ombharatiya-ai-engineer-interview-questions/) — Interview questions and prep for AI Engineer, LLM Engineer, and Applied AI roles. Built for software engineer…
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lhh737-knowledgebase-rag-llm-system/) — 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 学习项目，支持本地知识库上传、检索增强问答与聊天式交互。
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/futureuniant-workshadow/) — 如影随形 · 本地优先桌面工作日志：富文本记录、语义检索、工作台总结/问答；模型自配，数据留在本机。 Local-first desktop work journal—rich logs, semantic searc…
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inkeep-open-knowledge/) — Beautiful, AI-native markdown IDE and LLM wiki

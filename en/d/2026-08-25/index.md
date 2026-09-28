@@ -823,7 +823,7 @@ _Daily archive · 2026-08-25_
 - [Nathanw1014/strix-halo-llamacpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nathanw1014-strix-halo-llamacpp/) — Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled current Mesa …
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raymondhou0917-speak-human-tw/) — 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。52个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-meddies-meddies-persona-vie/) — · task_categories:other, annotations_creators:machine-generated, language_creators:machine-generated
 - [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pvinh-quant-kairos-v2/) — Kairos v2 là một framework nghiên cứu định lượng mã nguồn mở được phát triển bằng Python nhằm hỗ trợ nghiên c…
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-georank/) — Open-source GEO ranking and generative engine optimization platform.

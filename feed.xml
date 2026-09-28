@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
+<updated>2026-09-28T08:00:00+00:00</updated>
 <entry>
-<title>moondream/parakeet-redux</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>自動語音識別模型，支援蘋果晶片。</summary>
+<title>SupraLabs/Supra2-IMG</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>Supra2-IMG 是一個使用 SupraDiT 技術的文本轉影像模型。</summary>
 </entry>
 <entry>
-<title>XiaomiMiMo/MiMo-V2.6-RL-oss</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>SupersonicLabs/Julia-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>Julia-1 是一個用於多語言文本分類的決策模型。</summary>
 </entry>
 <entry>
-<title>fastino/GLiNER2.5-Decide</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>文本分類模型，用於判斷意圖和情感。</summary>
+<title>lemomo-ai/lemo-opuscar</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>lemo-opuscar 提供 39 種影片風格，可自訂故事和風格提示。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>phuryn/pm-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</summary>
 </entry>
 <entry>
-<title>alibaba/open-code-review</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</summary>
+<title>citrolabs/ego-lite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</summary>
 </entry>
 <entry>
-<title>Qwen/Qwen-Image-2.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</id>
-<updated>2026-09-27T08:00:00+00:00</updated>
-<summary>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</summary>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
+<updated>2026-09-28T08:00:00+00:00</updated>
+<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
 </entry>
 </feed>

@@ -1,12 +1,12 @@
 # 📚 RAG／檢索／向量庫
 
-- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-secemp9-arxiv-complete/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
+- [secemp9/arxiv-complete](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-secemp9-arxiv-complete/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
-- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rl-llm-wiki-knowledge-base/) — Hugging Face 資料集，關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
+- [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qdrant-fineweb-10b/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -24,9 +24,9 @@
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rostamlabs-rostam/) — rostam 是一個開源向量資料庫和超微秒級鍵值儲存引擎，支援嵌入式和叢集部署。
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [brekkylab/backlot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brekkylab-backlot/) — 模擬企業SaaS API的本地模擬器，支援Slack、Gmail等。
+- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ombharatiya-ai-engineer-interview-questions/) — 提供AI工程師面試問題和準備建議，涵蓋公司特定問題集。
 - [ibrahimqureshae/mdflux](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ibrahimqureshae-mdflux/) — 將檔案轉換為清潔的Markdown格式。
 - [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-transformers-explained/) — 詳細解說 Transformer 架構及其各層結構。
-- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ombharatiya-ai-engineer-interview-questions/) — 提供AI工程師面試問題和準備建議，涵蓋公司特定問題集。
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/futureuniant-workshadow/) — 本地優先的桌面工作日誌應用，支援富文本記錄和語義檢索。
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inkeep-open-knowledge/) — open-knowledge 是一個基於AI的Markdown IDE和LLM知識庫。

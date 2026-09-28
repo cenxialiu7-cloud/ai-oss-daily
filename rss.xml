@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>27 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>28 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>moondream/parakeet-redux</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moondream-parakeet-redux/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>自動語音識別模型，支援蘋果晶片。</description>
+<title>SupraLabs/Supra2-IMG</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>Supra2-IMG 是一個使用 SupraDiT 技術的文本轉影像模型。</description>
 </item>
 <item>
-<title>XiaomiMiMo/MiMo-V2.6-RL-oss</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>SupersonicLabs/Julia-1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>Julia-1 是一個用於多語言文本分類的決策模型。</description>
 </item>
 <item>
-<title>fastino/GLiNER2.5-Decide</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>文本分類模型，用於判斷意圖和情感。</description>
+<title>lemomo-ai/lemo-opuscar</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>lemo-opuscar 提供 39 種影片風格，可自訂故事和風格提示。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>phuryn/pm-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</description>
 </item>
 <item>
-<title>alibaba/open-code-review</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。</description>
+<title>citrolabs/ego-lite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</description>
 </item>
 <item>
-<title>Qwen/Qwen-Image-2.1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</guid>
-<pubDate>27 Sep 2026 08:00:00 +0000</pubDate>
-<description>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 </channel>
 </rss>

@@ -4,5 +4,5 @@ Customer-run client for Secure MCP Tunnel: connect private or localhost MCP serv
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：498
+**Stars**：506
 **Source**：https://github.com/openai/tunnel-client

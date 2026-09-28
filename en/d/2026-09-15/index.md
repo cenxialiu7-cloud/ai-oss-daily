@@ -1136,7 +1136,7 @@ _Daily archive · 2026-09-15_
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-waxalnlp/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language_creators:creator_1
 - [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/snflkd-fluent-korean/) — Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
+- [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。52个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [simonlin1212/Vibe-Research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/simonlin1212-vibe-research/) — Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录、回测。V…
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lmsys-lmsys-chat-1m/) — · size_categories:1M<n<10M, format:parquet, modality:text
@@ -1420,7 +1420,7 @@ _Daily archive · 2026-09-15_
 - [pseudo-longinus/quant-buddy-view](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pseudo-longinus-quant-buddy-view/) — 把投研逻辑发布成 Serverless 数据接口和可分享、会自动更新的量化看板。
 - [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rocketride-org-rocketride-server/) — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale …
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lichamnesia-awesome-ad-video-prompts/) — Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to H…
-- [js-lee-AI/awesome-llm-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/js-lee-ai-awesome-llm-agent-papers/) — A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-…
+- [js-lee-AI/awesome-llm-agent-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/js-lee-ai-awesome-llm-agent-papers/) — A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-…
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minishlab-semble/) — Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
