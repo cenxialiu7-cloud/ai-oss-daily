@@ -9,13 +9,13 @@ _Daily archive · 2026-09-25_
 - [apple/LensVLM-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-apple-lensvlm-9b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akhilaaa3-jev-omni/) — text-classification · transformers, safetensors, gemma4_unified
 - [nvidia/Nemotron-3-Diarization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-diarization/) — voice-activity-detection · nemo, safetensors, gguf
-- [StarDoc-AI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stardoc-ai-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-harland-omnivchat/) — · task_categories:video-text-to-text, language:en, language:zh
 - [Viggle/Meridian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-meridian/) — · gradio, region:us
 - [Qwen/RecreationBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-recreationbench/) — · task_categories:text-generation, language:en, license:other
 - [amitshekhariitbhu/ai-engineering-course](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-ai-engineering-course/) — AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from…
 - [StarDoc-AI/navidc-ocr-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-stardoc-ai-navidc-ocr-demo/) — · gradio, mcp-server, region:us
+- [genrobot2025/Gen-HumanEgo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-genrobot2025-gen-humanego/) — · task_categories:robotics, language:en, license:cc-by-sa-4.0
 
 ## 🚀 Climbing
 
@@ -281,7 +281,6 @@ _Daily archive · 2026-09-25_
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
-- [StarDoc-AI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stardoc-ai-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kiabush-persian-text-to-ipa-byt5/) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tune…
 - [Motif-Technologies/Motif-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-motif-technologies-motif-3/) — text-generation · transformers, safetensors, Motif
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/) — A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute a…
@@ -880,7 +879,7 @@ _Daily archive · 2026-09-25_
 - [alesha-pro/tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alesha-pro-tools/) — Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig
 - [Carasibana/ComfyUI-H3-FaceRefine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carasibana-comfyui-h3-facerefine/) — Refine and improve the quality of small faces in MiniMax H3 video. Per-frame face tracking, crop, refine with…
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cmrobot-motiondecode/) — · region:us
-- [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abrahampaulj-nightmare-mobile/) — On-device ComfyUI style node graph for Stable Diffusion on Android. Local SD1.5, SDXL, Flux and Z-image text …
+- [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abrahampaulj-nightmare-mobile/) — On-device ComfyUI style node graph for Stable Diffusion on Android. Local SD1.5, SDXL, Flux, Z-image, Krea 2,…
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro — Stable Diffusion Pro 2026 — local image generation with SDXL, ControlNet, LoRA. Stable…
 - [TokenRhythm/NeoHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tokenrhythm-neohorse/) — NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-neoteaiembodied-openneodata/) — · task_categories:robotics, language:en, license:cc-by-nc-sa-4.0
@@ -2328,7 +2327,7 @@ _Daily archive · 2026-09-25_
 - [AsuraAce/ambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/asuraace-ambit/) — Local-first desktop manager for AI image libraries
 - [elbruno/ElBruno.QwenTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elbruno-elbruno-qwentts/) — Qwen3-TTS ONNX export pipeline + C# .NET 10 console app for local voice generation
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0factor/) — 面向 A 股本地数据的 AI 因子研究工作台：因子生成、存储、注册、评估与报告。
-- [frankxai/claude-skills-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-claude-skills-library/) — Professional-grade skills for Claude Code & Claude AI - Transform Claude into a domain expert in seconds
+- [frankxai/claude-skills-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-claude-skills-library/) — 114 MIT-licensed agent skills for Claude Code and every agentic runtime: MCP, Next.js, Oracle Cloud, Suno, co…
 - [Kyros-494/kyros-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kyros-494-kyros-ai/) — Kyros — The Memory OS for AI Agents Give your AI agents secure, self-correcting, persistent memory in 3 lines…
 - [Degenapetrader/EVPOLY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/degenapetrader-evpoly/) — Rust trading engine for Polymarket — multiple strategy loops, shared risk arbiter, remote alpha, and a manual…
 - [YangSal/cytrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yangsal-cytrade/) — 一个基于qmt的轻量化交易框架。

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>28 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>29 Sep 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>SupraLabs/Supra2-IMG</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>Supra2-IMG 是一個使用 SupraDiT 技術的文本轉影像模型。</description>
+<title>XingChen-AGI/TeleOCR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>將影像文字轉換為純文字的OCR工具。</description>
 </item>
 <item>
-<title>SupersonicLabs/Julia-1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>Julia-1 是一個用於多語言文本分類的決策模型。</description>
+<title>akatz-ai/MiniMax-H3-Character-Swap-LoRA</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>用於替換影片中角色的AI工具。</description>
 </item>
 <item>
-<title>lemomo-ai/lemo-opuscar</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>lemo-opuscar 提供 39 種影片風格，可自訂故事和風格提示。</description>
+<title>SelmiAbderrahim/rankme.fast</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>自建的SEO平臺。</description>
 </item>
 <item>
-<title>phuryn/pm-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>citrolabs/ego-lite</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</description>
+<title>hypit-ai/hypit</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>使用 AI 代理程式克隆病毒影片，自動生成多種變體。</description>
 </item>
 <item>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
-<pubDate>28 Sep 2026 08:00:00 +0000</pubDate>
-<description>自動語音辨識模型，支援即時語音轉文字。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>29 Sep 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

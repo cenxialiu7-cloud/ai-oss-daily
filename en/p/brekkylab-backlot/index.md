@@ -4,5 +4,5 @@ A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：254
+**Stars**：287
 **Source**：https://github.com/brekkylab/backlot

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
+<updated>2026-09-29T08:00:00+00:00</updated>
 <entry>
-<title>SupraLabs/Supra2-IMG</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>Supra2-IMG 是一個使用 SupraDiT 技術的文本轉影像模型。</summary>
+<title>XingChen-AGI/TeleOCR</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>將影像文字轉換為純文字的OCR工具。</summary>
 </entry>
 <entry>
-<title>SupersonicLabs/Julia-1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>Julia-1 是一個用於多語言文本分類的決策模型。</summary>
+<title>akatz-ai/MiniMax-H3-Character-Swap-LoRA</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>用於替換影片中角色的AI工具。</summary>
 </entry>
 <entry>
-<title>lemomo-ai/lemo-opuscar</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lemomo-ai-lemo-opuscar/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>lemo-opuscar 提供 39 種影片風格，可自訂故事和風格提示。</summary>
+<title>SelmiAbderrahim/rankme.fast</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>自建的SEO平臺。</summary>
 </entry>
 <entry>
-<title>phuryn/pm-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>citrolabs/ego-lite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。</summary>
+<title>hypit-ai/hypit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>使用 AI 代理程式克隆病毒影片，自動生成多種變體。</summary>
 </entry>
 <entry>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
-<updated>2026-09-28T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
+<updated>2026-09-29T08:00:00+00:00</updated>
+<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
 </entry>
 </feed>

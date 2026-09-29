@@ -4,5 +4,5 @@ A股行情分析与AI智能投研智能体：股票分析、量化交易分析�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：960
+**Stars**：1,022
 **Source**：https://github.com/jundizhou/easy-stock
