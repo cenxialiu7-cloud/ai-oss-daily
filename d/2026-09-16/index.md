@@ -2127,7 +2127,6 @@ _每日存檔 · 2026-09-16_
 - [baptisterajaut/amber](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baptisterajaut-amber/) — 免費開源非線性影片編輯器（基於Qt 6、FFmpeg）
 - [m4vic/socratic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/m4vic-socratic/) — 包裝成Claude/Codex技能的高階工程師編碼前問答工具。
 - [Vincentwei1021/kronos-guide-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-kronos-guide-cn/) — A股K線預測中文實戰指南，涵蓋資料獲取、微調教程等。
-- [kldhsh123/Afterglow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kldhsh123-afterglow/) — 使用 QQ 聊天記錄和向量資料庫讓 AI 更好地扮演對方角色的工具。
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
 - [doge-8/btc5m-web](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/doge-8-btc5m-web/) — Polymarket的比特幣等加密貨幣市場快速交易工具和自動化策略框架。
 - [2alf/Heimdall](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/2alf-heimdall/) — Heimdall 是一個用於保護本地 AI 們配置檔案和伺服器檔案的完整性監控工具。
@@ -2159,7 +2158,6 @@ _每日存檔 · 2026-09-16_
 - [OwenTyme/voice-zero](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owentyme-voice-zero/) — 適用於零樣本文本到語音引擎的聲音範例集合。
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/askkumptenchen-agent-chat-selfie/) — 讓 AI Agent 在對話中傳送情緒自拍，並根據心情回覆。
 - [fabricioctelles/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fabricioctelles-skills/) — 一系列用於訓練 AI 代理執行複雜任務的技能模組集合。
-- [vwww-droid/Mira](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vwww-droid-mira/) — Mira 是一款用於移動裝置上的 AI 執行時檢測工作平臺，支援 iOS 和 Android。
 - [CodNoob100/null-drift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codnoob100-null-drift/) — null-drift 是一個基於 Hyperdimensional 計算的認知架構，支援機器學習和 LangGraph。
 - [stefanoviana/deepalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stefanoviana-deepalpha/) — 使用深度神經網路進行加密貨幣交易的自動化機器人，支援多個交易所。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。

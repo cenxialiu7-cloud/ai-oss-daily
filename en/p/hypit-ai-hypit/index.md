@@ -4,5 +4,5 @@ Clone any viral video with AI agents. Not just a script, the whole workflow: swa
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：17,233
+**Stars**：17,510
 **Source**：https://github.com/hypit-ai/hypit

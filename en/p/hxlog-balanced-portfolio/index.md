@@ -4,5 +4,5 @@ Balanced Portfolio 是一款机构级的投资管理工具，包括基于桥水�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：38
+**Stars**：37
 **Source**：https://github.com/hxlog/balanced-portfolio
