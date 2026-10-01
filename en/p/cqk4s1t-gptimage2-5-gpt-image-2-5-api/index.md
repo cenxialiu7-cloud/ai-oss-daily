@@ -4,5 +4,5 @@ gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：91
+**Stars**：89
 **Source**：https://github.com/cqk4s1t/gptimage2.5-gpt-image-2.5-api

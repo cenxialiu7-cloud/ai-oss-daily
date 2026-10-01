@@ -4,5 +4,5 @@ Polymarket Trading Bot Handbook - Research-first Polymarket strategy handbook co
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：49
+**Stars**：50
 **Source**：https://github.com/PolyTutor-Labs/polymarket-strategy-handbook
