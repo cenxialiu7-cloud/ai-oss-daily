@@ -4,5 +4,5 @@ Claude skills for marketing: 49 free marketing skills for Claude Code and claude
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：2,853
+**Stars**：2,869
 **Source**：https://github.com/irinabuht12-oss/marketing-skills

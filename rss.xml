@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>01 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>02 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>PrunaAI/Pruna-Qwen-Image-2.1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-pruna-qwen-image-2-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-pruna-qwen-image-2-1/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為影像的模型，支援 RGBA、LoRA 和少量步驟生成。</description>
+<title>FermionResearch/Phonon-2</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fermionresearch-phonon-2/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fermionresearch-phonon-2/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>一款適用於蘋果Silicon的低位元語音轉文字模型。</description>
 </item>
 <item>
-<title>PSRben/VisionHOPE</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-psrben-visionhope/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-psrben-visionhope/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>用於影像分類的計算機視覺模型，適用於 PyTorch。</description>
+<title>Cloudflare/clef</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>Cloudflare的圖文轉文字模型，支援Qwen3.5等。</description>
 </item>
 <item>
-<title>NaiveAI/Naive-N0.5-Flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-naiveai-naive-n0-5-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-naiveai-naive-n0-5-flash/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>一個支援長上下文的對話生成模型，適用於程式碼生成。</description>
+<title>edenfunf/reelmimic</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>讓AI根據喜愛的影片風格生成新影片。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>Human-Agent-Society/reef</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-reef/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-reef/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>自我改進代理的持續學習基礎設施。</description>
+<title>deeplethe/utopia</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。</description>
 </item>
 <item>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
-<pubDate>01 Oct 2026 08:00:00 +0000</pubDate>
-<description>自動語音辨識模型，支援即時語音轉文字。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>
