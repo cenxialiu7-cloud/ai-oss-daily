@@ -9,7 +9,7 @@ _Daily archive · 2026-09-23_
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
 - [NoizAI/YuE2-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/noizai-yue2-turbo/) — Fast, concurrent inference for YuE2. Same model and recipe: 1.68× faster per song, 3.31× more songs per GPU.
 - [jev-chat/jev-chat-jarvis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jev-chat-jev-chat-jarvis/) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-- [LearnPrompt/awesome-seedance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/learnprompt-awesome-seedance/) — 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 463 cases traced to original posts, 264 cross-model retest …
+- [LearnPrompt/awesome-seedance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/learnprompt-awesome-seedance/) — 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retes…
 - [Mnilax/lintcha-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mnilax-lintcha-chain/) — Lintcha — copy-trading bot for Robinhood Chain in @lintchabot. Explore wallet following; automated BUY is pau…
 - [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [RealCADBench/RealCADBench-V1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-realcadbench-realcadbench-v1-0/) — · license:cc-by-4.0, size_categories:10K<n<100K, format:parquet
@@ -344,7 +344,7 @@ _Daily archive · 2026-09-23_
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zzwater-viitorvoice/) — · gradio, region:us
 - [dayona/I2V-VIP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-i2v-vip/) — · gradio, region:us
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-lfm2-webgpu-kernels/) — · static, region:us
-- [LearnPrompt/awesome-seedance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/learnprompt-awesome-seedance/) — 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 463 cases traced to original posts, 264 cross-model retest …
+- [LearnPrompt/awesome-seedance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/learnprompt-awesome-seedance/) — 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retes…
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-servicenow-ai-eva-bench/) — · task_categories:text-generation, task_categories:other, language:en
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
 - [eidon-ai/tracker-pov](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-eidon-ai-tracker-pov/) — · task_categories:robotics, task_categories:video-classification, license:cc-by-4.0
@@ -1063,7 +1063,7 @@ _Daily archive · 2026-09-23_
 - [egoist/waku](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/egoist-waku/) — ⚡ A native app for all your coding agents.
 - [ant-intl/DeveloperSkills-Code2Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ant-intl-developerskills-code2skill/) — · language:en, license:apache-2.0, size_categories:1M<n<10M
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-- [EveningStudy/asmr-dubber](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eveningstudy-asmr-dubber/) — 日语／英语／中文音视频 → 中文/英文配音与字幕。支持音色克隆、批量处理、仅字幕导出、双语混音、RTF 空间处理和人声分离。JA/EN/ZH media → Chinese/English dubbing & subt…
+- [EveningStudy/asmr-dubber](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eveningstudy-asmr-dubber/) — 日语／英语／中文音视频 → 中文/英文配音与字幕。支持音色克隆、双语混音、RTF 空间处理、人声分离、批量处理和仅字幕导出。JA/EN/ZH media → Chinese/English dubbing & subt…
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codeaashu-claude-code/) — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you c…
 - [lzs0594/dreamy-motion-editorial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lzs0594-dreamy-motion-editorial/) — 高级朦胧梦幻动态视觉 Skill：把随手拍照片转化为电影感图生图提示词。Dreamy motion editorial prompts from casual photos.
 - [wanshuiyin/HERO-Anti-OverDefense](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-hero-anti-overdefense/) — HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in …
@@ -1293,7 +1293,6 @@ _Daily archive · 2026-09-23_
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-anything/) — ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magaz…
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — · gradio, region:us
 - [FlipZ3ro/robinhood-lp-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flipz3ro-robinhood-lp-bot/) — 🐷 Telegram-controlled LP bot for Robinhood Chain — auto liquidity on Uniswap v2/v3/v4 (incl. USDG pairs) via …
-- [AdithyaSK/rl-environments-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-adithyask-rl-environments-guide/) — · docker, research-article-template, rl-environments
 - [zeraix/zeraix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeraix-zeraix/) — Open-source local AI workspace — advancing on-device inference.
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/builderz-labs-mission-control/) — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and go…
@@ -1407,7 +1406,7 @@ _Daily archive · 2026-09-23_
 - [reunios2024/cortex-sentinel-trading-nexus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reunios2024-cortex-sentinel-trading-nexus/) — Self-Tuning Multi-Agent AI Trading System 2026: 8-Source Signal Fusion & Kronos Model
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youcefbibo53-propguard-trailing-equity-armor/) — Top Prop Firm Drawdown Protector EA 2026: FTMO & MyForexFunds Risk Manager
 - [zargarkhan1/quorum-alpha-dash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zargarkhan1-quorum-alpha-dash/) — Advanced Multi-Agent AI Crude Oil Trading System with Adversarial Validation 2026
-- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Gateway for AI systems.
+- [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yvgude-lean-ctx/) — LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context select…
 - [eliudmakd782/vocal-craft-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eliudmakd782-vocal-craft-studio/) — Tuned Hindi & English AI Voice Studio 2026 – Batch Cloning & TTS
 - [Dream-XR/MT5-Post-Trade-Insight-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dream-xr-mt5-post-trade-insight-reporter/) — AutoTrade Forex Signals: Telegram to MT5 EA 2026 Strategy
 - [Nguyen-Phu-Cuong/Matrix-Confluence-Scorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nguyen-phu-cuong-matrix-confluence-scorer/) — 2026 Pro-Level Multi-Timeframe Confluence Matrix for MT5: Liquidity Sweeps & Institutional Signals

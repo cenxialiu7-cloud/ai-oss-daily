@@ -1,26 +1,27 @@
 # 🚀 賺錢方法
 
+- [AliSharjeell/OpenBUA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisharjeell-openbua/) — 自動化瀏覽器代理，可在認證瀏覽器中執行。
 - [SelmiAbderrahim/rankme.fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/) — 自建的SEO平臺。
-- [PSA-Team-source/AdLibrarySpy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/psa-team-source-adlibraryspy/) — 免費的Shopify和Meta廣告監控工具。
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
 - [springvoiceswell/semrush-ai-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/springvoiceswell-semrush-ai-tool/) — semrush-ai-tool 是一個基於 Semrush 的 AI 功能 SEO 分析工具。
 - [repoboost-hq/github-launch-checklist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoboost-hq-github-launch-checklist/) — 在 GitHub 上釋出前的準備清單，檢查名稱、描述、許可證等。
 - [jianruntech/geo-score](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jianruntech-geo-score/) — 評估網站在 ChatGPT 中的可見性，快速打分。
-- [databluedev/searchmirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/databluedev-searchmirror/) — 自建的AI排名追蹤器，監控SEO表現。
 - [VoltEmperorChaos/ai-agent-for-pc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltemperorchaos-ai-agent-for-pc/) — 一個簡單的 Windows 本地 AI 代理程式，只需執行單一 .exe 檔。
 - [beyondtahir/beyondseo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beyondtahir-beyondseo/) — 全方位的 SEO 工具，提供原生爬蟲、內容策略、競爭者分析和聲譽管理，內建 206 個發布來源。
+- [PSA-Team-source/AdLibrarySpy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/psa-team-source-adlibraryspy/) — 免費的Shopify和Meta廣告監控工具。
 - [sunmughan/meta-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunmughan-meta-automation/) — 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
-- [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [tigerless-labs/seo-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tigerless-labs-seo-ops/) — 一個用於檢查網站SEO基礎的代理技能。
+- [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
+- [nexscope-ai/ecommerce-ai-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexscope-ai-ecommerce-ai-tools/) — 適用於 Amazon 的 AI 工具，包括評論分析和清單最佳化。
 - [leopard627/fire-your-seo-agency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/) — 自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。
 - [RankSpotAI/awesome-geo-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/) — 整理的 GEO 和 AI 能見度工具清單，比較各引擎追蹤、更新頻率、費用等。
 - [alvinunreal/awesome-submitlist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/) — awesome-submitlist 是一個整理好的提交清單，包含300多個目錄，適合創業者提交。
-- [nexscope-ai/ecommerce-ai-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexscope-ai-ecommerce-ai-tools/) — 適用於 Amazon 的 AI 工具，包括評論分析和清單最佳化。
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [productdevbook/cizgile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/) — 一個無依賴的 URL 標籤引擎，支援多種編碼和轉換。
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
+- [databluedev/searchmirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/databluedev-searchmirror/) — 自建的AI排名追蹤器，監控SEO表現。
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/) — keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。
 - [flaqai/backlink_skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/) — 提交網址到免費網站以獲取更多回鏈，增加流量。
 - [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tnandla-portfolio-os/) — 自託管的團隊運營應用，管理網站專案、憑證、內容、人員和資金。
@@ -42,6 +43,7 @@
 - [jenniferye888/dach-affiliate-quiz-funnel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jenniferye888-dach-affiliate-quiz-funnel/) — dach-affiliate-quiz-funnel 是一個用於德國市場聯盟營銷的互動式測驗漏斗。
 - [mountainview8868/distributed-link-manager-](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mountainview8868-distributed-link-manager/) — 為開發者和內容創作者提供可持續的收益鏈管理工具。
 - [mountainview8868/socialmedia-autopilot-german-starter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mountainview8868-socialmedia-autopilot-german-starter/) — 符合 GDPR 的自動化社交媒體釋出工具。
+- [tswawa/xianyu-saas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tswawa-xianyu-saas/) — 閒魚多店舖智慧運營系統，整合AI客服和自動發貨。
 - [Cordelia886/affiliate-bonus-manager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-affiliate-bonus-manager/) — 自動化聯盟營銷解決方案，減少手動工作和損失佣金。
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — 德語區WordPress連結隱藏與追蹤實用指南。
 - [Archibaldys/ai-copywriting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archibaldys-ai-copywriting-prompts/) — 適用於社交媒體和長篇文章生成的人工智慧文案提示集。
@@ -52,11 +54,9 @@
 - [Nathanielyseterday/automated-digital-product-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-automated-digital-product-generator/) — 獨立駭客快速建立和釋出數位產品的自動化引擎。
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-traffic-monetization-toolkit/) — 自動化的數位流量轉換工具，提高廣告效果。
 - [Nathanielyseterday/avatar-speak-pro-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-avatar-speak-pro-download/) — 自動生成AI化身影片，提升TikTok和Shopify的轉換率。
-- [tswawa/xianyu-saas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tswawa-xianyu-saas/) — 閒魚多店舖智慧運營系統，整合AI客服和自動發貨。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
 - [hieuphung97/dely](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hieuphung97-dely/) — 協調獨立工作會話的多協調控制協議。
 - [aigclink/geolook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aigclink-geolook/) — 開源 GEO 實施工具，涵蓋狀態分析、診斷等。
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pngtrid-anvilwiki/) — 開源遊戲維基模板，適用於快速部署。
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
-- [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。

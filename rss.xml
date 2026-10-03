@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>02 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>03 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>FermionResearch/Phonon-2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fermionresearch-phonon-2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fermionresearch-phonon-2/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>一款適用於蘋果Silicon的低位元語音轉文字模型。</description>
+<title>pablodawson/MiniMax-H3-360-Orbit-LoRA</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為360度視角的影片。</description>
 </item>
 <item>
-<title>Cloudflare/clef</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>Cloudflare的圖文轉文字模型，支援Qwen3.5等。</description>
+<title>hokindeng/object-permanence</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hokindeng-object-permanence/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hokindeng-object-permanence/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>訓練世界模型中的物體永存性。</description>
 </item>
 <item>
-<title>edenfunf/reelmimic</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>讓AI根據喜愛的影片風格生成新影片。</description>
+<title>ankitjh4/bharat-government-documents</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>spinabot/brigade</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>企業級個人智慧助手，支援自動化任務和協作。</description>
 </item>
 <item>
-<title>deeplethe/utopia</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。</description>
+<title>tt-a1i/archify</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
 </item>
 <item>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
-<pubDate>02 Oct 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
+<title>Qwen/Qwen-Image-2.1</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</guid>
+<pubDate>03 Oct 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</description>
 </item>
 </channel>
 </rss>

@@ -4,5 +4,5 @@ ALQQ 自媒体运营助手｜AI 写作与配图、内容管理、多平台发布
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：38
+**Stars**：39
 **Source**：https://github.com/zhuixin8/meiti-ai

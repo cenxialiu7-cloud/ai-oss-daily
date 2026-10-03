@@ -2,9 +2,9 @@
 
 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
 
-**為何上榜**：近一日新增 2★（現 62★）
+**為何上榜**：近一日新增 1★（現 63★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：62
+**Stars**：63
 **原始連結**：https://github.com/sunmughan/meta-automation

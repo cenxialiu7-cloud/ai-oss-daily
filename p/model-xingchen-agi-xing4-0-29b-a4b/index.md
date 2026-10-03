@@ -2,7 +2,7 @@
 
 使用transformers的Xing4.0模型，適用於對話生成。
 
-**為何上榜**：HF trending 162 · 1,824 likes · 48,705 下載
+**為何上榜**：HF trending 127 · 1,827 likes · 49,408 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 
