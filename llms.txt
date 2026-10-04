@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-10-03 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-10-04 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-10-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-04/)
 - [2026-10-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-03/)
 - [2026-10-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-02/)
 - [2026-10-01](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-01/)
@@ -26,15 +27,14 @@
 - [2026-09-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-23/)
 - [2026-09-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-22/)
 - [2026-09-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-21/)
-- [2026-09-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-20/)
 
 ## 今日精選 Today's picks
-- [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/)
-- [hokindeng/object-permanence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hokindeng-object-permanence/)
-- [ankitjh4/bharat-government-documents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/)
-- [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/)
-- [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/)
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/)
+- [lilylilith/QI_2.1_AnyAngle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lilylilith-qi-2-1-anyangle/)
+- [Aleph-Alpha/Kolibri-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aleph-alpha-kolibri-1/)
+- [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/)
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

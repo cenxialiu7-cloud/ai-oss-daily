@@ -879,7 +879,6 @@ _每日存檔 · 2026-09-22_
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/njgymb-diffusers-sculptor/) — 輕量級的穩定擴散模型微調框架。
 - [Cordelia886/affiliate-bonus-manager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-affiliate-bonus-manager/) — 自動化聯盟營銷解決方案，減少手動工作和損失佣金。
 - [KingHsp/vram-sage-training](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kinghsp-vram-sage-training/) — 適用於12GB GPU的SDXL和ANIMA微調套件。
-- [nrodriguez1997/lora-docker-aliyun-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nrodriguez1997-lora-docker-aliyun-pipeline/) — 自動化LoRA訓練的Docker管道。
 - [R0650N/spirit-flux-refiner](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r0650n-spirit-flux-refiner/) — 智慧簡化的Flux1-LoRA訓練工具。
 - [cua-ai/cua-s1-forms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cua-ai-cua-s1-forms/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/) — 自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。

@@ -2,7 +2,7 @@
 
 Cloudflare的圖文轉文字模型，支援Qwen3.5等。
 
-**為何上榜**：HF trending 751 · 782 likes · 824 下載
+**為何上榜**：HF trending 947 · 988 likes · 2,620 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

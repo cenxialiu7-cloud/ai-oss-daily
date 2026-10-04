@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
+<updated>2026-10-04T08:00:00+00:00</updated>
 <entry>
-<title>pablodawson/MiniMax-H3-360-Orbit-LoRA</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為360度視角的影片。</summary>
+<title>lilylilith/QI_2.1_AnyAngle</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lilylilith-qi-2-1-anyangle/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lilylilith-qi-2-1-anyangle/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>QI_2.1_AnyAngle 是一個影像轉影像模型，使用 LoRA 技術和 Qwen-Image-2.1 基模。</summary>
 </entry>
 <entry>
-<title>hokindeng/object-permanence</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hokindeng-object-permanence/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hokindeng-object-permanence/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>訓練世界模型中的物體永存性。</summary>
+<title>Aleph-Alpha/Kolibri-1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aleph-alpha-kolibri-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aleph-alpha-kolibri-1/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>Kolibri-1 是一個支援多語文的對話生成模型，適用於推理和對話。</summary>
 </entry>
 <entry>
-<title>ankitjh4/bharat-government-documents</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>GLM-5.3-UNCENSORED-EXL3-3.0bpw 是一個無審核的文本生成模型，使用 exllamav3 和 glm_moe_dsa 技術。</summary>
 </entry>
 <entry>
-<title>spinabot/brigade</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>企業級個人智慧助手，支援自動化任務和協作。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>hypit-ai/hypit</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>使用 AI 代理程式克隆病毒影片，自動生成多種變體。</summary>
 </entry>
 <entry>
-<title>Qwen/Qwen-Image-2.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</id>
-<updated>2026-10-03T08:00:00+00:00</updated>
-<summary>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</summary>
+<title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</id>
+<updated>2026-10-04T08:00:00+00:00</updated>
+<summary>文字轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

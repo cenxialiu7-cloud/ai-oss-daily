@@ -4,5 +4,5 @@ Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endp
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：733
+**Stars**：962
 **Source**：https://github.com/ashhart/TensorFold
