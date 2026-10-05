@@ -2,6 +2,7 @@
 
 每天約 09:00 自動更新，當日精選直接推播到你的 Telegram——免費、無廣告、隨時退訂。
 
+- [2026-10-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-10-05/)
 - [2026-10-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-10-04/)
 - [2026-10-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-10-03/)
 - [2026-10-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/newsletter/2026-10-02/)

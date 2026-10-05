@@ -1,10 +1,10 @@
-# yuxino/kiri
+# yuxino/Kiri
 
-在 macOS 和 Windows 上提供本地優先的截圖、標註、OCR、錄屏和影片編輯功能。
+Kiri 是一個跨平臺的截圖和錄屏工具，支援文字識別和本地儲存。
 
-**為何上榜**：近一日新增 1★（現 584★）
+**為何上榜**：585★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：584
-**原始連結**：https://github.com/yuxino/kiri
+**Stars**：585
+**原始連結**：https://github.com/yuxino/Kiri

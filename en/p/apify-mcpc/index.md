@@ -4,5 +4,5 @@ The most compatible MCP CLI client. mcpc supports persistent sessions, stdio/HTT
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：956
+**Stars**：967
 **Source**：https://github.com/apify/mcpc

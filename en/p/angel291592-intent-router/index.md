@@ -4,5 +4,5 @@ Intent compiler for AI agents — converges vague requests into typed IntentSpec
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：721
+**Stars**：809
 **Source**：https://github.com/angel291592/Intent-Router

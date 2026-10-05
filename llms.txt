@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-10-04 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-10-05 10:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-10-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-05/)
 - [2026-10-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-04/)
 - [2026-10-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-03/)
 - [2026-10-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-02/)
@@ -26,15 +27,14 @@
 - [2026-09-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-24/)
 - [2026-09-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-23/)
 - [2026-09-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-22/)
-- [2026-09-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-21/)
 
 ## 今日精選 Today's picks
-- [lilylilith/QI_2.1_AnyAngle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lilylilith-qi-2-1-anyangle/)
-- [Aleph-Alpha/Kolibri-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aleph-alpha-kolibri-1/)
-- [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/)
-- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
-- [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/)
-- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/)
+- [microsoft/FrogNano-4B-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-frognano-4b-2609/)
+- [autotrust/JEV-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-27b-demo/)
+- [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-9b-decision-demo/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [dataelement/dsh-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/)
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -100,3 +100,5 @@
 - [本機即時雙語字幕台：直播、線上課與跨國會議一開口就出字幕，聲音全程不離開這台電腦](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P061/)
 - [App 上架素材工作室：從暢銷 App 版型生出原生級畫面 → 自動產 App Store／Google Play 截圖與預覽影片，給獨立開發者的一條龍上架包](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P062/)
 - [Threads 在地商家經營台：熱門話題雷達 → 串文草稿＋圖卡 → 留言轉潛在客戶，一人顧好多個台灣品牌的 Threads 帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P063/)
+- [AI 求職作戰台：職缺掃描 → 依履歷 1–5 分配對 → 客製 ATS 履歷與求職信 → 面試準備與投遞追蹤，非工程師也能用的圖形版](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P064/)
+- [本機 AI 語音輸入法（Mac App）：任何輸入框按快捷鍵說話 → 即時轉文字＋自動潤稿成可直接送出的文句，聲音不出這台電腦](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P065/)
