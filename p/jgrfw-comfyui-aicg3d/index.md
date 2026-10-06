@@ -2,9 +2,9 @@
 
 將 ComfyUI-MiniMaxH3-Easy 和 Goohai-MiniMax-H3 整合為一個 MiniMax H3 創作平臺。
 
-**為何上榜**：近一日新增 6★（現 123★）
+**為何上榜**：近一日新增 3★（現 126★）
 
 **商用授權**：可商用 — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：123
+**Stars**：126
 **原始連結**：https://github.com/JGRFW/comfyui-AICG3D

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
+<updated>2026-10-06T08:00:00+00:00</updated>
 <entry>
-<title>microsoft/FrogNano-4B-2609</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-frognano-4b-2609/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-frognano-4b-2609/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>FrogNano-4B-2609 是一個基於 Qwen3.5 的大型語言模型。</summary>
+<title>autotrust/JEV-27B-VL</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文字的模型。</summary>
 </entry>
 <entry>
-<title>autotrust/JEV-27B-Demo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-27b-demo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-27b-demo/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>autotrust/GEV-26B-Decide</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>進行文本分類的模型。</summary>
 </entry>
 <entry>
-<title>autotrust/jev-9b-decision-demo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-9b-decision-demo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-9b-decision-demo/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>jialinyyzz/humanizer</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jialinyyzz-humanizer/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jialinyyzz-humanizer/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>將文本重新撰寫以更接近人類語言。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>tt-a1i/archify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
 </entry>
 <entry>
-<title>dataelement/dsh-desktop</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>DeepSeek 機器人桌面版。</summary>
+<title>spinabot/brigade</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>企業級個人智慧助手，支援自動化任務和協作。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-10-05T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>Qwen/Qwen-Image-2.1</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</id>
+<updated>2026-10-06T08:00:00+00:00</updated>
+<summary>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</summary>
 </entry>
 </feed>

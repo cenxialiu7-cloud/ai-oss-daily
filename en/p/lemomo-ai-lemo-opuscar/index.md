@@ -4,5 +4,5 @@ Claude Code skill for short films with no video model: 43 film styles, each a st
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：973
+**Stars**：1,188
 **Source**：https://github.com/lemomo-ai/lemo-opuscar
