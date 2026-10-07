@@ -2,9 +2,9 @@
 
 pd-bridge 是一個異質推理系統，用於 DeepSeek-V4-Flash 的前填和解碼。
 
-**為何上榜**：近期新建立，已獲 148★
+**為何上榜**：近一日新增 2★（現 150★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：148
+**Stars**：150
 **原始連結**：https://github.com/chadhurley25075-png/pd-bridge

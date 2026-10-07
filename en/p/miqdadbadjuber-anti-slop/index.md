@@ -4,5 +4,5 @@ Rules for an AI coding agent to filter out generic AI-generated UI designs, text
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,463
+**Stars**：4,601
 **Source**：https://github.com/miqdadbadjuber/anti-slop

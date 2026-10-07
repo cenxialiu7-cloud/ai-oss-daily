@@ -1,8 +1,8 @@
 # ashhart/TensorFold
 
-Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
+LLM Inference Engine for Metal, CUDA and Vulkan.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：992
+**Stars**：1,054
 **Source**：https://github.com/ashhart/TensorFold

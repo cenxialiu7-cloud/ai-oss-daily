@@ -41,10 +41,10 @@
 <summary>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</summary>
 </entry>
 <entry>
-<title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</id>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
 <updated>2026-10-07T08:00:00+00:00</updated>
-<summary>文字轉影像模型，適用於影像生成和編輯。</summary>
+<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
 </entry>
 </feed>

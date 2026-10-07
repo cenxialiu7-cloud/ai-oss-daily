@@ -4,5 +4,5 @@ Clips Kitty: Free open-source AI video clipper. Local Opus Clip alternative (als
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：89
+**Stars**：90
 **Source**：https://github.com/ColinGPT9/clips-studio

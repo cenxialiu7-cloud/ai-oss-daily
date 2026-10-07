@@ -4,5 +4,5 @@ The chat decision assistant: before you reply, Jev reads the chat, judges intent
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：7,399
+**Stars**：7,401
 **Source**：https://github.com/jev-chat/jev-chat-jarvis
