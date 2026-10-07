@@ -4,5 +4,5 @@ Bilingual English and Mandarin text to speech in C++ and GGUF. Voice design, clo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：24
+**Stars**：26
 **Source**：https://github.com/HoppouAI/Breeze-TTS-2.cpp

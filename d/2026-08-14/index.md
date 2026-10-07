@@ -1752,7 +1752,6 @@ _每日存檔 · 2026-08-14_
 - [seedance-api/seedance-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seedance-api-seedance-api/) — 生成2K電影級AI影片的非官方Python客戶端及檔案。
 - [hu-haibin/wonderful-launcher-comfyui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hu-haibin-wonderful-launcher-comfyui/) — ComfyUI一站式啟動器，具備模型查詢、AI診斷和批次佇列等功能。
 - [KadenMc/work-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadenmc-work-buddy/) — 基於Claude Code和Obsidian的個人代理框架，實現協調、自動化和智慧跨聊天記憶。
-- [dylanpersonguy/OpenCharts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dylanpersonguy-opencharts/) — 免費、自建伺服器的 TradingView 替代方案，具備自訂 Canvas 2D 引擎、多交易所支援等特性。
 - [wangpage/quant-ashare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangpage-quant-ashare/) — 一套機構級A股量化交易系統，結合多智慧體、中性化策略和Level2資料等技術。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。
 - [escapeboy/agent-fleet-o](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/escapeboy-agent-fleet-o/) — 開源 AI 代理協調平臺，支援自建任務控制中心和多代理系統。

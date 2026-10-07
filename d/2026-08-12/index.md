@@ -1722,7 +1722,6 @@ _每日存檔 · 2026-08-12_
 - [frankxai/claude-skills-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frankxai-claude-skills-library/) — 專業級技能庫，讓 Claude 成為領域專家。
 - [hu-haibin/wonderful-launcher-comfyui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hu-haibin-wonderful-launcher-comfyui/) — ComfyUI一站式啟動器，具備模型查詢、AI診斷和批次佇列等功能。
 - [KadenMc/work-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadenmc-work-buddy/) — 基於Claude Code和Obsidian的個人代理框架，實現協調、自動化和智慧跨聊天記憶。
-- [dylanpersonguy/OpenCharts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dylanpersonguy-opencharts/) — 免費、自建伺服器的 TradingView 替代方案，具備自訂 Canvas 2D 引擎、多交易所支援等特性。
 - [escapeboy/agent-fleet-o](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/escapeboy-agent-fleet-o/) — 開源 AI 代理協調平臺，支援自建任務控制中心和多代理系統。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [alsk1992/instagram-ai-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alsk1992-instagram-ai-agent/) — 自動化 Instagram AI 機器人，生成和發布影片、輪播、表情包等內容。

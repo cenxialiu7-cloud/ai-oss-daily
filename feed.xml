@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
+<updated>2026-10-07T08:00:00+00:00</updated>
 <entry>
-<title>autotrust/JEV-27B-VL</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文字的模型。</summary>
+<title>Cactus-Compute/whistle</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>自動辨識口哨聲的語音識別模型，適用於裝置端執行。</summary>
 </entry>
 <entry>
-<title>autotrust/GEV-26B-Decide</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>進行文本分類的模型。</summary>
+<title>google/embeddinggemma-2</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>用於抽取特徵的轉換器模型，適用於句子嵌入。</summary>
 </entry>
 <entry>
-<title>jialinyyzz/humanizer</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jialinyyzz-humanizer/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jialinyyzz-humanizer/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>將文本重新撰寫以更接近人類語言。</summary>
+<title>datasocial/tiktok-5.6B-videos</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datasocial-tiktok-5-6b-videos/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datasocial-tiktok-5-6b-videos/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>tt-a1i/archify</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
+<title>DietrichGebert/ponytail</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
 </entry>
 <entry>
-<title>spinabot/brigade</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>企業級個人智慧助手，支援自動化任務和協作。</summary>
+<title>FareedKhan-dev/kimi-k3-in-c</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</summary>
 </entry>
 <entry>
-<title>Qwen/Qwen-Image-2.1</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/</id>
-<updated>2026-10-06T08:00:00+00:00</updated>
-<summary>Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。</summary>
+<title>Viggle/Qwen-Image-2.1-viggle-turbo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/</id>
+<updated>2026-10-07T08:00:00+00:00</updated>
+<summary>文字轉影像模型，適用於影像生成和編輯。</summary>
 </entry>
 </feed>

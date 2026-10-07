@@ -1469,7 +1469,6 @@ _每日存檔 · 2026-07-30_
 - [dhanababum/supermcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhanababum-supermcp/) — 利用 FastAPI 和 React 建立多個隔離的 Model Context Protocol 伺服器。
 - [psmarter/CUDA-Practice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/psmarter-cuda-practice/) — 實踐CUDA核心程式設計與效能最佳化的練習專案。
 - [Zyora-Dev/zse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zyora-dev-zse/) — 適用於開源世界的推理引擎，支援多種硬體平臺。
-- [dylanpersonguy/OpenCharts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dylanpersonguy-opencharts/) — 免費、自建伺服器的 TradingView 替代方案，具備自訂 Canvas 2D 引擎、多交易所支援等特性。
 - [Tinananan873/AlphaGBM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tinananan873-alphagbm/) — AI驅動的智慧期權分析與高頻交易量化軟體，提供即時希臘字母計算。
 - [Rezzecup/gpt4-pinescript-v5-strategy-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-gpt4-pinescript-v5-strategy-generator/) — 使用 GPT-4 將交易想法轉換為無錯誤的 PineScript V5 程式碼。
 - [MCERQUA/OpenVoiceUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcerqua-openvoiceui/) — 以語音驅動的人工智慧助理平臺，連線任何LLM和TTS，並提供音樂生成功能。
