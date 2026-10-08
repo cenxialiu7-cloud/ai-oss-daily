@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
+<updated>2026-10-08T08:00:00+00:00</updated>
 <entry>
-<title>Cactus-Compute/whistle</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>自動辨識口哨聲的語音識別模型，適用於裝置端執行。</summary>
+<title>canberkkkkkk/ema-lightning</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>ema-lightning 是一個將文字轉換成語音的工具。</summary>
 </entry>
 <entry>
-<title>google/embeddinggemma-2</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>用於抽取特徵的轉換器模型，適用於句子嵌入。</summary>
+<title>FrancisRing/Prism</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>Prism 是一個將影像轉換成影片的工具。</summary>
 </entry>
 <entry>
-<title>datasocial/tiktok-5.6B-videos</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datasocial-tiktok-5-6b-videos/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datasocial-tiktok-5-6b-videos/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
+<title>SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sc117-qwen3-8-flash-next-gsq-rco-abliterated-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sc117-qwen3-8-flash-next-gsq-rco-abliterated-gguf/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF 是一個將影像和文字轉換成文字的模型。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>FareedKhan-dev/kimi-k3-in-c</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。</summary>
+<title>ayghri/i-have-adhd</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
 </entry>
 <entry>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
-<updated>2026-10-07T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
+<updated>2026-10-08T08:00:00+00:00</updated>
+<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
 </entry>
 </feed>

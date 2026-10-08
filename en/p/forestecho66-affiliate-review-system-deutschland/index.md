@@ -4,5 +4,5 @@ Extrem schnelles Affiliate Review System (PageSpeed 95+) für maximalen ROAS auf
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：31
+**Stars**：32
 **Source**：https://github.com/forestecho66/Affiliate-review-system-deutschland

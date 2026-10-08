@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：148
+**Stars**：151
 **Source**：https://github.com/iamyoki/qwen-image-2.1-skill

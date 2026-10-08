@@ -4,5 +4,5 @@ A local video studio for your coding agent. Describe a video in one sentence: yo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：155
+**Stars**：176
 **Source**：https://github.com/FavioVazquez/showtime
