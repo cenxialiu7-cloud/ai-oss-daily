@@ -1,6 +1,6 @@
 # yuxino/Kiri
 
-A screenshot and screen recording app for macOS, Windows, and Linux. 截图与录屏工具，支持标注和文字识别，素材保存在本机。
+截图、录屏和文字识别工具，支持 macOS、Windows、Linux。Screenshots, screen recording, and OCR for macOS, Windows, and Linux.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

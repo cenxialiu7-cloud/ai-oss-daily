@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
+<updated>2026-10-09T08:00:00+00:00</updated>
 <entry>
-<title>canberkkkkkk/ema-lightning</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>ema-lightning 是一個將文字轉換成語音的工具。</summary>
+<title>autotrust/GLM5.3-Flash-E224-DGX-Spark</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-glm5-3-flash-e224-dgx-spark/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-glm5-3-flash-e224-dgx-spark/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>GLM5.3 模型的高效能版本，支援影像到文字的轉換。</summary>
 </entry>
 <entry>
-<title>FrancisRing/Prism</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>Prism 是一個將影像轉換成影片的工具。</summary>
+<title>LiquidAI/d1-3B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>基於 LiquidAI 的影像到文字轉換模型，適用於邊緣裝置。</summary>
 </entry>
 <entry>
-<title>SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sc117-qwen3-8-flash-next-gsq-rco-abliterated-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sc117-qwen3-8-flash-next-gsq-rco-abliterated-gguf/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF 是一個將影像和文字轉換成文字的模型。</summary>
+<title>AlibabaResearch/SparkDiffusion</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>加速 DiT 影片生成的高效能技術。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>microsoft/SkillOpt</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。</summary>
 </entry>
 <entry>
-<title>ayghri/i-have-adhd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>幫助程式碼代理生成適合ADHD使用者的清晰答案。</summary>
+<title>tt-a1i/archify</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-10-08T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>autotrust/JEV-27B-VL</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/</id>
+<updated>2026-10-09T08:00:00+00:00</updated>
+<summary>將影像和文字轉換為文字的模型。</summary>
 </entry>
 </feed>

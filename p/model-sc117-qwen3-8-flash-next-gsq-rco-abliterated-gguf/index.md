@@ -2,7 +2,7 @@
 
 Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF 是一個將影像和文字轉換成文字的模型。
 
-**為何上榜**：HF trending 125 · 135 likes · 500,723 下載
+**為何上榜**：HF trending 142 · 152 likes · 612,411 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -4,5 +4,5 @@ A practical, open-source guide to mastering WorkBuddy through real-world workflo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,337
+**Stars**：3,353
 **Source**：https://github.com/AlephAITech/WorkBuddyGuide

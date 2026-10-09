@@ -4,5 +4,5 @@ An MCP server for quant factor processing and backtesting. Connect it to your ag
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：297
+**Stars**：301
 **Source**：https://github.com/fidetolabs/qanat

@@ -4,5 +4,5 @@ Agent Skills for Claude Code and skills-aware runtimes: MCP, design, code review
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：45
+**Stars**：46
 **Source**：https://github.com/frankxai/claude-skills-library
