@@ -452,7 +452,6 @@ _Daily archive · 2026-08-31_
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-snapwre-amharic-speech/) — · task_categories:automatic-speech-recognition, language:am, license:cc-by-4.0
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
@@ -2081,7 +2080,7 @@ _Daily archive · 2026-08-31_
 - [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rlacombe-switchback-running/) — Ultrarunning training companion agent powered by Intervals.icu.
 - [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safwanits123-antigravitymobile/) — 📱 Monitor your AI conversations and model quotas effortlessly with Antigravity Mobile, a mobile-friendly dash…
 - [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/naravid19-ai-project-rules-generator/) — 🚀 Professional AI Agent orchestrator for generating tailored rules and AGENTS.md with deterministic JIT skill…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [borgr/paper-sharpener](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/borgr-paper-sharpener/) — Agentic Claude Code skills for academic writing: review simulation, revision, and prose improvement.
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/todealmarket-tdm-agentpay/) — Agent-specific payment workflows and examples for TDM.
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/durden7-ai-skills/) — 🤖 Enhance AI capabilities with a collection of modular skills for specialized workflows, tool integrations, a…

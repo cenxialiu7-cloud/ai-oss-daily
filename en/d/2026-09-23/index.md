@@ -26,7 +26,6 @@ _Daily archive · 2026-09-23_
 
 ## Full Board
 
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1/) — text-to-image · diffusers, safetensors, qwen
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-m-a-p-yue2-3b/) — text-to-audio · safetensors, yue2, music-generation
 - [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-2-27b-gguf/) — text-generation · llama.cpp, gguf, ternary
@@ -512,7 +511,7 @@ _Daily archive · 2026-09-23_
 - [Daankular/Sulphur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-daankular-sulphur/) — · gradio, region:us
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-colbert-tool-selection/) — · docker, region:us
-- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem…
+- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arran…
 - [robinhood-ape/robinhood-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/robinhood-ape-robinhood-sniper-bot/) — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sell…
 - [rl-llm-wiki/rl-wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rl-llm-wiki-rl-wiki/) — · static, region:us
 - [TheAgenticDataCompany/open-yap-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-theagenticdatacompany-open-yap-1k/) — · task_categories:audio-to-audio, task_categories:automatic-speech-recognition, task_categories:text-to-speech
@@ -549,7 +548,6 @@ _Daily archive · 2026-09-23_
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-finfirst/) — · task_categories:question-answering, language:zh, language:en
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-enabling-independent-research/) — · language:en, license:cc-by-4.0, size_categories:1K<n<10K
 - [embedl/hfviewer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-embedl-hfviewer/) — · static, region:us
@@ -2428,7 +2426,7 @@ _Daily archive · 2026-09-23_
 - [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safwanits123-antigravitymobile/) — 📱 Monitor your AI conversations and model quotas effortlessly with Antigravity Mobile, a mobile-friendly dash…
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skegdb-skeg/) — A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for hi…
 - [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/naravid19-ai-project-rules-generator/) — 🚀 Professional AI Agent orchestrator for generating tailored rules and AGENTS.md with deterministic JIT skill…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/todealmarket-tdm-agentpay/) — Agent-specific payment workflows and examples for TDM.
 - [EVEDensity/AgentHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evedensity-agenthub/) — Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. St…
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/durden7-ai-skills/) — 🤖 Enhance AI capabilities with a collection of modular skills for specialized workflows, tool integrations, a…

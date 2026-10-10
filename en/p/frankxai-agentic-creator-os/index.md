@@ -1,6 +1,6 @@
 # frankxai/agentic-creator-os
 
-Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Code, Cursor, Grok and Antigravity Gemini.
+Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety tooling for creator workflows.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

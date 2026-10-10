@@ -30,7 +30,6 @@ _Daily archive · 2026-10-07_
 
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1/) — text-to-image · diffusers, safetensors, qwen
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [FermionResearch/Phonon-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fermionresearch-phonon-2/) — automatic-speech-recognition · mlx, parakeet_tdt_five_value, apple-silicon
 - [PrunaAI/Pruna-Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-pruna-qwen-image-2-1/) — text-to-image · diffusers, qwen, image-generation
@@ -624,7 +623,6 @@ _Daily archive · 2026-10-07_
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [TencentARC/WorldCrafter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-worldcrafter/) — [Arxiv 2026] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-finfirst/) — · task_categories:question-answering, language:zh, language:en
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-enabling-independent-research/) — · language:en, license:cc-by-4.0, size_categories:1K<n<10K
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
@@ -676,7 +674,7 @@ _Daily archive · 2026-10-07_
 - [mayafree/Model-Genome-Korea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mayafree-model-genome-korea/) — · static, korean-llm, korean-ai
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio workflow — color grading, Fusion comps and delivery presets on Windows.
 - [zhu1090093659/dsh-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhu1090093659-dsh-trading/) — Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ h…
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
 - [ceyyy427/financial-research-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ceyyy427-financial-research-optimizer/) — Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics…
@@ -776,7 +774,6 @@ _Daily archive · 2026-10-07_
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-thinkingbox-bench/) — · task_categories:reinforcement-learning, language:en, license:cdla-permissive-2.0
 - [VoltEmperorChaos/ai-agent-for-pc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/voltemperorchaos-ai-agent-for-pc/) — A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup require…
 - [bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bx0idu7sqebwpgu8-grokimagine2-0-grok-imagine-2-0-prompts/) — grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015…
-- [cqk4s1t/gptimage2.5-gpt-image-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cqk4s1t-gptimage2-5-gpt-image-2-5-api/) — gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Mode…
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
 - [arimanyus/warrenduffer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arimanyus-warrenduffer/) — AI-driven intraday trading bot for Indian stocks. Jev ranks the Nifty 50 every 15s; code sizes each trade and…
@@ -796,7 +793,7 @@ _Daily archive · 2026-10-07_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
-- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem…
+- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arran…
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-smolagents-hf-realtime-voice/) — · docker, region:us
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-codesoft-slm-arena/) — · gradio, region:us
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
@@ -2643,7 +2640,7 @@ _Daily archive · 2026-10-07_
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.
 - [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rlacombe-switchback-running/) — Ultrarunning training companion agent powered by Intervals.icu.
 - [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safwanits123-antigravitymobile/) — 📱 Monitor your AI conversations and model quotas effortlessly with Antigravity Mobile, a mobile-friendly dash…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skegdb-skeg/) — A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for hi…
 - [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/naravid19-ai-project-rules-generator/) — 🚀 Professional AI Agent orchestrator for generating tailored rules and AGENTS.md with deterministic JIT skill…
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/todealmarket-tdm-agentpay/) — Agent-specific payment workflows and examples for TDM.

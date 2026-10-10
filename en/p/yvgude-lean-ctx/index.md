@@ -4,5 +4,5 @@ LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-s
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,871
+**Stars**：3,869
 **Source**：https://github.com/yvgude/lean-ctx

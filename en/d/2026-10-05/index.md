@@ -9,7 +9,7 @@ _Daily archive · 2026-10-05_
 - [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-jev-9b-decision-demo/) — · gradio, mcp-server, region:us
 - [nvidia/Kumo-Tabular](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-kumo-tabular/) — · tabular-foundation-model, structured-data-models, license:openmdw-1.1
 - [ceyyy427/finathink](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ceyyy427-finathink/) — Finathink — Financial Research Optimizer for auditable, point-in-time research, mathematical learning, and co…
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-biglam-europeana-newspapers-images/) — · task_categories:image-to-text, multilinguality:multilingual, source_datasets:biglam/europeana_newspapers
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inssist-mcp/) — MCP server that lets AI agents (Claude Code, Codex, Cursor) work inside your own Instagram session through th…
 - [wpydcr/NanoAvatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wpydcr-nanoavatar/) — Real-time, high-quality talking avatars, even on a old Android phone: 41 FPS with just 103 ms to the first fr…
@@ -29,7 +29,6 @@ _Daily archive · 2026-10-05_
 ## Full Board
 
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1/) — text-to-image · diffusers, safetensors, qwen
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [FermionResearch/Phonon-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fermionresearch-phonon-2/) — automatic-speech-recognition · mlx, parakeet_tdt_five_value, apple-silicon
@@ -377,7 +376,7 @@ _Daily archive · 2026-10-05_
 - [janishar/qwen-image-2.1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/janishar-qwen-image-2-1-studio/) — Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with …
 - [jaredpalmer/kev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jaredpalmer-kev/) — · gradio, decision-model, calibration
 - [RekaAI/RekaDaily-10k-raw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-rekadaily-10k-raw/) — · task_categories:video-classification, task_categories:image-to-video, language:en
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0
@@ -620,7 +619,6 @@ _Daily archive · 2026-10-05_
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [TencentARC/WorldCrafter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-worldcrafter/) — [Arxiv 2026] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-finfirst/) — · task_categories:question-answering, language:zh, language:en
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-enabling-independent-research/) — · language:en, license:cc-by-4.0, size_categories:1K<n<10K
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
@@ -726,7 +724,6 @@ _Daily archive · 2026-10-05_
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-molmo-motion-1m/) — · task_categories:other, language:en, license:other
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-local-ai-image-generator/) — A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GG…
 - [bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bx0idu7sqebwpgu8-grokimagine2-0-grok-imagine-2-0-prompts/) — grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015…
-- [cqk4s1t/gptimage2.5-gpt-image-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cqk4s1t-gptimage2-5-gpt-image-2-5-api/) — gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Mode…
 - [SageBio/mva-hackathon-2026-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sagebio-mva-hackathon-2026-data/) — · license:cc-by-4.0, size_categories:n<1K, region:us
 - [LightwheelAI/EgoStandard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lightwheelai-egostandard/) — · task_categories:video-classification, language:en, license:other
 - [rerun/4danyone-rerun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rerun-4danyone-rerun/) — · gradio, region:us
@@ -766,7 +763,7 @@ _Daily archive · 2026-10-05_
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
 - [multimodalart/minimax-h3-audio-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-minimax-h3-audio-to-video/) — · gradio, region:us
 - [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full…
-- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem…
+- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arran…
 - [PlaceNL2026/okx-agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-okx-agent-trade-kit/) — OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automa…
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — · size_categories:1M<n<10M, format:json, modality:text
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-thinkingbox-bench/) — · task_categories:reinforcement-learning, language:en, license:cdla-permissive-2.0
@@ -2615,7 +2612,7 @@ _Daily archive · 2026-10-05_
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.
 - [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rlacombe-switchback-running/) — Ultrarunning training companion agent powered by Intervals.icu.
 - [safwanits123/AntigravityMobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/safwanits123-antigravitymobile/) — 📱 Monitor your AI conversations and model quotas effortlessly with Antigravity Mobile, a mobile-friendly dash…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [skegdb/skeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skegdb-skeg/) — A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for hi…
 - [naravid19/ai-project-rules-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/naravid19-ai-project-rules-generator/) — 🚀 Professional AI Agent orchestrator for generating tailored rules and AGENTS.md with deterministic JIT skill…
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/todealmarket-tdm-agentpay/) — Agent-specific payment workflows and examples for TDM.

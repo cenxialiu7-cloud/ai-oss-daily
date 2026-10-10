@@ -476,7 +476,6 @@ _Daily archive · 2026-09-06_
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-enabling-independent-research/) — · language:en, license:cc-by-4.0, size_categories:1K<n<10K
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
@@ -2187,7 +2186,7 @@ _Daily archive · 2026-09-06_
 - [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abdulsamed1-ai-skills-bank/) — AI Skills Bank is a unified, multi-tool platform designed to aggregate, manage, and route AI skills across va…
 - [Avyayalaya/pm-skills-arsenal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avyayalaya-pm-skills-arsenal/) — 12 codex-grade PM skills (1,000–1,300 lines each) for senior PMs, founders, and AI agents. AGENTS.md, MCP ser…
 - [HASEEBGAMING/antigravity-stock-analysis-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/haseebgaming-antigravity-stock-analysis-workflow/) — 📊 Automate stock analysis from data collection to risk assessment and transaction reporting with this compreh…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [borgr/paper-sharpener](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/borgr-paper-sharpener/) — Agentic Claude Code skills for academic writing: review simulation, revision, and prose improvement.
 - [insight68/Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/insight68-skills/) — Secure, trusted, multi-audited Agent Skills
 - [ghost/dropped-A](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ghost-dropped-a/) — 無描述

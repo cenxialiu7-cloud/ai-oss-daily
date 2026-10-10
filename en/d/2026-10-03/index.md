@@ -26,7 +26,6 @@ _Daily archive · 2026-10-03_
 ## Full Board
 
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1/) — text-to-image · diffusers, safetensors, qwen
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
@@ -606,7 +605,6 @@ _Daily archive · 2026-10-03_
 - [mirkovicdev/HFTENGINE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mirkovicdev-hftengine/) — Replay console for hftbacktest market-making backtests: order book, queue position of every resting order, fe…
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-finfirst/) — · task_categories:question-answering, language:zh, language:en
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-enabling-independent-research/) — · language:en, license:cc-by-4.0, size_categories:1K<n<10K
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
@@ -670,7 +668,6 @@ _Daily archive · 2026-10-03_
 - [yetone/magpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yetone-magpie/) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-memory-leaderboard-leaderboard/) — · static, leaderboard, benchmark
 - [bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bx0idu7sqebwpgu8-grokimagine2-0-grok-imagine-2-0-prompts/) — grok-imagine-2.0 API (grokimagine2.0 / grok imagine 2.0): upload-image $0; default $0.015; region-edit $0.015…
-- [cqk4s1t/gptimage2.5-gpt-image-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cqk4s1t-gptimage2-5-gpt-image-2-5-api/) — gpt-image-2.5 API (gptimage2.5 / gpt image 2.5): flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014. Mode…
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [someone-in-the-world/HighQualityVideoGeneration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-someone-in-the-world-highqualityvideogeneration/) — · gradio, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
@@ -704,7 +701,7 @@ _Daily archive · 2026-10-03_
 - [Apexintelligence-AI/ASI-Bench-seed31415](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-apexintelligence-ai-asi-bench-seed31415/) — · task_categories:other, language:en, license:apache-2.0
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-trust/) — · language:ru, license:odc-by, size_categories:n<1K
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mig-nju-omnivideo-100k/) — · task_categories:video-text-to-text, license:apache-2.0, size_categories:10K<n<100K
-- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem…
+- [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arran…
 - [apimart-API-Gateway/grok-image-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apimart-api-gateway-grok-image-api/) — Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): model ids, per-image pricing, text-to-image and …
 - [apimart-api-ai-Aggregator/seedance-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apimart-api-ai-aggregator-seedance-2-5-api/) — Seedance 2.5 API (seedance-2.5): per-second pricing by resolution, up to 30-second text-to-video and referenc…
 - [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-acvlab-abot-world-interactive/) — · gradio, region:us
@@ -2565,7 +2562,7 @@ _Daily archive · 2026-10-03_
 - [borgr/paper-sharpener](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/borgr-paper-sharpener/) — Agentic Claude Code skills for academic writing: review simulation, revision, and prose improvement.
 - [runkids/feature-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runkids-feature-radar/) — 📡 AI skill that helps your coding agent discover, track, and prioritize what to build next.
 - [Agnuxo1/openclaw-seed](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agnuxo1-openclaw-seed/) — OpenCLAW SEED — Autonomous self-evolving research agent with LoRA fine-tuning. Part of P2PCLAW ecosystem. Tra…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [junghan0611/denotecli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/junghan0611-denotecli/) — Denote-Org Skills for Claude: Extends Anthropic's Life Sciences paradigm from Biology to Life Everything. 3,0…
 - [radcrew/radcrew-unveiled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/radcrew-radcrew-unveiled/) — RadCrew.org website with LLM-powered chatbot
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.

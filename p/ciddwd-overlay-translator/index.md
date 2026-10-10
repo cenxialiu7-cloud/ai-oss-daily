@@ -2,9 +2,9 @@
 
 overlay-translator 是一個開源Android即時螢幕翻譯工具，適用於遊戲和漫畫等。
 
-**為何上榜**：近一日新增 10★（現 973★）
+**為何上榜**：近一日新增 7★（現 980★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：973
+**Stars**：980
 **原始連結**：https://github.com/ciddwd/overlay-translator

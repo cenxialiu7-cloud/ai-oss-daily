@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-10-09 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-10-10 10:43 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-10-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-10/)
 - [2026-10-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-09/)
 - [2026-10-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-08/)
 - [2026-10-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-07/)
@@ -26,15 +27,14 @@
 - [2026-09-29](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-29/)
 - [2026-09-28](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-28/)
 - [2026-09-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-27/)
-- [2026-09-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-26/)
 
 ## 今日精選 Today's picks
-- [autotrust/GLM5.3-Flash-E224-DGX-Spark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-glm5-3-flash-e224-dgx-spark/)
-- [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/)
-- [AlibabaResearch/SparkDiffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/)
-- [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/)
-- [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/)
-- [autotrust/JEV-27B-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/)
+- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/)
+- [ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ausboss-qwen-image-2-1-outfit-swap-consistency-lora/)
+- [ConwayResearch/Underdog-Saluki-27B-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-saluki-27b-1-0/)
+- [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/)
+- [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/)
+- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
@@ -102,3 +102,4 @@
 - [Threads 在地商家經營台：熱門話題雷達 → 串文草稿＋圖卡 → 留言轉潛在客戶，一人顧好多個台灣品牌的 Threads 帳號](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P063/)
 - [AI 求職作戰台：職缺掃描 → 依履歷 1–5 分配對 → 客製 ATS 履歷與求職信 → 面試準備與投遞追蹤，非工程師也能用的圖形版](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P064/)
 - [本機 AI 語音輸入法（Mac App）：任何輸入框按快捷鍵說話 → 即時轉文字＋自動潤稿成可直接送出的文句，聲音不出這台電腦](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P065/)
+- [AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P066/)

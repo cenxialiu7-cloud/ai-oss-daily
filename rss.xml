@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>09 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>10 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>autotrust/GLM5.3-Flash-E224-DGX-Spark</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-glm5-3-flash-e224-dgx-spark/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-glm5-3-flash-e224-dgx-spark/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>GLM5.3 模型的高效能版本，支援影像到文字的轉換。</description>
+<title>Qwen/Qwen-Image-2.1-Turbo</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。</description>
 </item>
 <item>
-<title>LiquidAI/d1-3B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>基於 LiquidAI 的影像到文字轉換模型，適用於邊緣裝置。</description>
+<title>ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ausboss-qwen-image-2-1-outfit-swap-consistency-lora/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ausboss-qwen-image-2-1-outfit-swap-consistency-lora/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA 是一個用於服裝替換和虛擬試穿的影像編輯模型。</description>
 </item>
 <item>
-<title>AlibabaResearch/SparkDiffusion</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>加速 DiT 影片生成的高效能技術。</description>
+<title>ConwayResearch/Underdog-Saluki-27B-1.0</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-saluki-27b-1-0/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-saluki-27b-1-0/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>Underdog-Saluki-27B-1.0 是一個用於生成文本的模型，支援工具呼叫和2位元壓縮。</description>
 </item>
 <item>
-<title>microsoft/SkillOpt</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>tt-a1i/archify</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。</description>
+<title>cathrynlavery/diagram-design</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
 </item>
 <item>
-<title>autotrust/JEV-27B-VL</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-27b-vl/</guid>
-<pubDate>09 Oct 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字的模型。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>10 Oct 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 </channel>
 </rss>

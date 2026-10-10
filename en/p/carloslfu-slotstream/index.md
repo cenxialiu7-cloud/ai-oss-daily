@@ -4,5 +4,5 @@ Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Fl
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：423
+**Stars**：450
 **Source**：https://github.com/carloslfu/slotstream

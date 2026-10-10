@@ -8,7 +8,6 @@ _Daily archive · 2026-08-13_
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nicolab28-clipproj-minimax-h3/) — text-to-video · comfyui, minimax-h3, text-to-video
 - [Motif-Technologies/Motif-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-motif-technologies-motif-3/) — text-generation · transformers, safetensors, Motif
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helpmeeadice-te-speed-minimaxh3-oss/) — MiniMax-H3超级缓存加速插件
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [WayneJin0918/Omni-Rewriter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/waynejin0918-omni-rewriter/) — Open agentic prompt-expansion harness for image and video generation, bridging polished demos, public APIs, a…
 - [LiquidAI/LFM2.5-VL-3B-WebGPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-lfm2-5-vl-3b-webgpu/) — · docker, region:us
 - [lzs0594/dreamy-motion-editorial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lzs0594-dreamy-motion-editorial/) — 高级朦胧梦幻动态视觉 Skill：把随手拍照片转化为电影感图生图提示词。Dreamy motion editorial prompts from casual photos.
@@ -16,6 +15,7 @@ _Daily archive · 2026-08-13_
 - [nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-rl-agentic-terminal-pivot-v1/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [swy2018/Aurora-Audio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/swy2018-aurora-audio-studio/) — Aurora Audio Studio · Windows 与 macOS 本地 AI 音频创作工作台。音乐、配音与声音克隆、歌声转换、分轨、MIDI 与字幕。正式版：Windows / Mac 2.0.1；Windo…
 - [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-llamaindex-extractbench/) — · benchmark:official, benchmark:eval-yaml, language:en
+- [histde/ddb-newspaper-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-histde-ddb-newspaper-corpus/) — · task_categories:text-generation, task_categories:fill-mask, language:de
 
 ## 🚀 Climbing
 
@@ -236,7 +236,6 @@ _Daily archive · 2026-08-13_
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qwenaudio-qwen-audio-agent/) — A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agen…
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shekmohammedakram-stable-diffusion-2026-free-local/) — Stable Diffusion Free Local - run Stable Diffusion locally for free AI image generation.
 - [OpenMOSS-Team/MOSS-Transcribe-Diarize](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-transcribe-diarize/) — audio-text-to-text · transformers, safetensors, moss_transcribe_diarize
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lightricks-ltx-2-5/) — · gradio, mcp-server, region:us
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — · static, region:us
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-gemma-4-webgpu-kernels/) — · static, region:us
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
@@ -1815,6 +1814,6 @@ _Daily archive · 2026-08-13_
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/durden7-ai-skills/) — 🤖 Enhance AI capabilities with a collection of modular skills for specialized workflows, tool integrations, a…
 - [Avyayalaya/pm-skills-arsenal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avyayalaya-pm-skills-arsenal/) — 12 codex-grade PM skills (1,000–1,300 lines each) for senior PMs, founders, and AI agents. AGENTS.md, MCP ser…
 - [HASEEBGAMING/antigravity-stock-analysis-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/haseebgaming-antigravity-stock-analysis-workflow/) — 📊 Automate stock analysis from data collection to risk assessment and transaction reporting with this compreh…
-- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Creator operating system for AI-native workflows: skills, commands, agents, and plugins for Codex, Claude Cod…
+- [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frankxai-agentic-creator-os/) — Agentic Creator OS (ACOS), by GenCreator: reusable orchestration, skills, commands, agents and local safety t…
 - [insight68/Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/insight68-skills/) — Secure, trusted, multi-audited Agent Skills
 - [ghost/dropped-A](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ghost-dropped-a/) — 無描述

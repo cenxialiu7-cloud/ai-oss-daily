@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告 — AI OSS Daily</title>
+<meta name="description" content="丟進一個 .exe／.app／安裝包，AI 在隔離環境自動逆向、動態除錯，30 分鐘內交出『能不能裝、哪裡可疑』的白話報告。">
+<link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P066/">
+<link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P066/">
+<link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P066/">
+<link rel="alternate" hreflang="x-default" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P066/">
+<link rel="alternate" type="text/markdown" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P066/index.md" title="Plain text (Markdown)">
+<link rel="alternate" type="application/rss+xml" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" title="RSS"><!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI OSS Daily">
+<meta property="og:title" content="AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告 — AI OSS Daily">
+<meta property="og:description" content="丟進一個 .exe／.app／安裝包，AI 在隔離環境自動逆向、動態除錯，30 分鐘內交出『能不能裝、哪裡可疑』的白話報告。">
+<meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/proposals/P066/">
+<meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告 — AI OSS Daily">
+<meta name="twitter:description" content="丟進一個 .exe／.app／安裝包，AI 在隔離環境自動逆向、動態除錯，30 分鐘內交出『能不能裝、哪裡可疑』的白話報告。">
+<meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
+<link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告", "description": "丟進一個 .exe／.app／安裝包，AI 在隔離環境自動逆向、動態除錯，30 分鐘內交出『能不能裝、哪裡可疑』的白話報告。", "datePublished": "2026-10-10T08:00:00+00:00", "dateModified": "2026-10-10T08:00:00+00:00", "inLanguage": "en", "author": {"@type": "Organization", "name": "AI OSS Daily"}, "publisher": {"@type": "Organization", "name": "AI OSS Daily"}, "mainEntityOfPage": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/d/2026-10-10/"}</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/ai-oss-daily/en/"><span class="dot">●</span> AI OSS Daily</a>
+    <nav class="nav">
+<a href="/ai-oss-daily/en/">Home</a><a href="/ai-oss-daily/en/c/mcp/">🔌 MCP Servers</a><a href="/ai-oss-daily/en/c/skill/">🧩 Agent Skills</a><a href="/ai-oss-daily/en/c/media-creation/">🎬 Media Creation</a><a href="/ai-oss-daily/en/c/fintech-invest/">💰 Fintech &amp; Investing</a><a href="/ai-oss-daily/en/c/make-money/">🚀 Make Money</a><a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a><a href="/ai-oss-daily/en/changes/">Daily Changes</a><a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a><a href="/ai-oss-daily/en/newsletter/">Picks archive</a><a href="/ai-oss-daily/en/about/">About</a>      <a class="lang-switch" href="/ai-oss-daily/proposals/P066/">繁體中文</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+<section class="hero" style="padding-bottom:8px">
+  <p class="crumbs"><a href="/ai-oss-daily/en/">Home</a> /
+    <a href="/ai-oss-daily/en/proposals/">AI Build Ideas</a> / P066</p>
+  <h1>AI 可疑執行檔初篩室：外包交付／下載軟體上線前，沙盒內逆向分析並出具白話風險報告</h1>
+  <p class="detail-lead">丟進一個 .exe／.app／安裝包，AI 在隔離環境自動逆向、動態除錯，30 分鐘內交出『能不能裝、哪裡可疑』的白話報告。</p>
+  <div class="cardmeta" style="margin-top:10px">
+    <span class="badge">Difficulty: high</span>
+    <span class="badge">約 4–6 週做出單檔可跑版本；難點在沙盒隔離的安全性、Windows 除錯環境自動化、避免誤判造成的責任，須在報告加免責與人工複核升級路徑。</span>
+  </div>
+</section>
+
+<section class="block detail-grid">
+  <div class="panel"><h2>Monetization</h2><p>①按份計價的報告服務：中小企業／工作室／外包驗收方，每份可疑檔案初篩收費，高風險再升級人工複核；②顧問訂閱：資安顧問與接案工程師月費使用工作台，報告可掛自己品牌交付客戶；③Mac／Windows 桌面版買斷（本機分析、檔案不上傳）。廣告只放網頁端的檢測教學內容站（Adsterra/Monetag），搭配 Ko-fi 與沙盒／主機商聯盟。</p></div>
+  <div class="panel"><h2>How it works</h2><p>1) 使用者上傳檔案，系統丟進一次性 Docker／VM 沙盒（decionis/docker 提供動作政策與人為批准閘門，危險動作如連外、寫系統需點頭）；2) rea 做靜態到原生碼的行為拆解，x64dbg-mcp-server 在 Windows 沙盒內讓 AI 下斷點、追呼叫、看載入的 API；3) 以 MCP python-sdk 把兩者包成統一工具集，由 LLM 代理依序執行並彙整證據；4) 輸出固定格式報告：行為摘要、可疑指標、網路／持久化跡象、建議（可裝／隔離／拒收）與證據截圖。定位為防禦性初篩，不提供改寫或攻擊功能。</p></div>
+</section>
+
+<section class="block">
+  <div class="section-head"><h2>Open-source parts</h2></div>
+  <div class="grid">
+<article class="card">
+  <h3><a href="/ai-oss-daily/en/p/morluto-rea/">morluto/rea</a></h3>
+<p class="summary">Reverse engineer anything with agents, from app behavior down to native binaries.</p>  <div class="cardmeta">
+    <span class="badge domain">🧩 Agent Skills</span>
+<span class="badge target">Claude</span><span class="badge target">Codex</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 48,688</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/duty1g-x64dbg-mcp-server/">duty1g/x64dbg-mcp-server</a></h3>
+<p class="summary">x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger&#39;s full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span><span class="badge target">Claude</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 2,424</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/decionis-docker/">decionis/docker</a></h3>
+<p class="summary">Govern consequential AI agent actions in Docker with deterministic policy, human approval, and signed Decision Dossiers.</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🖥 Server</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 165</span>  </div>
+</article><article class="card">
+  <h3><a href="/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/">modelcontextprotocol/python-sdk</a></h3>
+<p class="summary">The official Python SDK for Model Context Protocol servers and clients</p>  <div class="cardmeta">
+    <span class="badge domain">🔌 MCP Servers</span>
+<span class="badge role">🔌 Client</span><span class="badge change">✦ Curated</span>    <span class="badge lic-ok">✓ Commercial OK</span>
+<span class="badge stars">★ 24,526</span>  </div>
+</article>  </div>
+</section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="adslot">
+  <span class="ad-label">Ad</span>
+  <iframe class="adframe" width="728" height="90" scrolling="no"
+          frameborder="0" loading="lazy" title="Advertisement"
+          style="border:0;overflow:hidden;max-width:100%" srcdoc="&lt;!doctype html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#39;utf-8&#39;&gt;&lt;style&gt;html,body{margin:0;padding:0;overflow:hidden;background:transparent}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script type=&#34;text/javascript&#34;&gt;atOptions={&#39;key&#39;:&#39;b68a575ae3fd38bdbd457c83b93017df&#39;,&#39;format&#39;:&#39;iframe&#39;,&#39;height&#39;:90,&#39;width&#39;:728,&#39;params&#39;:{}};&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.highperformanceformat.com/b68a575ae3fd38bdbd457c83b93017df/invoke.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe>
+</div>
+
+    <div class="sponsored">
+  <a class="spon-link" href="https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555" rel="sponsored noopener nofollow" target="_blank">Sponsored →</a>
+  <script>(function(){var L=["https://www.effectivecpmnetwork.com/gxjrfzuu?key=ca93120f051ab9908bb111734a180555", "https://www.effectivecpmnetwork.com/hbxhsn184?key=563ee7f7c6de60691a78c0562cee074d", "https://omg10.com/4/11036149"];var a=document.currentScript.previousElementSibling;if(a&&L.length){a.href=L[Math.floor(Math.random()*L.length)];}})();</script>
+</div>
+
+    <div class="cols">
+      <div>
+        <strong>AI OSS Daily</strong><br>
+        <span style="color:var(--fg-faint)">De-noised, anti-gaming, with &#34;why listed&#34; and commercial-license checks.</span>
+      </div>
+      <div>
+<a class="btn kofi" href="https://ko-fi.com/yoyoisgood" rel="noopener" target="_blank">☕ Buy me a coffee</a>      </div>
+      <div>
+        <a href="/ai-oss-daily/en/about/">About</a> ·
+        <a href="/ai-oss-daily/en/changes/">Daily Changes</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml">RSS</a> ·
+        <a href="https://cenxialiu7-cloud.github.io/ai-oss-daily/llms.txt">llms.txt</a>
+      </div>
+    </div>
+    <p class="disclaimer">This site contains affiliate links; clicking won&#39;t change your price.</p>
+  </div>
+</footer></body>
+</html>

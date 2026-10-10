@@ -10,12 +10,12 @@ _每日存檔 · 2026-09-30_
 - [nj4naiem992lmr/seedream5.0-seedream-5.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nj4naiem992lmr-seedream5-0-seedream-5-0-prompts/) — seedream-5.0 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bx0idu7sqebwpgu8-grokimagine2-0-grok-imagine-2-0-prompts/) — grok-imagine-2.0 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [sgp2hidyk7jm/flux2-flux-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgp2hidyk7jm-flux2-flux-2-prompts/) — flux-2 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
-- [cqk4s1t/gptimage2.5-gpt-image-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cqk4s1t-gptimage2-5-gpt-image-2-5-api/) — gpt-image-2.5 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ceyyy427/financial-research-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ceyyy427-financial-research-optimizer/) — 金融研究最佳化器，提供資料線索、模型驗證、回測診斷和約束組合分析。
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-aihot/) — AIHOT 是一個自動生成熱點新聞和日報的網站框架。
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [fitnessgymlife/Ki-video-generator-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fitnessgymlife-ki-video-generator-tools/) — Ki-video-generator-tools 是一個自動將文本轉換為影片的工具。
+- [HoppouAI/Breeze-TTS-2.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hoppouai-breeze-tts-2-cpp/) — Breeze-TTS-2.cpp 是一個雙語文字轉語音的 C++ 模型，支援英語和中文。
 
 ## 🚀 Star 竄升
 
@@ -30,7 +30,6 @@ _每日存檔 · 2026-09-30_
 
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — 基於 Qwen 的影像生成模型，支援從文本生成影像。
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/) — 自動語音辨識模型，支援即時語音轉文字。
-- [Qwen/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1/) — Qwen-Image-2.1 是一個使用 diffusers 技術的文字轉影像模型。
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/) — 文字轉影像模型，適用於影像生成和編輯。
 - [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/) — 自訂的文本轉影像模型，適用於圖形設計和 RGBA 渲染。
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
@@ -336,7 +335,6 @@ _每日存檔 · 2026-09-30_
 - [nj4naiem992lmr/seedream5.0-seedream-5.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nj4naiem992lmr-seedream5-0-seedream-5-0-prompts/) — seedream-5.0 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [bx0idu7sqebwpgu8/grokimagine2.0-grok-imagine-2.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bx0idu7sqebwpgu8-grokimagine2-0-grok-imagine-2-0-prompts/) — grok-imagine-2.0 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [sgp2hidyk7jm/flux2-flux-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgp2hidyk7jm-flux2-flux-2-prompts/) — flux-2 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
-- [cqk4s1t/gptimage2.5-gpt-image-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cqk4s1t-gptimage2-5-gpt-image-2-5-api/) — gpt-image-2.5 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [Yootta/World-SimReady-Home](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yootta-world-simready-home/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AxiomicLabs/Tiny_Theory_of_Mind](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-axiomiclabs-tiny-theory-of-mind/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -596,7 +594,6 @@ _每日存檔 · 2026-09-30_
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openmoss-team-moss-tts-v1-5/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alissonerdx-charactersheet-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-finfirst/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lightricks-ltx-2-5/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-final-bench-ax-ray/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-enabling-independent-research/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jev-chat/jev-chat-jarvis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jev-chat-jev-chat-jarvis/) — 手機上的對話助手，支援微信、QQ等聊天軟體，提供智慧回覆建議。
